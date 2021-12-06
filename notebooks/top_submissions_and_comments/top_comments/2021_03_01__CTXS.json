@@ -1,0 +1,2387 @@
+[
+    {
+        "author": "outworlder",
+        "body": "CITRIX? So it doesn't live on your computer, you are just using a glorified screen share.",
+        "created_utc": 1615929351,
+        "id": "gr61fed",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1615958151.0
+    },
+    {
+        "author": "DesignWonk",
+        "body": "Yup. [https://bba.bloomberg.net/Help](https://bba.bloomberg.net/Help)\n\nThough due to compliance/risk-mitigation/disaster-integrity issues around trade order management systems, in all likelihood a PM is probably using CITRIX anyway, as the FIX connection for OMS integration requires T-1 level bandwidth that would blow out your personal dataplan.\n\nNOTE: I wasn't the IT guy, so I only learned enough about this to troubleshoot my issues. Probably naive about many details.",
+        "created_utc": 1615932098,
+        "id": "gr679pn",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1615960898.0
+    },
+    {
+        "author": "DesignWonk",
+        "body": "Hahahaha. There used to be a stronger distinction between the \"Bloomberg Terminal\" and the software. This one is software using a stock computer, as you can tell from the BENQ monitor, which would otherwise say Bloomberg.\n\nWhen my career started, we had the \"trackball.\" [https://www.bloomberg.com/professional/blog/look-back-bloomberg-keyboard/](https://www.bloomberg.com/professional/blog/look-back-bloomberg-keyboard/)\n\nA seat license is indeed $24k/year list, though now it's \"Bloomberg Anywhere,\" so it lives on your work computer, phone and home via CITRIX.",
+        "created_utc": 1615924909,
+        "id": "gr5rsw3",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1615953709.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Thursday, the 11th of March\n\n\n\n## Upcoming events for Thursday, March 11th\n\n - Stock splits:\n\n    - ELPVY @ **10:1** (Payable date: 03/17/2021)\n    - LPPPF @ **1:10**\n\n - Expected earnings:\n\n  ACET, ACHV, ACTG, ADCT, ADMA, ADXN, AEYE, AGRO, AIV, AKUS, ALDX, ALOT, ALXO, AMPY, AMTI, AMTX, ASPS, ASRT, ASUR, ASXC, ATHA, AUTO, AVGR, AVIR, AWX, AXU, BBCP, BCOW, BDSX, BLCM, BNR, BRP, BRT, BSGM, BTAI, CANG, CAPR, CBAY, CBMB, CBPO, CCCC, CDAK, CELH, CELP, CEMI, CHPT, CIB, CLPR, CMTL, CPLG, CRC, CRT, CRVS, CSBR, CTIC, CTK, CVV, CWBR, CZNC, DBVT, DCBO, DESP, DLNG, DOCU, DOMO, DWSN, ECOR, ELOX, ENG, ERII, ESGC, ESTE, EVC, EVOK, EXPI, FBRX, FEIM, FINV, FIXX, FIZZ, FLNT, FMTX, FNKO, FRSX, GAU, GCO, GDEN, GDP, GDRX, GERN, GHSI, GLMD, GNE, GOGO, GOL, GPX, HCI, HMPT, HSON, HSTO, HWCC, HZN, IGIC, IHC, III, IMH, INOD, INSE, INZY, ISNS, ITOS, JD, KBNT, KNOP, KYMR, KZR, LAIX, LCTX, LOCO, LSEA, LSF, LUNA, MACK, MAX, MAXN, MBII, MLVF, MMX, MOSY, MRUS, MSP, MTCR, MTEM, MTN, MVIS, MYE, MYSZ, NBRV, NEN, NKSH, NKTX, NLTX, NNA, NNBR, NVCN, NVIV, OBLN, OCUL, ODC, ONCT, ONTX, OPCH, ORIC, PAE, PBLA, PBPB, PCVX, PEI, PFSW, PLX, POSH, PRTY, PSTX, PTE, PTMN, QRHC, RC, REED, REFR, RFIL, RFL, RLH, RMTI, SCPE, SCWX, SDPI, SELB, SHIP, SHSP, SHYF, SIEN, SLDB, SLGG, SMTX, SPPI, SPRO, SQFT, SQZ, STCN, STNE, SVRA, SYBX, TARA, TGA, THRY, TLYS, TMBR, TOMZ, ULTA, USAU, VALU, VHI, VIAO, VNRX, VTRS, WLDN, WPM, WPP, XNET, XONE, XPEL, XTLB, XXII, YSG, ZEAL, ZUMZ, ZUO\n\n - Ex-div:\n\n  ADP, AEO, ALB, AMSF, AU, AY, BDC, BGFV, BSIG, CCD, CCOI, CFFI, CGO, CHI, CHW, CPZ, CRWS, CSQ, CTXS, ECC, EIC, ENS, EOD, EXPO, FBSS, FDUS, FFIC, FFNW, FHN, FIS, FIX, FMNB, FTAI, FUSB, GFI, GHY, GOLF, GPN, HSBC, HVT, HVT.A, ICMB, IIIN, ISD, KFRC, KHC, KIO, LAD, LCII, LEO, LHX, MANT, MFGP, MGPI, NAT, NDAQ, NEXA, NTES, NTRS, PHM, PRGO, RGR, RICK, RS, SAMG, SDHY, SNDR, SNR, STAY, SWM, SYBT, TCBK, TG, THG, TRTN, TXT, UBSI, UNTY, USPH, WM, WMB, WSBC, WSTG\n\n - Economic events and announcements:\n\n    - 30-Year Bond Auction (previous: 1.933%)\n    - 4-Week Bill Auction (previous: 0.030%)\n    - 8-Week Bill Auction (previous: 0.035%)\n    - Continuing Jobless Claims (consensus: 4,220K, previous: 4,295K)\n    - Initial Jobless Claims (consensus: 725K, previous: 745K)\n    - JOLTs Job Openings (consensus: 6.600M, previous: 6.646M)\n    - Jobless Claims 4-Week Avg. (previous: 790.75K)\n    - Natural Gas Storage (consensus: -73B, previous: -98B)\n    - OPEC Monthly Report\n    - OPEC Monthly Report\n\n## Upcoming events for Friday, March 12th\n\n - Stock splits:\n\n    - EDU @ **10:1** (Payable date: 03/11/2021)\n\n - Expected earnings:\n\n  ADXS, AIM, ANAT, APLT, ATLC, ATLO, AYRO, BDR, BH.A, BHAT, BKE, BOMN, BORR, BRID, CCNC, CEI, CHEK, CIH, CKX, CMPI, CMT, CNTY, COMS, DS, DSSI, EXN, FENC, FGBI, FHTX, FSEA, FSTX, GGAL, GLTO, HCAP, HHR, HMG, HUSA, INBX, INSW, ITCB, ITRM, JAX, JKS, JP, KB, KIRK, KMPH, LPCN, MIST, MMAC, MVO, NBAC, NEOS, NOG, NWLI, OLB, OLP, ONCS, OSG, PCSA, PIRS, PLXP, PNBK, PRPO, PTPI, SGA, SLS, SNMP, SOL, SPLP, SQBG, STTK, TGS, TPHS, VOC, VSTA, WISA, ZSAN\n\n - Ex-div:\n\n  AME, AMH, ANH, APTS, ARCC, ARR, ATRI, AVK, BANC, BBF, BBN, BCAT, BCX, BDJ, BFK, BFY, BFZ, BGIO, BGR, BGT, BGY, BHK, BHV, BIT, BLE, BLW, BME, BMEZ, BNY, BOE, BR, BRY, BSD, BSE, BST, BSTZ, BTA, BTT, BTZ, BUI, BXMX, BXS, BYM, BZM, CBU, CCI, CII, CMA, CMCT, COFS, CORE, CPK, CSWC, CTBI, CWH, DIAX, DLR, DPG, DPZ, DTE, DVN, EDF, EDI, EFSC, EGF, EMN, EXR, FCNCA, FCRD, FFG, FRA, GBAB, GECC, GGB, GGM, GILD, GIM, GOF, GPK, GRMN, GROW, GTN, GTN.A, HLNE, HRTG, HUN, HWBK, HYT, IBP, IHIT, IHTA, IPAR, IRM, JCE, JCO, JDD, JEMD, JFR, JGH, JHAA, JHB, JLS, JPC, JPI, JPS, JPT, JQC, JRI, JRO, JRS, JRVR, JSD, JTA, JTD, KNL, KO, LDOS, LEG, MAXR, MBIN, MCA, MEN, MLR, MMD, MRK, MSI, MUE, MUI, NAC, NAD, NAN, NBB, NDMO, NEA, NEU, NEV, NID, NIE, NIQ, NKG, NKX, NL, NMCO, NMS, NMZ, NREF, NRK, NSA, NSL, NTST, NUV, NVG, NWE, NX, NXJ, NXPI, NXR, NXRT, NYV, NZF, OCSL, OMI, PB, PFBI, PKG, QQQX, RAND, RC, REG, RNR, RRBI, SAH, SBR, SCI, SELF, SFL, SFNC, SMMF, SOI, SPTN, SPXX, SRV, STC, SZC, TEI, TNL, TPVG, TSLX, UCBI, UE, UGI, UHS, UNH, VBF, VHI, VIAC, VIACA, VLY, VRSK, VTA, VVR, WOR, WTM, WWE, XEL\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 4.3K)\n    - CFTC Copper speculative net positions (previous: 66.0K)\n    - CFTC Corn speculative net positions (previous: 503.8K)\n    - CFTC Crude Oil speculative net positions (previous: 519.0K)\n    - CFTC Gold speculative net positions (previous: 189.6K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -23.5K)\n    - CFTC Natural Gas speculative net positions (previous: 17.8K)\n    - CFTC S&amp;P 500 speculative net positions (previous: 23.2K)\n    - CFTC Silver speculative net positions (previous: 39.6K)\n    - CFTC Soybeans speculative net positions (previous: 223.7K)\n    - CFTC Wheat speculative net positions (previous: 29.9K)\n    - Core PPI (consensus: 0.2%, previous: 1.2%)\n    - Core PPI (consensus: 2.6%, previous: 2.0%)\n    - Michigan 5-Year Inflation Expectations (previous: 2.70%)\n    - Michigan Consumer Expectations (consensus: 74.0, previous: 70.7)\n    - Michigan Consumer Sentiment (consensus: 78.5, previous: 76.8)\n    - Michigan Current Conditions (consensus: 88.3, previous: 86.2)\n    - Michigan Inflation Expectations (previous: 3.3%)\n    - PPI (consensus: 0.5%, previous: 1.3%)\n    - PPI (consensus: 2.7%, previous: 1.7%)\n    - U.S. Baker Hughes Oil Rig Count (previous: 309)\n    - U.S. Baker Hughes Total Rig Count (previous: 402)\n    - US Federal Budget (previous: -430.0B)\n\n^^^^2021-03-11",
+        "created_utc": 1615460414,
+        "id": "gqk6pip",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1615489214.0
+    },
+    {
+        "author": "Pipepoi",
+        "body": " $BB\n\n  \n [Global Enterprise Mobility Security Market Size and Forecast \\[PDF\\] 2021-2027 VMware AirWatch, Blackberry, Citrix Systems \u2013 KSU | The Sentinel Newspaper (ksusentinel.com)](https://ksusentinel.com/2021/03/12/global-enterprise-mobility-security-market-size-and-forecast-pdf-2021-2027-vmware-airwatch-blackberry-citrix-systems/)",
+        "created_utc": 1615559120,
+        "id": "gqoxktd",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615587920.0
+    },
+    {
+        "author": "allthespreadsheets",
+        "body": "    \u279c  stonks python3 valuation.py -t mdla\n    Fetching industries data ...\n    Processing MDLA\n    Software Application (US): ['CRM', 'IBM', 'UBER', 'INTU', 'NOW', 'WDAY', 'ADSK', 'SNOW', 'DOCU', 'CDNS', 'TTD', 'RHT', 'MB', 'RNG', 'ANSS', 'DDOG', 'PAYC', 'WORK', 'TSS', 'LYFT', 'HUBS', 'COUP', 'ZI', 'CA', 'SSNC', 'TYL', 'CTXS', 'DVMT', 'PTC', 'ZEN', 'DT', 'FICO', 'CDAY', 'SYMC', 'BILL', 'NUAN', 'AVLR', 'ULTI', 'PCTY', 'AZPN', 'DATA', 'PEGA', 'GWRE', 'RP', 'FSLY', 'SMAR', 'MANH', 'APPS', 'MSTR', 'CSRA', 'CDK', 'QTWO', 'AYX', 'NATI', 'MDSO', 'EVBG', 'DST', 'APPF', 'MULE', 'WK', 'MDLA', 'ALRM', 'RIOT', 'COTV', 'CRNC', 'LOGM', 'PVTL', 'RPD', 'LPSN', 'ACXM', 'ENV', 'CLDR', 'EGHT', 'BLKB', 'ELLI', 'STMP', 'PD', 'SYNT', 'ATHN', 'MANT', 'PS', 'SPT', 'CVLT', 'CSOD', 'CALX', 'SVMK', 'AVYA', 'SEND', 'EB', 'CALD', 'EGOV', 'CARB', 'PRO', 'PRGS', 'LXFT', 'DOMO', 'IMPV', 'INST', 'PAR', 'UPLD', 'PLUS', 'FSCT', 'SLP', 'QSII', 'PSDO', 'AGYS', 'MODN', 'EIGI', 'DBD', 'QADA', 'QADB', 'IDEX', 'EBIX', 'OSPN', 'CHUBA', 'CHUBK', 'BCOV', 'MLARI.PA', 'VDSI', 'MOBL', 'TIVO', 'USAT', 'RST', 'RUBI', 'ECOM', 'RMNI', 'MJCO', 'AMSWA', 'PDFS', 'MITK', 'TYPE', 'CYOU', 'KEYW', 'USATP', 'ATTU', 'BNFT', 'SSTI', 'APTI', 'GTYH', 'AMBR', 'INS', 'WTRH', 'IMMR', 'EGAN', 'AEYE', 'TLRA', 'SMSI', 'COGT', 'SHSP', 'RDVT', 'HDP', 'TNAV', 'IDN', 'SNCR', 'XSPA', 'XELA', 'GSB', 'SREV', 'DWCH', 'ASUR', 'PHUN', 'ZDGE', 'QUMU', 'YAYO', 'PCYG', 'ALHVS.PA', 'INPX', 'FTEO', 'OBLG', 'MAMS', 'VERB', 'AWRE', 'JTPY', 'BSQR', 'EDGW', 'MATR', 'CNIT', 'NTWK', 'BSTI', 'SEAC', 'EVOL', 'GVP', 'SPRT']\n    Fetching data for MDLA\n    Starting DCF calculation for MDLA\n    \n    Equity %: 86%\n    Cost / equity = riskfree rate + beta * country ERP\n    Cost / equity = 2% + 0 * 0.05\n    Cost / equity = 2%\n    \n    Debt %: 14%\n    Cost / debt = synthetic cost / debt * (1 - effective tax rate)\n    Cost / debt = 19% * (1 - 1%)\n    Cost / debt = 19%\n    \n    Cost / capital: 4%\n    \n    Industry Growth Rate: 41%\n    Industry Margin Rate: -138%\n    \n    Industry Growth Rate (Peer Group / Small): 47%\n    Industry Margin Rate (Peer Group / Small): -336%\n    \n    Industry Growth Rate (Mature): 36%\n    Industry Margin Rate (Mature): -62%\n    \n    Target margin: -29% (reason: average margin (mid-life until now))\n    Margins: ['-29%']\n    \n                               Base          Year 1          Year 2          Year 3          Year 4          Year 5          Year 6          Year 7          Year 8          Year 9         Year 10  Terminal Value\n         Rev Growth                              3%             17%             20%             17%             19%             19%             15%             12%              9%              5%              2%\n            Revenue         459.27M         474.87M         557.62M         667.08M         778.98M         923.31M           1.09B           1.26B           1.41B           1.53B           1.61B           1.65B\n          Op Margin            -28%            -29%            -29%            -29%            -29%            -29%            -28%            -28%            -28%            -28%            -29%            -29%\n    Op Income / EBIT        -129.59M        -135.47M        -158.96M        -190.28M        -223.27M        -267.78M        -310.67M         -358.4M        -401.59M        -436.69M        -460.42M        -470.19M\n           Tax Rate              1%              1%              1%              1%              1%              1%              6%             11%             16%             22%             27%             27%\n     After-tax EBIT        -128.81M        -134.65M         -158.0M        -189.13M        -221.92M        -266.17M         -292.4M        -318.39M        -335.56M        -341.84M         -336.1M        -343.24M\n     - Reinvestment                            1.4M           7.41M            9.8M          10.02M          12.93M          15.32M          14.92M          13.46M          10.88M           7.28M        -102.15M\n               FCFF         -14.32M        -136.05M        -165.41M        -198.93M        -231.94M        -279.09M        -307.72M        -333.31M        -349.02M        -352.72M        -343.39M        -241.08M\n     Cost / Capital                              4%              4%              4%              4%              4%              5%              5%              6%              6%              7%              7%\n    Discount Factors                             96%             92%             89%             86%             82%             79%             75%             71%             67%             63%             59%\n           PV(FCFF)                        -130.84M        -152.99M        -176.96M        -198.43M        -229.62M        -242.21M        -249.68M        -247.53M        -235.62M        -214.94M\n    \n    Sales / Capital              9%              9%              9%              9%              9%              9%              9%              9%              9%              9%              9%              9%\n    Invested Capital           5.13B           5.13B           5.14B           5.15B           5.16B           5.17B           5.19B            5.2B           5.21B           5.22B           5.23B           5.13B\n    \n    Terminal value = terminal cash flow * (perpetual cost / capital - future riskfree rate)\n    Terminal value = -241.08M * (7% - 2%)\n    Terminal value = -11.38M\n    \n    PV(terminal value) = terminal value * last discount factor\n    PV(terminal value) = -11.38M * 59%\n    PV(terminal value) = -6.67M\n    \n    Total PV = PV(sum of cash flows) + PV(terminal value)\n    Total PV = -2.08B + -6.67M\n    Total PV = -2.09B\n    \n    Operating assets value = P(failure) * proceeds / failure + P(success) * total PV\n    Operating assets value = 10% * 1.24B + 90% * -2.09B\n    Operating assets value = -1.75B\n    \n    Equity value = operating assets value - debt + net cash\n    Equity value = -1.75B - 702.12M + 1.75B\n    Equity value = -702.78M\n    \n    MDLA DCF valuation: -702.78M\n    Current market cap: 4.43B (-729.81% over valuation)\n    \n    MDLA fair value price: -4.67\n    Current price: 29.42 (-729.98% over fair value)\n\nHere ya go!",
+        "created_utc": 1615881196,
+        "id": "gr3nqwn",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1615909996.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Wednesday, the 10th of March\n\n\n\n## Upcoming events for Wednesday, March 10th\n\n - Expected earnings:\n\n  ADES, AEGN, AGFS, ALTO, AMC, AMEH, AMOT, APT, ARTNA, ASAN, ASND, AVO, BBW, BDSI, BEST, BLDP, BLFS, BMA, BMBL, BPTH, BTN, CALA, CDXC, CEPU, CETX, CIA, CKPT, CLDR, CLSD, CPB, CRHM, CSAN$, CVGI, CVGW, DMAC, DPW, DRVN, ESTA, ETTX, EXPR, EYEG, FLXN, FNV, FOSL, FPRX, FRG, FSM, FTEK, FTHM, FTK, GDS, GHLD, GIFI, GLRE, GPRK, GRTS, GSKY, HARP, HBB, HBIO, HCHC, HGEN, HOFV, HSDT, HUIZ, IMTX, IMXI, JCS, KEQU, KERN, KIDS, KRKR, KRO, KRON, LC, LCUT, LMNR, LNSR, LQDA, LTRN, LXRX, MCF, MDRR, MGTX, MLND, MPLN, MYO, NATR, NAVB, NEON, NFH, NGMS, NL, NM, NMCI, NODK, NXE, ONCR, ORCL, OVID, OXSQ, PDD, PFIE, PNRG, PW, RAIL, RCMT, RDHL, RDVT, REKR, REVG, RNET, RSI, SCOR, SCYX, SGMA, SGRY, SID, SINA, SKLZ, SMHI, SONM, SPRB, SRG, SSSS, SUMO, TALO, TFFP, TH, TIPT, TTCF, TUP, UBX, UEC, UMH, UNFI, USWS, VERX, VRA, VSTM, WB, WHLR, WLFC, WPG, WVVI\n\n - Ex-div:\n\n  AAT, ACV, AIO, ASTE, BTO, CAI, CBH, CCK, DBL, DCF, DHIL, DLY, DSL, EFL, EHT, EVF, HD, HEQ, HPF, HPI, HPS, HTD, HTY, INSW, JHI, JHS, MDU, NCV, NCZ, NRGX, NRIM, NSP, OBCI, ORA, PCI, PCK, PCN, PCQ, PDI, PFN, PGP, PKO, PMF, PML, PMX, PNF, PNI, POOL, PTY, PYN, PZC, RVT, SR, TRU, UVE, VGI, ZTR\n\n - Economic events and announcements:\n\n    - 10-Year Note Auction (previous: 1.155%)\n    - CPI (consensus: 0.4%, previous: 0.3%)\n    - CPI (consensus: 1.7%, previous: 1.4%)\n    - CPI Index, n.s.a. (consensus: 263.08, previous: 261.58)\n    - CPI Index, s.a (previous: 262.23)\n    - CPI, n.s.a (previous: 0.43%)\n    - Cleveland CPI (previous: 0.1%)\n    - Core CPI (consensus: 0.2%, previous: 0.1%)\n    - Core CPI (consensus: 1.4%, previous: 1.4%)\n    - Core CPI Index (previous: 270.03)\n    - Crude Oil Imports (previous: 1.656M)\n    - Crude Oil Inventories (consensus: 0.816M, previous: 21.563M)\n    - Cushing Crude Oil Inventories (previous: 0.485M)\n    - Distillate Fuel Production (previous: -0.723M)\n    - EIA Refinery Crude Runs  (previous: -2.327M)\n    - EIA Weekly Distillates Stocks (consensus: -3.533M, previous: -9.719M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 6.0%, previous: -12.6%)\n    - Federal Budget Balance (consensus: -265.0B, previous: -163.0B)\n    - Gasoline Inventories (consensus: -3.467M, previous: -13.624M)\n    - Gasoline Production (previous: 0.565M)\n    - Heating Oil Stockpiles (previous: -1.123M)\n    - MBA 30-Year Mortgage Rate (previous: 3.23%)\n    - MBA Mortgage Applications (previous: 0.5%)\n    - MBA Purchase Index (previous: 269.7)\n    - Mortgage Market Index (previous: 794.5)\n    - Mortgage Refinance Index (previous: 3,850.4)\n    - Real Earnings (consensus: 0.1%, previous: 0.8%)\n    - Thomson Reuters IPSOS PCSI (previous: 50.92)\n\n## Upcoming events for Thursday, March 11th\n\n - Stock splits:\n\n    - ELPVY @ **10:1** (Payable date: 03/17/2021)\n\n - Expected earnings:\n\n  ACET, ACHV, ACTG, ADCT, ADMA, AEYE, AGRO, AIV, AKUS, ALDX, ALOT, ALXO, AMPH, AMPY, AMTI, AMTX, ASPS, ASRT, ASUR, ASXC, ATHA, AUTO, AVGR, AVIR, AWX, AXU, BBCP, BCOW, BDSX, BLCM, BNR, BRP, BRT, BSGM, BTAI, CANG, CAPR, CBAY, CBMB, CBPO, CCCC, CDAK, CELH, CELP, CEMI, CHPT, CIB, CLPR, CMTL, CPLG, CRC, CRT, CRVS, CSBR, CTIC, CTK, CVV, CWBR, CZNC, DBVT, DCBO, DESP, DLNG, DOCU, DOMO, DSSI, DWSN, ECOR, ELOX, ENG, ERII, ESGC, ESTE, EVC, EVOK, EXPI, FBRX, FEIM, FINV, FIXX, FIZZ, FLNT, FMTX, FNKO, FRSX, GAU, GCO, GDEN, GDP, GDRX, GERN, GHSI, GLMD, GNE, GOGO, GOL, GPX, HCI, HMPT, HSTO, HWCC, HZN, IGIC, IHC, III, IMH, INOD, INSE, INZY, IRIX, ISIG, ISNS, ITOS, JD, KBNT, KNOP, KYMR, KZR, LAIX, LCTX, LOCO, LSEA, LSF, LUNA, MACK, MAX, MAXN, MBII, MIRM, MLVF, MMX, MOSY, MRKR, MRUS, MSP, MTCR, MTEM, MTN, MVIS, MYE, MYSZ, NBRV, NEN, NKSH, NKTX, NLTX, NNA, NNBR, NRP, NVCN, NVIV, OBLN, OCUL, ODC, ONCT, ONTX, OPCH, ORIC, PAE, PBLA, PBPB, PCVX, PEI, PFSW, PLX, POSH, PRTY, PSTX, PTE, PTMN, QRHC, RC, REED, REFR, RFIL, RFL, RGLS, RLH, RMTI, SCPE, SCWX, SDPI, SELB, SHIP, SHSP, SHYF, SIEN, SLDB, SLGG, SMTX, SPPI, SQFT, SQZ, SRRK, STCN, STNE, SVRA, SYBX, TARA, TGA, THRY, TLYS, TMBR, TOMZ, ULTA, USAU, VALU, VHI, VIAO, VNRX, VTRS, WLDN, WPM, WPP, XNET, XONE, XPEL, XTLB, XXII, YSG, ZEAL, ZUMZ, ZUO\n\n - Ex-div:\n\n  ADP, AEO, ALB, AMSF, AU, AY, BDC, BGFV, BSIG, CCD, CCOI, CFFI, CGO, CHI, CHW, CPZ, CRWS, CSQ, CTXS, ECC, EIC, ENS, EOD, EXPO, FBSS, FDUS, FFIC, FFNW, FHN, FIS, FIX, FMNB, FTAI, FUSB, GFI, GHY, GOLF, GPN, HSBC, HVT, HVT.A, ICMB, IIIN, ISD, KFRC, KHC, KIO, LAD, LCII, LEO, LHX, MANT, MFGP, MGPI, NAT, NDAQ, NEXA, NTES, NTRS, PHM, PRGO, RGR, RICK, RS, SAMG, SDHY, SNDR, SNR, STAY, SWM, SYBT, TCBK, TG, THG, TRTN, TXT, UBSI, UNTY, USPH, WM, WMB, WSBC, WSTG\n\n - Economic events and announcements:\n\n    - 30-Year Bond Auction (previous: 1.933%)\n    - 4-Week Bill Auction (previous: 0.030%)\n    - 8-Week Bill Auction (previous: 0.035%)\n    - Continuing Jobless Claims (consensus: 4,220K, previous: 4,295K)\n    - Initial Jobless Claims (consensus: 725K, previous: 745K)\n    - JOLTs Job Openings (consensus: 6.600M, previous: 6.646M)\n    - Jobless Claims 4-Week Avg. (previous: 790.75K)\n    - Natural Gas Storage (consensus: -136B, previous: -98B)\n    - OPEC Monthly Report\n    - OPEC Monthly Report\n\n## Upcoming events for Friday, March 12th\n\n - Stock splits:\n\n    - EDU @ **10:1** (Payable date: 03/11/2021)\n\n - Expected earnings:\n\n  ADXS, AIM, ANAT, APLT, ATLC, ATLO, AYRO, BDR, BH.A, BHAT, BKE, BOMN, BORR, BRID, CCNC, CEI, CHEK, CIH, CKX, CMPI, CMT, CNTY, COMS, DS, EIGR, EXN, FENC, FGBI, FHTX, FSEA, FSTX, GGAL, GLTO, HCAP, HHR, HMG, HUSA, INBX, INSW, ITCB, ITRM, JAX, JKS, JP, KB, KIRK, KMPH, LPCN, MIST, MMAC, MVO, NBAC, NEOS, NOG, NWLI, OLB, OLP, ONCS, OSG, PCSA, PIRS, PLXP, PNBK, PRPO, PTPI, SGA, SLS, SNMP, SOL, SPLP, SQBG, STTK, TGS, TPHS, VOC, VSTA, WISA, ZSAN\n\n - Ex-div:\n\n  AME, AMH, ANH, APTS, ARCC, ARR, ATRI, AVK, BANC, BBF, BBN, BCAT, BCX, BDJ, BFK, BFY, BFZ, BGIO, BGR, BGT, BGY, BHK, BHV, BIT, BLE, BLW, BME, BMEZ, BNY, BOE, BR, BRY, BSD, BSE, BST, BSTZ, BTA, BTT, BTZ, BUI, BXMX, BXS, BYM, BZM, CBU, CCI, CII, CMA, CMCT, COFS, CORE, CPK, CSWC, CTBI, CWH, DIAX, DLR, DPG, DPZ, DTE, DVN, EDF, EDI, EFSC, EGF, EMN, EXR, FCNCA, FCRD, FFG, FRA, GBAB, GECC, GGB, GGM, GILD, GIM, GOF, GPK, GRMN, GROW, GTN, GTN.A, HLNE, HRTG, HUN, HWBK, HYT, IBP, IHIT, IHTA, IPAR, IRM, JCE, JCO, JDD, JEMD, JFR, JGH, JHAA, JHB, JLS, JPC, JPI, JPS, JPT, JQC, JRI, JRO, JRS, JRVR, JSD, JTA, JTD, KNL, KO, LDOS, LEG, MAXR, MBIN, MCA, MEN, MLR, MMD, MRK, MSI, MUE, MUI, NAC, NAD, NAN, NBB, NDMO, NEA, NEU, NEV, NID, NIE, NIQ, NKG, NKX, NL, NMCO, NMS, NMZ, NREF, NRK, NSA, NSL, NTST, NUV, NVG, NWE, NX, NXJ, NXPI, NXR, NXRT, NYV, NZF, OCSL, OMI, PB, PFBI, PKG, QQQX, RAND, RC, REG, RNR, RRBI, SAH, SBR, SCI, SELF, SFL, SFNC, SMMF, SOI, SPTN, SPXX, SRV, STC, SZC, TEI, TNL, TPVG, TSLX, UCBI, UE, UGI, UHS, UNH, VBF, VHI, VIAC, VIACA, VLY, VRSK, VTA, VVR, WOR, WTM, WWE, XEL\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 4.3K)\n    - CFTC Copper speculative net positions (previous: 66.0K)\n    - CFTC Corn speculative net positions (previous: 503.8K)\n    - CFTC Crude Oil speculative net positions (previous: 519.0K)\n    - CFTC Gold speculative net positions (previous: 189.6K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -23.5K)\n    - CFTC Natural Gas speculative net positions (previous: 17.8K)\n    - CFTC S&amp;P 500 speculative net positions (previous: 23.2K)\n    - CFTC Silver speculative net positions (previous: 39.6K)\n    - CFTC Soybeans speculative net positions (previous: 223.7K)\n    - CFTC Wheat speculative net positions (previous: 29.9K)\n    - Core PPI (consensus: 0.2%, previous: 1.2%)\n    - Core PPI (consensus: 2.6%, previous: 2.0%)\n    - Michigan 5-Year Inflation Expectations (previous: 2.70%)\n    - Michigan Consumer Expectations (consensus: 74.0, previous: 70.7)\n    - Michigan Consumer Sentiment (consensus: 78.5, previous: 76.8)\n    - Michigan Current Conditions (consensus: 88.3, previous: 86.2)\n    - Michigan Inflation Expectations (previous: 3.3%)\n    - PPI (consensus: 0.5%, previous: 1.3%)\n    - PPI (consensus: 2.7%, previous: 1.7%)\n    - U.S. Baker Hughes Oil Rig Count (previous: 309)\n    - U.S. Baker Hughes Total Rig Count (previous: 402)\n    - US Federal Budget (previous: -430.0B)\n\n^^^^2021-03-10",
+        "created_utc": 1615374016,
+        "id": "gqfmk43",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1615402816.0
+    },
+    {
+        "author": "SpacOs",
+        "body": "I think virtual workstations from the likes of CTXS or VMW will be a big thing going forward for enterprise companies. Internet will get faster and reduce latency times, you can shift computing resources as needed, it keeps all the data under a controlled environment instead of letting employees bring their computers/hard drives where ever they happen to go. It also lets a company instantly provide a setup to an employee for virtually no added cost, which the employee can access from anywhere as long as they have a computer with internet.",
+        "created_utc": 1615425634,
+        "id": "gqin6gj",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1615454434.0
+    },
+    {
+        "author": "OptionStalker",
+        "body": "The warning signs of a market pullback were there present in January 2020 so my exposure was minimal. I was in cash and trying to enter 5 of bullish put spreads on Thursday Feb 20th when the market dropped suddenly. Fortunately, I was not getting filled on most my spreads because the stocks were holding up well and I was not able to get the credit I wanted. The spread that I did get filled on (DIS) I took immediate losses on of about 10%. I was in cash on Feb 21. On Sunday Feb 24th I recorded a video and posted it on YouTube forecasting a market drop. In March I let the market come in and I started selling naked OTM puts on stocks like FB, GOOG, CTXS and others. Once the market stabilized in April I started selling OTM bullish put spreads and I continued with that strategy the rest of the year. I won't post it here, but you can privately message me and ***I will provide you with a link to that YouTube video from Feb 24th. You can watch other videos recorded after that to verify my claims.***\n\nI did not short the on a swing basis during the market drop, but I did day trade it. \n\nThe intent for my original post on a 3 Step Process to Options Trading was to help beginner options traders. I was going to go through the entire process and culminate with an options trade with specific instructions, but given the hostility here I doubt I will do that.",
+        "created_utc": 1617020031,
+        "id": "gsogsua",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1617048831.0
+    },
+    {
+        "author": "Jeepers__Reapers",
+        "body": "WDC, DXC, STX",
+        "created_utc": 1614786046,
+        "id": "gpjkvt7",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614814846.0
+    },
+    {
+        "author": "Jigan93",
+        "body": "My Current value bet is UWMC and DXC.",
+        "created_utc": 1615486175,
+        "id": "gqljy7g",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1615514975.0
+    },
+    {
+        "author": "luvens",
+        "body": "Dxc had some wicked action a couple months ago and has flatlined for right at a month.  Iv is down to nothing.",
+        "created_utc": 1614793667,
+        "id": "gpk2ne5",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614822467.0
+    },
+    {
+        "author": "GordiasTouch",
+        "body": "If you are looking for serious longer term investing DXC Technologies is a new comer to the market with extreme potential",
+        "created_utc": 1614765356,
+        "id": "gpiosiy",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1614794156.0
+    },
+    {
+        "author": "2ezyo",
+        "body": "Y\u2019all have any spare F5 keys layout around? Completely burned through mine.",
+        "created_utc": 1615340938,
+        "id": "gqeef8d",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1615369738.0
+    },
+    {
+        "author": "ECE12",
+        "body": "You folks are funny as hell with your comments. I am entertained just reading the thread and F5'ing.",
+        "created_utc": 1615225882,
+        "id": "gq8g7b9",
+        "score": 24,
+        "subreddit": "wallstreetbets",
+        "created": 1615254682.0
+    },
+    {
+        "author": "DalaMoose",
+        "body": "Fellow APES, I figured it out.\n\nThe more we mash the f5 key the faster it climbs. \n\nMy wife's boyfriend said I get new crayons today, and her girlfriend said I can watch movies all day.",
+        "created_utc": 1615389502,
+        "id": "gqgbrk3",
+        "score": 18,
+        "subreddit": "wallstreetbets",
+        "created": 1615418302.0
+    },
+    {
+        "author": "eat_snacky_smores",
+        "body": "Reddit hasn't crashed for me. I'm F5'ing my dick off.",
+        "created_utc": 1615316709,
+        "id": "gqczzrm",
+        "score": 16,
+        "subreddit": "wallstreetbets",
+        "created": 1615345509.0
+    },
+    {
+        "author": "Can_EU_Not",
+        "body": "Press F5 a lot probably. \n\nI hope against hope but let\u2019s be honest, hope is all I have. If GME hits 350 this month I\u2019m gonna post a pegging video while singing Rocketman.",
+        "created_utc": 1614892252,
+        "id": "gpp689h",
+        "score": 13,
+        "subreddit": "wallstreetbets",
+        "created": 1614921052.0
+    },
+    {
+        "author": "nxb123",
+        "body": "Time for another day of staring at green/red lines and pressing F5",
+        "created_utc": 1614867405,
+        "id": "gpnkipf",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1614896205.0
+    },
+    {
+        "author": "ihatehotmail",
+        "body": "Trade halts posted here! You can see the time halted and halts last for about 5 minutes. \n\nYou get 5 minutes to go rub one out and get back to hitting F5, apes!\n\nhttps://www.nasdaqtrader.com/trader.aspx?id=TradeHalts",
+        "created_utc": 1615398998,
+        "id": "gqh0gry",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1615427798.0
+    },
+    {
+        "author": "GangreneMachine",
+        "body": "My F5 key is more used than Paris Hilton",
+        "created_utc": 1615479133,
+        "id": "gql3ojk",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1615507933.0
+    },
+    {
+        "author": "JMCatron",
+        "body": "must\n\nkeep\n\nmashing\n\nf5",
+        "created_utc": 1615401151,
+        "id": "gqh64x4",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1615429951.0
+    },
+    {
+        "author": "WoolyWeenie",
+        "body": "The rocket launch has been postponed weather permitting. Frankly there's absolutely nothing but blue skies, but fuck that shit we are going to launch this shit in the middle of a F5 hurricane and bazooka to the edge of the universe. Until then, we wait. We hold.",
+        "created_utc": 1614805027,
+        "id": "gpksyjs",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1614833827.0
+    },
+    {
+        "author": "brego91",
+        "body": "Those 5 minutes of action remind me F&amp;F5",
+        "created_utc": 1617048088,
+        "id": "gsq2xwo",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1617076888.0
+    },
+    {
+        "author": "Brawnpaul",
+        "body": "All you need to do to get karma fast is to sort by new on a popular sub, hit F5 until you find a good post, and be one of the first few comments saying something inline with popular opinion lol.",
+        "created_utc": 1617146057,
+        "id": "gsutyfa",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1617174857.0
+    },
+    {
+        "author": "Guyote_",
+        "body": "Power F5 Hour",
+        "created_utc": 1614888402,
+        "id": "gpox2sl",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1614917202.0
+    },
+    {
+        "author": "morbidcuriosities",
+        "body": "may end up doing this myself lol. I have some work to catch up on anyway, it'll give me something to do other than rub the letters off my F5 key during premarket.",
+        "created_utc": 1615868377,
+        "id": "gr390q3",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1615897177.0
+    },
+    {
+        "author": "SlothyPotato",
+        "body": "F5 on your keyboard",
+        "created_utc": 1615489863,
+        "id": "gqlskxt",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1615518663.0
+    },
+    {
+        "author": "IncestuousDisgrace",
+        "body": "Daily Routine;  \n\n\n1- Wake up at 5 am to look at the PM  \n2- Eat Breakfast  \n3- Quick wank to release stress    \n4- Wait for the GME Thread and press F5 every minute  \n5- Calculate how rich i could be if GME hit xxxx$",
+        "created_utc": 1615561410,
+        "id": "gqp27se",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1615590210.0
+    },
+    {
+        "author": "SillyFlyGuy",
+        "body": "I've never purchased an IPO or direct offering. Are we expected to type in RBLX on our broker's site and click F5 until a trade window appears? This seems a little haphazard, none of news articles have any more details either.",
+        "created_utc": 1615340432,
+        "id": "gqedgz0",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1615369232.0
+    },
+    {
+        "author": "suckit23123",
+        "body": "Same, spamming f5 like a madman. I'll bet they borrowed another 500k. Almost running out of shorts.",
+        "created_utc": 1615221178,
+        "id": "gq84rk2",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1615249978.0
+    },
+    {
+        "author": "racerxff",
+        "body": "F5, pray for tendies. All cash tied up right now",
+        "created_utc": 1614806475,
+        "id": "gpkwbo1",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1614835275.0
+    },
+    {
+        "author": "Notstrongbad",
+        "body": "Yahoo Finance + F5 seizure",
+        "created_utc": 1615319002,
+        "id": "gqd52uo",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1615347802.0
+    },
+    {
+        "author": "TopStrategist",
+        "body": "Press F\n\nF5 that is\n\nRepeatedly",
+        "created_utc": 1615821859,
+        "id": "gr0r6kc",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1615850659.0
+    },
+    {
+        "author": "Disposable_Canadian",
+        "body": "Press f5 until it said 330",
+        "created_utc": 1615999384,
+        "id": "gr9571d",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1616028184.0
+    },
+    {
+        "author": "DalaMoose",
+        "body": "Exactly.\n\nWe are Smrter. Much much Smrter than the other guys. They said not nice things once, I dont like them, not at all.\n\nIt's also like flappy bird with no ceilings. Just keep smashing f5 and to mars we go.",
+        "created_utc": 1615392621,
+        "id": "gqgj876",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615421421.0
+    },
+    {
+        "author": "Plane_Baby",
+        "body": "Look at the updated \"as of...\" times. They are different. RH was from 0900 and the other from 1200. Maybe it is not shady just a delay in price updates. Or a good F5 could fix it.",
+        "created_utc": 1615397058,
+        "id": "gqguk2g",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615425858.0
+    },
+    {
+        "author": "SamLynn79",
+        "body": "I hit F5 to refresh this guy's comment page many times throughout the day while looking for explanations about what's going on. My brain a smooth polished glass ball.",
+        "created_utc": 1615479271,
+        "id": "gql3zpi",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615508071.0
+    },
+    {
+        "author": "LonelySwinger",
+        "body": "#Jim Cramer remembered how to use the downvote again and found the f5 button",
+        "created_utc": 1615816678,
+        "id": "gr0gmwm",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615845478.0
+    },
+    {
+        "author": "OJSimpsons",
+        "body": "This is why we f5",
+        "created_utc": 1615556797,
+        "id": "gqot5yn",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615585597.0
+    },
+    {
+        "author": "DidacticGamer",
+        "body": "Hit F5 on my checking account until that +$1400 hits so I can get it into RH by Monday.",
+        "created_utc": 1615582942,
+        "id": "gqqdjaf",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615611742.0
+    },
+    {
+        "author": "BillMahersPorkCigar",
+        "body": "I\u2019m waiting for a meeting with HR about my excessive internet activity f5\u2019ing GME\u2019s share price all day for the last 2 months",
+        "created_utc": 1617022638,
+        "id": "gsol0n7",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617051438.0
+    },
+    {
+        "author": "gibmekarmababe",
+        "body": "F5 F5 F5 !!!",
+        "created_utc": 1617024408,
+        "id": "gsoo6wd",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617053208.0
+    },
+    {
+        "author": "SigmaWind231",
+        "body": "CTRL-F5 all day long apes.",
+        "created_utc": 1615298356,
+        "id": "gqbstbi",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615327156.0
+    },
+    {
+        "author": "dryhuot23",
+        "body": "Ty I wish I could do more then F5 but Ppl like you keep me alive",
+        "created_utc": 1615295339,
+        "id": "gqbnfoz",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615324139.0
+    },
+    {
+        "author": "LzTangeL",
+        "body": "spam F5",
+        "created_utc": 1614717571,
+        "id": "gpgfnsv",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614746371.0
+    },
+    {
+        "author": "sadshark",
+        "body": "Dude, it happens to all of us. You press F5 instinctively every 2 minutes.",
+        "created_utc": 1616953987,
+        "id": "gsln6k2",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1616982787.0
+    },
+    {
+        "author": "PM-ME-YOUR-HANDBRA",
+        "body": "Just keep pressing F5",
+        "created_utc": 1615302903,
+        "id": "gqc2oeo",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615331703.0
+    },
+    {
+        "author": "junkpile1",
+        "body": "There really isn't an established play, other than stay on your toes and F5 like a muhfucka. We're all going to get some great DD after the fact with 20/20 hindsight. I can confidently say, however, that stop loss orders and price targets are going to be bad plays on this one. It's going to be difficult to time the peak of this in real time, let alone ahead of time with an order. A TSL might be the play if you're fully intending for it to trigger in, say, a 10 minute window. But I don't think any apes should be under the impression that a TSL should be implemented earlier than the exact moment they actually intend to sell positions.",
+        "created_utc": 1615341037,
+        "id": "gqeelzs",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615369837.0
+    },
+    {
+        "author": "Addamere",
+        "body": "Mashing F5 on the premarket",
+        "created_utc": 1615382447,
+        "id": "gqfxs74",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615411247.0
+    },
+    {
+        "author": "Disposable_Canadian",
+        "body": "Fucking yahoo shit needs to update faster.  I hate mashing F5 because it stalls out.",
+        "created_utc": 1615385043,
+        "id": "gqg2ftr",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615413843.0
+    },
+    {
+        "author": "QuinnMallory",
+        "body": "My F5 key broke",
+        "created_utc": 1615399048,
+        "id": "gqh0m4g",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615427848.0
+    },
+    {
+        "author": "HyperionPrime",
+        "body": "Put a stack of pennies on the F5 key",
+        "created_utc": 1615563262,
+        "id": "gqp65pa",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615592062.0
+    },
+    {
+        "author": "Staspireone",
+        "body": "Today is going to be an important day.\n\nGME is at +3.5 in the pre-market.\n\nLots of things can happen.\n\nThe price is going to go up.\n\nThe price is going to go down.\n\nBut in the long run, the last voice is the bullish movement.\n\n&amp;#x200B;\n\nSo check it out, calm down, jerk off. And just press F5 looking for the u /Corno4825 diary.\n\n&amp;#x200B;\n\nGood luck to you all!!\n\n\ud83d\udc8e\ud83d\udc35\ud83d\udc8e\ud83d\udc35\ud83d\udc8e\ud83d\udc35\ud83d\udc8e\ud83d\udc35\ud83d\udc8e",
+        "created_utc": 1615555842,
+        "id": "gqorgi9",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615584642.0
+    },
+    {
+        "author": "TheReginald",
+        "body": "Pack it in for the night. Give your F5 a rest.  GG",
+        "created_utc": 1615323626,
+        "id": "gqdfgac",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1615352426.0
+    },
+    {
+        "author": "QuinnMallory",
+        "body": "I just F5 a google search for $GME",
+        "created_utc": 1615579086,
+        "id": "gqq5axo",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1615607886.0
+    },
+    {
+        "author": "Geoffs_Review_Corner",
+        "body": "Just hit F5",
+        "created_utc": 1615397101,
+        "id": "gqguof0",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1615425901.0
+    },
+    {
+        "author": "DinglerBerries",
+        "body": "if you lost money in 2020 dont use turbotax. Just bought that shit and it couldnt even file my taxes. Dumb ass intuit",
+        "created_utc": 1615263433,
+        "id": "gqakp2i",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1615292233.0
+    },
+    {
+        "author": "anachronofspace",
+        "body": "let me guess, your parents own intuit, and your job is \"engineering\" good tax outcomes.",
+        "created_utc": 1614718342,
+        "id": "gpghhmv",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1614747142.0
+    },
+    {
+        "author": "Kidwithtictac",
+        "body": "Retard, Intuit owns Turbotax, not RKT.",
+        "created_utc": 1614710620,
+        "id": "gpfze3z",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1614739420.0
+    },
+    {
+        "author": "AngelaQQ",
+        "body": "ZM has a P/E less than Starbucks and a forward P/E comparable to Chipotle.\n\nIt has a market cap lower than ServiceNow and Intuit, two companies that do project management worksheets and tax forms! \n\nI swear some of you have no idea what you are talking about.",
+        "created_utc": 1615397752,
+        "id": "gqgwmir",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1615426552.0
+    },
+    {
+        "author": "Pursynthemumphthisis",
+        "body": "RKT is not INTU",
+        "created_utc": 1614711054,
+        "id": "gpg0erl",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614739854.0
+    },
+    {
+        "author": "youre-not-real-man",
+        "body": "Yes. TA doesn't even have to be well understood to intuit what outcomes are more likely. If you're looking at a chart at all, you're doing TA whether you realize it or not.",
+        "created_utc": 1615656764,
+        "id": "gqtegmz",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1615685564.0
+    },
+    {
+        "author": "The_Folkhero",
+        "body": "It is a core holding of mine. Along with INTU and ADBE, I consider CRM a \"baby FAANG.\" I added on this dip. Goldman just added CRM to its conviction list with 49% potential upside:\n\nhttps://www-thestreet-com.cdn.ampproject.org/v/s/www.thestreet.com/.amp/investing/goldman-adds-microsoft-coupa-salesforce-to-conviction-list?amp_gsa=1&amp;amp_js_v=a6&amp;usqp=mq331AQHKAFQArABIA%3D%3D#amp_tf=From%20%251%24s&amp;aoh=16153784304473&amp;referrer=https%3A%2F%2Fwww.google.com&amp;ampshare=https%3A%2F%2Fwww.thestreet.com%2Finvesting%2Fgoldman-adds-microsoft-coupa-salesforce-to-conviction-list",
+        "created_utc": 1615378689,
+        "id": "gqfs5wv",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1615407489.0
+    },
+    {
+        "author": "cityoflostwages",
+        "body": "Hi, for tax questions please check out /r/tax in the future. If you use turbotax, creditkarma, or freetaxusa you'll use that document to enter in your capital gains/losses or dividend/interest in the appropriate section of your tax return. The turbotax/intuit website q&amp;a section can be a resource as well. thanks.",
+        "created_utc": 1615258990,
+        "id": "gqacz0d",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1615287790.0
+    },
+    {
+        "author": "happy_dick_punch",
+        "body": "This simulation just gets weirder. It was like watching tim and eric but worse. Most Metamodern thing I\u2019ve ever seen.",
+        "created_utc": 1614765307,
+        "id": "gpioqp2",
+        "score": 1272,
+        "subreddit": "wallstreetbets",
+        "created": 1614794107.0
+    },
+    {
+        "author": "oledayhda",
+        "body": "All raw talent, it can\u2019t be taught or done in mimic. \n\nLegend.",
+        "created_utc": 1614744884,
+        "id": "gphz0su",
+        "score": 1177,
+        "subreddit": "wallstreetbets",
+        "created": 1614773684.0
+    },
+    {
+        "author": "lucifercatnip",
+        "body": "UWMC owns both of my mortgages. I'm just thinking about how much fun it would be to invest in them, win big and then pay off both loans with their money.\n\nThanks for the insights",
+        "created_utc": 1614736731,
+        "id": "gphjhiy",
+        "score": 406,
+        "subreddit": "wallstreetbets",
+        "created": 1614765531.0
+    },
+    {
+        "author": "thejewsdidnothing",
+        "body": "Make sure you don\u2019t revenge trade or you\u2019ll really be sorry. Don\u2019t go into it with the mindset of \u201cmaking it back\u201d, it\u2019s doomed to fail.",
+        "created_utc": 1614743387,
+        "id": "gphwcqk",
+        "score": 393,
+        "subreddit": "options",
+        "created": 1614772187.0
+    },
+    {
+        "author": "HedgieBadStonkGood",
+        "body": "I highly recommend doing your own DD. It\u2019s not a good idea to just \u201cfollow the pack\u201d when it comes to investing. Not only can it lead to you becoming a bag holder, but the SEC frowns upon the \u201cwe talk\u201d you mentioned in your post. I do not mean this in any rude way but everyone makes their decisions themselves and is ultimately for themselves. We are not a pack here in WSB. We are individual investors who do not coordinate in any way on a stock. \n\nIf you see information that is scattered, like you mentioned, it is imperative to do your own research and figure out what is true and what is not. Not everyone who got in early on RKT did DD but the people who got in last week and knew about this definitely did. \n\nAs far as UWMC goes, I have seen a few posts about it but nothing close to the amount on RKT or GME. I plan on doing my own DD on UWMC tonight before deciding to go in tomorrow morning. \n\nI have no positions in UWMC as of now but I am intrigued enough to do some DD and possibly get in tomorrow. \n\nAnother major point to keep in mind, if you do get into something like RKT, make sure you have a PT in mind and do not be greedy. My EOW PT for RKT was hit today and I cashed out to secure my profits. Could it continue its run the rest of the week? Absolutely. Could it pullback and decline the rest of the week? Absolutely. If you plan on getting into UWMC, plan on how you will get out. Everyone likes to talk about how losses aren\u2019t realized until you sell. But the same goes for gains. It\u2019s great seeing green in your account but until you sell, it\u2019s not real.\n\nAlso, this is a casino.",
+        "created_utc": 1614733163,
+        "id": "gphclk3",
+        "score": 356,
+        "subreddit": "wallstreetbets",
+        "created": 1614761963.0
+    },
+    {
+        "author": "TheHoneySacrifice",
+        "body": "Yeah, he is one of the OGs. Unlike DFV it wasn't all from a single stock. He had a series of very good trades. See his post history.",
+        "created_utc": 1614734159,
+        "id": "gphei3j",
+        "score": 339,
+        "subreddit": "wallstreetbets",
+        "created": 1614762959.0
+    },
+    {
+        "author": "zirkus_affe",
+        "body": "...and it has a Wendy's which I work at, so order sumtin or get to steppin' boomer",
+        "created_utc": 1614734428,
+        "id": "gphf0z2",
+        "score": 336,
+        "subreddit": "wallstreetbets",
+        "created": 1614763228.0
+    },
+    {
+        "author": "SquishedPeter",
+        "body": "About 5 seconds after I hit \"add comment\" I laughed at my comment, then I thought... \"these fuckers will actually do it, won't they?\". \n\nAnd now my cat has made it to the top of /r/all and I've got an inbox full of thousands of cool pet pictures from people around the world. It's perfect.",
+        "created_utc": 1614742961,
+        "id": "gphvkjl",
+        "score": 326,
+        "subreddit": "wallstreetbets",
+        "created": 1614771761.0
+    },
+    {
+        "author": "admiral_asswank",
+        "body": "Yep, will admit i am extremely stressed atm.\n\nI'll be taking a break from wsb today and tomorrow I think.\n\nIf it does my health wonders, maybe next week too.",
+        "created_utc": 1614764075,
+        "id": "gpinh1f",
+        "score": 320,
+        "subreddit": "wallstreetbets",
+        "created": 1614792875.0
+    },
+    {
+        "author": "deletings_",
+        "body": "I personally use QT and haven't had any severe issues but the customer service is virtually unanimously agreed to be total shit. I've had minor issues and jumped in the chat queue only to be placed at 99 and have it time out before I even get to 90.\n\nTo be completely fair, even services like Scotiabank have outages and don't compensate for missed trades or opportunities.\n\nI'm curious if QT would execute limit sells and buys even though the website was down? Technically could you have made the sale, or did everything go down while the site was down?\n\nGood video anyway. I hope I never have to deal with that shit",
+        "created_utc": 1614736734,
+        "id": "gphjhr3",
+        "score": 304,
+        "subreddit": "CanadianInvestor",
+        "created": 1614765534.0
+    },
+    {
+        "author": "BrokeDayTrader",
+        "body": "Damn Im really wasting 6 hours of my life everyday watching a chart go red and green.... who\u2019s ready to do it again tomorrow?",
+        "created_utc": 1614718858,
+        "id": "gpgiqjl",
+        "score": 297,
+        "subreddit": "wallstreetbets",
+        "created": 1614747658.0
+    },
+    {
+        "author": "FullRage",
+        "body": "You\u2019d think GME would want to stick it to the shorts that tried to completely annihilate them.\n\nJust split the stock and do an offering",
+        "created_utc": 1614748205,
+        "id": "gpi4eds",
+        "score": 295,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614777005.0
+    },
+    {
+        "author": "TimelostExile",
+        "body": "Now imagine how fucked you'd be if you bought the spike before it started dipping.",
+        "created_utc": 1614751188,
+        "id": "gpi8p32",
+        "score": 292,
+        "subreddit": "smallstreetbets",
+        "created": 1614779988.0
+    },
+    {
+        "author": "LysergicFilms",
+        "body": "When you originally requested it did you know you\u2019d make it to the front post of Reddit?   Cause damn that\u2019s powerful",
+        "created_utc": 1614742525,
+        "id": "gphureg",
+        "score": 278,
+        "subreddit": "wallstreetbets",
+        "created": 1614771325.0
+    },
+    {
+        "author": "agiatezza",
+        "body": "Can we actually make $CAT (Caterpillar) trend, would be hilarious if it somehow makes it onto the news \u201cReddit crowd pivoting from GME and RKT into industrial machinery now\u201d",
+        "created_utc": 1614739501,
+        "id": "gphoukk",
+        "score": 253,
+        "subreddit": "wallstreetbets",
+        "created": 1614768301.0
+    },
+    {
+        "author": "Habanos_Smoker",
+        "body": "Interesting.  I've was telling drug reps at Shire *years* ago that there was a market for a pro-drug version of Ritalin.  \n\nThis is basically a 30:70 biphasic Focalin IR/Focalin prodrug.  This is actually a big deal.\n\nStimulant prodrugs, (of which Vyvanse is the one FDA approved currently and is an amphetamine and goes generic next year) are ideal because of their lowered abuse potential.  The IR component doesn't lend itself to this factor but I'm glad to see such a product has finally come to the market.  I use methylphenidates for ADHD obviously, but also chronic fatigue synd, shift work d/o, \"chemo brain\", idiopathic hypersomnia, narcolepsy, and treatment resistant depression.   \n\nA lot of folks don't tolerate amphetamines- they can be too anxiogenic - and have to be switched to one of the methylphenidates.\n\nInsurance companies will make coverage very difficult but if there's enough demand they'll start putting it on formularies in a year or two.\n\nIf coverage wasn't an issue- I'd prescribe this medication regularly.  ADHD is one of my bread and butter diagnostic codes.\n\nThis isn't just a tweak of Focalin like we've seen several times previously with Ritalin. \n\nA good analogy would be this is like Vyvanse with an integrated dose of Adderall IR to hasten onset of action- just with Focalin instead.  Very cool.  \n\nApprove for ages 6 to adult.  \n\nLower peak concentration than Focalin XR, but wears off more slowly- hence less of a crash.  \n\nI've been through this with other new approvals before.  It takes several months before enough is made to get to market. Then the drug reps go do their things. Then the insurance companies play dumb and don't know what you're talking about.  6-8 months for Rxs to be written depending on how well they have their shit together.  Then maybe maybe get approval for night shift disorder and extend the patent, then sell rights to a big pharma company.  \n\nYou got in on this at 0.19.  Good job.  If this is all that it looks to be, it'd be a top 15 drug i prescribe.  Very cool.",
+        "created_utc": 1614754872,
+        "id": "gpidfts",
+        "score": 246,
+        "subreddit": "investing",
+        "created": 1614783672.0
+    },
+    {
+        "author": "HerrJemine123",
+        "body": "It\u00b4s called FOMO and not learning from mistakes made",
+        "created_utc": 1614764237,
+        "id": "gpinn2u",
+        "score": 240,
+        "subreddit": "wallstreetbets",
+        "created": 1614793037.0
+    },
+    {
+        "author": "dbestchoice",
+        "body": "With or without your permission they can lend the stock out. When you use apps the stock doesn't belong to you. If it did youd have paperwork stating ownership. The app can do what ever it wants with the stock. They can liquidate your assets if need be. The app gathers your habits has your positions and knows when you buy and sell. All this information is sold by the app and the app gets paid. The people who buy the data use it to keep ahead of you so they can move and manipulate the market. Never believe what others say. Always do your research",
+        "created_utc": 1614773308,
+        "id": "gpixiyb",
+        "score": 232,
+        "subreddit": "wallstreetbets",
+        "created": 1614802108.0
+    },
+    {
+        "author": "Suikoden1P",
+        "body": "If it hits 100k a share, I\u2019ll let you buy me a Tesla AND fuck your wife with her boyfriend watching",
+        "created_utc": 1614736079,
+        "id": "gphi8vq",
+        "score": 211,
+        "subreddit": "wallstreetbets",
+        "created": 1614764879.0
+    },
+    {
+        "author": "MCurry8",
+        "body": "Ive lost most of my account the past 2 weeks on stupid calls and red market and feel like i dont know if im doing it right anymore. BUT IM IN",
+        "created_utc": 1614733968,
+        "id": "gphe53t",
+        "score": 207,
+        "subreddit": "wallstreetbets",
+        "created": 1614762768.0
+    },
+    {
+        "author": "tangotrigger",
+        "body": "No reply from OP = it was a market sell and its his own fault.",
+        "created_utc": 1614772961,
+        "id": "gpix2w5",
+        "score": 196,
+        "subreddit": "CanadianInvestor",
+        "created": 1614801761.0
+    },
+    {
+        "author": "zjz",
+        "body": "It's ok man, I get it. It's hard to figure out what's true and what isn't after you find out about some of the shit going on in the world. I am sympathetic in that regard.\n\nIt's just frustrating. It's a lot harder to get 9 million people on the same page than it is 900k. Still getting used to it. I miss us having the benefit of the doubt. It sucks when people mess that up for you despite you trying to stop it.",
+        "created_utc": 1614763677,
+        "id": "gpin27s",
+        "score": 192,
+        "subreddit": "wallstreetbets",
+        "created": 1614792477.0
+    },
+    {
+        "author": "threebillion6",
+        "body": "Simpsons did it all. That going through the clouds at the beginning? The big bang. Not fucking joking. You see this face.",
+        "created_utc": 1614755738,
+        "id": "gpiegz8",
+        "score": 191,
+        "subreddit": "wallstreetbets",
+        "created": 1614784538.0
+    },
+    {
+        "author": "TheDr3amXD",
+        "body": "Baljeet (WSB): According to the mathematical data and DD, this will be the MOASS\n\nBuford (Shorts): No it won\u2019t! It can\u2019t! \ud83e\udd2c",
+        "created_utc": 1614746390,
+        "id": "gpi1jeg",
+        "score": 189,
+        "subreddit": "wallstreetbets",
+        "created": 1614775190.0
+    },
+    {
+        "author": "papaelontakemetomars",
+        "body": "Ya'll gonna be back at GME when the next spike comes, and you know it \ud83d\ude09\ud83d\ude18",
+        "created_utc": 1614769670,
+        "id": "gpit7r2",
+        "score": 186,
+        "subreddit": "wallstreetbets",
+        "created": 1614798470.0
+    },
+    {
+        "author": "hibiscusessence",
+        "body": "Same here, can\u2019t stress it enough. I\u2019m a changed man.",
+        "created_utc": 1614746117,
+        "id": "gpi13rr",
+        "score": 182,
+        "subreddit": "wallstreetbets",
+        "created": 1614774917.0
+    },
+    {
+        "author": "valenthian",
+        "body": "Holy fuck, it gets deeper. I googled ann hand and she has a company that designs jewellery. \nDiamond hands ann hand and gaming ann hand",
+        "created_utc": 1614725080,
+        "id": "gpgwmlf",
+        "score": 182,
+        "subreddit": "wallstreetbets",
+        "created": 1614753880.0
+    },
+    {
+        "author": "LebronJohns93",
+        "body": "Fuck it, dropping $2500 at open. (Thats all I can afford) lets go \ud83e\udd8d gang",
+        "created_utc": 1614736444,
+        "id": "gphiy0a",
+        "score": 180,
+        "subreddit": "wallstreetbets",
+        "created": 1614765244.0
+    },
+    {
+        "author": "nopethis",
+        "body": "in his 401k so no taxes. I hate him, but god damn do I respect it.",
+        "created_utc": 1614738386,
+        "id": "gphmp52",
+        "score": 166,
+        "subreddit": "wallstreetbets",
+        "created": 1614767186.0
+    },
+    {
+        "author": "changinmywayz99",
+        "body": "Big time stockbroker back in 70\u2019s 80\u2019s. Worked in caymans. Doesn\u2019t trade it own anymore. Collects paypal donations and dreams of owning a Tesla. Canadian. Fun to follow \ud83d\udc4d\ud83c\udffb",
+        "created_utc": 1614747918,
+        "id": "gpi3ytp",
+        "score": 166,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614776718.0
+    },
+    {
+        "author": "ThunderousBlack",
+        "body": "Nah man, we gonna bend economy over and have our way with it. We gonna dominate it!",
+        "created_utc": 1614733023,
+        "id": "gphcbrt",
+        "score": 163,
+        "subreddit": "wallstreetbets",
+        "created": 1614761823.0
+    },
+    {
+        "author": "admiral_asswank",
+        "body": "gme has some good information and a LOT of red herrings.\n\nBe cautious, guys.\n\n3/19 is a dodgy date. I personally favour this Friday over that one... if people really go for it today.",
+        "created_utc": 1614766753,
+        "id": "gpiq7pd",
+        "score": 148,
+        "subreddit": "wallstreetbets",
+        "created": 1614795553.0
+    },
+    {
+        "author": "admiral_asswank",
+        "body": "This isn't surprising, but it highlights who could be selling you those contracts.\n\nThey're a hedgefund. They hedge. So let's not get delusional. RKT is a valuable play in its own right.",
+        "created_utc": 1614769218,
+        "id": "gpisq5k",
+        "score": 143,
+        "subreddit": "wallstreetbets",
+        "created": 1614798018.0
+    },
+    {
+        "author": "HankyPanky80",
+        "body": "It is ugly as fuck. I want one so bad.",
+        "created_utc": 1614729674,
+        "id": "gph5t3k",
+        "score": 140,
+        "subreddit": "wallstreetbets",
+        "created": 1614758474.0
+    },
+    {
+        "author": "Robknowsbetter",
+        "body": "3 reasons:\n\n1 It is cheaper, average income is still much lower than in Europe, US and other developed countries.\n\n2. Nationalism, local media is pumping up patriotism and anti-western sentiment. Local media and social media also proudly pushing the narrative local tech is catching up with foreign tech firms.\n\n3. Local governments and state owned enterprises are encouraged to support the EV sector and domestic producers.\n\nI never believe CNBC, they don't know shit.",
+        "created_utc": 1614764846,
+        "id": "gpio9n6",
+        "score": 136,
+        "subreddit": "StockMarket",
+        "created": 1614793646.0
+    },
+    {
+        "author": "iamthinksnow",
+        "body": "I [asked about this](https://www.reddit.com/r/wallstreetbets/comments/l0s7cf/comment/gjvtv1x) in January and got nothing but down-votes. Glad to see it get some traction.",
+        "created_utc": 1614744599,
+        "id": "gphyiyn",
+        "score": 135,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614773399.0
+    },
+    {
+        "author": "I_Love_Polar_Bears",
+        "body": "I'm about to hit my 30s and the most I've ever had in the bank was 3.5k.  Super proud of myself though since I came from bottom-of-the-barrel poverty (literally like no running water for a year, family living social security check to the next, got my clothes by stealing from boxes left outside goodwill donation doors overnight etc).  \n\nThat's why I'm holding though.  Being poor doesn't scare me.  But after putting in so much work to overcome the obstacles that being born into poverty put in front of me, and having near nothing to show for it, I realize the American Dream is only for those better off.  This shit could change my families lives.  And if it doesn't, well, we'll keep on surviving.",
+        "created_utc": 1614739296,
+        "id": "gphogpp",
+        "score": 132,
+        "subreddit": "wallstreetbets",
+        "created": 1614768096.0
+    },
+    {
+        "author": "OldMansSWAT",
+        "body": "In on RKT at 27 out at 41...used it for more gme",
+        "created_utc": 1614734105,
+        "id": "gpheed9",
+        "score": 131,
+        "subreddit": "wallstreetbets",
+        "created": 1614762905.0
+    },
+    {
+        "author": "HashedEgg",
+        "body": "HAVE YOU EVER TRIED TO RELAX!? IT IS A PARADOX!",
+        "created_utc": 1614758729,
+        "id": "gpihu35",
+        "score": 131,
+        "subreddit": "wallstreetbets",
+        "created": 1614787529.0
+    },
+    {
+        "author": "Item_Successful",
+        "body": "Mate, you and the team are doing one hell of a job herding the bunch of shit-throwing monkeys that try and post on this sub.\n\nIf anyone's ever sorted by 'new' you'll know what a hell of a task it is even taking down the posts not meeting posting reqs, the advertising, etc etc.\n\nMay not be said by everyone, but I'm sure the majority are bloody glad to have such an excellent mod team here.",
+        "created_utc": 1614763195,
+        "id": "gpimk6s",
+        "score": 127,
+        "subreddit": "wallstreetbets",
+        "created": 1614791995.0
+    },
+    {
+        "author": "Tanker-port",
+        "body": "That's because gme doesn't have to be mentioned. We're saying it in our hearts.",
+        "created_utc": 1614756251,
+        "id": "gpif2ss",
+        "score": 122,
+        "subreddit": "wallstreetbets",
+        "created": 1614785051.0
+    },
+    {
+        "author": "Captain_Sacktap",
+        "body": "I don\u2019t think RKT is a purposely crafted distraction, just a coincidence. The company had their IPO a few months ago and after gaining value for a couple weeks it crashed, and since then has drawn a few hedge funds who have spent the last few months shorting it. However, it has backfired on the shorts for a few reasons, the biggest being that RKT\u2019s execs aren\u2019t fucking around and have decided to actively fuck over the shorts. In late November, RKT announced they intend to do a massive stock buy back of $1 billion worth of shares during Q1. This has yet to happen so it\u2019s likely to occur in the very near future; current float is about 100M, so they intend to buyback roughly 25% of all outstanding stock. Then, during their Q4 earnings report on 2/25, they announced a special dividend of $1.1/share is going to be paid out to all holders at the end of market 3/9. On top of that, the shorts got noticed by the retail investors, having overplayed their hand again and irresponsibly pushed to 40% short interest. So now the shorts are stuck in a shitty position. If they don\u2019t settle up their positions by 3/9, they\u2019ll wind up having to cover that dividend, and on top of that retail is buying the stock up like crazy. Bonus, RKT is roughly 70% institutional ownership, and those firms are more than happy to throw fuel on the fire to burn their competitors attempting to short them.",
+        "created_utc": 1614738638,
+        "id": "gphn6uv",
+        "score": 121,
+        "subreddit": "wallstreetbets",
+        "created": 1614767438.0
+    },
+    {
+        "author": "Jyzaya",
+        "body": "100% this. It changed my view on the world and in particular media massively.",
+        "created_utc": 1614760392,
+        "id": "gpijmip",
+        "score": 119,
+        "subreddit": "wallstreetbets",
+        "created": 1614789192.0
+    },
+    {
+        "author": "samharristicket",
+        "body": "Now you'll just stress about every little movement of a single stock. And just wait until it reaches 20% gain in an hour and you're literally shaking, trying to decide to sell or not. Then it falls again and you're actually relieved, as if it's better that you didn't just make a 20% profit because this means it could go even higher someday. This is your baby now and you just want to see it grow. You'll join the subreddit and stocktwits room for your ticker, where you and other bulls can pat each other on the back and say, \"we have a great stock here, fellas.\" Then a mean bear will tell you all the stock is overvalued and you will become actively upset, as if someone insulted your child. You'll try to sleep at night and just think about the unending potential of your one stock.\n\nSleep tight :)",
+        "created_utc": 1614743286,
+        "id": "gphw66a",
+        "score": 118,
+        "subreddit": "RobinHoodPennyStocks",
+        "created": 1614772086.0
+    },
+    {
+        "author": "Jactonpaul",
+        "body": "Be cautious with this advice. This guy only has NIO related posts in his account which I find hard to believe. Many other people have been found pumping stocks esp NIO in other subreddits. I can't say for sure this guy is BS but do be careful. OP has been pumping NIO like crazy and defending it a lot.",
+        "created_utc": 1614767109,
+        "id": "gpiqjy2",
+        "score": 117,
+        "subreddit": "StockMarket",
+        "created": 1614795909.0
+    },
+    {
+        "author": "Anthroider",
+        "body": "You can do it too! With this one simple trick!\n\nGet a small loan of 1.6 million dollars",
+        "created_utc": 1614733867,
+        "id": "gphdy5n",
+        "score": 117,
+        "subreddit": "wallstreetbets",
+        "created": 1614762667.0
+    },
+    {
+        "author": "jaxpied",
+        "body": "I've posted this this morning already, but once again the math checks out so i'll repeat myself: \n\n \n\nHistory repeats itself (GME)\n\nThe last \"squeeze\" runup looks just like this time\n\n1/11/21 / 19.94 || 2/22/21 / 46.00\n\n1/12/21 / 19.95 || 2/23/21 / 44.97\n\n1/13/21 / 31.40 || 2/24/21 / 91.71\n\n1/14/21 / 39.91 || 2/25/21 / 108.73\n\n1/15/21 / 35.50 || 2/26/21 / 101.74\n\n1/19/21 / 39.36 || 3/1/21 / 120.41\n\n1/20/21 / 39.12 || 3/2/21 / 118.00 (&lt;-Update)\n\n1/21/21 / 43.03 || 3/3/21\n\n1/22/21 / 65.01 || 3/4/21\n\nSqueeze \ud83d\udc8e \ud83d\ude80\ud83d\udc8e \ud83d\ude80 \ud83d\udc8e \ud83d\ude80\ud83d\udc8e \ud83d\ude80\n\nprice moves just like it did last time. We're gonna moon bois! So proud of y'all!",
+        "created_utc": 1614719038,
+        "id": "gpgj5no",
+        "score": 109,
+        "subreddit": "wallstreetbets",
+        "created": 1614747838.0
+    },
+    {
+        "author": "loophole64",
+        "body": "yeah it was /u/The_Big_Short_2020 who is now banned from WSB. This is how we treat our hero...",
+        "created_utc": 1614734151,
+        "id": "gphehkx",
+        "score": 104,
+        "subreddit": "wallstreetbets",
+        "created": 1614762951.0
+    },
+    {
+        "author": "bacha03",
+        "body": "Bought RKT at $40 because I\u2019m an idiot cant wait to sell it when it dips tomorrow",
+        "created_utc": 1614719099,
+        "id": "gpgjapm",
+        "score": 101,
+        "subreddit": "wallstreetbets",
+        "created": 1614747899.0
+    },
+    {
+        "author": "Jpostal71",
+        "body": "Fuck it. It\u2019s getting out of hand. GME, AMC, RKT so I guess now UWMC for this ape",
+        "created_utc": 1614736151,
+        "id": "gphidw3",
+        "score": 101,
+        "subreddit": "wallstreetbets",
+        "created": 1614764951.0
+    },
+    {
+        "author": "futsal212",
+        "body": "He can\u2019t speak about it on Yt or joe Rogan because he is currently In a legal matter ..people don\u2019t get it apparently...ANYTHING YOU DAY OR DO CAN BE USED AGAINST YOU IN COURT OF LAW",
+        "created_utc": 1614737855,
+        "id": "gphlo7u",
+        "score": 100,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614766655.0
+    },
+    {
+        "author": "Smok3dSalmon",
+        "body": "It might be because you misued the Discussion tag and your analysis it really low quality conspiratorial garbage. No offense, but your post contributes nothing. That type of shit belongs on Facebook and boomer social media.\n\nRKT is a not a decoy but a distraction. Nothing suss about it. WSB is a forum to discuss stocks. RKT was the big news of the day. If RKT euphoria makes you upset, then just sub to /r/GME\n\nRKT's rally is an event that is independent of GME. There has been no correlation between RKT and other meme stonks during the past few weeks. RKT's rally was due to the announcement of a special dividend with a buy in deadline on March 9th.\n\nWith 0 proof, you're post is insinuating that Rocket Mortgage released a special dividend to trigger a short &amp; gamma squeeze to support hedge funds that were long RKT and short GME. This is a pretty lofty accusation and you're just adding to the confusion and chaos with nothing to substantiate it. At least the other person who floated this idea backed it up by sharing positions of major RKT longs.",
+        "created_utc": 1614748045,
+        "id": "gpi45qf",
+        "score": 100,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614776845.0
+    },
+    {
+        "author": "PapaElonMusk",
+        "body": "\"When in doubt shake it about!\"\n\nInstructions unclear: I became a twerking master.",
+        "created_utc": 1614749871,
+        "id": "gpi6umd",
+        "score": 100,
+        "subreddit": "wallstreetbets",
+        "created": 1614778671.0
+    },
+    {
+        "author": "fatdunky",
+        "body": "which one is it? Buy stock or options?  \n\n\n.... Well its kinda both Jery.",
+        "created_utc": 1614770307,
+        "id": "gpitwu8",
+        "score": 99,
+        "subreddit": "wallstreetbets",
+        "created": 1614799107.0
+    },
+    {
+        "author": "CalgaryThrowaway14",
+        "body": "Alright well I don\u2019t know how this happened but I came to this thread for GME confirmation bias and it looks like I went down a rabbit hole and now I\u2019m about to join another meme stock from Canada. You have my axe @ open",
+        "created_utc": 1614747723,
+        "id": "gpi3o69",
+        "score": 99,
+        "subreddit": "wallstreetbets",
+        "created": 1614776523.0
+    },
+    {
+        "author": "Fun-Sandwich1043",
+        "body": "I\u2019m definitely a newbie, but I\u2019m here to learn. So it\u2019s hard for me to tell what WSB was before the whole GME thing blew up, but I can say one thing for sure. I haven\u2019t laughed so hard in 10 years as I have in the past month reading the threads. I don\u2019t know what the hell to think. As an aside, if GME does blow up and in turn brings the market down; isn\u2019t it ironic that a company called Game Stop brought the entire market to a stop. Just shit floating around in my head.",
+        "created_utc": 1614734257,
+        "id": "gpheou1",
+        "score": 95,
+        "subreddit": "wallstreetbets",
+        "created": 1614763057.0
+    },
+    {
+        "author": "StockAstro",
+        "body": "Just to educate everyone, that\u2019s not a buy. That\u2019s the market maker back filling their trades for the day. They typically sell shares during the day for quick execution and then \u201cbuy\u201d them back from the clearing house at the end of day. We call this a \u201cdouble print\u201d it\u2019s a trick you can use on penny stocks to make the volume appear Higher than it really is.",
+        "created_utc": 1614731819,
+        "id": "gph9zcq",
+        "score": 93,
+        "subreddit": "wallstreetbets",
+        "created": 1614760619.0
+    },
+    {
+        "author": "TheMapleStaple",
+        "body": "It's like a new \"internet\" which threatened MSM with shutting down because they couldn't compete with the immediacy of it...then they went hard on 24/7 tabloid journalism interviewing duck hunters who accidentally shot down angels and shit. This guy is some wholesome shitposting retard doing actual DD and CNBC doesn't know how to compete. I'm waiting for Jim Cramer to start an only fans as a counter.",
+        "created_utc": 1614754130,
+        "id": "gpicj6a",
+        "score": 93,
+        "subreddit": "wallstreetbets",
+        "created": 1614782930.0
+    },
+    {
+        "author": "TheTangoFox",
+        "body": "&gt; I *pay* money every month to keep the lights on.\n\nThat shit ain't right.  You need to get a WSB tip jar or something going, and yes, I mean you personally to control.  Corn, PP, Patreon, Onlyfans...something as a way to help you keep the lights on but not necessarily give us the switch.  Hell, tie it on the Twitter handle if you think it would get too much Reddit heat.\n\nAfter over a half decade, if you were trying to make cash on WSB, you would of.  *We.  Trust.  You.*",
+        "created_utc": 1614770744,
+        "id": "gpiueew",
+        "score": 91,
+        "subreddit": "wallstreetbets",
+        "created": 1614799544.0
+    },
+    {
+        "author": "Splaishe",
+        "body": "Is the monkey going brrrrr because it has no power because its deregulated power grid can\u2019t handle a winter storm?",
+        "created_utc": 1614734357,
+        "id": "gphevr2",
+        "score": 90,
+        "subreddit": "wallstreetbets",
+        "created": 1614763157.0
+    },
+    {
+        "author": "CharlotteIbis",
+        "body": "There's a ages-old trading lesson here that I'm sure EVERYONE on here has learned...the hard way.  Emotions and trading don't mix.  My rule that's hard to stick to, but works, is that same as many... make a gain, exit, and walk the !@#$ away.  NEVER BE UN-HAPPY ABOUT MAKING MONEY!  Seems like a simple idea, but FOMO is strong.  Resist it, and you'll get back sooner than you think.  Trade on!",
+        "created_utc": 1614744362,
+        "id": "gphy41x",
+        "score": 89,
+        "subreddit": "options",
+        "created": 1614773162.0
+    },
+    {
+        "author": "KirokeHarper",
+        "body": "TO EVERYONE WHO POSTED DD ON THIS PLAY--\n\nTHANK YOU.\n\nHonestly. I'm not at a point right now where I know how to do my own DD. And reading is still really hard for my smooth brain. But I saw the DD on this yesterday, I read it all, and I realized  I was a little late to the game but I played today anyway.\n\nIt's not much but I turned a $600 investment into $1200 today. I now own 14.77 shares of RKT at avg 39.61 AND ALL OF IT IS HOUSE MONEY. This feels like a big win for me, so I just wanted to give my thanks for the DD on this play.",
+        "created_utc": 1614718977,
+        "id": "gpgj0o4",
+        "score": 89,
+        "subreddit": "wallstreetbets",
+        "created": 1614747777.0
+    },
+    {
+        "author": "ndodidk",
+        "body": "If you\u2019re seeing it here, it\u2019s too late. When people yell hold, everyone will start to sell sooner or later. Make your buck or someone else will.",
+        "created_utc": 1614757431,
+        "id": "gpigf3i",
+        "score": 88,
+        "subreddit": "smallstreetbets",
+        "created": 1614786231.0
+    },
+    {
+        "author": "FFFvd92",
+        "body": "If they do a 1&gt;10 more people will buy because they actually can afford the stonk then.\nIf it\u2019s happens rn it would get the stonk to $12, the new buyers would rather to lose $12 then they buy in and lose at the price where it stands now at this moment.\nBring it on, my 87 shares would go to 870 and i will keep holding them strong!\n\nThis is not advice i\u2019m just an little brained ape who likes the stock.\n\ud83d\udc8e\ud83d\ude4c\ud83c\udffc\ud83e\udd8d\ud83d\ude80",
+        "created_utc": 1614747271,
+        "id": "gpi2yrp",
+        "score": 88,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614776071.0
+    },
+    {
+        "author": "dadamoi",
+        "body": "GUYS!!!!!!!!!!!!!!!!!!!!!!!! DO NOT CHANGE TO RKT MOST OF US HERE HAVE NEVER HEARD OF IT UNTIL THE MODZ HAVE DECIDED TO PIN THEIR MEGATHREAD I MEAN LOOK THEY HAVE 98 UPVOTES FOR 9MILLION MEMBERS HERE!!! DO NOT BE DUMB! HF's ARE TRYING TO DIVIDE OUR ATTENTION. IF YOU HAVE READ THE ART OF WAR ( YOU PROBABLY HAVENT YOU APES ) THE BEST WAY TO CONQUER A NATION IS TO INTERNALLY DIVIDE IT'S FORCE!!!\n\nWE ARE SO CLOSE TO THE MOTHER OF SQUEEZES DO NOT FALL FOR THEIR TACTICS\n\nDO NOT LISTEN TO ME IM UNRILIABLE",
+        "created_utc": 1614719325,
+        "id": "gpgjtkx",
+        "score": 87,
+        "subreddit": "wallstreetbets",
+        "created": 1614748125.0
+    },
+    {
+        "author": "xXxCOVIDfan420xXx",
+        "body": "i'm starting to average up. i don't like it, but i'm doing what needs to be done.",
+        "created_utc": 1614733782,
+        "id": "gphds9q",
+        "score": 86,
+        "subreddit": "wallstreetbets",
+        "created": 1614762582.0
+    },
+    {
+        "author": "Sponge1994",
+        "body": "Lol when gme was mooning all the media did was play it down and shill silver stocks\n\nNow all the media are reporting is how RKT is going to moon.\n\nThe blatant media push and bots literally made me hold GME when I nearly sold a few weeks back.\n\nHolding GME!! \n\nFuck RKT",
+        "created_utc": 1614757586,
+        "id": "gpiglf2",
+        "score": 85,
+        "subreddit": "wallstreetbets",
+        "created": 1614786386.0
+    },
+    {
+        "author": "Tonemarley23",
+        "body": "Btw.. your DD is fantastic.. too bad I can only read one silly able words.... Had my wife's boyfriend post this for me..since I'm also barely illegitimate.. \n\nBut you had me with your first DD with rockets and \ud83d\ude80\ud83d\ude80 and trimming hedges.. fucking love hedge trimming\n\nAnyway.. from one illegitimate retarded ape to another... Thank you for taking so much time and effort. I work like 45 to 60 hours a week plus other responsibilities with my wife's boyfriend's chore list. Doesn't leave much time for raw DD... Besides I get enough of the raw D from Phil(wife's boyfriend's name). not much time to do all the DD on my own . So now I can just take what you present and validate it.. helps give me direction since my smooth brain can barely keep my crayons out of my mouth long enough to color between the lines. Which I also fail at..\n\n\nOne thing I didn't fuck up? Catching this RKT before it began to \ud83d\ude80\ud83d\ude80",
+        "created_utc": 1614734432,
+        "id": "gphf178",
+        "score": 85,
+        "subreddit": "wallstreetbets",
+        "created": 1614763232.0
+    },
+    {
+        "author": "Zennoss",
+        "body": "If he lied about that it would be purrjury",
+        "created_utc": 1614737242,
+        "id": "gphkgx8",
+        "score": 85,
+        "subreddit": "wallstreetbets",
+        "created": 1614766042.0
+    },
+    {
+        "author": "Ok_Yak_6448",
+        "body": "Ahhh yes, the classic reinvesting into the same position at a higher strike price after it ran up 2000%",
+        "created_utc": 1614746150,
+        "id": "gpi15n3",
+        "score": 84,
+        "subreddit": "wallstreetbets",
+        "created": 1614774950.0
+    },
+    {
+        "author": "Im_The_SPACman",
+        "body": "The three biggest mistakes I see people make on a daily basis are:\n\n1. Buying shell companies significantly above NAV, most of which being the same names like QELL, ZTNE, GSAH, IPOD/F. It\u2019s ok to give up a few percent, but I see people buying them at 12, 13, 14. That\u2019s lunacy. You\u2019re giving up nearly all the upside on day 1.\n\n2. Getting emotionally attached to what they hold. How many posts and comments do we see every day about the same few companies where people are lamenting the fact that their favorite SPAC isn\u2019t going up with a chorus of others parroting how strong the company is. We first saw it with HCAC and now we\u2019re seeing it with GIK and THCB. \n\n3. Refusing to realize gains. People here are up 20, 30, 40, 50, 100, 200% (even higher with warrants) and not only do they refuse to take profits, but they criticize others who do. Most of which is because of how new so many people are to the market and simply don\u2019t know that the overall market (that many here don\u2019t participate in) averages 8% yearly gains. That and desperate attempts to get rich quick.",
+        "created_utc": 1614767309,
+        "id": "gpiqqrd",
+        "score": 82,
+        "subreddit": "SPACs",
+        "created": 1614796109.0
+    },
+    {
+        "author": "Nuevex",
+        "body": "Dont forget to TAKE PROFITS\n\nLearn from GME\nLearn from TLRY\nLearn from SNDL\n\nAnd this is just the last month alone.\n\nHave an exit strategy. I'm sure I'll get downvoted for this but it's in YOUR best interest. I took out 75% near the height today because it was a beautiful amount of money. Obviously still in the game hoping the rest of my calls will moon but I get to sleep tonight knowing I made bank\n\nLet yourself sleep at night.",
+        "created_utc": 1614721041,
+        "id": "gpgntoz",
+        "score": 81,
+        "subreddit": "wallstreetbets",
+        "created": 1614749841.0
+    },
+    {
+        "author": "Actually-Yo-Momma",
+        "body": "So to be clear, people think HF somehow bribed the CEO of RKT to offer the special dividend, share buy back, and timing their earnings report to match up with GME to distract from the momentum?\n\nLike are people going fucking insane or is it just me. Not everything is related to GME lol",
+        "created_utc": 1614740562,
+        "id": "gphqxpk",
+        "score": 81,
+        "subreddit": "wallstreetbets",
+        "created": 1614769362.0
+    },
+    {
+        "author": "Megadog3",
+        "body": "Absolutely incredible foresight. It helps to be a time traveler.\n\nBut in all seriousness, he bought them when it was first IPO'd. So 10 years ago, not 17, my bad. The point is, they would have tens of millions of dollars right now if their grandmother didn't sell them after he died.",
+        "created_utc": 1614722127,
+        "id": "gpgqbdl",
+        "score": 81,
+        "subreddit": "wallstreetbets",
+        "created": 1614750927.0
+    },
+    {
+        "author": "IdonthaveCooties",
+        "body": "I tried to close my position when it was profitable - It filled approximately 8 minutes later at a significant loss. This seems to be unanimous accross the board, and r/questrade is full of people who experienced the same problem",
+        "created_utc": 1614736837,
+        "id": "gphjoxg",
+        "score": 80,
+        "subreddit": "CanadianInvestor",
+        "created": 1614765637.0
+    },
+    {
+        "author": "Tillagaim",
+        "body": "I'd say that it would make matters that much worse.\n\nBecause he was so well-spoken and composed it showed that the only things that separates retail from the big guys is resources and unified manpower. Not research or knowledge.\n\nIt's scary to listen while most of the old people there attacked RH. I get the feeling they will try to punish RH for acting in their own interest only while letting retail investors lose a lot money.\nAnd then make sure poor helpless retail investors cannot be put in that position again.",
+        "created_utc": 1614761356,
+        "id": "gpikn57",
+        "score": 79,
+        "subreddit": "wallstreetbets",
+        "created": 1614790156.0
+    },
+    {
+        "author": "acesfullcoop",
+        "body": "Smart move. Let the sting of the loss dissipate and itll make it easier to grind back up",
+        "created_utc": 1614746845,
+        "id": "gpi2a1f",
+        "score": 78,
+        "subreddit": "options",
+        "created": 1614775645.0
+    },
+    {
+        "author": "Citizen_Kano",
+        "body": "\"Not widely known\"... Until he posted it on Twitter",
+        "created_utc": 1614759054,
+        "id": "gpii6r9",
+        "score": 77,
+        "subreddit": "wallstreetbets",
+        "created": 1614787854.0
+    },
+    {
+        "author": "GTKFANL",
+        "body": "RKT is a different situation than GME. It's not the ultra-mega-gamma-squeeze-to-end-all-squeezes. It is a good stock priced below its value and has experienced some catalyst events pushing it higher with a higher-than-usual percentage of float shorted. I wouldn't be surprised if it runs to $35 - $40 a share by Friday, but I wouldn't hold it any higher than that. Yes, there is always a chance it can explode one day and good for you if you catch it, but don't buy at $60. That's all!",
+        "created_utc": 1614705848,
+        "id": "gpfod6e",
+        "score": 76,
+        "subreddit": "wallstreetbets",
+        "created": 1614734648.0
+    },
+    {
+        "author": "fleischbag",
+        "body": "It's easy to upvote when it isn't your money. +1",
+        "created_utc": 1614703009,
+        "id": "gpfhusf",
+        "score": 76,
+        "subreddit": "wallstreetbets",
+        "created": 1614731809.0
+    },
+    {
+        "author": "Original-Baki",
+        "body": "Bullish on AMC. I think retail investors will push it back to $19 / share.",
+        "created_utc": 1614734421,
+        "id": "gphf0f8",
+        "score": 76,
+        "subreddit": "wallstreetbets",
+        "created": 1614763221.0
+    },
+    {
+        "author": "LuminoHk",
+        "body": "Not quite agree for the split. As most of us bought our share already.\nSpitting will only add quantity of tradable share on market and provide better liquidity.\nMake it more easy to buy and more easy to sell for paper hands.",
+        "created_utc": 1614740951,
+        "id": "gphrrp2",
+        "score": 75,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614769751.0
+    },
+    {
+        "author": "whoatethekidsthen",
+        "body": "I adopted him from a feral rescue and was told he lost it as a kitten due to an eye infection.  He's the sweetest lil goober ever",
+        "created_utc": 1614740221,
+        "id": "gphq8b6",
+        "score": 72,
+        "subreddit": "wallstreetbets",
+        "created": 1614769021.0
+    },
+    {
+        "author": "Imsuperracist",
+        "body": "Gme is currently 87% of my portfolio... if my smooth brain is correct I think I should make it 100% right?",
+        "created_utc": 1614714594,
+        "id": "gpg8p3t",
+        "score": 71,
+        "subreddit": "wallstreetbets",
+        "created": 1614743394.0
+    },
+    {
+        "author": "sshro13",
+        "body": "Anyone bitching about this play not being GME: one of the most important rules of trading is to not fall in love with a stock. We are all here to make money. Take a second to look at the facts about why RKT is a good play. It is a much more surefire way to tendie town than GME currently is. Option prices were dirt cheap yesterday, and still pretty cheap compared to GME. This is about making money, period. Be smart.",
+        "created_utc": 1614705043,
+        "id": "gpfmiv0",
+        "score": 70,
+        "subreddit": "wallstreetbets",
+        "created": 1614733843.0
+    },
+    {
+        "author": "Current-Spot-1645",
+        "body": "Actually my guy I said it was looking like a snack yesterday. Today, it\u2019s a meal. \n\nThanks for paying attention \ud83d\ude18",
+        "created_utc": 1614744492,
+        "id": "gphyc85",
+        "score": 70,
+        "subreddit": "RobinHoodPennyStocks",
+        "created": 1614773292.0
+    },
+    {
+        "author": "Reasonable-Arm3905",
+        "body": "It\u2019s brutal how they constantly get away with it.  Solid company solid fundamentals being completely taken advantage of! Hate shorts !",
+        "created_utc": 1614740578,
+        "id": "gphqyx1",
+        "score": 68,
+        "subreddit": "wallstreetbets",
+        "created": 1614769378.0
+    },
+    {
+        "author": "reversalpattern",
+        "body": "he said it himself \"fair share is bullshit\" wow .....",
+        "created_utc": 1614725970,
+        "id": "gpgyhe9",
+        "score": 68,
+        "subreddit": "wallstreetbets",
+        "created": 1614754770.0
+    },
+    {
+        "author": "artichoke2me",
+        "body": "If anyone think WSB moved RKT your joking. 55 billion market cap. 1.8 billion dollars traded today. RKT was on the front page  45 minutes before the take off it traded sideways most of the day. This was a hedge fund squeezing hedge funds. Retail will be left holding the bag. After dividend is paid. It will drop back to 25. I hope it goes to $100+ and it\u2019s a good company but I\u2019m being realistic.",
+        "created_utc": 1614725853,
+        "id": "gpgy8re",
+        "score": 68,
+        "subreddit": "wallstreetbets",
+        "created": 1614754653.0
+    },
+    {
+        "author": "Tarzeus",
+        "body": "Shit it was mentioned last week",
+        "created_utc": 1614726556,
+        "id": "gpgzo7u",
+        "score": 68,
+        "subreddit": "wallstreetbets",
+        "created": 1614755356.0
+    },
+    {
+        "author": "TODO_getLife",
+        "body": "Need to stop looking at the market everyday, all of my shares are long term, yet I look at it everyday and get annoyed by red, not a good habit.",
+        "created_utc": 1614771158,
+        "id": "gpiuvhs",
+        "score": 68,
+        "subreddit": "stocks",
+        "created": 1614799958.0
+    },
+    {
+        "author": "J-I-I",
+        "body": "First option trade of my life. Sold my one and only 35c 3/5 @197 once it hit a bit past 40. Made profit, wife is happy but all going into GME! 10@ 270 going to average down tomorrow",
+        "created_utc": 1614733409,
+        "id": "gphd2mh",
+        "score": 67,
+        "subreddit": "wallstreetbets",
+        "created": 1614762209.0
+    },
+    {
+        "author": "SkateOnTrees",
+        "body": "Bare with me now, could it be that greedy hedge funds naked shorting 200% of a companies stock almost crashed the stock market? \n\nCould it?\n\n\n\n\n\n\n\n\nNah, it was the redditors.\n\nPower to the players.",
+        "created_utc": 1614767973,
+        "id": "gpireue",
+        "score": 66,
+        "subreddit": "wallstreetbets",
+        "created": 1614796773.0
+    },
+    {
+        "author": "mazurbnm",
+        "body": "Dude I literally only joined this sub a while go and mostly lurk on reddit. It ian't hard to be karmaless and still be active.",
+        "created_utc": 1614737276,
+        "id": "gphkj50",
+        "score": 66,
+        "subreddit": "wallstreetbets",
+        "created": 1614766076.0
+    },
+    {
+        "author": "benotaur",
+        "body": "I don\u2019t know what this is in reference to, but. I went to a My Morning Jacket concert a while back and apparently Jim James (lead singer) had called George Michael to see if it was ok for them play careless whisper live. George said it would be ok on one condition, they had to give the crowd bananas so they were healthy. So before they played the glorious tune they came out with bushels of bananas and threw them into the crowd for us to enjoy. And that\u2019s the story of how I got a bloody nose at a MMJ concert from a flying banana.",
+        "created_utc": 1614725623,
+        "id": "gpgxrpx",
+        "score": 66,
+        "subreddit": "wallstreetbets",
+        "created": 1614754423.0
+    },
+    {
+        "author": "Adventurous_Limit_86",
+        "body": "Made 3k off RKT call, fucked around spent it all on GME before close",
+        "created_utc": 1614720778,
+        "id": "gpgn827",
+        "score": 65,
+        "subreddit": "wallstreetbets",
+        "created": 1614749578.0
+    },
+    {
+        "author": "SquishedPeter",
+        "body": "I agree. Spit out my drink laughing when I first reloaded the page and saw my cat stickied to the top of it. Only thing that could make it better is if it makes it on the news as evidence of the complete lack of shits given by this sub.",
+        "created_utc": 1614734216,
+        "id": "gphelxu",
+        "score": 65,
+        "subreddit": "wallstreetbets",
+        "created": 1614763016.0
+    },
+    {
+        "author": "CrosslegLuke",
+        "body": "I need to learn how to do options trading it seems",
+        "created_utc": 1614751660,
+        "id": "gpi9c73",
+        "score": 65,
+        "subreddit": "wallstreetbets",
+        "created": 1614780460.0
+    },
+    {
+        "author": "DR_TOBOGGAN_8219",
+        "body": "Hell def love it.  It be super sweet if he let OP be the ring bearer during the ceremony and since it is his wife\u2019s BFs big day, maybe OP will even hold his wife\u2019s boyfriends cock as he slams it in and out of her.  That\u2019d be awesome.",
+        "created_utc": 1614724306,
+        "id": "gpgv0ko",
+        "score": 65,
+        "subreddit": "wallstreetbets",
+        "created": 1614753106.0
+    },
+    {
+        "author": "cybercuzco",
+        "body": "Those clowns in congress have done it again, what a bunch of clowns. \n\n_I am a bot, this reply was automatically generated_",
+        "created_utc": 1614743210,
+        "id": "gphw166",
+        "score": 65,
+        "subreddit": "wallstreetbets",
+        "created": 1614772010.0
+    },
+    {
+        "author": "BrokeDayTrader",
+        "body": "Damn Im really wasting 6 hours of my life everyday watching a chart go red and green.... who\u2019s ready to do it again tomorrow?",
+        "created_utc": 1614718858,
+        "id": "gpgiqjl",
+        "score": 297,
+        "subreddit": "wallstreetbets",
+        "created": 1614747658.0
+    },
+    {
+        "author": "jaxpied",
+        "body": "I've posted this this morning already, but once again the math checks out so i'll repeat myself: \n\n \n\nHistory repeats itself (GME)\n\nThe last \"squeeze\" runup looks just like this time\n\n1/11/21 / 19.94 || 2/22/21 / 46.00\n\n1/12/21 / 19.95 || 2/23/21 / 44.97\n\n1/13/21 / 31.40 || 2/24/21 / 91.71\n\n1/14/21 / 39.91 || 2/25/21 / 108.73\n\n1/15/21 / 35.50 || 2/26/21 / 101.74\n\n1/19/21 / 39.36 || 3/1/21 / 120.41\n\n1/20/21 / 39.12 || 3/2/21 / 118.00 (&lt;-Update)\n\n1/21/21 / 43.03 || 3/3/21\n\n1/22/21 / 65.01 || 3/4/21\n\nSqueeze \ud83d\udc8e \ud83d\ude80\ud83d\udc8e \ud83d\ude80 \ud83d\udc8e \ud83d\ude80\ud83d\udc8e \ud83d\ude80\n\nprice moves just like it did last time. We're gonna moon bois! So proud of y'all!",
+        "created_utc": 1614719038,
+        "id": "gpgj5no",
+        "score": 109,
+        "subreddit": "wallstreetbets",
+        "created": 1614747838.0
+    },
+    {
+        "author": "bacha03",
+        "body": "Bought RKT at $40 because I\u2019m an idiot cant wait to sell it when it dips tomorrow",
+        "created_utc": 1614719099,
+        "id": "gpgjapm",
+        "score": 101,
+        "subreddit": "wallstreetbets",
+        "created": 1614747899.0
+    },
+    {
+        "author": "KirokeHarper",
+        "body": "TO EVERYONE WHO POSTED DD ON THIS PLAY--\n\nTHANK YOU.\n\nHonestly. I'm not at a point right now where I know how to do my own DD. And reading is still really hard for my smooth brain. But I saw the DD on this yesterday, I read it all, and I realized  I was a little late to the game but I played today anyway.\n\nIt's not much but I turned a $600 investment into $1200 today. I now own 14.77 shares of RKT at avg 39.61 AND ALL OF IT IS HOUSE MONEY. This feels like a big win for me, so I just wanted to give my thanks for the DD on this play.",
+        "created_utc": 1614718977,
+        "id": "gpgj0o4",
+        "score": 89,
+        "subreddit": "wallstreetbets",
+        "created": 1614747777.0
+    },
+    {
+        "author": "dadamoi",
+        "body": "GUYS!!!!!!!!!!!!!!!!!!!!!!!! DO NOT CHANGE TO RKT MOST OF US HERE HAVE NEVER HEARD OF IT UNTIL THE MODZ HAVE DECIDED TO PIN THEIR MEGATHREAD I MEAN LOOK THEY HAVE 98 UPVOTES FOR 9MILLION MEMBERS HERE!!! DO NOT BE DUMB! HF's ARE TRYING TO DIVIDE OUR ATTENTION. IF YOU HAVE READ THE ART OF WAR ( YOU PROBABLY HAVENT YOU APES ) THE BEST WAY TO CONQUER A NATION IS TO INTERNALLY DIVIDE IT'S FORCE!!!\n\nWE ARE SO CLOSE TO THE MOTHER OF SQUEEZES DO NOT FALL FOR THEIR TACTICS\n\nDO NOT LISTEN TO ME IM UNRILIABLE",
+        "created_utc": 1614719325,
+        "id": "gpgjtkx",
+        "score": 87,
+        "subreddit": "wallstreetbets",
+        "created": 1614748125.0
+    },
+    {
+        "author": "GTKFANL",
+        "body": "RKT is a different situation than GME. It's not the ultra-mega-gamma-squeeze-to-end-all-squeezes. It is a good stock priced below its value and has experienced some catalyst events pushing it higher with a higher-than-usual percentage of float shorted. I wouldn't be surprised if it runs to $35 - $40 a share by Friday, but I wouldn't hold it any higher than that. Yes, there is always a chance it can explode one day and good for you if you catch it, but don't buy at $60. That's all!",
+        "created_utc": 1614705848,
+        "id": "gpfod6e",
+        "score": 76,
+        "subreddit": "wallstreetbets",
+        "created": 1614734648.0
+    },
+    {
+        "author": "fleischbag",
+        "body": "It's easy to upvote when it isn't your money. +1",
+        "created_utc": 1614703009,
+        "id": "gpfhusf",
+        "score": 76,
+        "subreddit": "wallstreetbets",
+        "created": 1614731809.0
+    },
+    {
+        "author": "Imsuperracist",
+        "body": "Gme is currently 87% of my portfolio... if my smooth brain is correct I think I should make it 100% right?",
+        "created_utc": 1614714594,
+        "id": "gpg8p3t",
+        "score": 71,
+        "subreddit": "wallstreetbets",
+        "created": 1614743394.0
+    },
+    {
+        "author": "sshro13",
+        "body": "Anyone bitching about this play not being GME: one of the most important rules of trading is to not fall in love with a stock. We are all here to make money. Take a second to look at the facts about why RKT is a good play. It is a much more surefire way to tendie town than GME currently is. Option prices were dirt cheap yesterday, and still pretty cheap compared to GME. This is about making money, period. Be smart.",
+        "created_utc": 1614705043,
+        "id": "gpfmiv0",
+        "score": 70,
+        "subreddit": "wallstreetbets",
+        "created": 1614733843.0
+    },
+    {
+        "author": "Punch_Your_Facehole",
+        "body": "If GME doesn\u2019t like $130 then let\u2019s just skip it and go to $140",
+        "created_utc": 1614708039,
+        "id": "gpfteqw",
+        "score": 62,
+        "subreddit": "wallstreetbets",
+        "created": 1614736839.0
+    },
+    {
+        "author": "MyPostIs",
+        "body": "Guys - last week at this time, GME was trading at $43. We're trading at 300% over last week. We're crushing it, stay calm!",
+        "created_utc": 1614709948,
+        "id": "gpfxt5o",
+        "score": 61,
+        "subreddit": "wallstreetbets",
+        "created": 1614738748.0
+    },
+    {
+        "author": "Lecture_Several",
+        "body": "WTF THIS IS THE BIGGEST APE MOVE IVE SEEN\n(LOVE IT)",
+        "created_utc": 1614702949,
+        "id": "gpfhptn",
+        "score": 60,
+        "subreddit": "wallstreetbets",
+        "created": 1614731749.0
+    },
+    {
+        "author": "Gnomish8",
+        "body": "Stock falls 1% since open while still up 100% from last week...\n\n\"Ahhh, it's red, I can't take it anymore!!\"\n\nPaper handed bitches. Get off my rocket and make space for some worthy astronauts.",
+        "created_utc": 1614718741,
+        "id": "gpgig9v",
+        "score": 56,
+        "subreddit": "wallstreetbets",
+        "created": 1614747541.0
+    },
+    {
+        "author": "uncowisdo",
+        "body": "no one ever went broke taking a profit. save it for the next company to squeeze, wsb dd is a gold-mine",
+        "created_utc": 1614718351,
+        "id": "gpghii5",
+        "score": 53,
+        "subreddit": "wallstreetbets",
+        "created": 1614747151.0
+    },
+    {
+        "author": "nonflexual",
+        "body": "you'll be the one making money while they watch once it squeezes. just gotta be patient enough to hold till that happens:)",
+        "created_utc": 1614719315,
+        "id": "gpgjso5",
+        "score": 50,
+        "subreddit": "wallstreetbets",
+        "created": 1614748115.0
+    },
+    {
+        "author": "Sabiis",
+        "body": "I had $110 leftover so I couldn't buy another GME. What'd I do? Bought RKT, flipped it to $138 and bought another GME!",
+        "created_utc": 1614713115,
+        "id": "gpg5a4g",
+        "score": 50,
+        "subreddit": "wallstreetbets",
+        "created": 1614741915.0
+    },
+    {
+        "author": "trufflebutteredsteak",
+        "body": "WE WE WERE WARNED 2 DAYS AGO THAT THE SENTIMENT WOULD CHANGE AROUND HERE. RKT IS A DISTRACTION, LIQUIDATING GME NOW TO BUY RKT IS BASICALLY GIVING UP ON THE HARD WORK THAT YOU AND ALL OF OF THE APES INVOLVED HAVE PUT IN.  HOLDING COST **NOTHING** BUT NO ONE SAID IT WOULD BE EASY. WE HAVE APES WE PROMISED TO PICK UP AT 300+, I'M KEEPING MY END.",
+        "created_utc": 1614717174,
+        "id": "gpgeq2l",
+        "score": 49,
+        "subreddit": "wallstreetbets",
+        "created": 1614745974.0
+    },
+    {
+        "author": "Rick-afk",
+        "body": "Gotta mention the flood of bot accounts just telling to buy it, Silver 2.0",
+        "created_utc": 1614716446,
+        "id": "gpgd02u",
+        "score": 49,
+        "subreddit": "wallstreetbets",
+        "created": 1614745246.0
+    },
+    {
+        "author": "BiteMyShinyMetalAth",
+        "body": "The way i look at it, chasing profits after 200% already seems pretty greedy.  Getting that type of trading in your mindset has bad news all over it, id rather leave 1200 on the table than see a % 200 profit and think 'ahh yeah i can get this bitch to 1500%', and then lose it all, plus your investment.\n\nmaybe a more experience fella woulda known to hold these longer, but ay, im not experienced so ill take my 200%.",
+        "created_utc": 1614717178,
+        "id": "gpgeqe9",
+        "score": 47,
+        "subreddit": "wallstreetbets",
+        "created": 1614745978.0
+    },
+    {
+        "author": "jaxpied",
+        "body": "I posted this this morning already but I just want to let you know that it looks like THIS is exactly what's happening:\n\n \n\nHistory repeats itself (GME)\n\nThe last \"squeeze\" runup looks just like this time\n\n1/11/21 / 19.94 || 2/22/21 / 46.00\n\n1/12/21 / 19.95 || 2/23/21 / 44.97\n\n1/13/21 / 31.40 || 2/24/21 / 91.71\n\n1/14/21 / 39.91 || 2/25/21 / 108.73\n\n1/15/21 / 35.50 || 2/26/21 / 101.74\n\n1/19/21 / 39.36 || 3/1/21 / 120.41\n\n1/20/21 / 39.12 || 3/2/21 &lt;-we are here\n\n1/21/21 / 43.03 || 3/3/21\n\n1/22/21 / 65.01 || 3/4/21\n\nSqueeze \ud83d\udc8e \ud83d\ude80\ud83d\udc8e \ud83d\ude80 \ud83d\udc8e \ud83d\ude80\ud83d\udc8e \ud83d\ude80\n\nbased on this, today might be the last chance to buy low. (not financial advice)",
+        "created_utc": 1614711976,
+        "id": "gpg2l9p",
+        "score": 47,
+        "subreddit": "wallstreetbets",
+        "created": 1614740776.0
+    },
+    {
+        "author": "JiggazInParis",
+        "body": "# I see this as a win, think about it. On a day where another stock had so much attention (some would call it a pump &amp; dump, not naming any names tho) we still managed to hold the line. Good work apes",
+        "created_utc": 1614719010,
+        "id": "gpgj3cc",
+        "score": 46,
+        "subreddit": "wallstreetbets",
+        "created": 1614747810.0
+    },
+    {
+        "author": "unholyg0at",
+        "body": "Fuck it. Sold all my AMC and went all in on GME. Maybe AMC shouldn\u2019t have given their execs millions in bonus after we rallied and save their asses. Fuck em",
+        "created_utc": 1614708829,
+        "id": "gpfv7m4",
+        "score": 46,
+        "subreddit": "wallstreetbets",
+        "created": 1614737629.0
+    },
+    {
+        "author": "anchelus",
+        "body": "Robinhood. But I don't recommend it. Try schwab or fidelity instead. Or tastyworks for options",
+        "created_utc": 1614718406,
+        "id": "gpghndz",
+        "score": 45,
+        "subreddit": "wallstreetbets",
+        "created": 1614747206.0
+    },
+    {
+        "author": "KnockKnock200",
+        "body": "I paper handed it. Need to make up for buying GME at 380 and selling at 170 like a little bitch.",
+        "created_utc": 1614719149,
+        "id": "gpgjeuc",
+        "score": 45,
+        "subreddit": "wallstreetbets",
+        "created": 1614747949.0
+    },
+    {
+        "author": "Datboiicarl69",
+        "body": "Was RKT a distraction from GME? Maybe. But jokes on them I made 80% profit from RKT and put it right back into GME. They underestimate my retardedness",
+        "created_utc": 1614713495,
+        "id": "gpg65rf",
+        "score": 43,
+        "subreddit": "wallstreetbets",
+        "created": 1614742295.0
+    },
+    {
+        "author": "Battle-Santa",
+        "body": "Congrats RKT gang!!\n\nI\u2019m not in it, but MAKE THAT MONEY!!!!\n\nHappy for you fucks",
+        "created_utc": 1614719498,
+        "id": "gpgk8da",
+        "score": 43,
+        "subreddit": "wallstreetbets",
+        "created": 1614748298.0
+    },
+    {
+        "author": "GoAbsoluteApesh1t",
+        "body": "Listen to me. I know how you feel. \n\nYou see it dip. You read some comments. Nasty comments. People are gonna bail. They are typing some shit about shares available to short is going up, shit our nutbrains barely understand, but it sounds clever, they seem to know what they're talking about. \n\nBut you forget one thing. One fundamental thing.\n\nDFV is still in. 98% people in here are holding, we just don't care about writing it all the time. We are with you, son. DFV is with you. Don't listen to the negatives, remember the fundamentals.",
+        "created_utc": 1614711512,
+        "id": "gpg1huz",
+        "score": 42,
+        "subreddit": "wallstreetbets",
+        "created": 1614740312.0
+    },
+    {
+        "author": "kytran40",
+        "body": "Upside down gives you the same chart. Turn it 90 degrees",
+        "created_utc": 1614705247,
+        "id": "gpfmzl8",
+        "score": 42,
+        "subreddit": "wallstreetbets",
+        "created": 1614734047.0
+    },
+    {
+        "author": "poopybumbum1",
+        "body": "if gme closes above 500 by end of week, I will donate 2000 dollars to St. Jude's. If it closes above 800, I will give 5000 dollars to St. Jude's. I will post proof as well.",
+        "created_utc": 1614702901,
+        "id": "gpfhm1k",
+        "score": 41,
+        "subreddit": "wallstreetbets",
+        "created": 1614731701.0
+    },
+    {
+        "author": "cwalzzzer",
+        "body": "Do you guys not realize that moving from GME to RKT is exactly what the hedgies want?!? Divide and conquer. Don\u2019t fall for it. Stick with GME and we will go to the moon!!",
+        "created_utc": 1614716098,
+        "id": "gpgc75h",
+        "score": 40,
+        "subreddit": "wallstreetbets",
+        "created": 1614744898.0
+    },
+    {
+        "author": "Space_Captainface",
+        "body": "funny as AMC shot up 80% and nothing on the news...RKT goes up 40% and the system shits itself. the new WSB regime is pushing RKT and encouraging sells of AMC to buy RKT, while AMC has less than 4% volume left to buy. i wouldnt trust it either. profit if you can but this isnt the gamma people think it is.",
+        "created_utc": 1614716484,
+        "id": "gpgd3az",
+        "score": 40,
+        "subreddit": "wallstreetbets",
+        "created": 1614745284.0
+    },
+    {
+        "author": "hibbjibbity",
+        "body": "It\u2019s seems like half the people are cool as cucumber and expecting to moon around the 19th, the other half wanna cut their eyes out every second it doesn\u2019t go up a thousand dollars lol",
+        "created_utc": 1614715582,
+        "id": "gpgb081",
+        "score": 40,
+        "subreddit": "wallstreetbets",
+        "created": 1614744382.0
+    },
+    {
+        "author": "Mackie5Million",
+        "body": "Preface: this is not financial advice.\n\nThe past hour or so has been dominated by aggressive shorting of the stock.  [Borrowdesk](https://iborrowdesk.com/report/RKT) is tracking the available short shares, which are quickly diminishing.  Once there are none left, short sellers won't be able to force the market down anymore.\n\nDiamond hands, people.  This has happened before - it can happen again.",
+        "created_utc": 1614714518,
+        "id": "gpg8ipe",
+        "score": 39,
+        "subreddit": "wallstreetbets",
+        "created": 1614743318.0
+    },
+    {
+        "author": "brybull1970",
+        "body": "Made $4k on RKT today and am dumping it into GME at the dip!",
+        "created_utc": 1614718140,
+        "id": "gpgh082",
+        "score": 38,
+        "subreddit": "wallstreetbets",
+        "created": 1614746940.0
+    },
+    {
+        "author": "CheeseYogi",
+        "body": "It was only a small second mortgage of $30k (10% of my home value). Once GME gets back to 350, I\u2019m good.",
+        "created_utc": 1614716517,
+        "id": "gpgd60c",
+        "score": 38,
+        "subreddit": "wallstreetbets",
+        "created": 1614745317.0
+    },
+    {
+        "author": "trippy_fingernails",
+        "body": "I hold GME and RKT, why are so many apes acting like it has to be one or the other lmao y'all are so stupid",
+        "created_utc": 1614704111,
+        "id": "gpfkdvr",
+        "score": 38,
+        "subreddit": "wallstreetbets",
+        "created": 1614732911.0
+    },
+    {
+        "author": "heyzeuzz",
+        "body": "Maybe. It's not quite ready yet. I'm still tuning the algorithm. It gets some things wrong, but I've seen an increase in better alerts lately as I improve it. With this and a few other alerts the last 3 weeks I've made close to $200k in profit. Would people be interested in using my bot?",
+        "created_utc": 1614718138,
+        "id": "gpgh03e",
+        "score": 37,
+        "subreddit": "wallstreetbets",
+        "created": 1614746938.0
+    },
+    {
+        "author": "_Atom_5",
+        "body": "Should I say fuck it and make my portfolio 100% Gamestonk??",
+        "created_utc": 1614705973,
+        "id": "gpfonnx",
+        "score": 36,
+        "subreddit": "wallstreetbets",
+        "created": 1614734773.0
+    },
+    {
+        "author": "perfecto_falcon",
+        "body": "well fuck it seriously considering selling off the weed stocks and emptying the moneymarket acct to buy more GME. i guess i just REALLY LIKE THE STOCK.",
+        "created_utc": 1614709864,
+        "id": "gpfxm9n",
+        "score": 36,
+        "subreddit": "wallstreetbets",
+        "created": 1614738664.0
+    },
+    {
+        "author": "Skywalk88",
+        "body": "He saves bro! My cousin did it. My cousin had 4 houses by the time he was 3.",
+        "created_utc": 1614713900,
+        "id": "gpg73bv",
+        "score": 36,
+        "subreddit": "wallstreetbets",
+        "created": 1614742700.0
+    },
+    {
+        "author": "One_Wafer_45",
+        "body": "I did it guys sold for 10% loss on AMC FOR POTENTIAL 1000% GAIN IN GME! \ud83d\ude80\ud83d\ude80",
+        "created_utc": 1614705827,
+        "id": "gpfobfi",
+        "score": 35,
+        "subreddit": "wallstreetbets",
+        "created": 1614734627.0
+    },
+    {
+        "author": "YellowCity",
+        "body": "Just a quick bitching vent for some of you guys - \n\nIBORROWDESK JUST ADDED MORE SHARES TO SHORT AND THE NUMBER HAS NO RELEVANCE. **IT DOES THIS EVERY FUCKING DAY YET YOU GUYS CONTINUE TO USE IT AS A CATALYST OF ANYTHING!!!** 100,000 SHARES, 1 MIL SHARES, 50 SHARES, IT DOESN'T MATTER AT ALL\n\nJUST STOP! Ignore any and all iborrow data as being beneficial, or any type of catalyst for us.",
+        "created_utc": 1614709820,
+        "id": "gpfxikh",
+        "score": 35,
+        "subreddit": "wallstreetbets",
+        "created": 1614738620.0
+    },
+    {
+        "author": "sadboyz00",
+        "body": "Stop the BS comments about \u2018200 EOD\u2019 \ud83d\ude02\n\nThis is making people sell when it dips\n\nTRUST THE DD AND ENJOY THE RIDE",
+        "created_utc": 1614713158,
+        "id": "gpg5dpb",
+        "score": 34,
+        "subreddit": "wallstreetbets",
+        "created": 1614741958.0
+    },
+    {
+        "author": "ak47ps16",
+        "body": "YOUR RKT GAINS ARE AWESOME BUT REALIZE IT WAS ONLY PUMPED BY HEDGIES TO DISTRACT FROM GME. IF YOU TAKE YOUR GAINS FROM RKT AND HEAD TO GME YOU BECOME THEIR WORST NIGHTMARE. 80% OF THE REDDITORS ON THE RKT THREAD ARE BOTS TELLING YOU TO HOLD UNTIL NEXT WEEK SO NO MORE SHARES OF GME ARE BOUGHT. THINK WITH YOUR SOFT \ud83e\udde0 AND RISE UP AMONGST THE REST OF THE PLANET OF THE APES\n\n\ud83e\udd8d\ud83e\udd8d\ud83e\udd8d\ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\udc8e\ud83d\udc8e\ud83d\udc8e\ud83e\udd8d\ud83e\udd8d\ud83e\udd8d",
+        "created_utc": 1614714290,
+        "id": "gpg7zuh",
+        "score": 34,
+        "subreddit": "wallstreetbets",
+        "created": 1614743090.0
+    },
+    {
+        "author": "Chickenfrend",
+        "body": "Yes lmao. Especially in the context of the other 20k you somehow accumulated. You are a rich kid. It's okay, you should just acknowledge it and be honest about it though",
+        "created_utc": 1614711366,
+        "id": "gpg15hg",
+        "score": 34,
+        "subreddit": "wallstreetbets",
+        "created": 1614740166.0
+    },
+    {
+        "author": "jessicavotingacc",
+        "body": "Not bashing RKT, but does anyone find it weird that they have a pinned mega thread and our mega thread was late today?\n\nAlso our thread isn\u2019t pinned now and the mod pins his post linking the RKT mega thread in OUR mega thread???",
+        "created_utc": 1614705057,
+        "id": "gpfmjz2",
+        "score": 34,
+        "subreddit": "wallstreetbets",
+        "created": 1614733857.0
+    },
+    {
+        "author": "Xadma24",
+        "body": "Buy RKT if you think it'll go higher. But selling GME at a loss to buy RKT, while it's already shot up, is a bad thing to do. You're buying high, selling low.\n\nIf you believe in the GME squeeze, keep holding. Otherwise, you'll have FOMO regrets once it shoots up to 500+.",
+        "created_utc": 1614714186,
+        "id": "gpg7r86",
+        "score": 33,
+        "subreddit": "wallstreetbets",
+        "created": 1614742986.0
+    },
+    {
+        "author": "New_Assignment_5486",
+        "body": "To state the obvious RKT is a distraction. Only boomers would choose a \u201crocket ship\u201d ticker and drive the price up to try to confuse retarded apes with something shiny. If I was to guess the powers that be are somehow using it to profit to use those funds to further short our stonk. At the very least they are trying to pull us off our beloved GME trip to VALHALLA.  Fuck them. Together ape strong. HODL. \ud83e\udd8d\ud83e\udd8d\ud83e\udd8d\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\udc8e\ud83d\udc8e\ud83d\udc8e",
+        "created_utc": 1614713939,
+        "id": "gpg76mw",
+        "score": 33,
+        "subreddit": "wallstreetbets",
+        "created": 1614742739.0
+    },
+    {
+        "author": "P_RYDA",
+        "body": "Omg it dipped. The squeeze is over omg omg\n\nLol yall need to stfu and hold",
+        "created_utc": 1614718085,
+        "id": "gpggvg8",
+        "score": 33,
+        "subreddit": "wallstreetbets",
+        "created": 1614746885.0
+    },
+    {
+        "author": "Greatjones213",
+        "body": "Yeah, literally ate up 2 weeks of my life. Had to constantly check fidelity and the news. Not worth it for me.",
+        "created_utc": 1614716593,
+        "id": "gpgdce4",
+        "score": 33,
+        "subreddit": "stocks",
+        "created": 1614745393.0
+    },
+    {
+        "author": "CalebH428",
+        "body": "I don\u2019t get why people get mad about RKT. Not only does it have legit reasons to buy in, but it has been mentioned around WSB since IPO. This is just the first time it\u2019s had any movement in awhile",
+        "created_utc": 1614704966,
+        "id": "gpfmcht",
+        "score": 33,
+        "subreddit": "wallstreetbets",
+        "created": 1614733766.0
+    },
+    {
+        "author": "GR8NBED11",
+        "body": "I just need it to be known that I literally wiped out every stock I have to buy GME the last few weeks. It's been a hell of a ride but I'm officially all in. Keep it up APES and believe in the process. Buy stocks/shares not options right now. They need them...all of them. This is the way. HODL\n\nNot financial advice just a green crayon eating AuTiSt",
+        "created_utc": 1614709386,
+        "id": "gpfwi4m",
+        "score": 32,
+        "subreddit": "wallstreetbets",
+        "created": 1614738186.0
+    },
+    {
+        "author": "Evening-General",
+        "body": "$120 floor is triple what it was like...a week and a half ago. Pretty sweet.",
+        "created_utc": 1614715589,
+        "id": "gpgb0rd",
+        "score": 32,
+        "subreddit": "wallstreetbets",
+        "created": 1614744389.0
+    },
+    {
+        "author": "jaxpied",
+        "body": "Guys stop saying R.,K,.-.,T. Our boomer Mods think they deserve a thread because it got mentioned so much yesterday. Even though interest in GME is obv way higher (see upvotes and outcry after we almost didn't get a thread). The gay bear stock is just a distraction to try and get us off GME so they can save their powdered asses. Just look at that thread. It's all shills it's ridiculous. GME Apes stronk!",
+        "created_utc": 1614715955,
+        "id": "gpgbv81",
+        "score": 32,
+        "subreddit": "wallstreetbets",
+        "created": 1614744755.0
+    },
+    {
+        "author": "Columbian-Roaster",
+        "body": "Wtf I just got notified by Trading 212 that RKT got 50% up and that CNBC says that it may be a \u2018Reddit short target\u2019 \ud83d\ude02\n\nThis shit is fucking orchestrated. What broker announces you about that..",
+        "created_utc": 1614714416,
+        "id": "gpg8a9z",
+        "score": 31,
+        "subreddit": "wallstreetbets",
+        "created": 1614743216.0
+    },
+    {
+        "author": "Puzzleheaded-Team677",
+        "body": "This whole GME saga the last few months makes me feel like I\u2019m some kind of market genius, but I\u2019m actually just fucking retarded, and I love it",
+        "created_utc": 1614708968,
+        "id": "gpfvj9k",
+        "score": 31,
+        "subreddit": "wallstreetbets",
+        "created": 1614737768.0
+    },
+    {
+        "author": "SontagWrong",
+        "body": "So they made a RKT megathread...\n\nPINNED IT...\n\nwhile this thread is still sorted by \"best.\" \n\n# THEY ARE TRYING TO KEEP US DOWN. DO NOT LET EM",
+        "created_utc": 1614705711,
+        "id": "gpfo1xs",
+        "score": 31,
+        "subreddit": "wallstreetbets",
+        "created": 1614734511.0
+    },
+    {
+        "author": "Hokguailo",
+        "body": "I took the biggest lost of my life in October in SPAQ. Now it has tripled in price. I learned my lesson. Never sell your SPACS during a market correction like this, it will rebound, but will take some patience.",
+        "created_utc": 1614715444,
+        "id": "gpgaonr",
+        "score": 31,
+        "subreddit": "SPACs",
+        "created": 1614744244.0
+    },
+    {
+        "author": "findspeopleforfun",
+        "body": "Why did GME's price **quadruple in the span of a day** last week AFTER the biggest players in the game attempted for weeks to snuff it out? To not only resist dropping back to early January numbers after being illegally manipulated by the most powerful investors in the world, but rather **QUADRUPLE** in the face of this adversity is the most blatant sign that it's still a great investment to literally anyone who's not an absolute dog brained retard. Even a child with Downs syndrome could look at the absurdly lopsided ask prices for GME calls vs puts, which as of right now show that **$500 calls are worth the same amount as $66 puts,** and see with absolute clarity how bullish the market is for this stock. Even boomer analysts and extremely popular trading platforms are bullish on GME. Anyone still shilling silver and weed, get Melvin's dick out of your mouth and get in on this historically massive bull run you apes.",
+        "created_utc": 1614703416,
+        "id": "gpfis92",
+        "score": 31,
+        "subreddit": "wallstreetbets",
+        "created": 1614732216.0
+    },
+    {
+        "author": "thedizzycat",
+        "body": "I'm not personally invested in this, but it has been absolutely compelling reading over the past few weeks. You people are absolute heroes with what you are doing. and If I had money to lose I would be right beside you. Enjoy the ride and I hope your dreams come true.",
+        "created_utc": 1614704752,
+        "id": "gpflv1x",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614733552.0
+    },
+    {
+        "author": "gargully",
+        "body": "OP did you work full time while in high school? 20k a year works out to about $9.50 an hour working 40 hours a week full time. And that\u2019s literally not spending a fucking dime. That\u2019s some true fucking diamond hands on cash and then betting it all on black? Savage",
+        "created_utc": 1614713837,
+        "id": "gpg6y74",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614742637.0
+    },
+    {
+        "author": "fortifier22",
+        "body": "If DFV and Cohen can hold at $480, we can hold as well.\n\nIf you bought GME at any price, you believed in the stock and in the company.\n\nDon\u2019t let your belief waiver! You ride until it is done!",
+        "created_utc": 1614716910,
+        "id": "gpge3cp",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614745710.0
+    },
+    {
+        "author": "sadboyz00",
+        "body": "PEOPLE stop making up false bs about \u2018this is going to blow EOD\u2019 or \u2018squeeze end of week\u2019\n\nThis discourages newbies who invest and do not get these results.\n\nTRUST THE DD AND LETS KEEP IT POSITIVE",
+        "created_utc": 1614707082,
+        "id": "gpfr6ys",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614735882.0
+    },
+    {
+        "author": "Nerdicane",
+        "body": "Line it up! Let\u2019s go!",
+        "created_utc": 1614718900,
+        "id": "gpgiubk",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614747700.0
+    },
+    {
+        "author": "baconara",
+        "body": "Found people wondering why RKT had 3x the volume of GME but it wasn't \"squeezing right\".\n\nFor RKT folks browsing this megathread: it won't squeeze the same because RKT is an artificial squeeze - engineered by the CEO. It's not an organic squeeze. GME was years in building. \n\nRKT looks like a fish, swims like a fish, but when you go to eat it you realize it's a robot fish. Same amount of fun fishing, though.",
+        "created_utc": 1614718782,
+        "id": "gpgiju3",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614747582.0
+    },
+    {
+        "author": "Saxamaphooone",
+        "body": "I want to thank everyone in these threads for helping me get through my days. I only have 7 shares @169, but I\u2019m hoping any profits help pay some medical bills. \n\nI found out a month ago why I\u2019ve been so sick over the past year: I have a tumor in my brain growing on my pituitary gland. The type of tumor it is means it\u2019s likely non-cancerous (thankfully), but it secretes hormones which causes hormone imbalances, migraines, and weird vision issues. I spend weeks at a time trapped in my bed, unable to move or eat solid food without throwing up. Reading this sub and these threads makes those days a little easier!",
+        "created_utc": 1614708321,
+        "id": "gpfu1vq",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614737121.0
+    },
+    {
+        "author": "Slothe1978",
+        "body": "Aw, but the bills to pay it back are",
+        "created_utc": 1614703897,
+        "id": "gpfjw4h",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614732697.0
+    },
+    {
+        "author": "SpeaksInHexadecimals",
+        "body": "Remember, the second CNBC mentions this, you sell. Then buy back when they stop mentioning it. That is the way.",
+        "created_utc": 1614703955,
+        "id": "gpfk0w0",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614732755.0
+    },
+    {
+        "author": "0wl-Exterminator",
+        "body": "At this point its almost like theyve given up on pushing it way down and are just hoping they keep it exactly where it was lmao",
+        "created_utc": 1614717307,
+        "id": "gpgf1eb",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614746107.0
+    },
+    {
+        "author": "jessicavotingacc",
+        "body": "Not bashing RKT, but does anyone find it weird that they have a pinned mega thread and our mega thread was late today?\n\nAlso our thread isn\u2019t pinned now",
+        "created_utc": 1614704932,
+        "id": "gpfm9pt",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614733732.0
+    },
+    {
+        "author": "HeavyHandedWarlord",
+        "body": "LPT: If you refresh the GME daily thread every 30 seconds it helps the price go up",
+        "created_utc": 1614702695,
+        "id": "gpfh5ag",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1614731495.0
+    },
+    {
+        "author": "Pryml710",
+        "body": "If GME hits $220 EOD I\u2019ll literally shit myself - hold me to it retards\ud83d\ude80",
+        "created_utc": 1614701396,
+        "id": "gpfe80z",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614730196.0
+    },
+    {
+        "author": "lampingninja",
+        "body": "Don't succumb to the RKT craze, bots &amp; shills are doing everything they can to make it look appealing to distract us apes from the real show.   \n\n\nHODL &amp; BUY THE DIPS!!!",
+        "created_utc": 1614712454,
+        "id": "gpg3q1y",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614741254.0
+    },
+    {
+        "author": "TRUFFL3PIG",
+        "body": "DO NOT SELL WHEN $RKT EXPLODES IN THE MORNING. IT IS JUST THE BEGINNING",
+        "created_utc": 1614719027,
+        "id": "gpgj4q8",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614747827.0
+    },
+    {
+        "author": "Myasshurts12001",
+        "body": "If it hits $200 today I will go to taco bell, order 12 beef burritos, take 10 ex laxs, vomit 200 on the wall, post it on reddit.",
+        "created_utc": 1614706172,
+        "id": "gpfp447",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614734972.0
+    },
+    {
+        "author": "Successful_Prize_904",
+        "body": "If it hits 50 I\u2019m getting a tattoo",
+        "created_utc": 1614713644,
+        "id": "gpg6i7d",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614742444.0
+    },
+    {
+        "author": "XVDev",
+        "body": "# Paper hands leave if you want, don\u2019t complain when it hits $60-100 tomorrow\n\nHolding my calls overnight , don\u2019t care if i lose it all",
+        "created_utc": 1614712573,
+        "id": "gpg406q",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614741373.0
+    },
+    {
+        "author": "muggbeert",
+        "body": "Rkt has its own thread surprisingly, but they\u2019re still in here pumping it \ud83e\udd14\ud83e\udd14 says a a lot",
+        "created_utc": 1614712585,
+        "id": "gpg417b",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614741385.0
+    },
+    {
+        "author": "pastrybaker",
+        "body": "Is anyone else pretty impressed that it's holding at these levels even though it's off the SSR today? \n\nAccording to [https://iborrowdesk.com/report/GME](https://iborrowdesk.com/report/GME), there was some big shorting going on this morning through Interactive Brokers. So, we could assume the same was happening with other brokers. At the same time, I know that at least TDA isn't allowing short selling of GME at all (was on the phone with them the other day, and the guy told me they haven't allowed it since the end of January).\n\nStill, the price has not only held, but risen pretty significantly today. I'm having a hard time seeing the downside to continuing to hold, I just don't think it's a wise thing to sell at this point. The gamma squeeze seems like it'll happen, the short squeeze is likely too. And even if it's not, the company is pivoting and may become a big player in the years to come. All those things are why I will keep holding.\n\nAt the same time, if you haven't covered your initial investment, please do so. I sold off enough at the end of January to pay off almost $50k of CC debt and to have a bit leftover to provide for me and my kids. Now I'm playing with house money, so it's easier for me to weather the dips.\n\nI'm holding 307 shares @ \\~$70 per share. I also have a 17 calls for different dates.",
+        "created_utc": 1614701474,
+        "id": "gpfeebn",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614730274.0
+    },
+    {
+        "author": "doctordesktop",
+        "body": "If it hits 150 today i'll buy the winrar full version",
+        "created_utc": 1614711881,
+        "id": "gpg2d9q",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614740681.0
+    },
+    {
+        "author": "h4wk1ns",
+        "body": "Congrats to anyone that took profits today. \n\nRemember, this shit is volatile as fuck and could come back down at any time. I\u2019m playing this like it could be running all week, but who knows. Just remember to celebrate gains and own your losses.",
+        "created_utc": 1614719363,
+        "id": "gpgjwps",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614748163.0
+    },
+    {
+        "author": "CallsonBobRoss2024",
+        "body": "Am I perfect? No. Do I hold? You fuckin know it. Met a paper handed bitch in real life once. He was sucking dick for pocket change. Scary stuff. \n\n\ud83d\udd90\ud83c\udffc\ud83d\udc8e",
+        "created_utc": 1614715616,
+        "id": "gpgb33q",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614744416.0
+    },
+    {
+        "author": "bpi89",
+        "body": "Those RKT cucks think a couple hundred of them can force a squeeze, when a few million are fighting every day for a GME squeeze? They do understand that if GME doesn\u2019t squeeze with all this effort going into it that RKT, AMC whatever the fuck else sure as shit won\u2019t. They\u2019re gonna get crushed. \n\nPuts on RKT.",
+        "created_utc": 1614706414,
+        "id": "gpfpo0y",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614735214.0
+    },
+    {
+        "author": "Sparkin4500",
+        "body": "Bought $500 to push us through $130....it didn't work",
+        "created_utc": 1614708147,
+        "id": "gpftnng",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614736947.0
+    },
+    {
+        "author": "ANDRELLAREN2K",
+        "body": "DO NOT SELL TO BUY BACK CHEAPER! this will prevent the squeeze by allowing more shares for the hedge funds to cover their shorted shares making it more difficult for squeeze to occur. Repost everywhere you can think of!",
+        "created_utc": 1614706580,
+        "id": "gpfq1kx",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614735380.0
+    },
+    {
+        "author": "willy-fistergash08",
+        "body": "Things we should keep in mind today:\n\n\n\u2022\t\u2060There is no way to predict when the squeeze will happen\n\t\u2060\u2022\t\u2060There will be crazy price action in both directions\n\t\u2060\u2022\t\u2060This can go on as long as the shorts remain solvent\n\t\u2060\u2022\t\u2060The longer they drag this out, the higher it goes\n\t\u2060\u2022\t\u2060People might say, \"Lift-Off in 10!\" But they're just excited\n\t\u2060\u2022\t\u2060Nobody knows when it'll happen or how high it will go\n\nBasically, don't believe the hype, but feel free to join in. You should do your own research, read the DD, and make informed decisions. Don't invest money you can't afford to lose.\n\nIn other words, fuck safely, or you'll get fucked.\n\n\u2022\t\u2060There is no \"we.\"\n\t\u2060\u2022\t\u2060I'm holding because that's my choice. I believe in GME\n\t\u2060\u2022\t\u2060I will not buy because someone else says to do so\n\t\u2060\u2022\t\u2060I will not encourage others to buy\n\t\u2060\u2022\t\u2060Nothing I say is financial advice\n\t\u2060\u2022\t\u2060If you're confused, read the rules. No market manipulation.\n\nReport posts that encourage everyone to buy at the same time. The primary reason for this is legal, but the secondary is that the media will cherry-pick comments like this to give us a bad name and put more negativity out there through their articles, broadcasts, etc.\n\n\u2022\t\u2060There will be plenty of FUD (or \"fear, uncertainty, and doubt\")\n\t\u2060\u2022\t\u2060I am including this out of belief, if not pure spite\n\t\u2060\u2022\t\u2060There are redditors being paid to scare you\n\t\u2060\u2022\t\u2060There are bots made to SPAM negativity\n\t\u2060\u2022\t\u2060There are people profiting when you sell\n\t\u2060\u2022\t\u2060This starts ramping up in the afternoon\n\nThere are two sides to this fight, and we have to remember that there are people profiting if we fail. There are people playing the other side who will come into the thread and try to throw us off track by ruining the morale. We mustn't give in to them. Besides, they can't even provide any good DD for their bear-case, it's all just \"sElL iT's OvEr.\"\n\n\u2022\t\u2060This is the motherfucking GME Megathread\n\t\u2060\u2022\t\u2060Do not push other tickers\n\t\u2060\u2022\t\u2060Do not jingle keys in our faces\n\t\u2060\u2022\t\u2060Fuck you\n\nI, personally, go out of my way to CTRL/CMD+F and search for other tickers. If you're bringing up non-GME stocks in order to distract the thread, I'm one of the downvotes on your comment. Sue me.\n\n\u2022\t\u2060We can fucking do this\n\t\u2060\u2022\t\u2060We have them where we want them\n\t\u2060\u2022\t\u2060We can name our price\n\t\u2060\u2022\t\u2060As long as we hold, we have what they want\n\t\u2060\u2022\t\u2060They will pay out the ass to get it\n\nThey'll do whatever they can (manipulate the market, short the stock further, short EFTs, etc.) for as long as they can manage, all hoping we'll give up and sell (Hell, they've even tried to bore us to death). But they don't understand just how dumb we really are. We are far too stupid to be afraid of their fearmongering, and we'll hold 'til the moon.\n\n\u2022\t\u2060If you're new, this may not be for you\n\t\u2060\u2022\t\u2060This is something you have to be really brave or really stupid for\n\t\u2060\u2022\t\u2060You will either see enormous gains or enormous losses\n\t\u2060\u2022\t\u2060Invest wisely, don't spend your rent money, and read the DD\n\t\u2060\u2022\t\u2060Read the DD\n\t\u2060\u2022\t\u2060Read the DD\n\t\u2060\u2022\t\u2060DD is short for Due Diligence, and it's basically just researching a stock before you buy in. There's plenty of great DD on this sub, and you can sort by the DD flair to see the highest-voted posts. Do that before asking dumb questions and risking your karma.\n\nIf you think there's anything else I should add, please reply and tell me.",
+        "created_utc": 1614701394,
+        "id": "gpfe7vq",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614730194.0
+    },
+    {
+        "author": "SirioBombas",
+        "body": "If you haven\u2019t already. Read this... A few lines about GME (please read)\n\n1. Price doesn't matter until the squeeze has been squoze.\n2. The best time to buy GME was 2 months ago, the second best time is NOW.\n3. Buy shares, not options. Invest only the money you can afford to lose.\n4. Don't fall for FUD. Any account can be a shill/bot, even the ones created before January. They are PAYING users to spread fear and enroll you to post negative comments/posts.\n5. GME has been and will always be the only play. Anything else is a distraction to limit the impact GME can have. (Yes, even RKT). Never will the planets align this perfectly again to trigger the biggest short squeeze of your lifetime.\n6. The most important point : Don't sell. Supply and demand : you have something they want, we all do. So YOU set the price you want. And the price can actually go up to infinity. This is going to be the biggest transfer of wealth the world has ever seen, don't ruin it being a paper hand and selling low.\n7. Hold. Hold. Hold. Selling at 1k is trolling. They want you to sell at 1k, that's why they keep spamming comments saying they put stop limits at 1k. 1k is lowball. 1k could just be a gamma squeeze. 10k is lowball.\n8. As stated by u/Polihanna, the squeeze will last multiple days. Don't be afraid that it lasts a few seconds and you'll miss it. You won't. \n9. Don't day-trade GME. It's extremely volatile, and you actually help them by selling shares that they can buy for cheap. You delay the squeeze and reduce its impact if you day-trade.\n10. THIS IS NOT A GAME OF GREED. IT IS A GAME OF TRUST.",
+        "created_utc": 1614710700,
+        "id": "gpfzks5",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614739500.0
+    },
+    {
+        "author": "New_Assignment_5486",
+        "body": "RKT is a distraction. Only boomers would choose a \u201crocket ship\u201d ticker and drive the price up to try to confuse retarded apes with something shiny. If I was to guess the powers that be are somehow using it to profit to use those funds to further short our stonk. At the very least they are trying to pull us off our beloved GME trip to VALHALLA.  Fuck them. Together ape strong. HODL. \ud83e\udd8d\ud83e\udd8d\ud83e\udd8d\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\udc8e\ud83d\udc8e\ud83d\udc8e",
+        "created_utc": 1614713753,
+        "id": "gpg6r8c",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614742553.0
+    },
+    {
+        "author": "Burnt_Couch",
+        "body": "We're about to enter power hour here comrades. \n\nIt's important to keep in mind that seeing a dip would not be unexpected. It could dip below $110, or even $100. This is nothing to worry about.\n\nIf you believe in the fundamentals of this stock you'll know what to do. Take advantage of sales when you see them if you feel so inclined. But if you believe in the fundamentals, and that this stock will see &gt;$150, &gt;$200, &gt;$500, etc...a small dip now should not worry you. \n\nHOLD STRONG LADS.",
+        "created_utc": 1614714318,
+        "id": "gpg823n",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614743118.0
+    },
+    {
+        "author": "Emphermal",
+        "body": "British army green beret commandos checking in, followed from 480 all the way back down to 40 and lost money but gained some amount of laughs, also, it is me and my friend who is in on this with me, $200+ EOD and a few upvotes and we will both get a diamond palm tattoo and a rocket on there too, long live the apes.",
+        "created_utc": 1614702748,
+        "id": "gpfh9jp",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1614731548.0
+    },
+    {
+        "author": "GR8Cobb",
+        "body": "You guys are a bunch of retards... Investing into a single stock that has no real upside and is hanging its hope on one man and a vision. Dumping countless dollars into stocks and options that are going to bring you nothing but heartburn and headaches... And you know what? I dig it. I like the direction of the company. I like the upside. I'm a fucking gamer. And I'd love nothing more than to see these rich fucks squirming like they are in thay scene from Dark Knight Rises... \"Exile or death?\" Fuck it... I'm in. Keeping what I have and buying the dips again and again and again. Way to go you autistic fucking diamond handed apes. I love you all but most importantly, I love the fucking stock. Oh, and I'm not financial advisor for whatever that is worth \ud83e\udd37\u200d\u2642\ufe0f. \ud83e\udd8d\ud83d\udcaa2-Gether \ud83d\udc8e\ud83d\udd90 4-Eva",
+        "created_utc": 1614701848,
+        "id": "gpff8so",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1614730648.0
+    },
+    {
+        "author": "AJDillonsMiddleLeg",
+        "body": "Yes RKT diverts attention from GME. But calling them shills is dumb af. It's up over 60% today from a clear gamma squeeze (every option on the chain is ITM). I missed out on it, which is fine but congrats and fuck you to those that didn't miss it.",
+        "created_utc": 1614711899,
+        "id": "gpg2eqi",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1614740699.0
+    },
+    {
+        "author": "Columbian-Roaster",
+        "body": "So 1 stock goes 70% up a day wow.. Let\u2019s fucking make it the megathread now.\n\nGME saw way better increases not once bitches\n\nThis is the way. GME To the moon \ud83d\udc8e\ud83d\ude4c\ud83d\ude80\ud83d\ude80",
+        "created_utc": 1614717214,
+        "id": "gpgeti5",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1614746014.0
+    },
+    {
+        "author": "South_Onion",
+        "body": "8K comments in the first hour of this thread. Imagine thinking it was a good idea to **not** have a dedicated GME thread. \n\n\nLets get it boys. \ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "created_utc": 1614703600,
+        "id": "gpfj7ck",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1614732400.0
+    },
+    {
+        "author": "Korso213",
+        "body": "I bought a $50c 3/19 yesterday around noon and nearly shit my pants when I checked it today to see it up 4100%",
+        "created_utc": 1614717654,
+        "id": "gpgfupf",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1614746454.0
+    },
+    {
+        "author": "lucy_1204",
+        "body": "I want AMC to go up a bit so I can cut my losses and put it all into GME \ud83d\ude4c\ud83c\udffc\ud83d\ude80\ud83d\udc8e",
+        "created_utc": 1614709926,
+        "id": "gpfxrdy",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1614738726.0
+    },
+    {
+        "author": "apogreba",
+        "body": " \"So lets pump gay rocket stock (im not going to name) Then as it's going  up, we'll synthetically drop GME at the same time with our borrowed  shares to make it appear that there's a sell-off. That should work,  right.\"\n\n\"What?! The retards just bought more?!!!! What the fuck?!\"\n\nmelvin",
+        "created_utc": 1614714507,
+        "id": "gpg8hu9",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1614743307.0
+    },
+    {
+        "author": "sirpe_008",
+        "body": "it's funny how a lot of u are saying that u wait for the dip and when it dips u get scared. \n\nhold. \ud83d\udc8e\ud83d\ude4c",
+        "created_utc": 1614718547,
+        "id": "gpghzlr",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1614747347.0
+    },
+    {
+        "author": "samgarita",
+        "body": "RKT is such a distraction. Fucking boomer way of thinking \u201cLook fellow kids! A ROCKET stock! Catchy name, catchy ticker symbol! You guys can \ud83d\ude80\ud83d\ude80!!\u201d\nI\u2019m not buying it.",
+        "created_utc": 1614704875,
+        "id": "gpfm55j",
+        "score": 26,
+        "subreddit": "wallstreetbets",
+        "created": 1614733675.0
+    },
+    {
+        "author": "Zen0d0x",
+        "body": "**To the ones who ditched us for stock that shall not be named,** \n\nI hope you realize that is a pump, and that stock has no backing on that vastly inflated price. I hope you all regret it tomorrow morning as it fucking crashes. I hope GME opens so GODDAMN strong tomorrow you all lose your positions. \n\nFurthermore, I hope you wake up to a flat tire, with no spare. I hope you get caught in traffic. I hope when you eventually make it in to work, the coffee is out. I hope when you wake up your work PC around your colleagues it's overloaded with gay fucking porn. I hope you find out your wife has been fucking one of your family members. I hope you come home to no fucking dinner. I hope you catch Syphilis and your dick falls off. \n\nWith Love, \n\n**A true fucking Hodler.**\n\n**(Eat a dick, better yet... eat a million.)**",
+        "created_utc": 1614716949,
+        "id": "gpge6op",
+        "score": 26,
+        "subreddit": "wallstreetbets",
+        "created": 1614745749.0
+    }
+]

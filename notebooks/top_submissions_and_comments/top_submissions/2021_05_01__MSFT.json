@@ -1,0 +1,74 @@
+[
+    {
+        "author": "godisdildo",
+        "created_utc": 1619863183,
+        "id": "n2fchi",
+        "num_comments": 185,
+        "num_crossposts": 0,
+        "selftext": "Reading through this sub you get the feeling that everyone \u201cknows\u201d it but no one is exactly giving a single reason for why, other than \u201cit should because of high valuations\u201d.\n\nIt reads as a lot of wishful thinking and arrogance. Where the hell do you place Apple, the largest company in the world growing 50%?  \n\nGrowth has outperformed value for 20 years, and the winners of the dot com crash , like Apple, Microsoft and Amazon, have outperformed everything by a huge margin in the last 30 years. \n\nEither the valuation methods were good to use and it\u2019s just that the type of company that wins the future has so much higher margins and network effects that the definition of key value metrics has to change, OR (like many here seem to suggest), somehow this will all \u201cregress to the mean\u201d and somehow Sysco, public enterprise group, and Cincinnati Financial (great companies I also own) will eventually outperform the other ones I mention?\n\nGive me a break, it has nothing to do with finance and everything to do with business model. If you can\u2019t understand how business has changed finance, then you will continue to underperform by relying on outdated financial discipline viewpoints.",
+        "subreddit": "investing",
+        "title": "Not a single one of you are able to argue why \u201cgrowth will collapse\u201d",
+        "url": "https://www.reddit.com/r/investing/comments/n2fchi/not_a_single_one_of_you_are_able_to_argue_why/",
+        "created": 1619891983.0
+    },
+    {
+        "author": "nobjos",
+        "created_utc": 1619875150,
+        "id": "n2i6oj",
+        "num_comments": 180,
+        "num_crossposts": 0,
+        "selftext": "This post is in continuation of a series of posts I made in the previous weeks. The response I received was amazing and lot of you were asking for continued weekly updates. So here goes!\n\n**Most Discussed Stocks of the Week**\n\nhttps://preview.redd.it/tymisf4seiw61.png?width=623&amp;format=png&amp;auto=webp&amp;s=1aa1cef4c9a92f4863d89db376e4b86acf9380c9\n\n Microvision has overtaken GME to become the most discussed stock. This is the first time since Jan\u201921 that any stock has overtaken GME in the number of mentions (Not even the $100B Coinbase IPO could do it). Clover health has fallen from 3rd position last week to 7th this week. Coinbase also dropped out of the top 10 and is now in the 12th position. All the others are the usual stocks in the top 10 list except for Microsoft. They booked their biggest revenue growth since 2018 but down 3%+ after hours. \n\n **Top Growing Stocks of the Week** \n\nhttps://preview.redd.it/obttnaoueiw61.png?width=624&amp;format=png&amp;auto=webp&amp;s=c8e0b1a918c030d69646aa7f4915def8c13f1007\n\n Above is the list of stocks that have exploded in the number of mentions throughout social media.\n\n**MicroVision ($MVIS)** has been trending for the last two weeks. To say that the stock had a wild ride for the last 2 weeks would be an understatement. The stock went from having less than 500 mentions to more than 15,000 mentions in the last 2 weeks. The sentiment has also been affected by the recent drop going from 24% last week to 15% this week.\n\n**Globalstar ($GSAT)** is a Mobile satellite service company incorporating themselves into many new areas. GSAT was up 50% on Monday causing the spike in chatter. There has been a lot of discussion on the company trading at a value less than what their satellites currently in orbit are worth.\n\n**Nokia($NOK)** has beaten all expectations in earnings report and the stock jumped 11%. Their net profit increased more than 11-fold to 375 million euros ($455 million) which was well above analysts' estimates for adjusted profit of 90 million euros. The extremely bullish outlook is also reflected in the sentiment figures.\n\n**Ocugen($OCGN)** was trending mainly due to their partnership with an Indian firm \u2013 Bharat Biotech which produces Covaxin. The vaccine was found to neutralize a new type of Covid-19 variant and Dr. Fauci has said that this might be very important against the current pandemic. Ocugen is planning to bring this COVID-19 vaccine to the US, pending FDA authorization.\n\n**Amazon($AMZN)** was generating discussions due to its pending earnings report. There was a lot of speculative talk about a stock split. But they delivered beats on overall revenue and AWS revenue and far exceeded EPS estimate for Q1 2021.\n\n**SOME FAQ\u2019s:**\n\nHow does the program work: The program is built using Python and uses both Twitter and Reddit API to stream comments and tweets and spot tickers that are exhibiting accelerated growth. I added sentiment analysis to the findings so as to check the general sentiment (whether what is being talked about the stock is positive or negative).\n\nCan I use the code/is it open source: Yes.\n\nWhat is sentiment: It's calculated using natural language processing with a modified version of vadersentiment. You get pre-trained models which classify whether a given statement is positive or negative. I have modified it to analyse financial comments also ( eg. Calls, puts, moon, gain, loss etc). It then classifies the statement between -100% and +100% depending on if it's negative or positive respectively. The numbers you are seeing here is the average across all the comments.\n\nThank you for reading!\n\n*Disclaimer: I am not a financial advisor.*",
+        "subreddit": "wallstreetbets",
+        "title": "I analyze mentions and sentiment of stocks across Reddit and Twitter! This week's most discussed and top growing stocks!",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/n2i6oj/i_analyze_mentions_and_sentiment_of_stocks_across/",
+        "created": 1619903950.0
+    },
+    {
+        "author": "donemessedup123",
+        "created_utc": 1619919512,
+        "id": "n2we74",
+        "num_comments": 139,
+        "num_crossposts": 0,
+        "selftext": "Not asking for recommendations but curious to hear thoughts. FAAMG, as Goldman sachs defines as Facebook, Amazon, Apple, Microsoft, and Google (Alphabet), have been among the most dominant players in terms of growth, volume and market cap.\n\nAll of them have an arguably strong role to play in our society in the many years to come. \n\nI am curious to hear if anyone is particularly bullish or bearish on the outlook for any of these mammoth companies? \n\nDome focus questions: Do you think either of them are particularly positioned to dominate a new sector? Have some grown so large that they will stagnant from here? Do some now face legal risks because of alleged anti-competitiveness?",
+        "subreddit": "stocks",
+        "title": "Which FAAMG stocks do you think have the most potential 5-10 years?",
+        "url": "https://www.reddit.com/r/stocks/comments/n2we74/which_faamg_stocks_do_you_think_have_the_most/",
+        "created": 1619948312.0
+    },
+    {
+        "author": "electricp0ww0w",
+        "created_utc": 1619872336,
+        "id": "n2hg4j",
+        "num_comments": 50,
+        "num_crossposts": 0,
+        "selftext": "\nBackstory - Got into investing at the start of the year. Rode the gamestop train and was immensly annoyed at the manipulation taking place on it. Got out for a \u00a35k profit.\n\nGot back on the gamestop train and am sitting at a \u00a3200 loss.\n\nGot onto the meme train of a certain stock running this week that deals with Lidar tech. Had 5k profit, was too greedy, got tied up and couldnt check my profile, ended up with a 2k loss.\n\nI really struggle with taking profits. It's probably greed. This is the biggest part of my investing life that I need to work on. I always think \"hmmm 20% profit, thats good, but 25% is better\". This mindset screws me every time, to the point I end up taking a loss, or taking a tiny profit because I held on and lost the big profit.\n\nOn the back of this week, I threw a yolo at Amazon 2 hours before earnings and made about \u00a3600 with an \u00a318,000 play. Sold the next day.\n\nNow, this next thing is what really pissed me off - When I first started investing, I wanted to do my own DD.\n\nI found a British company called Scirocco Energy. It was a pennystock, trading around the $1 mark, but they had a couple of things I liked. Some mining operations set up for a few years down the line, and it looked pretty slick with some reasonable figures. It was my very first investment, and I put about \u00a330 in, just so I could say I was \"in the market\".\n\nIt traded sideways FOREVER. Until all of a sudden, the other day, it went skyward, 60% in a single day, On no news at all. it was obvious it was being pumped and dumped. I sold and took my tiny $16 profit.\n\nIt irked me though. Someone has found this stock, pumped it up to high heaven and is in the process of dumping it. There's zero regulation. Nobody gives a toss. Nobody cares.\n\nLook at gamestop. Brokers literally turned off the market for a couple of days and caused retail a world of pain.\n\nThe mavis was another glorified pumped up memestock.\n\nIt just stinks.\n\nSo, I'm kinda done with this short term investing.\n\nI'm looking for a long term investment, something I can throw that \u00a318,000 back in and do a Buffet on it. Leave it for a year or two and see what happens. Something which is only gonna go up, even if it is at a very slow rate. Low risk, low reward is fine by me, because my anxiety can't take any more of the huge changes in price on meme stocks.\n\nSuggestions anyone? Stick it all back in amazon? Microsoft? Some ETF that i'm unaware of? Maybe even BRK.B?\n\nI hope this doesn't come across as salty ranting tears because I lost money, in reality, my \u00a330k profile has probably broken even (maybe a tiny loss) since I started investing, but it's really opened my eyes to how it all works, and how much of a casino it all is.\n\nI've got a couple of meme-ish long positions which hopefully might come good this year, but I need some stability in my life.",
+        "subreddit": "stocks",
+        "title": "I'm disillusioned with the market as a whole. Any recommendation for foolproof, low risk, boomer stock for a big investment?",
+        "url": "https://www.reddit.com/r/stocks/comments/n2hg4j/im_disillusioned_with_the_market_as_a_whole_any/",
+        "created": 1619901136.0
+    },
+    {
+        "author": "shellycya",
+        "created_utc": 1619879741,
+        "id": "n2jk2k",
+        "num_comments": 15,
+        "num_crossposts": 0,
+        "selftext": "First DD about something I'm familiar with.\n\nI am currently in FAANG tickers plus MSFT. Earnings were good but the stock is either not moving, or went up and came back down. I\u2019m planning to sell everything I\u2019m green in and move the majority over to something that has been killing it which is lumber. It can add some more variety to this sub.\n\nMy husband is in the industry (his company is not publicly traded) and things have been good and bad. It\u2019s been good because people have been paying ridiculous prices for houses. Combine that with the building material shortage and he has been able to raise his profit margins. Very nice commission checks coming home.\n\nIt\u2019s bad because there is not enough lumber for everyone and he\u2019s been having hard conversations with builders who don\u2019t get that they will have to slow down because product is running out.\n\nHere are how lumber futures have been doing.\n\n5 Day \u2013 9.45%\n\n1 Month \u2013 48.41%\n\n3 Month \u2013 69.36%\n\nYTD \u2013 72.15%\n\n1 Year \u2013 359.39%\n\nIf anyone knows how to invest in futures without receiving actual product I would love to know. Don\u2019t want to be that guy that got a bunch of oil delivered to him.\n\nWith how things are going we are going to continue to see a rise in lumber for at least through the summer. The biggest problem is obtaining Engineered Wood Products (EWP) and OSB. Home Depot has quadrupled the price of OSB over the past year. There is also a resin shortage that is needed to make these products. Timber is cheap but the bottleneck is sawmills. Either they have reduced capacity due to covid or they are switching business to OSB because it is more profitable.\n\nI\u2019m looking at companies such as $BCC (38% last 3 months), $WY (23% last 3 months), $LPX (71% last 3 months). They have had great runs and are currently in a dip from the last few days. (Hopefully a dip and not the top).\n\nFirst companies that will be screwed sooner than later will most likely be home builders. They will soon realize they have been building houses for free and will get hit first. They try to hit a 35% profit margin. That margin is eroding by rising costs but they are under contract. Contracts last about 6 months. So expect their profits to go down. Unless they have been really good at guessing lumber futures and buying appropriately.\n\nHome builders have been hitting highs and could be shorted or have puts placed on them. Just look at the top 10 list of publicly traded developer stocks. Be careful with timing. They\u2019ve had big jumps this last week.\n\nBear case: The fed could finally raise interest rates which would decrease demand and let supply catch up. More investment can go into building out saw mills. Builders can get creative and use different materials. This is where steel gang can benefit. Supply could eventually catch up but it may take some time. This is a several month play for now.\n\nCurrent position is shares in $BCC. I've seen nice steady rise over the last few months.\n\nTLDR: Lumber has been on a great run and is getting more scarce. Buy lumber tickers such as $BCC, $WY and $LPX and puts on big home developers. Mid term play.",
+        "subreddit": "stocks",
+        "title": "Let's talk Lumber Gang! Bullish on $BCC and $LPX. Bearish on Home Builders.",
+        "url": "https://www.reddit.com/r/stocks/comments/n2jk2k/lets_talk_lumber_gang_bullish_on_bcc_and_lpx/",
+        "created": 1619908541.0
+    },
+    {
+        "author": "European_DGI",
+        "created_utc": 1619965846,
+        "id": "n37i2d",
+        "num_comments": 2,
+        "num_crossposts": 0,
+        "selftext": "",
+        "subreddit": "ValueInvesting",
+        "title": "Why I bought Microsoft stock after their quarterly earnings (DCF &amp; EV/EBITDA fair value analysis) | Sunday with eDGI \u2615",
+        "url": "https://youtu.be/8yOzp5ePOA4",
+        "created": 1619994646.0
+    }
+]

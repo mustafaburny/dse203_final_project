@@ -1,0 +1,50 @@
+[
+    {
+        "author": "joshua_phillips1983",
+        "created_utc": 1585146841,
+        "id": "foraju",
+        "num_comments": 38,
+        "num_crossposts": 0,
+        "selftext": "For all you peeps asking if it's hard to switch from RH to something else, this post is for you.\n\nBeen trading for a little over a year (still a newbie) on RH.  After the great RH crash of 2020, I decided to switch my TOS paper trading account over to a live account.  In doing so, I figured I'd give myself time to learn it better and add 3 extra day trades per week.\n\nAfter a week or so of playing with it and looking at some online tutorials, I started trading. (Also, loading tends takes about that long..... No instant deposits here.)\n\nLet me tell you, trading on TOS is night and day different.  TOS actually TRIES TO GET YOU THE BEST PRICE.  Spreads don't consistently go against you and I've had very few moments of hate for TOS.  It really isn't that hard to trade on and as you get better and learn the platform, there are a plethora of tools for you to use that aren't available on RH.  Don't be intimedated, it really is NOT THAT HARD!\n\nSet and learn the Hot Keys and you will actually enjoy trading at your computer if you have the time. \n\nNow back to your regularly scheduled tendies.....  who am I kidding, SPY is more autistic right now than half you tards!",
+        "subreddit": "wallstreetbets",
+        "title": "TOS Converter from RH",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/foraju/tos_converter_from_rh/",
+        "created": 1585175641.0
+    },
+    {
+        "author": "h3xadecimal2",
+        "created_utc": 1584033904,
+        "id": "fhjyrk",
+        "num_comments": 0,
+        "num_crossposts": 0,
+        "selftext": "Market Maker UP 7.5% before September futures fundnng flipped sides: [https://i.imgur.com/gKM1zkU.png](https://i.imgur.com/gKM1zkU.png)\n\n&amp;#x200B;\n\nUp a whole 240% at all-time high, settling around 130-140% after September futures dropped below perpetual price, realizing gains on convergence of cash n carry futures arbitrage: [https://i.imgur.com/mAEKnJE.png](https://i.imgur.com/mAEKnJE.png)\n\n&amp;#x200B;\n\nWhat is it?\n\n&amp;#x200B;\n\nThis Deribit and BitMEX market making bot earns on fee rebates when making an individual post-only limit order turn into a position. It also gains from the (average) difference in spread on an individual instrument, and as I saw overnight while I was sleeping it gains significantly on the convergence of perp vs futures arbitrage based on funding rates.\n\n&amp;#x200B;\n\nMoon!\n\n&amp;#x200B;\n\nYou can review the bot's graph in real-time here: [http://jare.cloud:8080](http://jare.cloud:8080) \\- note that since the huge climb and for most of today it took a break, as it noticed the increase in balance and decided to sleep for a day (the higher of my two Takeprofit values). I've manually intervened and it's now pumping out trades again.\n\n&amp;#x200B;\n\nI'm offering the bot FREE of charge for those people who use my referral link. My referral link earns a % of fees when people market out of a postiion (every other ordering cycle it reduces it's skew, and on either layer of stoploss/takeprofit it first reduces it's skew back to delta-neutral then all the way down to 0 position). I believe in Free and Open Source as a religion - and while the final bot that we end up putting into production will have configs and values fed to it by our AI at Coindex Labs, the Intellectual Property for the bot without AI is mine and I decide to share it. There would need to be literally tens of millions of dollars on this bot for it to hurt anyone else's edge.\n\n&amp;#x200B;\n\nWhile I'm asking for people to sign up for referral links, I've closed the repository with the bot until after people provide proof they've signed up on the referral link. While the bot was 100% open-source before, I noticed that 40 people cloned the repository in one day while I only received maybe 2 referral link signups - which isn't sustainable. Once you sign up on the referral link, you're free to review the code in full or have someone audit it.\n\n&amp;#x200B;\n\nYou need to enter your key and secret to the [testing.py](https://testing.py) file for Deribit or [bitmex2.py](https://bitmex2.py) file for BitMEX for the bot to function. It never ever sends these keys anywhere other than to the exchanges, and when it's sent to the exchange it's hashed into a signature that people can't figure out. Moreover, on an exchange like Deribit so long as the keys aren't withdraw keys then there's very little risk in using them in the first place.\n\n&amp;#x200B;\n\nMoon!\n\n&amp;#x200B;\n\n[https://github.com/DunnCreativeSS/deribitBitmexMarketMaker\\_ByFunding](https://github.com/DunnCreativeSS/deribitBitmexMarketMaker_ByFunding)",
+        "subreddit": "investing",
+        "title": "Market Maker in Livenet Production on Deribit UP more than DOUBLE in MINUTES as it realizes gains from cash n carry futures convergence giving arbitrage yields!",
+        "url": "https://www.reddit.com/r/investing/comments/fhjyrk/market_maker_in_livenet_production_on_deribit_up/",
+        "created": 1584062704.0
+    },
+    {
+        "author": "Faulty_Grapes",
+        "created_utc": 1584954731,
+        "id": "fngyld",
+        "num_comments": 0,
+        "num_crossposts": 0,
+        "selftext": "",
+        "subreddit": "stonks",
+        "title": "When you are playing a fighting game and won by spamming random keys",
+        "url": "https://i.redd.it/1rspz04n2eo41.jpg",
+        "created": 1584983531.0
+    },
+    {
+        "author": "p_giggles",
+        "created_utc": 1584940098,
+        "id": "fneeln",
+        "num_comments": 64,
+        "num_crossposts": 0,
+        "selftext": "Since pretty much everything's been crushed in the past months its led to many dividends looking much more attractive so here are some of my picks. I typically try to look at good free cash flow/growth, a yield that's high but not too high (so usually 2.5%-5%), payout ratio below 50%, companies with diversified revenue streams, and whether or not the company is  a dividend aristocrat. I'm open to all input or criticism! Anyways, here goes:\n\nCMI (Cummins) - 4.5% yield. As a cyclical industrial company, it had already been trading down since October or November so it's at an even further discount to companies which were setting ATHs in February. Rock solid management with a shit ton of cash flow and a low payout ratio. \n\nHON (Honeywell) - 3.2% yield. Widely diversified company in many sustainable/critical markets like defense which has taken an absolute nosedive from $183 to below $110. \n\nABBV (AbbVie) - 6.8% yield. One of the riskier options as it's still working through the massive Allergan acquisition. However it's received most of the approvals it needs and acquiring Allergan (who's biggest product is Botox) will help it diversify once the patent on Humira, by far its biggest revenue generator, expires in the next few years. \n\nRTN/UTX (Raytheon/United Technologies) - both above 3% yield. I list both because they're currently in the process of merging with each other, but both have become good dividend choices with the current panic. I also mention both because it's a merger of equals which will create a new company under the ticker RTX. Raytheon has always had good management and was a great growth stock while United always was a better stock in down times, but both have been hammered. While there are some risks and the actual process will take forever since they're both huge, the businesses seem to have a lot of synergistic opportunities and as a result would probably be able to deliver a stable dividend down the road. \n\nJPM (JP Morgan) - 4.3% yield. I see them as the most conservative bank as during the recession they didn't even want bailout money because the business was fine, but were forced to take it. over the past few years JPM outperformed the market by a relatively sizable margin and has vastly improved at a structural level since the recession. I think this will be a similar outcome and see their dividend as safe. \n\nADP (ADP) - 3.2% yield. Has increased the dividend for 47 years straight and in my opinion is a consumer staple, but for businesses - so many businesses use their services for payroll that it seems relatively reliable in the current scenario. Nevertheless the market doesn't give a shit and the stock's been hit hard. \n\nPLD (Prologis) - 3.6% yield. This one is an industrial REIT with great performance over the last few years. \n\nHonorable mentions: LRCX, WEC/a thousand utility stocks, MCD, NEE.  \n\nHope this helps someone looking for dividend picks!",
+        "subreddit": "stocks",
+        "title": "My favorite dividend stocks right now",
+        "url": "https://www.reddit.com/r/stocks/comments/fneeln/my_favorite_dividend_stocks_right_now/",
+        "created": 1584968898.0
+    }
+]

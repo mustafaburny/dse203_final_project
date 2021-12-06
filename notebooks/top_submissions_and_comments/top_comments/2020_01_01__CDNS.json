@@ -1,0 +1,83 @@
+[
+    {
+        "author": "FloundersEdition",
+        "body": "many reason:\n\n* bears got burned, they retreated/covered short positions for now\n* fonds bought shares for their prospects (\"we invested in the biggest winner 2018 and 2019, we are good\")\n* noone wants Intel's \"best server CPUs\". hughe power draw, can't be cooled, no supply **at all** (not even price was announced). it was announced 6 months ago, some investors might believed Intels claims earlier, noone believes it now. it's a hughe difference, whether you supply 28 cores per socket or 56 cores. for their complete lineup: no PCIe 4.0 and only 48 PCIe lanes at best (EPYC has up to 128 PCIe 4.0 lanes!), it's becoming clearer every day: Intel will not be competitive for highest-end servers for at least 2 years (likely even 3-4) and AMD will be the biggest winner. Rome already get much better traction and qualified much faster than Naples, Milan likely coming mid year and it will qualify fast too\n* new 7nm Zen 2 with 8 cores Renoir-APU and better memory controller (huge power savings, clockspeed gains, IPC gains, better dealing with bandwith bottleneck) are expected tomorrow/very early this year (increased cadence compared to last years), while Intel has capacity and node issues. Intel tries to cut iGPU for desktop to regain capacity, but they samewhat forfeit marketshare with this call. OEMs have to use discret graphics, which they hate for Budget PCs (additional cost, additional power supply...). a refresh with better graphics can be expected ready for holiday season (van Gogh)\n* overall better economy forecast and china deal, so likely higher demand, Intel cannot supply processors, so AMD will even more\n* AMD ordered a **huge** amount of TSMCs wafer capacity, so they made a call\n* there is still the possibility of Apple using Zen for MacBooks and Macs, it's only clear that they drop Intel this year. Apple may use it's own chips, but that's quite a barrier (x86 -&gt; ARM) and they use AMD GPUs\n* Nvidia has yield issues, probably their line up is delayed a few months",
+        "created_utc": 1578173033,
+        "id": "fd50qvf",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1578201833.0
+    },
+    {
+        "author": "_J0hn_",
+        "body": "All at once.  You are dollar cost averaging your IRA on a yearly cadence (by design).\n\nDo it monthly if it helps you sleep, but it's not really going to help you unless the market is trending downward.  DCA is mostly a psychological tool to defer risk to some arbitrary point in time.",
+        "created_utc": 1578928883,
+        "id": "fe8phu0",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1578957683.0
+    },
+    {
+        "author": "123_holden",
+        "body": "CDNs can sell MMEN on Monday - Americans can't b/c market(including OTC) is closed on Monday",
+        "created_utc": 1579442492,
+        "id": "fey9fnu",
+        "score": 1,
+        "subreddit": "weedstocks",
+        "created": 1579471292.0
+    },
+    {
+        "author": "zebrawaterfall",
+        "body": "Anything after Eminem show is horrible. Cadence is so bad.",
+        "created_utc": 1579572303,
+        "id": "ff4tu3g",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1579601103.0
+    },
+    {
+        "author": "St8Troopa",
+        "body": "There's better 5G plays out there IMO. Look into edge CDNs.",
+        "created_utc": 1577962258,
+        "id": "fctvwte",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1577991058.0
+    },
+    {
+        "author": "wpiman",
+        "body": "Don\u2019t do a lot of analog stuff.  Mostly digital and use Modelsim and Cadence and synopsys products.",
+        "created_utc": 1580514741,
+        "id": "fg4znpq",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1580543541.0
+    },
+    {
+        "author": "123_holden",
+        "body": "If the MMEN cashflow/bankruptcy issues are true, I feel bad for the US investors - CDNs get to sell their shares on Monday while Americans can only watch.",
+        "created_utc": 1579358005,
+        "id": "fersvja",
+        "score": 1,
+        "subreddit": "weedstocks",
+        "created": 1579386805.0
+    },
+    {
+        "author": "123_holden",
+        "body": "I hope the rumors are not true - this sector has enough issues only to add a new one just when it starts rallying.  Also, the people who get burnt by MMEN's bankruptcy (if true) are not going to invest their money in this sector again.  Hell, there's people on here posting...if they could recoup 70% of their money from MJ investments...they will take their money and run.\n\nOn Monday, CDNs are going to be dumping\n\nTuesday will be Americans selling what ever is left",
+        "created_utc": 1579360908,
+        "id": "fes2zwb",
+        "score": 1,
+        "subreddit": "weedstocks",
+        "created": 1579389708.0
+    },
+    {
+        "author": "Thales111",
+        "body": "Also Robinhood in their desperation has employed an army of reddit trolls, whose cadence / vocab suggests are like Eastern Europeans they\u2019ve hired to intimidate people who report issues online\n\nI posted something about the negative buying power bug on Robinhood \u2014 one of literally multiple posts *that day* on the issue \u2014 and one of the responses was from a moderator who called me like a dumb fuck and downvoted my posts. Fucking insane man",
+        "created_utc": 1578579299,
+        "id": "fdn7dhv",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1578608099.0
+    }
+]

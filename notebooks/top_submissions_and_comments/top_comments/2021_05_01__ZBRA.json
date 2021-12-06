@@ -1,0 +1,209 @@
+[
+    {
+        "author": "warren_534",
+        "body": "Options on leveraged ETFs are just more costly, but relatively the same % of price as regular SPY, proportionally speaking.\nYou're better off buying multiple SPY options, due to far greater liquidity.\n\nLeveraged ETFs are fine for short term moves, but suffer from beta slippage on longer time frames due to being rebalanced and recalculated daily.\n\nYou might consider a ZEBRA put strategy, which will profit from an index decline, as well as increasing volatility, with no worries about time decay. \n\nI have some put ZEBRAs on in ES and NQ futures options.",
+        "created_utc": 1620083980,
+        "id": "gwud1ta",
+        "score": 12,
+        "subreddit": "options",
+        "created": 1620112780.0
+    },
+    {
+        "author": "quiethandle",
+        "body": "I'd like to introduce you to the put zebra. Zebra stands for zero extrinsic back ratio. There are a bunch of videos about this on the tasty trade website.\n\nYou purchased two in the money 70 Delta puts, and you sell one just out of the money 40 Delta put. Tweak the exact strikes so that your extrinsic value you are paying for is basically zero. Your Delta will be close to -100.\n\nIt's expensive, but you don't suffer from theta decay. And you don't risk getting your account blown out by literally shorting stock.",
+        "created_utc": 1621595519,
+        "id": "gyxioeg",
+        "score": 10,
+        "subreddit": "options",
+        "created": 1621624319.0
+    },
+    {
+        "author": "rupert1920",
+        "body": "A table like this is good for simpler strategies like straddles and strangles, where the Greeks are consistent throughout the life of the position (within the profit zone anyways).\n\nBut if you get into something like a diagonal spread, you'll find that you can be short theta or long theta at various times of the position. Likewise, with a calendar spread, you are long vega, yet because shorter dated options have larger IV swings, it can act like short vega.\n\nAnother example is a call ZEBRA - for all strike ranges from the current stock price up, it acts like 100 shares of stock and you're neutral in theta. But under that price, you're short theta. Very similar in other ratio spreads or broken wing flies where if you have a stock near the max profit zone, you won't realize it until very close to expiration as the Greeks flip.\n\nSo it's complicated to say the least...",
+        "created_utc": 1622291801,
+        "id": "gzv6g3z",
+        "score": 6,
+        "subreddit": "options",
+        "created": 1622320601.0
+    },
+    {
+        "author": "Pltr_x2-4_Tsla",
+        "body": "Their technology will be in every single house oh no business, that\u2019s zebra technologies bro, every single business need something from zebra",
+        "created_utc": 1620607195,
+        "id": "gxk18c8",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620635995.0
+    },
+    {
+        "author": "Pltr_x2-4_Tsla",
+        "body": "If you wanna play business to business(actually they sell everyone) zebra technologies, their best customers amazon(warehouses) and almost every single store in the us.\n\n printers, receipt printers and barcode readers, no competition, even there is they are the best.",
+        "created_utc": 1620613643,
+        "id": "gxkcdtc",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620642443.0
+    },
+    {
+        "author": "dvdmovie1",
+        "body": "Another vote for GNRC.\n\nCP, BIPC (not BIP), ZBRA, CARR",
+        "created_utc": 1621949718,
+        "id": "gze1jjn",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1621978518.0
+    },
+    {
+        "author": "happierdayz4me3",
+        "body": "Ah a UPC number. Calls on ZEBRA then?",
+        "created_utc": 1620594107,
+        "id": "gxjcr2p",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620622907.0
+    },
+    {
+        "author": "Pltr_x2-4_Tsla",
+        "body": "If you persist don\u2019t enter when it\u2019s cheap, then wait for the uptrend.\n\nZebra technologies, they are everywhere I buy that.",
+        "created_utc": 1620958765,
+        "id": "gy1y2ji",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620987565.0
+    },
+    {
+        "author": "Pltr_x2-4_Tsla",
+        "body": "Zbra",
+        "created_utc": 1620959131,
+        "id": "gy1yrf3",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620987931.0
+    },
+    {
+        "author": "ImpossibleAssistant5",
+        "body": "What is ZEBRA?",
+        "created_utc": 1620128751,
+        "id": "gww94hv",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1620157551.0
+    },
+    {
+        "author": "The_Transcendent1111",
+        "body": "Feeling good about ZBRA",
+        "created_utc": 1622122878,
+        "id": "gzmvuht",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622151678.0
+    },
+    {
+        "author": "LocalRemoteComputer",
+        "body": "One can their own basket of stocks in a broker like Fidelity and make those kind of gains or losses as a whole.  It helps distribute the risk and gain.  There are sector investments and select-type sector investments... but then again it's a small part of the whole, and subset of the zebra herd.  If someone finds a few million of the needed chips in a warehouse all those gains go the other way.\n\nI have a portion in something low-cost like FTEC and VGT but it's not been in for long.  So far so good.  There will be other moments of opportunity.\n\nOverall some sectors do better than others then something shifts... if you bet on the herd as a whole you don't have to keep shifting money within the herd. \n\n(And I wish I had cash on hand to make buys on all those semiconductor companies, but I'm not that kind of trader.)",
+        "created_utc": 1620421712,
+        "id": "gxbhag8",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1620450512.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the  3rd of May\n\n\n\n## Upcoming events for Monday, May  3rd\n\n - Stock splits:\n\n    - AMOT @ **3:2** (Payable date: 04/30/2021)\n    - BRBS @ **3:2** (Payable date: 04/30/2021)\n    - CIG @ **111.497:100** (Payable date: )\n\n - Expected earnings:\n\n  ADC, ADUS, AGR, AKTS, ALUS, ALX, AMG, APPF, ARGO, ATCO, AWK, AWR, BCEI, BELFA, BELFB, BLDP, BRX, BSM, BWXT, CAN, CAR, CBFV, CBT, CC, CEA, CHGG, CIB, CINR, CNA, CORT, CPTA, CR, CRNT, CSR, CURO, CVI, CYCN, DBVT, DESP, DSPG, DZSI, EARN, EL, ELVT, ENBL, ENIA, ENIC, EPD, EPRT, EVER, FANG, FLS, FN, FNCB, FRPT, FSTR, GAIA, GENC, GLAD, GLYC, GPP, GPRE, HBP, HLIT, HNRG, IAG, IPI, IRBT, ITRI, ITUB, IVAC, JKHY, KDNY, KELYA, KELYB, KFFB, KFRC, KMT, KPTI, KRYS, L, LDI, LEG, LGND, LJPC, LMNX, LTHM, LTRN, LXRX, MAXR, MFIN, MOS, MRNS, MSB, MWA, MYGN, NCSM, NERV, NSP, NSSC, NTR, NWPX, O, OGS, OHI, ON, OTTR, OVBC, OXLC, PEBK, PETS, PLOW, PW, QGEN, RBC, REGI, RGCO, RIG, RILY, RMBS, RVPH, RYTM, SANM, SBT, SCI, SEB, SEDG, SGU, SHLS, SHO, SIBN, SOI, SPNE, STRL, SU, TA, TCMD, TELL, TGH, THCA, THCB, TRC, TRVG, UAN, UE, VGZ, VMD, VNO, VNOM, VRNS, WEC, WMB, WMK, WTRE, WWD, XPO, ZI, ZNH\n\n - Ex-div:\n\n  ASML, BMTC, BND, BNDW, BNDX, CAPL, CIG, CRS, FAM, FCCO, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, FTHY, IGD, ITUB, LMRK, MCBS, PKBK, SAFM, SHLX, SNY, SPH, SRCE, SRLP, STZ, STZ.B, VCIT, VCLT, VCSH, VGIT, VGLT, VGSH, VMBS, VTC, VWOB, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.020%)\n    - 6-Month Bill Auction (previous: 0.035%)\n    - Construction Spending (consensus: 1.9%, previous: -0.8%)\n    - FOMC Member Williams Speaks\n    - Fed Chair Powell Speaks\n    - ISM Manufacturing Employment (consensus: 61.5, previous: 59.6)\n    - ISM Manufacturing New Orders Index (previous: 68.0)\n    - ISM Manufacturing PMI (consensus: 65.0, previous: 64.7)\n    - ISM Manufacturing Prices (consensus: 86.1, previous: 85.6)\n    - Investing.com Gold Index (actual: 50.0%, previous: 52.0%)\n    - Investing.com S&amp;P 500 Index (actual: 49.1%, previous: 33.1%)\n    - Loan Officer Survey\n    - Manufacturing PMI (previous: 60.6)\n    - Total Vehicle Sales (previous: 17.70M)\n\n## Upcoming events for Tuesday, May  4th\n\n - Expected earnings:\n\n  ACLS, ACOR, ACRE, AFG, AGRX, AHH, AHT, AIZ, AJX, AKAM, ALC, ALGT, ALRM, AMCR, AME, AMK, AMRC, ANDE, ANET, ANVS, APEN, APO, APTO, AQB, AQST, ARC, ARCB, ARNC, ARVN, ARWR, ATC, ATRA, ATVI, AYX, AZYO, BBGI, BEN, BEP, BERY, BG, BGFV, BHC, BKEP, BKH, BNFT, BNL, BR, BRY, BTG, BXC, CBB, CDEV, CDLX, CEIX, CERS, CGBD, CHCT, CIGI, CIX, CLDT, CMI, CMP, CNCE, COP, COUR, CPK, CPSI, CRK, CRL, CRSR, CTLT, CTSO, CTVA, CVGI, CVLT, CVS, CWH, CXDO, CYRX, CZR, D, DCO, DCPH, DD, DEA, DEI, DENN, DHT, DK, DKL, DLB, DOOR, DRRX, DVN, EC, ENLC, EPAY, EQC, ERYP, ESE, ESPR, ETN, ETRN, EXAS, EXPD, EXTN, FCBP, FI, FNHC, FSP, FSS, FTSI, GCP, GHC, GILT, GLDD, GLT, GMED, GOOD, GPN, GRBK, GRFS, GSKY, GTE, H, HASI, HCCI, HEP, HI, HLF, HMN, HSC, HSIC, HST, HURN, HY, IAA, ICD, ICFI, ICHR, IDN, IDXX, INCY, INFN, INGN, INGR, INN, INS, INSP, INTZ, IOSP, IPGP, IT, ITIC, JAZZ, JBGS, JNCE, KAI, KAMN, KAR, KBAL, KKR, KNSA, KOPN, KTCC, LADR, LAMR, LANC, LARK, LCII, LDOS, LGIH, LNG, LNTH, LOOP, LPSN, LPX, LSCC, LSI, LUNG, LYFT, MANT, MBUU, MCFE, MCRB, MCY, MEC, MED, MELI, MIC, MLM, MOSY, MPC, MPLX, MPWR, MRCC, MRCY, MSEX, MTCH, MTOR, MVBF, NEX, NMIH, NNN, NR, NRC, NS, NSA, NVTA, NXST, OBSV, ODT, OSPN, OUT, PAA, PAGP, PAYC, PCRX, PEAK, PEN, PERI, PFE, PINC, PKI, PKOH, POWL, PQG, PRO, PRU, PTCT, PTVCA, PTVCB, PUMP, PVAC, PVG, PXD, PXLW, QUAD, RACE, RARE, RCKY, RCM, RCUS, RDN, RGEN, RHP, RM, RMRM, RNG, RPAI, RRR, RTLR, RVI, RYAM, SABR, SAGE, SEE, SFST, SGMO, SIFY, SILK, SITM, SKLZ, SMCI, SND, SPCE, SPNS, SPT, STAG, STIM, SYKE, SYX, SYY, TBPH, TCS, TDG, TIMB, TKC, TMDX, TMUS, TNC, TREC, TRI, TRTX, TSLX, TTEC, TTI, UA, UAA, UFPT, UPWK, USAC, UTL, VECO, VERI, VIAV, VIRT, VMC, VREX, VRSK, VSH, VST, VTOL, VVI, WDR, WEYS, WK, WLFC, WLK, WLKP, WMG, WOW, WSR, WTI, WTS, WTTR, WU, XELA, XENT, XLNX, XOMA, XP, XYL, YORW, Z, ZBH, ZBRA, ZG\n\n - Ex-div:\n\n  AMRB, BANR, BBD, BBDO, BUD, CS, EIG, ETRN, FMX, HFWA, IBCP, IDA, NTIC, RELL, TGP, USDP, WBS\n\n - Economic events and announcements:\n\n    - API Weekly Crude Oil Stock (previous: 4.319M)\n    - Durables Excluding Defense (previous: 0.5%)\n    - Exports (previous: 187.30B)\n    - FOMC Member Daly Speaks\n    - Factory Orders (consensus: 1.3%, previous: -0.8%)\n    - Factory orders ex transportation (previous: -0.6%)\n    - IBD/TIPP Economic Optimism (previous: 56.4)\n    - ISM NY Business Conditions (previous: 37.2%)\n    - ISM-New York Index (previous: 804.5)\n    - Imports (previous: 258.30B)\n    - Redbook (previous: -17.2%)\n    - Redbook (previous: 13.9%)\n    - Trade Balance (consensus: -74.50B, previous: -71.10B)\n\n## Upcoming events for Wednesday, May  5th\n\n - Stock splits:\n\n    - FRSB @ **105:100** (Payable date: 05/20/2021)\n\n - Expected earnings:\n\n  AAWW, ABC, ABEO, ABIO, ABUS, AC, ACAD, ACCD, ACR, ADMA, ADPT, ADT, ADTN, AEGN, AEIS, AEL, AERI, AEZS, AFIN, AINC, ALB, ALCO, ALG, ALGM, ALL, ALLO, ALSK, ALTM, AMEH, AMOT, AMPE, AMPY, AMYT, ANAB, ANSS, AOSL, APA, APT, AQUA, ARAV, ARLO, ARNA, ASC, ASM, ASTE, ASYS, ATAX, ATLO, ATO, ATSG, ATTO, AVA, AVID, AVNS, AVNW, AXGN, BAND, BBSI, BBU, BCH, BCOR, BCSF, BDC, BE, BFAM, BFS, BHR, BKNG, BLX, BRKR, BWA, BXRX, CCMP, CCRN, CCU, CDAY, CDNA, CDW, CENT, CENTA, CENX, CERN, CF, CFBK, CFMS, CGEN, CIM, CKPT, CLDX, CLH, CLLS, CLNC, CLVS, CLW, CMLS, CMRE, CNDT, CNHI, CPA, CPAC, CPE, CPSS, CRD.A, CRD.B, CRTO, CSGS, CSTE, CTSH, CUB, CUTR, CW, CXW, CYBR, DAR, DCP, DFIN, DGII, DHC, DHX, DIN, DLHC, DMAC, DNB, DNN, DNOW, DOC, DRTT, EAF, ECPG, EDIT, EFC, ELA, EMKR, EMR, EPM, EPR, EQH, EQT, EQX, ES, ESTA, ESTE, ETSY, EVH, EVRI, EXC, EYEG, EYPT, FATE, FDP, FICO, FLEX, FLMN, FLOW, FLT, FMC, FMS, FNV, FORR, FOX, FOXA, FPAY, FRPH, FRT, FSLY, FTS, FUN, FUNC, FVE, FXNC, GAU, GBT, GDDY, GDOT, GEL, GFL, GFN, GGB, GIL, GKOS, GLRE, GM, GMAB, GMRE, GNK, GOEV, GOLD, GPL, GRP.U, GSS, GSX, GTHX, HARP, HAYW, HCC, HDSN, HEAR, HFC, HLT, HNGR, HPP, HR, HRTG, HRTX, HSON, HUBG, HUBS, HZNP, IEC, IIPR, IMXI, INMB, INMD, INSG, IO, IONS, ISEE, IVC, IVR, JLL, JRVR, KALA, KE, KIDS, KLIC, KRO, KTOS, KVHI, KW, LBTYA, LBTYB, LBTYK, LCI, LESL, LHCG, LILA, LILAK, LL, LMRK, LNC, LNSR, LOPE, LPI, LUMN, LUMO, MCS, MDCA, MDU, MDWD, MET, MFC, MGPI, MGY, MLR, MLVF, MNKD, MNR, MOR, MRO, MTG, MTW, MYO, NBIX, NC, NEO, NESR, NGD, NHTC, NI, NL, NLTX, NMFC, NNA, NODK, NOTV, NP, NRZ, NUS, NUVA, NVEC, NVO, NVRO, NVST, NWN, NYT, OAS, OCDX, OCUL, ODP, OM, OMI, OMP, OPTN, ORA, ORCC, OSUR, PARR, PASG, PDCE, PEG, PEI, PETQ, PFGC, PFIE, PFLT, PGEN, PING, PLMR, PLYA, PNNT, PNW, PRA, PRI, PRIM, PRTA, PSN, PSNL, PTMN, PTR, PTVE, PWFL, PYPL, QLYS, QNST, QRVO, QTRX, QTWO, QUOT, QURE, RCII, RCKT, RDFN, RDWR, RESN, REYN, RGLD, RGNX, RGR, RIGL, RKT, RLJ, RMNI, RNGR, ROCK, ROOT, RPT, RSG, RUN, RYI, RYN, SAFT, SAR, SBBP, SBGI, SBH, SBOW, SBRA, SCU, SGRY, SHI, SIMO, SITE, SJ, SJI, SKT, SLF, SLNG, SLRC, SMG, SMP, SMSI, SNEX, SNR, SPKE, SPR, SPWR, SRC, SRE, SRPT, SSYS, STAA, STAY, STKL, STLA, STN, STNG, SUNS, SUP, SUPN, SWM, SYN, TALO, TCON, TCPC, TGB, TLND, TNDM, TPC, TPTX, TPVG, TRMB, TRNO, TT, TTGT, TUP, TVTY, TWLO, TWO, TXG, UBER, UFCS, UGI, UIHC, UNM, UPLD, USDP, UTHR, VAC, VAPO, VBIV, VCEL, VGR, VNDA, VRTV, VYGR, WAT, WHD, WLL, WMC, WRK, WTRG, WW, WYNN, XEC, XNCR, XPER, YELL, ZIXI, ZNGA, ZVO\n\n - Ex-div:\n\n  AWI, CATC, CCK, ETR, FELE, FSBW, HMLP, IBTX, KBH, LSTR, MATX, NBN, NEP, NWBI, OFED, OMF, OPBK, SIMO, STBA, TX, VBTX, WTFC\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 810K, previous: 517K)\n    - Crude Oil Imports (previous: 1.218M)\n    - Crude Oil Inventories (previous: 0.090M)\n    - Cushing Crude Oil Inventories (previous: 0.722M)\n    - Distillate Fuel Production (previous: 0.071M)\n    - EIA Refinery Crude Runs  (previous: 0.253M)\n    - EIA Weekly Distillates Stocks (consensus: -0.648M, previous: -3.342M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.6%, previous: 0.4%)\n    - Gasoline Inventories (consensus: 0.508M, previous: 0.092M)\n    - Gasoline Production (previous: 0.243M)\n    - Heating Oil Stockpiles (previous: -0.175M)\n    - ISM Non-Manufacturing Business Activity (consensus: 69.5, previous: 69.4)\n    - ISM Non-Manufacturing Employment (previous: 57.2)\n    - ISM Non-Manufacturing New Orders (previous: 67.2)\n    - ISM Non-Manufacturing PMI (consensus: 64.3, previous: 63.7)\n    - ISM Non-Manufacturing Prices (previous: 74.0)\n    - MBA 30-Year Mortgage Rate (previous: 3.17%)\n    - MBA Mortgage Applications (previous: -2.5%)\n    - MBA Purchase Index (previous: 281.4)\n    - Markit Composite PMI (previous: 62.2)\n    - Mortgage Market Index (previous: 706.6)\n    - Mortgage Refinance Index (previous: 3,185.3)\n    - Services PMI (previous: 63.1)\n\n^^^^2021-05-03",
+        "created_utc": 1620046601,
+        "id": "gws01nq",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1620075401.0
+    },
+    {
+        "author": "Zachjsrf",
+        "body": "Zebra? They make little printers right?",
+        "created_utc": 1620958794,
+        "id": "gy1y4j9",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620987594.0
+    },
+    {
+        "author": "Pltr_x2-4_Tsla",
+        "body": "B2b side, their best customers usps and amazon lol \n\nI\u2019ve zebra printers too and no problem finding any driver.",
+        "created_utc": 1621607732,
+        "id": "gyy4dmu",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1621636532.0
+    },
+    {
+        "author": "SpliTTMark",
+        "body": "When are they going to get a grocery store contract.\n\nI can't buy zebra technologies anymore",
+        "created_utc": 1619888836,
+        "id": "gwk7725",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1619917636.0
+    },
+    {
+        "author": "VegaStoleYourTendies",
+        "body": "I know you said strikes shouldn't matter, but what about on that ZEBRA? Always interested in checking out a good ZEBRA",
+        "created_utc": 1621126712,
+        "id": "gy9x0rt",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1621155512.0
+    },
+    {
+        "author": "ChudBuntsman",
+        "body": "Im looking at putting on a ZEBRA (liz and jny explain it) spread on this and ARKK soon.",
+        "created_utc": 1621358803,
+        "id": "gylcfs1",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1621387603.0
+    },
+    {
+        "author": "quiethandle",
+        "body": "I'd like to introduce you to the put zebra. Zebra stands for zero extrinsic back ratio. There are a bunch of videos about this on the tasty trade website.\n\nYou purchase two in the money 70 Delta puts, and you sell one just out of the money 40 Delta put. Tweak the exact strikes so that your extrinsic value you are paying for is basically zero. Your Delta will be close to -100.\n\nIt's expensive, but you don't suffer from theta decay. And you don't risk getting your account blown out by literally shorting stock.\n\nYou can reduce the cost of this by going shorter distance out in time. It's not necessary to do this a year out, because you didn't pay for any net extrinsic value.\n\nFor management, if the stock moves against you and goes to your long strike, theta will now be working against you big time, so you should close the position and re-establish with new strikes.",
+        "created_utc": 1621595672,
+        "id": "gyxivgv",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1621624472.0
+    },
+    {
+        "author": "Pltr_x2-4_Tsla",
+        "body": "Low volume is not a bad thing(if it\u2019s 2000 yes bad), I\u2019m in zbra since 2019, check zbra volume and price.",
+        "created_utc": 1621877009,
+        "id": "gzalqh4",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1621905809.0
+    },
+    {
+        "author": "Ensemble_InABox",
+        "body": "I love ENPH. Won\u2019t comment on your question but ENPH is the best play in the alternative energy space. Margins are top notch, product road map is top notch, C team are excellent, and the space is growing.\n\nIt got super richly valued at the start of the year because people thought climate change was a big priority for Biden.",
+        "created_utc": 1622575424,
+        "id": "h087cx4",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1622604224.0
+    },
+    {
+        "author": "SHOWTIME2283",
+        "body": "Man..... ENPH really needs some love right now.....",
+        "created_utc": 1622739105,
+        "id": "h0gjnvn",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622767905.0
+    },
+    {
+        "author": "SHOWTIME2283",
+        "body": "Buy XOM, ENPH - Thank me later....",
+        "created_utc": 1622575456,
+        "id": "h087fev",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622604256.0
+    }
+]

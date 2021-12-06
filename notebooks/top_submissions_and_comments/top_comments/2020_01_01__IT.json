@@ -1,0 +1,902 @@
+[
+    {
+        "author": "zincinzincout",
+        "body": "I'd say you guys should look into real estate... but Wallstreetbets would buy a house, try to flip it by restoring everything themselves, but then just knock down all the walls and sell all the copper pipes at minimum copper market",
+        "created_utc": 1578278763,
+        "id": "fdcmqwg",
+        "score": 1413,
+        "subreddit": "wallstreetbets",
+        "created": 1578307563.0
+    },
+    {
+        "author": "whitethunder9",
+        "body": "A really easy way to cheat is look at Berkshire Hathaway's quarterly SEC filings and watch those companies. When their price drops by 15%, buy. When it drops 15% more, buy more. Rinse, repeat. Then hold for a long time.",
+        "created_utc": 1578245230,
+        "id": "fdaesmx",
+        "score": 1389,
+        "subreddit": "investing",
+        "created": 1578274030.0
+    },
+    {
+        "author": "sdavid1726",
+        "body": "Sorry guys, I'm going to be the party pooper here. There are a lot of things wrong with this post. OP didn't actually make any arguments. They just posted a spreadsheet and stated some facts about the numbers with zero analysis, then slapped a clickbait title  on top. Did everyone who upvoted this just smile and nod and say \"Yeah, I recognize some of those words...\"?\n\nFirst off, you have a lot of errors in your spreadsheet, both in data entry (e.g. a lot of the D column) and in your calculations. Why is \"Total Capital Employed\" = \"Net Long Term Debt\" + \"Book Value\"??? A lot of your other formulae have similar errors. Even if the data was correct, Point I still wouldn't make sense or mean anything. How can a company have \"no capital in their business\"? Do you know what capital *is*? You're telling me that Amazon didn't have any capital until 2012? A company can't exist without capital in the same way lemonade can't exist without lemons. Did you mean negative working capital? In that case you'd still be wrong, as Amazon's current assets have exceeded its current liabilities since at least 2004.\n\nPoint II is flat out wrong. Cash flow numbers aren't a valid measure for company growth. Comparing CapEx to D&amp;A in the manner you described would lead you to conclude that Amazon has been \"shrinking\" for the past four years: https://www.macrotrends.net/stocks/charts/AMZN/amazon/cash-flow-statement?freq=A\n\nTake a look at the balance sheet. Amazon has experienced monotonic growth as far as those tables go back.\n\nPoint III isn't really proving anything either. You're basically saying \"Amazon made money\". Sure, 7 years after it IPO'd. Lots of other companies made money year after year from 2004 onward, what made Amazon so special?\n\nI'm really disappointed that this post hit the top of /r/investing. It's word salad that's trying to draw some sort of revelatory, hyperbolic conclusion. OP is far from an expert here. I recommend everybody here look at a company balance sheet + income statement (Form 10-K) and actually learn what all of the words and numbers mean. Here's a good place to start: https://corporatefinanceinstitute.com/resources/knowledge/accounting/financial-statements-example-amazon-case-study/",
+        "created_utc": 1578212711,
+        "id": "fd811yo",
+        "score": 746,
+        "subreddit": "investing",
+        "created": 1578241511.0
+    },
+    {
+        "author": "theonlyevanever",
+        "body": "I'm from detroit, I'll just take the copper from your house an sell it.",
+        "created_utc": 1578280006,
+        "id": "fdcogix",
+        "score": 706,
+        "subreddit": "wallstreetbets",
+        "created": 1578308806.0
+    },
+    {
+        "author": "kashmat",
+        "body": "Wow, actual advise from r/investing that isn't 'put it all in an index fund'.\n\nThank you good sir.",
+        "created_utc": 1578250553,
+        "id": "fdav0t1",
+        "score": 699,
+        "subreddit": "investing",
+        "created": 1578279353.0
+    },
+    {
+        "author": "ForemanDomai",
+        "body": "Physical gold bullion is one of the few financial assets without any counter-party risk. I prefer gold ETFs for my Golden Butterfly/Permanent Portfolios, but I keep a small amount of physical metals which are much more difficult for the state or financial system to contest, it can be used as a hedge to frustrate the court's effort to reduce your wealth. Depending on your threat profile, holding physical gold in overseas storage is also useful (but introduces that counter-party risk).\n\nPeople think in extremes - either the system of currency, private property, functioning legal structures that ensure liquidity and proper market access are fully functional, or we are down to guns and canned food. They can't imagine the huge gray area of misery in a failed state where, although you're not living like in Fallout, you still hope you have something other than fiat.",
+        "created_utc": 1578320511,
+        "id": "fddpkre",
+        "score": 513,
+        "subreddit": "investing",
+        "created": 1578349311.0
+    },
+    {
+        "author": "capnwally14",
+        "body": "In super simple terms:   \nA short sell means borrowing a stock in order to sell it - promising the original owner you'll pay them back the original stock at a future date. Imagine Joey thinks Company A's stock is too high at $100. If he wants to short sell the Company A's stock, he could go to a broker and borrow someone else's share (in this case he could borrow Jimmy's stock) and sell it at $100 - promising to give Jimmy back his share in the future. If Joey is right, and the stock drops to $80, then he can buy back Company A's share at $80 (and give it to Jimmy) and keep $20 for himself. If on the other hand Company A's share goes up to $120, Joey is out of luck and will have to pay $120 to give back the share to Jimmy - thereby losing $20. You can see why short selling is dangerous - in this situation, Jimmy at most could have gained $100 (if Company A's price had collapsed to zero), but at most could have lost an infinite amount of money.   \n\n\nSo what do you do if you want to bet against a company, but don't want to short sell? You might instead consider a put option. A put option is buying the right to sell a company's stock (for a premium) at a specific price (known as the strike) on a specific date\\*. So instead of short selling, maybe Joey will buy a put option that says for $1 he can buy the right to sell Company's stock for $100 in one year. If in a year the price of the stock is above $100, then the option will expire worthless - as anyone would rather sell at a higher price than at $100. If the price is below $100 in a year, then Joey will be able to exercise his option and take his earnings. Unlike selling short, now Joey is at most only losing the premium of the option, and at best earning $100.   \n\n\nA call option is the opposite of a put option. A call option is buying the right to buy a stock at a given price on a future date. For $1 Joey might be able to buy the right to buy a shares of Company A for $100 in 1 year. If the shares are above $100 in a year, he'll make money, if they're below his options will expire worthless.   \n\n\nOptions are slightly tricky in that their value is not just comprised of the difference between share price and the exercise price, but also volatility and time value. You can read more about Black Scholes which is how options are priced elsewhere. You can also read about strategies about combining patterns of options to construct more sophisticated trades (like iron condors).\n\n  \n\\* Note - European and American options are different here.",
+        "created_utc": 1578115527,
+        "id": "fd0990s",
+        "score": 354,
+        "subreddit": "investing",
+        "created": 1578144327.0
+    },
+    {
+        "author": "vishtratwork",
+        "body": "Best time is years ago. Second best is now. Third best is the future. \n\nYou do not, nor does anyone else, know when the next recession will come. May be 10 years off. The recession talk has existed since the last recession, it is nothing new, and they don't know better than you.",
+        "created_utc": 1578316670,
+        "id": "fddlcty",
+        "score": 352,
+        "subreddit": "StockMarket",
+        "created": 1578345470.0
+    },
+    {
+        "author": "User_O7",
+        "body": "ye but you run across opium and weed drops here and there so it balances out",
+        "created_utc": 1578025970,
+        "id": "fcwhs9m",
+        "score": 334,
+        "subreddit": "wallstreetbets",
+        "created": 1578054770.0
+    },
+    {
+        "author": "CanYouPleaseChill",
+        "body": "\"If I had to choose a great single fallacy of investing, it's believing that when a stock's price goes up, then you've made a good investment. People often take comfort when their recent purchase of something at $5 a share goes up to $6, as if that proves the wisdom of the purchase. Nothing could be further from the truth.\"\n\n- Peter Lynch\n\n\n\"Investors are right (and wrong) all the time for the \u2018wrong reason\u2019\u2026 the correctness of a decision can\u2019t be judged from the outcome. Nevertheless, that\u2019s how people assess it. A good decision is one that\u2019s optimal at the time that it\u2019s made, when the future is by definition unknown. Thus, correct decisions are often unsuccessful, and vice versa.\" \n\n- Howard Marks",
+        "created_utc": 1578106831,
+        "id": "fczqhbl",
+        "score": 315,
+        "subreddit": "stocks",
+        "created": 1578135631.0
+    },
+    {
+        "author": "TotesHittingOnY0u",
+        "body": "I mean putting it in an index fund would have netted you the exact same or larger returns than doing this, so idk why that's bad advice either.",
+        "created_utc": 1578258544,
+        "id": "fdblm1o",
+        "score": 287,
+        "subreddit": "investing",
+        "created": 1578287344.0
+    },
+    {
+        "author": "FuckYouSantaAnna",
+        "body": "Can you take the copper from your water and sell it to me?",
+        "created_utc": 1578283663,
+        "id": "fdct8ul",
+        "score": 280,
+        "subreddit": "wallstreetbets",
+        "created": 1578312463.0
+    },
+    {
+        "author": "not_REAL_Kanye_West",
+        "body": "If Netflix jumps up to 20 a month you might as well start calling me black beard. It's only a matter of time before someone just puts all streaming services together and you just pay a ridiculous amount a month for everything. They can call it cable.",
+        "created_utc": 1578411524,
+        "id": "fdgyncw",
+        "score": 272,
+        "subreddit": "stocks",
+        "created": 1578440324.0
+    },
+    {
+        "author": "seymorebuttcoin",
+        "body": "So he shit it out and stuck it in his ear? Guess Apple fans are retarded. Sure calls.",
+        "created_utc": 1578281625,
+        "id": "fdcqnjm",
+        "score": 267,
+        "subreddit": "wallstreetbets",
+        "created": 1578310425.0
+    },
+    {
+        "author": "throwawaylife58924",
+        "body": "it killed itself",
+        "created_utc": 1578026145,
+        "id": "fcwi0gt",
+        "score": 256,
+        "subreddit": "wallstreetbets",
+        "created": 1578054945.0
+    },
+    {
+        "author": "apfejes",
+        "body": "I enjoy reading other people's due diligence, but the company is worth $1.8B, and has only phase 2 results completed. I started writing out a rebuttal, and then realized there was already one written for me.\n\n[https://www.fool.com/investing/2019/11/21/why-investors-should-resist-buying-karuna-therapeu.aspx](https://www.fool.com/investing/2019/11/21/why-investors-should-resist-buying-karuna-therapeu.aspx)\n\nIn summary: \n\n* your timeline is wrong: Drug probably won't get to the market till 2023\n* Their financials aren't bad, but P3 trials are much more expensive than P2, so expect their burn rate to rise accordingly... maybe $20-25M a quarter?  It's pretty tight to get them to commercialization.  I'd give it a fairly strong probability that they'll raise again before commercialization, post P3.\n* A lot of drugs clear P2 trials, but fail to get through P3: This drug is not sufficiently de-risked to warrant the current valuation.  \n* Small molecules and schizophrenia is an EXTREMELY challenging combination.  Many many people have tried, and very very few have succeeded.  \n* Even wikipedia suggests that Xanomeline has a high rate of negative symptoms and side effects, which suggests that even if it gets to the end, it will be a challenge getting it through PDUFA, and the known high drop-out rate in clinical trials will be a significant challenge for a P3.\n\nI'm not an MD, but I do have a PhD.  This is way too bullish for me, even with a small amount of DD I did in the last 20 minutes.",
+        "created_utc": 1578414960,
+        "id": "fdh440f",
+        "score": 251,
+        "subreddit": "investing",
+        "created": 1578443760.0
+    },
+    {
+        "author": "fallouthong",
+        "body": "Yes because I won\u2019t have internet anymore if it doesn\u2019t\n\nEdit: ty for silver. Gold would have been better.",
+        "created_utc": 1578353497,
+        "id": "fdf52yb",
+        "score": 248,
+        "subreddit": "wallstreetbets",
+        "created": 1578382297.0
+    },
+    {
+        "author": "GeoDudeBroMan",
+        "body": "You love it \ud83d\ude0f",
+        "created_utc": 1578059806,
+        "id": "fcxd97z",
+        "score": 210,
+        "subreddit": "wallstreetbets",
+        "created": 1578088606.0
+    },
+    {
+        "author": "TheMintyHipo",
+        "body": "It really was this easy. I had just started investing right after the recession and made a bunch of money despite having no idea what I was doing.",
+        "created_utc": 1578245473,
+        "id": "fdafe0f",
+        "score": 206,
+        "subreddit": "investing",
+        "created": 1578274273.0
+    },
+    {
+        "author": "imagine_thinking",
+        "body": "bro i always kinda knew but never truly grasped how war is basically this meme. Rule #1: If youre old enough you dont have to be in any real danger. I get grandpa and his walker cant be on the frontline. But its just weird. A bunch of older men deciding how theyll just throw essentially teenage lives at the enemy. \"This attack will cost us 18 pawns but well worth it\"",
+        "created_utc": 1578417718,
+        "id": "fdh8ka2",
+        "score": 196,
+        "subreddit": "wallstreetbets",
+        "created": 1578446518.0
+    },
+    {
+        "author": "TheWizardOfFrobozz",
+        "body": "In the example you gave, there are two taxable events, both of which should be reported to the IRS:\n\n1) Receiving the free stock. This counts are ordinary income for the market value of the stock on the day you receive it.\n2) Selling the stock for a profit. This counts as a short-term or long-term capital gain (depending on how long you held it) of the amount its price increased by.\n\nFor example, suppose you received a free share of AAPL on July 30, 2019. AAPL closed at $213.04 that day, so you would report $213.04 as income. Now suppose you sold it on December 31, 2019 for $291.52. Your short-term capital gain is $291.52 - $213.04 = $78.48. Whether either of these events increases the taxes you have to pay depends on your other income, your filing status, other gains/losses, etc.\n\nI'm thinking of writing a tax primer for Robinhood users and posting it here sometime during the next few days since there seem to be so many questions.",
+        "created_utc": 1578261783,
+        "id": "fdbtgbm",
+        "score": 187,
+        "subreddit": "RobinHood",
+        "created": 1578290583.0
+    },
+    {
+        "author": "Obsido",
+        "body": "Of course, tech will keep on growing, might even grow faster in the 2020s than it did in the 2010s and they are in the middle of it. Not to mention they have so much cash at hand that they can just buy companies to expand into the market even more and they can buff up their research and development apartment by billions if they need to in order to stay on-top this decade.\n\nApple is guaranteed in the top 5.",
+        "created_utc": 1578248420,
+        "id": "fdaogoz",
+        "score": 177,
+        "subreddit": "stocks",
+        "created": 1578277220.0
+    },
+    {
+        "author": "FlingingOptions",
+        "body": "As the buyer of a call, you\u2019re buying the right to purchase those shares from somebody else at the strike price. If it crashed to $0, you\u2019re not going to exercise your right to buy them at $325, so your contract would expire worthless. You\u2019re only out the $33 you paid for it. \n\nTemper your expectations of what \u201cunlimited\u201d means here, though. Unlimited is technically true as there is no limit to how high a stock can go, but unless there is some major binary event that makes it skyrocket to BRK.A levels in two days, your potential profits will be much less impressive. \n\nWith low volatility (IV is currently the lowest it\u2019s been in the past 52 weeks), making it to your breakeven is a long shot with only two full trading days left. Even if it gets to 327 (roughly double the expected move) by the time your contract ends, you\u2019re looking at a ballpark profit of $167. Nothing to sneeze at, for sure, but the chances are low.",
+        "created_utc": 1577988850,
+        "id": "fcuumh0",
+        "score": 171,
+        "subreddit": "RobinHood",
+        "created": 1578017650.0
+    },
+    {
+        "author": "tt598",
+        "body": "&gt;Instead of starting from scratch with a new airframe, Boeing took what was conceived in the 1960s as a regional jet, and has pushed and pushed and pushed it \u2014 bigger and bigger engines, fancier avionics, MCAS \u2014 into roles it was never intended for. Five decades and ten variants later, the MAX is a monsterized hybrid of a thing, a plane that wants, and needs to be something that it\u2019s not: all muscle and power and advanced technology, jammed into the framework of a fifty year-old design. Call it a software failure, or call it bad corporate strategy and stubbornness.\n\n[https://www.askthepilot.com/ethiopian-737max-crash/](https://www.askthepilot.com/ethiopian-737max-crash/)",
+        "created_utc": 1578317705,
+        "id": "fddmf0j",
+        "score": 168,
+        "subreddit": "stocks",
+        "created": 1578346505.0
+    },
+    {
+        "author": "Bufarete",
+        "body": "I posted this EXACTLY 52 minutes ago and Mods removed it. I hate you.",
+        "created_utc": 1578404991,
+        "id": "fdgpnj5",
+        "score": 165,
+        "subreddit": "wallstreetbets",
+        "created": 1578433791.0
+    },
+    {
+        "author": "80slaserbackground",
+        "body": "It worked for Scientology.",
+        "created_utc": 1579477949,
+        "id": "ff1dxt4",
+        "score": 161,
+        "subreddit": "wallstreetbets",
+        "created": 1579506749.0
+    },
+    {
+        "author": "stormwillpass",
+        "body": "It's something like wake up, eat, poop, shower, gym before open, snack before open, trade til close if necessary or call it an early day, eat, shower, sleep, repeat. Boring.\n\n2017, 2018, and 2019 passed by and I don't really remember what happened. All of a sudden it's 2020.\n\nThat's the hardest part to grasp for me. Time just flew. Make sure you remember to live life.",
+        "created_utc": 1578393326,
+        "id": "fdgeq48",
+        "score": 157,
+        "subreddit": "wallstreetbets",
+        "created": 1578422126.0
+    },
+    {
+        "author": "askOPaboutspaghetti",
+        "body": "WAR\n\nGUH\n\nWHAT IS IT GOOD FOR",
+        "created_utc": 1578237855,
+        "id": "fd9thrg",
+        "score": 155,
+        "subreddit": "wallstreetbets",
+        "created": 1578266655.0
+    },
+    {
+        "author": "jimmyl89",
+        "body": "Socks are usually worn in pairs so it wouldn't make sense to split them",
+        "created_utc": 1577996663,
+        "id": "fcv86xa",
+        "score": 153,
+        "subreddit": "investing",
+        "created": 1578025463.0
+    },
+    {
+        "author": "saltslugs",
+        "body": "So if you buy stocks that do well, you will do well.  If you buy stocks that lose value, you will do poorly.  Got it.",
+        "created_utc": 1578272404,
+        "id": "fdcdqjo",
+        "score": 152,
+        "subreddit": "investing",
+        "created": 1578301204.0
+    },
+    {
+        "author": "shin8407",
+        "body": "I heard anyone with Call of Duty account will be drafted first. It was pentagon's army draft trainer. Good luck fighting in the real world gamers.",
+        "created_utc": 1578026348,
+        "id": "fcwi9yf",
+        "score": 148,
+        "subreddit": "wallstreetbets",
+        "created": 1578055148.0
+    },
+    {
+        "author": "apfejes",
+        "body": "The best investment ideas are obvious in hindsight.  That should be obvious, itself. \n\nThe problem is that there were probably another 20 companies with similar financial statements that didn\u2019t make it. How would you differentiate them?  \n\nYou\u2019re effecting falling prey to survivorship bias, and then claiming that you\u2019re not. It\u2019s not a compelling argument.",
+        "created_utc": 1578205183,
+        "id": "fd7iqfk",
+        "score": 148,
+        "subreddit": "investing",
+        "created": 1578233983.0
+    },
+    {
+        "author": "Iheartpropertylaw",
+        "body": "$1.33 trillion market cap. Remember when everyone was freaking out about the trillion mark? Just obliterated it and nobody seems to care.",
+        "created_utc": 1578003485,
+        "id": "fcvjlvd",
+        "score": 144,
+        "subreddit": "wallstreetbets",
+        "created": 1578032285.0
+    },
+    {
+        "author": "bigpapa901",
+        "body": "I\u2019m a Model 3, day one reservation holder. Bought the options when I got the car. Felt like when someone first put an iPhone in my hand for the first time in 2007. Knew there was no denying that the product was superior. Just took the rest of the world 2 years to figure it out.",
+        "created_utc": 1578428434,
+        "id": "fdhqy7r",
+        "score": 143,
+        "subreddit": "wallstreetbets",
+        "created": 1578457234.0
+    },
+    {
+        "author": "Nghtmare-Moon",
+        "body": "Papa Musk won\u2019t budge on that. He won\u2019t be able to control 100% of the company if it goes public and his vision of mars will be blurred by investors wanting profit",
+        "created_utc": 1578940921,
+        "id": "fe9rp7h",
+        "score": 133,
+        "subreddit": "wallstreetbets",
+        "created": 1578969721.0
+    },
+    {
+        "author": "Leaf-Currency",
+        "body": "All three pixels of it.",
+        "created_utc": 1578164915,
+        "id": "fd46pek",
+        "score": 124,
+        "subreddit": "wallstreetbets",
+        "created": 1578193715.0
+    },
+    {
+        "author": "Tr47gRKl5",
+        "body": "Then invest to hedge your disappointment and think of it as owning a piece of the arsenal of democracy.",
+        "created_utc": 1578426960,
+        "id": "fdhogn7",
+        "score": 122,
+        "subreddit": "wallstreetbets",
+        "created": 1578455760.0
+    },
+    {
+        "author": "Roopa12",
+        "body": "It isn\u2019t the first time in history, they do it every year, dumbass.\n\n\nhttps://www.reddit.com/r/syriancivilwar/comments/ejwqqv/red_flag_of_doom_unfurled_over_mosque_in_qom_iran/",
+        "created_utc": 1578213730,
+        "id": "fd848zb",
+        "score": 110,
+        "subreddit": "wallstreetbets",
+        "created": 1578242530.0
+    },
+    {
+        "author": "stormwillpass",
+        "body": "&gt; \"I need you to tank TSLA, right now!\"\n\n&gt; \"Shit, I need TSLA to plummet!\"\n\nNice work!\n\nLong story short, I'd rather them not tank anymore and need them to moon now since I sold a lot of naked puts. Past two weeks I closed some naked calls that would've ended up profitable. Last week I opened up some puts and the $520 strike ended up losing 3x initial credit.\n\nGetting fucked both ways it seems.",
+        "created_utc": 1579478337,
+        "id": "ff1eyuq",
+        "score": 103,
+        "subreddit": "wallstreetbets",
+        "created": 1579507137.0
+    },
+    {
+        "author": "Logan_Maransy",
+        "body": "I'll help you out in a non ironic way, because options are actually really simple but can seem confusing if you are looking at this screenshot with ignorance. \n\nOP bought 30 call contracts (+30) for $77K (equity in screen shot of $87K - the gain of $10K experienced since he bought at $77K), at an average cost of $25.78 per share (1 contract = 100 shares, so 30 contracts = 3000 shares, so the $77K checks out.)\n\nThe \"Breakeven Price\" is listed at $1905.78. If we subtract the cost OP spent on each contract, we find the strike price of the calls is $1880. The EXP Date (expiration date) is 1/31, or tomorrow at close. Finally, the current price ($29.23) is the \"current\" price of the contracts. Because option markets are open only during normal trading hours, this cost represents the last price at close and are not updated to reflect after-hours market movement. \n\nIn summary, OP walked up to a roulette table and slapped 77 grand in cash on the \"AMZN stock will be above 1905 by the end of day tomorrow\". Note that is closed at 1870 today. If it's above 1905 by tomorrow, he will gain money overall. And if it's below 1905 he will lose money. If it's below 1880, he will lose ALL 77K.\n\nAMZN absolutely fucking killed earnings, released after hours today. Straight up Trogdor Burninating the peasants type of slaughter. In after hours trading AMZN is now at 2074. OPs call options are now \"in the money\" which means they have intrinsic value, because they allow the owner of the contract (currently OP) to buy 3000 shares of AMZN from someone at a price of $1880, when it's clearly market valued at $2074. What a deal right?! That intrinsic value is the difference between the strike price (1880) and the market price (2074), which is $194. \n\nLet's say OP doesn't have the capital to buy 3000 fucking shares of AMZN ($6 mill+ now) in order to then immediately sell it for a profit. Well, that's fine, because somebody in the market absolutely does, and will buy his contracts off him for at least $194. \n\nThus OP bought 30 contracts, each at a cost of $2,578 ($77K initial cost) and is going to be able to sell them tomorrow for at least $19,400 each ($582K final result). So 582K-77K initial cost = 500K+ profit, as OP stated in title. Another way to look at it is: 194/25.78 = 7.53x multiplier in one night, on a 77K bet.",
+        "created_utc": 1580424958,
+        "id": "fg1d1h0",
+        "score": 102,
+        "subreddit": "wallstreetbets",
+        "created": 1580453758.0
+    },
+    {
+        "author": "ILoveTheAtomicBomb",
+        "body": "Give it a shot and post pics after",
+        "created_utc": 1577989716,
+        "id": "fcuw37v",
+        "score": 101,
+        "subreddit": "wallstreetbets",
+        "created": 1578018516.0
+    },
+    {
+        "author": "tunafun",
+        "body": "Begged my parents to buy apple for me in the early 90s.  They did.   Then my uncle who worked for HP at the time told them what a bad company it was.  This was back in the powermac and newton era.  Parents sold.  That would have been worth 1.5 million today give or take.  Never again.",
+        "created_utc": 1578003558,
+        "id": "fcvjq6h",
+        "score": 100,
+        "subreddit": "wallstreetbets",
+        "created": 1578032358.0
+    },
+    {
+        "author": "veritasinvestments",
+        "body": "Iran and the US probably made a deal where Iran had to give up its power in the region in exchange for easing the sanctions. The price? Iran has to give up its Quds leader. In one move, Khamenei has also consolidated his own power by taking out someone who, in the past, has threatened military coups in the event of left-wing movements and relations with the US. By doing this, he has severely reduced Sepah\u2019s power while simultaneously allowing for sanctions to be gradually eased. Most people don\u2019t understand this, but IRGC is getting so powerful that it is actually threatening the very existence of the Iranian government as it is. Soleimani was essentially its key leader, and by giving him up, Khamenei has consolidated his power. This is what most likely has occurred. Otherwise, why did it take so long for the US to kill this guy? He\u2019s been active in Iraq and Syria for the past decade.\n\nAlso, some IRGC hardliners wanted Soleimani to run for president. There\u2019s an internal war between the clerics and the IRGC for power in Iran. While someone like Rouhani or Ahmadinejad could just be puppets for Khamenei, Soleimani would actually not be a puppet president. Given that Rouhani is also in his last term, if Soleimani ran, he could present as a viable candidate. The only way that Khamenei could consolidate power for the clerics was to take him out. Again, if you were in Iran right now or know about how the Iranian government works, this scenario would probably be what you would be thinking right now as well.",
+        "created_utc": 1578026775,
+        "id": "fcwitom",
+        "score": 99,
+        "subreddit": "wallstreetbets",
+        "created": 1578055575.0
+    },
+    {
+        "author": "Inferin",
+        "body": "99% certain? Free money? Doesnt sound like it can go tits up, /r/wallstreetbets is this way good sir we'll help you out with open arms",
+        "created_utc": 1578134816,
+        "id": "fd1pl9g",
+        "score": 99,
+        "subreddit": "options",
+        "created": 1578163616.0
+    },
+    {
+        "author": "ElderScrolls",
+        "body": "I hate Apple products but the stock is solid. And it's for the same reason that I hate their products: they have a strong closed ecosystem.  I've had friends switch from Apple to PC/Android and it's a painful experience.\n\nPeople will naturally continue to upgrade and buy in that system, including new products that sync into it.\n\nI'm not sure if it'll be explosive growth. But it's not going anywhere.\n\nNonetheless, I'd rather put money in msft.",
+        "created_utc": 1578244837,
+        "id": "fdadjm6",
+        "score": 99,
+        "subreddit": "stocks",
+        "created": 1578273637.0
+    },
+    {
+        "author": "mikally",
+        "body": "You don't wanna be a drone pilot. You'll just end up killing yourself instead of having someone else do it.",
+        "created_utc": 1578080328,
+        "id": "fcyhnv3",
+        "score": 98,
+        "subreddit": "wallstreetbets",
+        "created": 1578109128.0
+    },
+    {
+        "author": "VRisNOTdead",
+        "body": "Maybe in Afghanistan but fuck that place.   We should be invading it with snowboarders and crusty van dwelling hippies not boomer generals with prostate issues.",
+        "created_utc": 1578057575,
+        "id": "fcxap66",
+        "score": 96,
+        "subreddit": "wallstreetbets",
+        "created": 1578086375.0
+    },
+    {
+        "author": "Hendrix811",
+        "body": "Iran\u2019s economic weapons are work.  They are going to try to tank our markets. They know how important it is to trump.",
+        "created_utc": 1578455713,
+        "id": "fdj11fd",
+        "score": 96,
+        "subreddit": "wallstreetbets",
+        "created": 1578484513.0
+    },
+    {
+        "author": "thewimsey",
+        "body": "The real question isn\u2019t why these companies aren\u2019t splitting; it\u2019s why it was common in the past to split stocks.\n\nThe reason for *that* is that it used to be a requirement that you buy shares in \u201cround lots\u201d (i.e., in 100 share increments).  You typically couldn\u2019t buy individual shares, much less fractional shares.  So even a price of $100 would entail a $10,000 commitment. (There were a handful of brokers who would \u201cbreak lots\u201d for an up charge...but that\u2019s not ideal).\n\nOne of the initial advantages of mutual funds were that they allowed people to get around the \u201clot\u201d requirement...the ease of diversification is still a mutual fund feature, but it was even more so when you had to buy 100 stocks at a time. \n\nEventually - starting with the rise of discount brokers - this requirement became more and more relaxed, and the need to have stock prices that weren\u2019t astronomical if multiplied by 100 disappeared.",
+        "created_utc": 1578000442,
+        "id": "fcvejk0",
+        "score": 96,
+        "subreddit": "investing",
+        "created": 1578029242.0
+    },
+    {
+        "author": "ilcanadiano",
+        "body": "I have nothing to do with this conflict. I didn't vote for the guy that started it, didn't sanction the actions of the guy who killed the guy, and I didn't launch the missiles into Iraq at the bases owned by the companies who had the guy who started start it.\n\nI'd never cheer death.\n\nI'd cheer tendies tho.",
+        "created_utc": 1578451041,
+        "id": "fdiu22l",
+        "score": 95,
+        "subreddit": "wallstreetbets",
+        "created": 1578479841.0
+    },
+    {
+        "author": "ja1484",
+        "body": "Not much really. Open a business as an electronics manufacturing supplier.\n\nDoomsday weirdos with poor critical thinking skills think it will be some level of valuable if the currency system collapses, not realizing that if that occurs we'll be back to a barter economy anyway and beans and ammo will matter way more than shiny rocks.\n\nSo I guess in the post apocalyptic wasteland they can all get together and trade rocks to each other\n\nFor serious adults looking to hedge currency risk, there's paper gold, but honestly real estate and bonds are probably better in most cases.",
+        "created_utc": 1578319898,
+        "id": "fddouxf",
+        "score": 94,
+        "subreddit": "investing",
+        "created": 1578348698.0
+    },
+    {
+        "author": "PocketRocketMarket",
+        "body": "no. check your robinhood messages. Im sure they would have sent you something there.  Send robinhood an email asking if this is spam, it would be good to let them know anyway.",
+        "created_utc": 1578954726,
+        "id": "feb21e8",
+        "score": 91,
+        "subreddit": "RobinHood",
+        "created": 1578983526.0
+    },
+    {
+        "author": "ddhboy",
+        "body": "Or, alternatively, you'd cancel your Netflix subscription and only reactivate it when a new show comes along that peaks your interest, then cancel it again after you finish the season. Basically, the same problem HBO's had forever, but in hyper speed because Netflix drops all their episodes at once.",
+        "created_utc": 1578413717,
+        "id": "fdh23lt",
+        "score": 91,
+        "subreddit": "stocks",
+        "created": 1578442517.0
+    },
+    {
+        "author": "InfiniteAccuracy",
+        "body": "Don't even ask the question. The answer is yes, it's priced in. Think Amazon will beat the next earnings? That's already been priced in. World War III? Priced in. You work at the drive thru for Mickey D's and found out that the burgers are made of human meat? Priced in. You think insiders don't already know that? The market is an all powerful, all encompassing being that knows the very inner workings of your subconscious before you were even born. Your very existence was priced in decades ago when the market was valuing Standard Oil's expected future earnings based on population growth that would lead to your birth, what age you would get a car, how many times you would drive your car every week, how many times you take the bus/train, etc. Anything you can think of has already been priced in, even the things you aren't thinking of. You have no original thoughts. Your consciousness is just an illusion, a product of the omniscent market. Free will is a myth. The market sees all, knows all and will be there from the beginning of time until the end of the universe (the market has already priced in the heat death of the universe). So please, before you make a post on wsb asking whether AAPL has priced in earpods 11 sales or whatever, know that it has already been priced in and don't ask such a dumb fucking question again.",
+        "created_utc": 1578196874,
+        "id": "fd6xajx",
+        "score": 90,
+        "subreddit": "wallstreetbets",
+        "created": 1578225674.0
+    },
+    {
+        "author": "PeterMichaelPaints",
+        "body": "Now this is how you do it people - spend someone else's money. I respect this man.",
+        "created_utc": 1578443086,
+        "id": "fdihl1q",
+        "score": 88,
+        "subreddit": "wallstreetbets",
+        "created": 1578471886.0
+    },
+    {
+        "author": "Kroniic",
+        "body": "I will follow this trade and I will post my position once the album has been dropped.  If you want to see some true autistic shit, stay tuned\n\nEdit:  I have a feeling this album is going to come out in March.  I will repost with positions but I\u2019m only doing this when it comes out.  Until then auts \ud83e\udde9",
+        "created_utc": 1578281001,
+        "id": "fdcpt5n",
+        "score": 87,
+        "subreddit": "wallstreetbets",
+        "created": 1578309801.0
+    },
+    {
+        "author": "FreeMeFromMySins",
+        "body": "I had loose pussy porn open in another tab and it took me a minute to realize that this wasn't it.",
+        "created_utc": 1578346459,
+        "id": "fdett9l",
+        "score": 87,
+        "subreddit": "wallstreetbets",
+        "created": 1578375259.0
+    },
+    {
+        "author": "6pounds10pence",
+        "body": "Wife's father died, left lots of money, no financial planning, mother in law goes crazy, gives away 1.4 million to scammers over 5 insane years, suddenly I have to figure out how to save a house, retirement and a person from the brink. I have a friend whom is a financial advisor, learn a lot from him, got interested in what he does, applied to be an advisor, got the job, got paid to study, state life and health, series 7 and 66, lots of training and tools at my disposal. Still feel like an infant in finance due to knowing how much I know that I dont know. \n\nIt is a rabbit hole you never find the bottom of. Investment advisors in the business 30 years say \"no one has a crystal ball\"\n\nBut lots of fun.",
+        "created_utc": 1578165529,
+        "id": "fd49a4p",
+        "score": 86,
+        "subreddit": "investing",
+        "created": 1578194329.0
+    },
+    {
+        "author": "Hadron90",
+        "body": "Close. They really just sell your positions for the entertainment value. Every big hedge calls a morning meeting over coffee in their boardrooms and go over the positions for the laugh. They are like \"Wait...he bought $SPY puts again? Isn't this the same guy that lost it all on them last week?\", and the whole board room erupts into laughter.",
+        "created_utc": 1578325077,
+        "id": "fddvm9c",
+        "score": 85,
+        "subreddit": "wallstreetbets",
+        "created": 1578353877.0
+    },
+    {
+        "author": "Worf_Of_Wall_St",
+        "body": "Fuck I\u2019ve been doing it all wrong.",
+        "created_utc": 1578276245,
+        "id": "fdcj837",
+        "score": 83,
+        "subreddit": "investing",
+        "created": 1578305045.0
+    },
+    {
+        "author": "j33tAy",
+        "body": "I have been to rehab three times over the last ten years. I have met people who have been twenty times.\n\nRehab is not a cure all or a magic place. It's an insulated, clinical, drug free environment to get clean.\n\nHowever, it's not really a place to address problems.\n\nI am drawn to all sorts of things that are high risk: self-employment, entrepreneurship, drugs, alcohol, crazy women, gambling, options and futures, racing cars, etc. \n\nI'm just a degenerate who has a broken dopamine cycle.\n\nRehab got me clean but changing my behavior was a whole different thing.\n\nThat has taken time and conscious effort on improving my discipline and priorities. I still gamble but I budget for it, for example. I don't drink because I end up going on month long benders.\n\nI do not mean to come off as pessimistic. Getting clean and recovery are very rewarding and rehab can help. But its not what they market it to be.\n\nTake care of yourself, homie.",
+        "created_utc": 1578263194,
+        "id": "fdbwyk8",
+        "score": 80,
+        "subreddit": "wallstreetbets",
+        "created": 1578291994.0
+    },
+    {
+        "author": "fckthemoney",
+        "body": "Shut the fuck up retard. If it does happen in Iraq Arabic news sources especially those who support Iran will pick it up faster. You just lost your inside info. I bet you're a stupid fucking worthless bear anyways.",
+        "created_utc": 1578273613,
+        "id": "fdcfhla",
+        "score": 79,
+        "subreddit": "wallstreetbets",
+        "created": 1578302413.0
+    },
+    {
+        "author": "Ardesic53",
+        "body": "BREAKING NEWS: AAPL releases new branch of weapons\n\niKill section including:\n\n1. The new iTank. Turret and tracks sold separately\n\n2. The new iJet. Engine and seat sold separately\n\n3. The new iRifle 556. 557 comes out next year, rendering the 556 useless in combat compared to the 557 or the 558 that comes a year later. For a discounted price, you can get the 556S. The ammunition is the same, the velocity and rpm is slowed down i.e. s for slow.\n\n4. The new iHelmet. Pure AR collaboration with FB. All data is farmed and sold to the highest bidders. The Russians buy it for the Iranians and the farmers are able to attack bases daily with 100% success rate.\n\n\n5. The new iAmmunition. This is only used in the Rifle 556. It cannot be used in the 557 and a new set of ammunition is needed for it. The iAmmunition2.\n\n\n6. The iMissile: able to be used with either a MacBook Pro (RRP $52,000) or the new iPad (RRP $5200).Troops can carry the iPad to call in an attack from the ground to attack a location",
+        "created_utc": 1578082804,
+        "id": "fcymkck",
+        "score": 78,
+        "subreddit": "wallstreetbets",
+        "created": 1578111604.0
+    },
+    {
+        "author": "flyboy573",
+        "body": "Some yacht owned by some rich HF prick that later got caught with his pants down on a positive carry position. \n\nEx - if you borrow yen and then buy US treasuries, there\u2019s a positive carry as you\u2019re earning a higher risk free rate then you\u2019re borrowing at. FX markets should theoretically price out any advantage when you convert yen into dollars but that doesn\u2019t always happen and you can make boko bucks doing it.",
+        "created_utc": 1578260801,
+        "id": "fdbre9r",
+        "score": 78,
+        "subreddit": "wallstreetbets",
+        "created": 1578289601.0
+    },
+    {
+        "author": "DadGoneGamer",
+        "body": "#WAR!!!\n\nHUH\n\nYEAA\n\n#WHAT IS IT GOOD FOR??!!!\n\n#LINING MY FUCKING POCKETS!!! ALRIGHT!!!",
+        "created_utc": 1578417454,
+        "id": "fdh85nt",
+        "score": 77,
+        "subreddit": "wallstreetbets",
+        "created": 1578446254.0
+    },
+    {
+        "author": "Kundera42",
+        "body": "Active aerospace engineer and Boeing investor here.\n\nThe newly discovered issue is not a big deal. It is something that requires a small amount of parts and few hours of labor per aircraft.\n\nThe 737 MAX gets enormous amounts of scrutiny (which is good in general) but the media currently reports on it more than usual.\n\nThis new issue would normally be covered under a service bulletin with medium urgency, not more than that. Happens all the time for all aircraft currently in service, including Airbus.",
+        "created_utc": 1578333106,
+        "id": "fde7vkq",
+        "score": 76,
+        "subreddit": "stocks",
+        "created": 1578361906.0
+    },
+    {
+        "author": "BDSHAD",
+        "body": "The fact that you closed it out at 470.69 was definitely a nice touch BUT if you had closed it at 469.69 i would\u2019ve been rock hard going into this fap session",
+        "created_utc": 1578438550,
+        "id": "fdia910",
+        "score": 76,
+        "subreddit": "wallstreetbets",
+        "created": 1578467350.0
+    },
+    {
+        "author": "jay9909",
+        "body": "&gt; AdvoCare is \u201cadmitting that it operated as a pyramid,\u201d ... **The company is banned from multilevel marketing as part of the settlement**, the FTC added.\n\nAre there legal pyramid schemes?  I figured they were all illegal, which would make such a restriction superfluous.",
+        "created_utc": 1578275849,
+        "id": "fdcinou",
+        "score": 76,
+        "subreddit": "investing",
+        "created": 1578304649.0
+    },
+    {
+        "author": "elosorojo4",
+        "body": "Kicking myself. I had sold at $340. Average buy in in of $280. Happy to have made a profit but obviously wishing I had held on. Would like to get back in at some point. It\u2019s been such a wild ride up and down my instinct is to wait for a big drop to get back in but am now thinking it probably won\u2019t reach those levels again anytime soon.",
+        "created_utc": 1578063719,
+        "id": "fcxifd7",
+        "score": 75,
+        "subreddit": "stocks",
+        "created": 1578092519.0
+    },
+    {
+        "author": "fallouthong",
+        "body": "it will go up when you sell. Please sell",
+        "created_utc": 1578429031,
+        "id": "fdhrzav",
+        "score": 75,
+        "subreddit": "wallstreetbets",
+        "created": 1578457831.0
+    },
+    {
+        "author": "Majalen3",
+        "body": "If it ain\u2019t Boeing, I ain\u2019t going",
+        "created_utc": 1578156544,
+        "id": "fd3b99x",
+        "score": 74,
+        "subreddit": "wallstreetbets",
+        "created": 1578185344.0
+    },
+    {
+        "author": "originalusername__1",
+        "body": "&gt;putting it in an index fund would have netted you the exact same or larger returns than doing this\n\nDepends on which companies you bought.  If you'd watched and bought Apple when Buffett did you would have easily netted 60+ percent gain since he bought in.  If you'd bought Kraft-Heinz or Teva any time recently though you'd probably be broke.",
+        "created_utc": 1578263483,
+        "id": "fdbxhm2",
+        "score": 74,
+        "subreddit": "investing",
+        "created": 1578292283.0
+    },
+    {
+        "author": "bigpapa901",
+        "body": "No sir. I owned a few shares of the stock. But it was expensive, so buying 10 shares @ $300 cost around $3000 at the time. Not enough for a stock for a gambling, bet it all, YOLO like I wanted. So, I paid roughly $6,000 for EACH option to buy 100 shares at a strike price of $290 range in 18 months (Jan 17, 2020). This was back in 2018. So I ponied up $35k to buy the options. My $35k of options became nearly worthless when the stock price hit $190. I held, and held, and held. Today I was able to buy 600 shares of Tesla at $290 while the stock price is actually $470. Somebody on the flip side of this got burned as I made out like a bandit.",
+        "created_utc": 1578433628,
+        "id": "fdi0nj0",
+        "score": 74,
+        "subreddit": "wallstreetbets",
+        "created": 1578462428.0
+    },
+    {
+        "author": "17461863372823734920",
+        "body": "Someone link to that post that shows that AMD tends to continue to rise after a big up day.\n\nI bet you guys sat here here thinking \"Don't just blindly buy calls after a +4% jump in the morning\" then watched it climb another 3%.",
+        "created_utc": 1577996495,
+        "id": "fcv7wqx",
+        "score": 73,
+        "subreddit": "wallstreetbets",
+        "created": 1578025295.0
+    },
+    {
+        "author": "Picograms",
+        "body": "Because the government figures your are too poor or dumb to invest if you have less than $25k. Wild options trades are wide open though. It is a dumb rule.",
+        "created_utc": 1580236540,
+        "id": "ffu87jo",
+        "score": 73,
+        "subreddit": "RobinHood",
+        "created": 1580265340.0
+    },
+    {
+        "author": "geo0rgi",
+        "body": "It is crazy indeed. On one hand I am not complaining as all of my stocks are up and getting hogher almost every day. \n\nOn the other hand though first there is nothing in this market that is fairly valued. And second this kind of run really doesn\u2019t make much sense. \n\nIt is really not justified by anything - revenues are stagnating, economic growth is slowing down globally, banking sector is in a weird place and we are raking up debt like there is no tomorrow. \n\nOne thing is for certain and that is that I am really  interested to see how it all pans out. We have never been in such a situation before. My bet is that things will get ugly, but you can never know.",
+        "created_utc": 1578015434,
+        "id": "fcw27az",
+        "score": 72,
+        "subreddit": "investing",
+        "created": 1578044234.0
+    },
+    {
+        "author": "wondermania",
+        "body": "Wow dude, taking it back. Going all puts. Stay safe.",
+        "created_utc": 1578046795,
+        "id": "fcx1bhq",
+        "score": 72,
+        "subreddit": "wallstreetbets",
+        "created": 1578075595.0
+    },
+    {
+        "author": "stormwillpass",
+        "body": "LOL\n\nedit:\n\nokay so I started watching the vid, saw my name, paused it, reserved a comment spot, gave you a gold prematurely, resumed watching, and now here I am.\n\nWow that was fucking hilarious. When you said you were gonna meme the whole thing, I did not expect it to be this good. Great scene choice. Thanks for making my weekend a whole lot better &lt;3\n\nedit2:\n\nNew phrase for 2020: tag u/haupt91 and say \"HAUPT the memeloaf!\" whenever you see something meme-able.\n\nedit3: Awards don't show up in gilded, so I will give you a gold so that it does. Also, each time you give a post an award, the link disappears and you have to refresh to give another one.",
+        "created_utc": 1578765034,
+        "id": "fdx3vse",
+        "score": 72,
+        "subreddit": "wallstreetbets",
+        "created": 1578793834.0
+    },
+    {
+        "author": "BudgetPea",
+        "body": "Hahaha, one of my first thoughts too. What \"normal functioning person\" actually buys into the media and Reddit hype of \"OMG11!!!1 WWIII is totes going to happen and we'll IMMEDIATELY draft everyone!!\" A normal person would recognize that Iran has been throwing a Real Housewives of the Middle East bitch-a-thon at America for literally decades. The scary red flag of super septuple seriousness is a new fun and festive way of continuing that tradition. Maybe next time they'll add glitter to it and use the fun wavy edge scissors when they're cutting out the cloth to show they really mean business.",
+        "created_utc": 1578238016,
+        "id": "fd9u39a",
+        "score": 71,
+        "subreddit": "wallstreetbets",
+        "created": 1578266816.0
+    },
+    {
+        "author": "wefarrell",
+        "body": "You can put it in your butthole when the man comes after you.",
+        "created_utc": 1578326690,
+        "id": "fddxytf",
+        "score": 70,
+        "subreddit": "investing",
+        "created": 1578355490.0
+    },
+    {
+        "author": "iamanenglishmuffin",
+        "body": "I contacted Robinhood Nigeria. They said the prince himself gave it the green light.",
+        "created_utc": 1578965176,
+        "id": "fec19i8",
+        "score": 69,
+        "subreddit": "RobinHood",
+        "created": 1578993976.0
+    },
+    {
+        "author": "cefpodoxime",
+        "body": "1) My timeline is not wrong as I agree with you. I predict phase 3 finish by 2021 or 2022 and certainly 2023 to get to market at the earliest if approved.\n\n2) I agree, P3 trial will likely require another offering post P3; what I meant in my post as \"near future\", is I don't expect another this year. but that's fine, as long as P3 results are great (see AUPH as example, with solid voclosporin results for LN last month, their offering actually caused the price to conitnue to skyrocket)\n\n3) Yes, many many fail P3 despite positive P2 results. However, you have to actually look at the data to determine the probability of P3 clearance yourself. For example, Bitopertin from Roche tried to do similar for schizophrenia but failed in phase III, but you have to note their phase 2 results were not solid to begin with. KarXT has far more robust data in phase 2.\n\n4) It's difficult but the FDA has been quite lenient on CNS drugs. FDA recently just approved calypta for schizophrenia (not approved for psychosis though so can't compete with KarXT at this point) from ITCI even though it had mixed results!  \n\n5) The good thing about xanomeline is it already had phase 2 trials back in the 1990s with Eli Lilly demonstrating efficacy. It's data that added in aggregate should derisk KarXT through phase 3 too. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6741650/pdf/CNS-9-159.pdf",
+        "created_utc": 1578415972,
+        "id": "fdh5rds",
+        "score": 69,
+        "subreddit": "investing",
+        "created": 1578444772.0
+    },
+    {
+        "author": "veritasinvestments",
+        "body": "If you inverse Cramer, you will literally make money. He said dont buy Lk and I did. He said buy peloton and I shorted it. He said the markets will be down today and they literally went up. He\u2019s a moron.",
+        "created_utc": 1578367095,
+        "id": "fdfphr0",
+        "score": 69,
+        "subreddit": "wallstreetbets",
+        "created": 1578395895.0
+    },
+    {
+        "author": "dehaul",
+        "body": "This is so true. When I was dating single moms, it didn\u2019t matter if they were in Section 8 housing, getting SSI for their autistic offspring, using food stamps, and getting nothing from their \u201csperm donor\u201d baby daddies; they were gonna get that $8 coffee flavored soda every fuckin day.",
+        "created_utc": 1577988052,
+        "id": "fcut9f8",
+        "score": 69,
+        "subreddit": "wallstreetbets",
+        "created": 1578016852.0
+    },
+    {
+        "author": "hexydes",
+        "body": "&gt; Not every company\u2019s CEO is driven by this much passion of mission.\n\nI can think of Steve Jobs and possibly Bill Gates on the same level in recent memory. Jeff Bezos and Zuckerberg on another level down (I think both are passionate for their company's success, but don't seem to have much of a grander vision). Then you get down to maybe someone like John Legere with T-Mobile, and after that, it's just a bunch of MBAs that already have one arm in their golden parachute.\n\nHaving a CEO that has laser-focus on what they want to accomplish, and the leverage within their organization to make it happen, is a very rare and powerful thing.",
+        "created_utc": 1578083697,
+        "id": "fcyo4gh",
+        "score": 68,
+        "subreddit": "investing",
+        "created": 1578112497.0
+    },
+    {
+        "author": "Hollowpoint38",
+        "body": "It was almost certain that Lehman was going to be rescued.  Then they went under.  Same with Bear.\n\nSo \"when it goes lower buy more\" might apply to a large corporation making money, but most of these guys have little net worth.  Advice like that will bury these guys.\n\nI'm pretty upset when I see guys who have account values of $10,000 trying to behave like billionaires.  It's not the same thing.",
+        "created_utc": 1578257685,
+        "id": "fdbiepj",
+        "score": 67,
+        "subreddit": "investing",
+        "created": 1578286485.0
+    },
+    {
+        "author": "swamprat70",
+        "body": "Why isn't he just tweeting it? This is EXTREMELY unusual. What does it mean???Guys I'm scared.",
+        "created_utc": 1578499567,
+        "id": "fdka7qs",
+        "score": 67,
+        "subreddit": "wallstreetbets",
+        "created": 1578528367.0
+    },
+    {
+        "author": "wallthrowawaystreet",
+        "body": "Love the gainz on here lately. \n\nWe're all killing it in the greatest bull run of all time.",
+        "created_utc": 1578014016,
+        "id": "fcw01oc",
+        "score": 67,
+        "subreddit": "wallstreetbets",
+        "created": 1578042816.0
+    },
+    {
+        "author": "tht_pod",
+        "body": "Hard to say. This stock is unpredictable. In my opinion it\u2019s a good buy but right now it\u2019s in blue sky break out mode. You\u2019ll probably find a better buying opportunity if you wait but if you think it\u2019s going to keep riding then who am I to tell you no. Just remember this stock was at 170 like 6 months ago. I sold my position when it hit 410 and sure I\u2019m a little pissed it\u2019s gone higher but nothing wrong with taking profit. Wait for a pull back.",
+        "created_utc": 1578410358,
+        "id": "fdgwxqr",
+        "score": 66,
+        "subreddit": "StockMarket",
+        "created": 1578439158.0
+    },
+    {
+        "author": "BukkakeKing69",
+        "body": "I do not understand why people believe there would be some barter economy if there is an apocalyptic scenario. Some groups would be more powerful than others and assert some level of control. The moment that organization happens you're back to using a currency. Silver/gold has been that medium of exchange for as long as currency existed up until the fiat era began about 50 years ago.\n\nIn that sense precious metals isn't about the immediate aftermath it is about retaining wealth when a new state organizes.",
+        "created_utc": 1578321300,
+        "id": "fddqizs",
+        "score": 66,
+        "subreddit": "investing",
+        "created": 1578350100.0
+    },
+    {
+        "author": "Bleak_Midwinters",
+        "body": "I think there is a better answer than \"luck\" that you will commonly hear. Typically you want to learn the stages of the business/economic cycle for what you are talking about. During a recession certain sectors or industries perform better, these are typically tied to what is viewed as a necessity to the consumer. An example would be utilities. \n\nNow, if you are asking who will survive recessions, a good indicator is the leverage ratio. How much is funded with debt compared to equity? This helps assess financial health of a company. You can look at days cash as well. This answers how many days of operations can the company fund purely off the cash on it's balance sheet. Total assets turnover or TAT can show how well the companies assets are used to produce sales. There are several others, but I think this is sufficient to send you on your path. \n\nDuring a recession you may find it easier to just pick ETFs that track underlying growth indexes and buy them at a cheap entry. Check out the performance of the Nasdaq 100 from 2009 to now. Looks tasty right? Not to say those market conditions will be replicated, but a similar strategy may be easier with lower risk than picking individual stocks. Good luck!",
+        "created_utc": 1578243413,
+        "id": "fda9tp7",
+        "score": 65,
+        "subreddit": "investing",
+        "created": 1578272213.0
+    },
+    {
+        "author": "return_to_the_void",
+        "body": "This is my answer too. I did really well on picks I made during the 2008/9 recession. I had a screener set up to show me stocks that reached an all-time high in 2007 and dropped a lot through 2008 and going into 2009. I also filtered on market cap to avoid penny stocks, and a few other factors.\n\nWith the list I had, I did some research on each and tried to guess which would continue their growth during a recovery. I was focused on growth, but I know plenty of other people who were picking up dividend growth stocks on a steep discount.\n\nMy best two picks were AAPL and ISRG.\n\nThe strategy I used wouldn't have worked well during the dotcom bubble burst because many of those companies never recovered or took ~10 years to eventually recover. But because the recession was due to factors unrelated to overvalued tech (the housing bubble), I felt confident investing in tech stocks and it paid of *really fucking well* for me.",
+        "created_utc": 1578246441,
+        "id": "fdaibng",
+        "score": 65,
+        "subreddit": "investing",
+        "created": 1578275241.0
+    },
+    {
+        "author": "SaltRecording9",
+        "body": "This is it. I've finally found the most retarded comment on this sub. I don't know what to do now. I guess I can finally rest.",
+        "created_utc": 1578071047,
+        "id": "fcxvf3j",
+        "score": 65,
+        "subreddit": "wallstreetbets",
+        "created": 1578099847.0
+    },
+    {
+        "author": "droidhax89",
+        "body": "As someone who works in IT I\u2019m gonna say that\u2019s a hard no. Look at the link that\u2019s in the email they want you to click. I highly doubt that RH is going to ask you to download anything. So this seems phishy to me. I mean Robinhood is a pretty big company so I would think that any survey that they send you would likely have a link going directly back to them. \n\nRemember, anything can be hacked, even a no reply mailbox. I definitely would reach out to Robinhood support and ask. I can\u2019t say this enough, but when it comes to something tied to financial data always be careful!",
+        "created_utc": 1578955873,
+        "id": "feb6m7m",
+        "score": 64,
+        "subreddit": "RobinHood",
+        "created": 1578984673.0
+    },
+    {
+        "author": "Jairlyn",
+        "body": "I am neither long nor short TSLA.\n\nI do however enjoy following it and seeing others reactions. Most any other company that just barely hit the bottom of their estimates would be seen as a negative. But with TSLA its +4% on news they shipped 367,000 cars and they get a better market cap than GMs 2.8 million shipped.",
+        "created_utc": 1578072117,
+        "id": "fcxya6i",
+        "score": 63,
+        "subreddit": "investing",
+        "created": 1578100917.0
+    },
+    {
+        "author": "epicoliver3",
+        "body": "Invest it all in daddy musky wusky stocky wocky",
+        "created_utc": 1578143063,
+        "id": "fd27uqz",
+        "score": 63,
+        "subreddit": "wallstreetbets",
+        "created": 1578171863.0
+    },
+    {
+        "author": "ChocolateMemeCow",
+        "body": "Doubt there will ever be another draft. Would have to reinstate it, and war will be fought mostly using armor, long-range weapons and technology; plus we already have enough active-duty and reserve forces.",
+        "created_utc": 1578072628,
+        "id": "fcxzind",
+        "score": 62,
+        "subreddit": "wallstreetbets",
+        "created": 1578101428.0
+    },
+    {
+        "author": "MatPahomes",
+        "body": "Cashed a 150% gain on Thursday on some 1-17 calls, decided to watch this from the sidelines. Hope it fucking moons for you boys.",
+        "created_utc": 1578330574,
+        "id": "fde3u7j",
+        "score": 62,
+        "subreddit": "wallstreetbets",
+        "created": 1578359374.0
+    },
+    {
+        "author": "buy_the_peaks",
+        "body": "Consider this - you will be disappointed either way. Which one would you rather live with? It goes up more after you sell or it drops if you don\u2019t sell?",
+        "created_utc": 1580270389,
+        "id": "ffvqfb1",
+        "score": 62,
+        "subreddit": "options",
+        "created": 1580299189.0
+    },
+    {
+        "author": "Commotion",
+        "body": "Starting from scratch was an option. It was just a less profitable option.",
+        "created_utc": 1578324493,
+        "id": "fddus9f",
+        "score": 62,
+        "subreddit": "stocks",
+        "created": 1578353293.0
+    }
+]

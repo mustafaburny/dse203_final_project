@@ -1,0 +1,98 @@
+[
+    {
+        "author": "Mostyyimh",
+        "created_utc": 1611074833,
+        "id": "l0no32",
+        "num_comments": 98,
+        "num_crossposts": 0,
+        "selftext": "### Purpose\nIn this document I will present evidence showing that the AJAX-Plaid merger is likely and was planned out months beforehand. Note that everything in this post is factual and can be backed up with multiple sources *except* for the \"Tying it all together\" section which is speculation on my part.\n\n### AJAX\nI'm not going to deep dive into the AJAX team, the team is impressive and you can see for yourself if you're interested [here](https://ajaxcap.com/team/). The key member to keep in mind here is co-founder **Dan Och**. Dan Och is founder of hedge fund Och-Ziff(now renamed to Sculptor Capital after he left in 2018), which as of September 2019 had an AUM of $33.3 billion. \n\n### Och-Ziff\nOch-Ziff is important here because from 2016 through 2018, **William Barr** was on Och-Ziff's [board of directors](https://www.globenewswire.com/news-release/2016/08/02/946734/0/en/Och-Ziff-Appoints-William-P-Barr-to-Board-of-Directors.html). See [here](https://www.secform4.com/insider-trading/1196111.htm) for the options that were granted to Barr from Och-Ziff over this period of time. \n\nWilliam Barr, better known as Bill Barr, served as the *U.S. Attorney General from [February 14, 2019 \u2013 December 23, 2020](https://en.wikipedia.org/wiki/William_Barr), presiding over the Department of Justice(DOJ) during that time.* This timeline will be important later on.\n\nFor now, let's assume that Barr and Och have at least a working relationship.\n\n### Och's relationship with Plaid through BoxGroup\nBoxGroup is an investment firm focused on startups that has a close and long-standing relationship with Plaid.  \n**Zach Perret(CEO/Founder of Plaid) turned down a job at BoxGroup to start Plaid**  \nNimi Katragadda, partner at BoxGroup, says that \"**Plaid is a company BoxGroup had known longer than any other investor**\".   \nIf you look at BoxGroup's [investments page](https://boxgroup.com/#investments), Plaid was \"Launched in BoxGroup Office\".  \n\nAfter leaving Och-Ziff, Dan started another hedge fund--*Willoughby Capital*.   \nWho initially invested in/funded BoxGroup? **\"The small group consists mostly of family offices like Willoughby Capital, billionaire hedge fund manager Daniel Och\u2019s family office.\"** \n\n[Source, article from Oct 10, 2019](https://www.forbes.com/sites/alexkonrad/2019/10/10/boxgroup-takes-on-first-outside-investors-in-new-funds/?sh=76b93d62165a)\n\nFor now, let's assume that Och and Perret at least know of each other.\n\n### Visa's failed takeover of Plaid\nVisa's failed takeover of Plaid is strange for the following reasons: \n1. Visa has had many similar acquisitions in the past\n2. Other large acquisitions have successfully happened in the fintech space recently\n3. The timeline overlaps with AJAX's timeline almost perfectly\n\n#### Visa's past acquisitions\nSources for this section: [1](https://www.forbes.com/sites/greatspeculations/2019/09/30/visas-acquisition-spree-is-part-of-a-well-thought-out-strategy/?sh=7572d0f19d2f), [2](https://www.crunchbase.com/search/acquisitions/field/organizations/num_acquisitions/visa). I will go over just a few of the many acquisitions that they've made in the past couple years.\n- Cybersource, $2 billion\n\t- Cybersource is an e-commerce payment management company that simplifies and automates payment operations.\n- Payworks, Undisclosed amount\n\t- Payworks offers a solution for POS software providers and payment service providers to accept payments through multiple channels by integrating its payment gateway in their software.\n- Verifi, Undisclosed amount\n\t- Verifi offers a faster solution to resolve chargebacks and reduce costs for merchants and issuers.\n\n#### Similar acquisitions in the fintech space\nMastercard and American Express also announced plans to acquire fintechs this year. Mastercard said it agreed to purchase data aggregator [Finicity](https://www.google.com/search?client=firefox-b-1-d&amp;q=Mastercard+finicity) for $825 million in June, and American Express completed its estimated $850 million purchase of online lender [Kabbage](https://about.americanexpress.com/all-news/news-details/2020/American-Express-to-Acquire-Kabbage/default.aspx) in October. \u00a0\n\nAnd, of course, *Intuit's acquisition of [Credit Karma](https://investors.intuit.com/news/news-details/2020/Intuit-Completes-Acquisition-of-Credit-Karma/default.aspx) for $4.7 billion* that just successfully completed on Dec 3. It's hard to argue that Plaid and Visa is more of an antitrust infringement than Intuit and Credit Karma.\n\n#### Plaid Acquisition Timeline\n- *Jan 2020* - Visa announces they are acquiring Plaid for 5.3 billion dollars. They expect the deal to take 3-6 months to close. [Source](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwjE6Kn08KDuAhVaEFkFHVrbAY4QFjAVegQIKhAC&amp;url=https%3A%2F%2Fusa.visa.com%2Fabout-visa%2Fnewsroom%2Fpress-releases.releaseId.16856.html&amp;usg=AOvVaw2F1lvEng7H2LzNG1o0ctiI).\n- ***Oct 27th, 2020*** - **AJAX announces its IPO**. [Source](https://www.businesswire.com/news/home/20201027006294/en/Ajax-I-Announces-Pricing-of-750-Million-Initial-Public-Offering).\n- *Oct 28th, 2020* - AJAX units begin trading. [Source](https://www.businesswire.com/news/home/20201027006294/en/Ajax-I-Announces-Pricing-of-750-Million-Initial-Public-Offering).\n- ***Oct 28th, 2020*** - **DOJ announces it's considering litigation actions against the Plaid acquisition.** [Source](https://www.bankingdive.com/news/visas-plaid-antitrust-department-of-justice/587939/)\n- ***Nov 4th, 2020*** - **DOJ files antitrust suit against Visa Plaid acquisition.** [Source](https://www.justice.gov/opa/pr/justice-department-sues-block-visas-proposed-acquisition-plaid)\n- *Jan 12th, 2020* - Visa calls off Plaid acquisition. [Source](https://www.americanbanker.com/news/visa-plaid-call-off-merger-ending-doj-litigation)\n\n#### Tying it all together\nHere's what I think happened. **Plaid didn't want to be acquired/taken over by Visa and needed a way out.** Maybe they never wanted to be acquired. Maybe they changed their mind after the pandemic made them more profitable and they realized their valuation could be greater than 5.3b. Either way, I think that **Plaid and Dan Och come up with a plan involving Barr to get Plaid out of the takeover--in exchange, Och benefits by having the opportunity to take Plaid public through his SPAC.**\n\n#### Other random facts supporting this thesis\n\u00a0- AJAX's target: \"a scaled, high-quality asset in the internet, software, financial technology or consumer sectors.\", exactly describing Plaid.  \n\u00a0- AJAX has a fund value of $750-862.5 million, large enough for Plaid.  \n\u00a0- AJAX's team contains the co-founder of Square as well as key members from Willoughby Capital.  \n\u00a0- AJAX has a 10% promote fee instead of the usual 20%. \n\u00a0- This one is a little silly, but navigate to Plaid's [quickstart documents](https://plaid.com/docs/quickstart/) and you can ctrl-f for \"ajax\".  \n\u00a0- AJAX commons listed at about $11.30, meaning the big players were willing to pay up to roughly 11$/share. I would say say that NAV for AJAX is technically closer to 11 than 10 as a result.  \n\u00a0- If not Plaid, AJAX still has a strong connection to BoxGroup through Willoughby Capital. Check out BoxGroup's other fintech investments [here](https://boxgroup.com/#investments).",
+        "subreddit": "SPACs",
+        "title": "Connecting the dots: why the AJAX-Plaid merger is likely",
+        "url": "https://www.reddit.com/r/SPACs/comments/l0no32/connecting_the_dots_why_the_ajaxplaid_merger_is/",
+        "created": 1611103633.0
+    },
+    {
+        "author": "EdwardBouchet",
+        "created_utc": 1610470522,
+        "id": "kvvgzc",
+        "num_comments": 29,
+        "num_crossposts": 0,
+        "selftext": "Wall Street is now reading this and actively trying to squeeze us but they cannot in this case. The facts are the facts. \n\nStimulus went to millions of Cash App accounts of underbanked populations. \n\nLook at the recent transactions of coins. There are &gt; 1 million \u201c$600\u201d trades. Those aren\u2019t even in Cash App because Cash App handles all transactions privately and with OTC brokers. By next week, all these fluctuations will have resulted in $1 B in revenue for one week, in one app. I am expecting $4 B for the quarter. Soon, it will be one of the largest \u201cbanks\u201d on earth. Meanwhile, they quietly will be ramping up the tax business they scored for below market value from CreditKarma/Intuit. This is the most integrated small business software solution on earth, with a killer direct to consumer play. \n\nPeople want their money now, oh wait, it\u2019s going up, oh no it\u2019s crashing.  Fuck me = TRANSACTION FEES\n\n- Bobby\u2019s Daddy",
+        "subreddit": "wallstreetbets",
+        "title": "Bull Case for $SQ - $380 by 3/19",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/kvvgzc/bull_case_for_sq_380_by_319/",
+        "created": 1610499322.0
+    },
+    {
+        "author": "ZealousidealSun6215",
+        "created_utc": 1610600381,
+        "id": "kwyt99",
+        "num_comments": 15,
+        "num_crossposts": 0,
+        "selftext": "Disclaimer: I don't currently hold any of this stock, it didn't just have a massive run-up, it's not in a sexy industry like EV, Green Energy, Cybersecurity, Weed, or a platform to rent out something but it is a tech play.\n\nMy Stock pick for Jan 14th is Intuit, the creator and servicer of TurboTax.\n\nIt is expected that the most individuals ever will file taxes this year.....in the range of 15%-25% increase. Individuals who typically don't file will need to if they had issues collecting their stimulus check from the spring and from last week. The IRS has already delayed the earliest date you can file due to the expected large amount of filers. Also with the pandemic, more people will opt to file online than with their local tax professional. The stock has generally traded sideways since September in line with the FAANG stocks and is currently undervalued. They have beat EPS and REV the past 4 quarters and show no sign of slowing down. All YOY numbers look favorable and they are in a position of strength financially. They don't report OND numbers until 2/22 but I feel bullish about the results even with the damage to small and med size businesses. I have a limit order in for tomorrow at $366. I hope you will join me.\n\nhttps://preview.redd.it/1t9v014ac8b61.png?width=803&amp;format=png&amp;auto=webp&amp;s=72ba429b534301f6a882855f8462c9e204d0e0e2",
+        "subreddit": "wallstreetbets",
+        "title": "My Stock Pick for Thurs Jan 14th - INTU",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/kwyt99/my_stock_pick_for_thurs_jan_14th_intu/",
+        "created": 1610629181.0
+    },
+    {
+        "author": "Educational-Ad-5764",
+        "created_utc": 1609980433,
+        "id": "ks1kvt",
+        "num_comments": 11,
+        "num_crossposts": 0,
+        "selftext": "Twitter is in outrage right now over Turbotax, owned by intuit (INTU) and H&amp;R Blocks' (HRB) mix ups with direct deposits for the $600 stimmy payment. It looks as though H&amp;R has for the most part handled their situation leaps and bounds better than Turbotax, and has already corrected the error for a lot of customers. Turbotax, on the other hand, is getting absolutely reamed while they keep stalling, blaming the IRS, and not showing much compassion towards their customers. Their twitter page is literally flooded with people stating they will no longer be using their service, and threats of class action lawsuits. I can only assume that the easiest place for the millions of soon to be ex-turbotax users to jump to would be H&amp;R Block. Could their be a short term spike expected for (HRB) from now into the Spring?",
+        "subreddit": "stocks",
+        "title": "Will H&amp;R block benefit from the second stimulus payment fiasco?",
+        "url": "https://www.reddit.com/r/stocks/comments/ks1kvt/will_hr_block_benefit_from_the_second_stimulus/",
+        "created": 1610009233.0
+    },
+    {
+        "author": "ZealousidealSun6215",
+        "created_utc": 1610600847,
+        "id": "kwyxv6",
+        "num_comments": 0,
+        "num_crossposts": 0,
+        "selftext": "[removed]",
+        "subreddit": "wallstreetbets",
+        "title": "My Stock Pick for Thurs Jan 14th - INTU",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/kwyxv6/my_stock_pick_for_thurs_jan_14th_intu/",
+        "created": 1610629647.0
+    },
+    {
+        "author": "FinancePadawan54",
+        "created_utc": 1610599829,
+        "id": "kwyo6l",
+        "num_comments": 0,
+        "num_crossposts": 0,
+        "selftext": "[removed]",
+        "subreddit": "wallstreetbets",
+        "title": "My stock pick for Thur Jan 14th - INTU",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/kwyo6l/my_stock_pick_for_thur_jan_14th_intu/",
+        "created": 1610628629.0
+    },
+    {
+        "author": "BullishCuzTendies",
+        "created_utc": 1611005565,
+        "id": "l04d97",
+        "num_comments": 0,
+        "num_crossposts": 0,
+        "selftext": "TOP 10 HOLDINGS* WEIGHT \n1. ALPHABET INC. 8.75%\n2. ORACLE CORP 7.55%\n3. MICROSOFT CORP 7.44%\n4. AMAZON.COM INC. 7.22%\n5. SALESFORCE.COM INC 6.21%\n6. SHOPIFY INC 5.96%\n7. SAP SE 5.84%\n8. SERVICENOW INC 5.22%\n9. INTUIT COM 4.78%\n10. ZOOM VIDEO COMMUNICATIONS INC 3.94%\n\n[More product data on the ETF](https://evolveetfs.com/product/data/)",
+        "subreddit": "CanadianInvestor",
+        "title": "Canada's first cloud data ETF launched today: DATA (Evolve ETFs)",
+        "url": "https://www.reddit.com/r/CanadianInvestor/comments/l04d97/canadas_first_cloud_data_etf_launched_today_data/",
+        "created": 1611034365.0
+    },
+    {
+        "author": "dag_swag",
+        "created_utc": 1610825508,
+        "id": "kypknd",
+        "num_comments": 0,
+        "num_crossposts": 0,
+        "selftext": "[removed]",
+        "subreddit": "RobinHood",
+        "title": "Can Robinhood Allow a Intuit Mint Integration?",
+        "url": "https://www.reddit.com/r/RobinHood/comments/kypknd/can_robinhood_allow_a_intuit_mint_integration/",
+        "created": 1610854308.0
+    }
+]

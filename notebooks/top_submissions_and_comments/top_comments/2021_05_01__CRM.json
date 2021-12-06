@@ -1,0 +1,1802 @@
+[
+    {
+        "author": "ALL_GRAVY_BABY",
+        "body": "They missed some of the biggest trains in market history... CRM? RELATION DATABASE? CLOUD? Will miss AI ... Will miss Genomics... But hey, Watson can win a chess Match. \n\nTravesty for shareholders. Board past and present should be tar'd and feather'd.",
+        "created_utc": 1621197928,
+        "id": "gyd62zs",
+        "score": 194,
+        "subreddit": "stocks",
+        "created": 1621226728.0
+    },
+    {
+        "author": "TheGRS",
+        "body": "I don't even think this should be an unknown to anyone. Any web application at a moderately sized company or above is like this.\n\nIf you want to see a site that very clearly did not grow with the times, go visit ebay.\n\nIf you want to see a site that is hopelessly being crushed under the weight of its own success, go visit salesforce.",
+        "created_utc": 1622067100,
+        "id": "gzkgs22",
+        "score": 46,
+        "subreddit": "investing",
+        "created": 1622095900.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "Don\u2019t you worry about mr yellow. Money is flowing elsewhere at the moment. Just collect your dividends and we\u2019ll finish the year around 140-160.  My avg is 121 and I\u2019m not the least bit concerned. All megacap stocks are trending very similar. CRM is much more disappointing to me",
+        "created_utc": 1621144571,
+        "id": "gyap36c",
+        "score": 32,
+        "subreddit": "StockMarket",
+        "created": 1621173371.0
+    },
+    {
+        "author": "shimszy",
+        "body": "This stock is obviously insane - and thats okay. Buffet and Salesforce managed to buy in at $120, which makes this stock a lot more palpable based on their growth rates. I've had friends who bought in because 'Buffet bought it', and 'Buffet never buys growth'. The difference was that Buffet paid 1/3 the price you did.  Very promising company, still an insane valuation.",
+        "created_utc": 1622100132,
+        "id": "gzm14vo",
+        "score": 20,
+        "subreddit": "investing",
+        "created": 1622128932.0
+    },
+    {
+        "author": "mithyyyy",
+        "body": "If it hits 500 a share, it would have a market cap of 225 billion dollars, more than McDonald's, Chevron, and Salesforce. Seeing how AMC has 11 billion dollars in debt and negative shareholder's equity, what makes you think that AMC isn't gonna offer much more shares, as they've continues to do so in the past.",
+        "created_utc": 1621973300,
+        "id": "gzfk1lr",
+        "score": 20,
+        "subreddit": "stocks",
+        "created": 1622002100.0
+    },
+    {
+        "author": "TimeRemove",
+        "body": "Palantir catalog:   \n\n - CRM now with AI\u2122 (Foundry).     \n - Microsoft Power BI with AI\u2122 (Gotham).     \n - Cloud but with 100x marketing (Apollo).   \n\nBut companies license it because AI/ML is *so hot right now* and selling super advanced capabilities++ is way sexier than \"Let's just license Power BI Premium w/Advanced AI, SQL Server, and Microsoft Dynamics from this little upstart called Microsoft.\"   \n\nHalf the posts about them here is \"I don't really understand what they do.\" That isn't by accident, they literally make money by taking simple ideas, sprinkling in some AI/ML just *because*, and making them sound future-tech-ie.   \n\nThe people that understand PLTR skip it because even if they *could* become something eventually it is just a pile of buzzword snakeoil right now. Of course the USG paid money for it, getting the DoD to buy shit is practically an American tradition.",
+        "created_utc": 1621009738,
+        "id": "gy47ai3",
+        "score": 17,
+        "subreddit": "stocks",
+        "created": 1621038538.0
+    },
+    {
+        "author": "imlaggingsobad",
+        "body": "Disney, Paypal, Nvidia, Tesla, Salesforce, Netflix",
+        "created_utc": 1621428499,
+        "id": "gyouydl",
+        "score": 16,
+        "subreddit": "stocks",
+        "created": 1621457299.0
+    },
+    {
+        "author": "dlions2020",
+        "body": "I have to use salesforce every day for work.  It\u2019s a hot mess with constant errors and quirks.",
+        "created_utc": 1622077952,
+        "id": "gzl396t",
+        "score": 14,
+        "subreddit": "investing",
+        "created": 1622106752.0
+    },
+    {
+        "author": "Academic-Chip",
+        "body": "As a CRM shareholder, I'm glad you turned it down too.",
+        "created_utc": 1622163413,
+        "id": "gzpdvir",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1622192213.0
+    },
+    {
+        "author": "mscalaw96",
+        "body": "I work in data and analytics at a Media company and use Snowflake every day in my work.\n\nI\u2019m bullish on Snowflake because it is BY FAR, the best data warehousing product on the market by a mile. \n\nMost other data warehousing products out there cost a TON to use (look up teradata - they\u2019ve struggled to grow revenue the past few years) - by cost a ton I\u2019m meaning implementation fees alone can range in the millions of dollars, effectively locking anyone but the biggest of companies out from using their product.\n\nSnowflake on the other hand is cheap. It\u2019s not a SAAS product, you don\u2019t pay subscription fees to use it. Instead, you purchase credits from snowflake (this is the $1.4B in future revenue that they already have booked), and consume these credits to run queries, import data etc into Snowflake. \n\nUsing credits to do our day to day work explains why Snowflakes revenue retention rate is so high. Customers, like us, are constantly querying the data in our data warehouse to update business dashboards, pull reports etc. This data normally needs to be refreshed at least daily, if not multiple times a day. Every time a query is refreshed Snowflake makes money.\n\nGiven how easy it is to import data from a variety of sources, the number of business intelligence developers that we\u2019ve employed has increased 5x because the business sees such value in a platform. No longer does it takes days or weeks to import data into Snowflake, you can have clean, transformed and ready to use data, pushing that into your business dashboards, in a matter of hours. As we move more reports away from being manual and done in excel to being automated and powered by Snowflake, our cost to use the product naturally increases over time.\n\nThe reason why I am bullish on Snowdlake is because there target market is SO LARGE. They have under 5000 customers WORLDWIDE, who use their product. For reference, the media company I work for is SMALL (i\u2019m based in New Zealand), and we probably spend roughly 30k per year on Snowflake for all our data warehousing needs.\n\nThink of mega cap companies, like Coca Cola, Walmart, Home Depot etc and think about the VOLUME of data that they have! Billions of rows of operational data that is ONLY INCREASING OVER TIME. Think of the number of disparate systems - CRM, accounting, billing, procurement etc, and think about the need for having this data in a place where analysts across a business can query one place for the business source of truth.\n\nThink also about how the amount of data over time is only going to increase as become more of an interconnected world - IOT, more data being consumed over the internet, automated cars, robots - all are going to require that data to be stored somewhere and used at a later date - that\u2019s what Snowflake does.\n\nLiterally, they could stop growing their customer numbers and their revenue would still grow 60%+ per year as their existing customers become more integrated with the warehouse and query it more and more.\n\nFrom a technical perspective, sure they\u2019re competing against the likes of Amazon, Microsoft and Google, but these products are SHIT compared to the godliness of Snowflake. Literally, the ability to query 320million rows of data in a query in Snowflake that takes 6 minutes to run vs 6 HOURS in Azure.\n\nAs a professional in the industry, I will not promote any product other than Snowflake to a future business that I work for if they don\u2019t yet have a data warehouse. This is only going to amplify over time as the people using the product become the spokespeople for it - because Snowflake is THAT GOOD.\n\nSo yes, from an investment perspective, Snowflake is HELLA expensive. 60x TTM sales is ridiculous, regardless of the growth rate of the company. However, if you begin to consider the total number of customers that can use them (because their revenue is usage rather than subscription based, both large and small customers can easily use them -  no other product allows for this), the fact that data levels are only going to increase over time, and the fact that their product is clearly superior to everything else on the market, you can see why they are valued so richly.\n\nTLDR: Snowflake user. Snowflake is dope asf. They have so many more people they can sell to and will see revenue growth rates for a long time to come. BUY",
+        "created_utc": 1622106444,
+        "id": "gzm7rnu",
+        "score": 12,
+        "subreddit": "investing",
+        "created": 1622135244.0
+    },
+    {
+        "author": "yzy_",
+        "body": "&gt; the Salesforce of data analysis and machine learning\n\nIn terms of market capture, yes. But in terms of the software itself, PLTR is like a year 3000 superhuman cyborg vs. SF's paleolithic era caveman",
+        "created_utc": 1620935370,
+        "id": "gy0mcxh",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1620964170.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "If we all say the top is in, Wall Street algos will inverse the shit out of our puts and make it go back up.\n\nSo...\n\nThe top is in. I am buying puts specifically on AAPL, MSFT, PSFE, ICLN, PLTR, MP, and CRM.",
+        "created_utc": 1620681000,
+        "id": "gxnlcba",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1620709800.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "How is SalesForce such a piece of shit? I bought CRM at $225 back in November and it is at the same fucking level.",
+        "created_utc": 1620062156,
+        "id": "gwsz9rs",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1620090956.0
+    },
+    {
+        "author": "I_love_avocados1",
+        "body": "I agree with V and MA (can include PayPal too)\n\nAside from that, CRM.",
+        "created_utc": 1621435291,
+        "id": "gypa6sm",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1621464091.0
+    },
+    {
+        "author": "404__LostAngeles",
+        "body": "TDOC = Healthcare\n\nU = Tech\n\nTWLO = Communication Services\n\nDDOG = Tech\n\nTSLA = Consumer Cyclical\n\nNIO = Consumer Cyclical\n\nTWTR = Communication Services\n\nBABA = Consumer Cyclical\n\nSHOP = Tech\n\nCRM = Tech\n\nJD = Consumer Cyclical",
+        "created_utc": 1620951839,
+        "id": "gy1kye8",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1620980639.0
+    },
+    {
+        "author": "fetch_me_a_block",
+        "body": "That +26% CRM move was only 9 months ago? Wow.",
+        "created_utc": 1621805091,
+        "id": "gz7drdh",
+        "score": 8,
+        "subreddit": "options",
+        "created": 1621833891.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "The savage move was on March 22ish I did 100 MSFT @ 135 and 200 WFC @ 25. Later in the year I bought another 100 WFC averaging down to $24. Got 100 DIS @ 99 as well. Showed up to AAPL &amp; CRM kinda late but those first moves were gold.",
+        "created_utc": 1621176994,
+        "id": "gybw3rd",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1621205794.0
+    },
+    {
+        "author": "WickedSensitiveCrew",
+        "body": "EV and Space stocks kinda risky. If it were me i'd cut FSR and SPCE for something safer that pays a dividend or another index fund such as SPY/VOO/VTI to at least protect a larger portion of your portfolio in case growth comes under fire again.\n\nIf you must go all in growth. Maybe consider cloud stocks such as CRWD, SNOW, CRM or international ecommerce stocks such as CPNG, JMIA, and SE those have gotten beaten and could get hit if growth sells off again.",
+        "created_utc": 1621185537,
+        "id": "gyceh1p",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1621214337.0
+    },
+    {
+        "author": "Oakland_Trader",
+        "body": "Salesforce global outage in the middle of the working day, Bullish",
+        "created_utc": 1620771683,
+        "id": "gxs9r3k",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1620800483.0
+    },
+    {
+        "author": "Deebizness",
+        "body": "Im so bullish on avepoint. No debt, increased revenue guidance, expanding to $CRM, Fedramp authorization, $20m share buy back authorization, 1/4 of fortune 5's as clients...whats not to love.",
+        "created_utc": 1621472791,
+        "id": "gyrnvut",
+        "score": 8,
+        "subreddit": "SPACs",
+        "created": 1621501591.0
+    },
+    {
+        "author": "PersianMG",
+        "body": "Keen on CRM, NVDIA, OKTA, COST .",
+        "created_utc": 1621698512,
+        "id": "gz2d3iv",
+        "score": 7,
+        "subreddit": "options",
+        "created": 1621727312.0
+    },
+    {
+        "author": "Pikaea",
+        "body": "lmao that is crazy wtf. In all this insanity since CCIV DA, that has to be the wildest thing ive seen. Especially as they are also going to be heavily into SalesForce, no longer one trick pony with Microsoft.",
+        "created_utc": 1620948036,
+        "id": "gy1dly6",
+        "score": 7,
+        "subreddit": "SPACs",
+        "created": 1620976836.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Wednesday, the 26th of May\n\n\n\n## Upcoming events for Wednesday, May 26th\n\n - Stock splits:\n\n    - UVXY @ **1:10**\n    - VIXY @ **1:4**\n    - SCO @ **1:4**\n    - ZSL @ **1:4**\n\n - Expected earnings:\n\n  AEO, AGL, ANF, APPS, BBAR, BBW, BLRX, BMO, BORR, BQ, CHNG, CLGN, CMCO, CMRE, CPRI, CRKN, CVCO, DBI, DKS, DXC, ELF, EVGN, FRO, GASS, GOTU, GRIN, HLG, HMG, HOTH, ICLK, LAIX, LAZY, LI, MESO, MOD, NESR, NFH, NTNX, NVDA, NVIV, NXGN, OKTA, OOMA, PDD, PLAB, PSTG, PTNR, QADA, QADB, QMCO, REX, SFET, SINT, SJ, SNOW, TYME, UCL, UHAL, UVV, VTOL, VTRU, WDAY, WSM, ZUO\n\n - Ex-div:\n\n  ACCO, AMAT, AVA, B, CHE, CTB, DAC, FWRD, IP, JBT, KNSL, MTRN, PSEC, SMG, XYL\n\n - Economic events and announcements:\n\n    - 5-Year Note Auction (previous: 0.849%)\n    - Crude Oil Imports (previous: -0.587M)\n    - Crude Oil Inventories (consensus: -1.050M, previous: 1.321M)\n    - Cushing Crude Oil Inventories (previous: -0.142M)\n    - Distillate Fuel Production (previous: -0.102M)\n    - EIA Refinery Crude Runs  (previous: 0.096M)\n    - EIA Weekly Distillates Stocks (consensus: -1.900M, previous: -2.324M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.2%, previous: 0.2%)\n    - FOMC Member Quarles Speaks\n    - FOMC Member Quarles Speaks\n    - Gasoline Inventories (consensus: -0.614M, previous: -1.963M)\n    - Gasoline Production (previous: 0.165M)\n    - Heating Oil Stockpiles (previous: -0.164M)\n    - MBA 30-Year Mortgage Rate (previous: 3.15%)\n    - MBA Mortgage Applications (previous: 1.2%)\n    - MBA Purchase Index (previous: 265.3)\n    - Mortgage Market Index (previous: 724.2)\n    - Mortgage Refinance Index (previous: 3,413.3)\n\n## Upcoming events for Thursday, May 27th\n\n - Expected earnings:\n\n  ADIL, ADSK, AFYA, AMWD, APOP, ASND, ATHM, BBY, BOSC, BOX, BURL, CCEP, CDZI, CELC, CETX, CIH, CKX, CM, CNF, COST, CRM, CRVL, DELL, DG, DLTR, DOMO, DYAI, EBR, EBR.B, FANH, FRSX, GCO, GES, GNPX, GPS, HHR, HLNE, HMLP, HPQ, JOBS, KRT, LBPS, LGF.A, LGF.B, LIZI, MACK, MANU, MDT, MIXT, MOMO, MOV, MYSZ, NUZE, NVGS, OLLI, PBR.A, PLAN, PLUG, PRVA, QFIN, RDHL, RY, RYB, SAFM, SBR, SBSW, SEEL, SKM, SPCB, SUPV, TD, TDAC, THR, TITN, ULTA, VEEV, VIOT, VMW, YEXT, YJ, YTRA, YY\n\n - Ex-div:\n\n  ABTX, ADC, ADI, AGNC, ALTM, ALV, AVAL, AY, BEPC, BIPC, BMI, BOH, BRMK, CATY, CBT, CFR, CPF, CR, CRT, CSX, CTT, DD, DNP, DOV, DOW, EAF, EFC, EL, EQH, EVR, FBHS, FT, FTV, FXNC, GLW, HII, HQH, HUBB, J, JKHY, KHC, KINS, MAIN, MARPS, MAS, MKSI, MLAB, MLHR, MTR, NBHC, NNI, NUS, NWL, ORC, PBT, PDM, PFIS, PIPR, POWI, PRT, PTVE, RLI, RS, SBLK, SCL, SCM, SGC, SJT, SLG, STAG, STE, STRA, TNC, TSLX, TV, UBOH, UG, UNP, VMC, VVV, WEYS, WHD, WLTW, YUM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.000%)\n    - 7-Year Note Auction (previous: 1.306%)\n    - 8-Week Bill Auction (previous: 0.005%)\n    - Continuing Jobless Claims (consensus: 3,680K, previous: 3,751K)\n    - Core Durable Goods Orders (consensus: 0.8%, previous: 2.3%)\n    - Core PCE Prices (consensus: 2.30%, previous: 2.30%)\n    - Corporate Profits (previous: 27.0%)\n    - Durable Goods Orders (consensus: 0.7%, previous: 1.0%)\n    - Durables Excluding Defense (previous: 1.8%)\n    - GDP (consensus: 6.5%, previous: 6.4%)\n    - GDP Price Index (consensus: 4.1%, previous: 4.1%)\n    - GDP Sales (previous: 9.2%)\n    - Goods Orders Non Defense Ex Air (consensus: 0.8%, previous: 1.0%)\n    - Initial Jobless Claims (consensus: 425K, previous: 444K)\n    - Jobless Claims 4-Week Avg. (previous: 504.75K)\n    - KC Fed Composite Index (previous: 31)\n    - KC Fed Manufacturing Index (previous: 40)\n    - Natural Gas Storage (previous: 71B)\n    - PCE Prices (previous: 3.5%)\n    - Pending Home Sales (consensus: 0.8%, previous: 1.9%)\n    - Pending Home Sales Index (previous: 111.3)\n    - Real Consumer Spending (previous: 10.7%)\n\n## Upcoming events for Friday, May 28th\n\n - Expected earnings:\n\n  ANAT, AZRX, BCOW, BIG, BPYU, CAL, CBLI, CIG, GB, GTT, GWGH, HIBB, HUSA, MARPS, MBOT, MDLY, MDNA, MLND, MOGU, MTR, MYMD, OGEN, PALI, PRT, SQBG, XPL\n\n - Ex-div:\n\n  ACNB, AIZ, ASB, ASH, BCC, BGFV, BLL, BRKR, BWA, CABO, CCNE, COWN, CRD.A, CRD.B, CWEN, CWEN.A, CXP, EBAY, EMCF, ESCA, ESI, ESNT, EXPD, FBC, FF, FFBC, FNB, FNCB, GBL, GCMG, GPI, GS, HAYN, HBB, HIG, HQI, HVT, HVT.A, HY, IBKR, IEP, INFY, JNPR, K, KEY, LCNB, LHX, LMT, LUMN, LZB, MAN, MCD, MGEE, MLM, MOFG, MTB, MVBF, NBTB, NC, NETI, NFE, NGVC, NKE, NOC, NTST, O, ONB, PANL, PATK, PII, PINC, PRGS, SAFT, SBGI, SF, SLGN, SPKE, SSNC, STAR, TRMK, TSN, TW, UFPI, VIRT, WEN, WMS, WTS, ZEUS\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 3.2K)\n    - CFTC Copper speculative net positions (previous: 39.0K)\n    - CFTC Corn speculative net positions (previous: 459.5K)\n    - CFTC Crude Oil speculative net positions (previous: 475.9K)\n    - CFTC Gold speculative net positions (previous: 198.9K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -6.1K)\n    - CFTC Natural Gas speculative net positions (previous: -68.8K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -23.2K)\n    - CFTC Silver speculative net positions (previous: 51.0K)\n    - CFTC Soybeans speculative net positions (previous: 228.3K)\n    - CFTC Wheat speculative net positions (previous: 25.7K)\n    - Chicago PMI (consensus: 68.0, previous: 72.1)\n    - Core PCE Price Index (consensus: 0.6%, previous: 0.4%)\n    - Core PCE Price Index (consensus: 2.9%, previous: 1.8%)\n    - Dallas Fed PCE (previous: 2.00%)\n    - Goods Trade Balance (previous: -90.60B)\n    - Michigan 5-Year Inflation Expectations (previous: 3.10%)\n    - Michigan Consumer Expectations (previous: 77.6)\n    - Michigan Consumer Sentiment (consensus: 82.9, previous: 82.8)\n    - Michigan Current Conditions (previous: 90.8)\n    - Michigan Inflation Expectations (previous: 4.6%)\n    - PCE Price index (previous: 2.3)\n    - PCE price index (previous: 0.5%)\n    - Personal Income (consensus: -14.1%, previous: 21.1%)\n    - Personal Spending (consensus: 0.5%, previous: 4.2%)\n    - Real Personal Consumption (previous: 3.6%)\n    - Retail Inventories Ex Auto (previous: 0.6%)\n    - U.S. Baker Hughes Oil Rig Count (previous: 352)\n    - U.S. Baker Hughes Total Rig Count (previous: 453)\n    - Wholesale Inventories (previous: 1.3%)\n\n^^^^2021-05-26",
+        "created_utc": 1622023214,
+        "id": "gzhvnhk",
+        "score": 6,
+        "subreddit": "RobinHood",
+        "created": 1622052014.0
+    },
+    {
+        "author": "jsblk3000",
+        "body": "As someone who uses Salesforce daily, I am not really a fan but it's better than our older crap we had. Maybe it's my organization's fault but it feels like information is cluttered and it's clunky to use or communicate.",
+        "created_utc": 1620357347,
+        "id": "gx8dxpu",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1620386147.0
+    },
+    {
+        "author": "ALL_GRAVY_BABY",
+        "body": "It really is shocking. I mean... Salesforce went from nothing to a Dow Jones 30 company right under their nose. \n\nAnd many others... Even a similar life stage company like Coke is constantly doing partnerships and acquisitions to grow the future business.\n\nBig Blue ain't so big anymore.",
+        "created_utc": 1621206727,
+        "id": "gydoq0c",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1621235527.0
+    },
+    {
+        "author": "blackiechan25",
+        "body": "You're 18. What you have that not many of us have in Reddit is time. You've picked some pretty safe, slow growing companies, which there's nothing wrong with besides the fact that you'll be growing too slow for your age.\n\nWhat young investors should do is invest more in growth oriented companies (I don't mean the SPACs or high risk growth companies of the world) because you can waiver the downturns in the market in the long run than let's say, someone in their 50s.\n\nYour \"risk adjusted\" returns over 10 years via growth stocks will be well rewarded and as you get older, that's when you start shifting to less volatile names like your BAC, KO, MSFT of the world.\n\nExample of what I mean for growth companies: Square (SQ), Draftkings (DKNG), Petco (WOOF), Salesforce (CRM), Spotify (SPOT)",
+        "created_utc": 1621187048,
+        "id": "gychy4y",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1621215848.0
+    },
+    {
+        "author": "tmajewski",
+        "body": "TDOC, Unity, Twilio, DDOG, Tesla, NIO, Twitter, BABA, Shopify, Salesforce, JD, just to name a few.  Obviously not all huge names in tech, but a good lot of high volume growth/tech stocks have definitely tanked 20-40% in the last couple months",
+        "created_utc": 1620941436,
+        "id": "gy10bun",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1620970236.0
+    },
+    {
+        "author": "Training-Space-8232",
+        "body": "Now that we\u2019re 2 weeks out, this is your quarterly reminder to not fucking play CRM earnings because regardless of what options you buy youre 100% going to be wrong.",
+        "created_utc": 1620928746,
+        "id": "gy066ii",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1620957546.0
+    },
+    {
+        "author": "Training-Space-8232",
+        "body": "This is your weekly reminder to not play CRM earnings. No matter what you buy you\u2019re going to be wrong",
+        "created_utc": 1621523499,
+        "id": "gytx9a3",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1621552299.0
+    },
+    {
+        "author": "Training-Space-8232",
+        "body": "Lol crm carrying spy and dia",
+        "created_utc": 1622146221,
+        "id": "gzoeatt",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1622175021.0
+    },
+    {
+        "author": "AlteregoMike",
+        "body": "It\u2019s hard to say because they are transitioning into commercial.  And execution matters all. But if they do execute it well, I can imagine they will catch up quickly with CRM in 5 years, which is currently 5x of PLTR\u2019s market cap",
+        "created_utc": 1620563540,
+        "id": "gxhp7gl",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1620592340.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "The February correction has allowed me to accumulate my entire AAPL position. I\u2019m more than grateful. I only had 8 shares last year. kicked myself when it ran to $140. Now I\u2019m up to 100 @ $121.  Also accumulated 50 CRM @ $223",
+        "created_utc": 1621173959,
+        "id": "gybq6p9",
+        "score": 5,
+        "subreddit": "StockMarket",
+        "created": 1621202759.0
+    },
+    {
+        "author": "lulubutts",
+        "body": "Salesforce still down \ud83d\ude2b",
+        "created_utc": 1620778187,
+        "id": "gxsn6rw",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1620806987.0
+    },
+    {
+        "author": "jeanneLstarr",
+        "body": "Sure.  ON. VRT.  PANW.  GLW.  AMD.  CRM.  FCX.",
+        "created_utc": 1620865591,
+        "id": "gxx70z3",
+        "score": 5,
+        "subreddit": "options",
+        "created": 1620894391.0
+    },
+    {
+        "author": "AlteregoMike",
+        "body": "Thank you for sharing. This is also how I feel. Palantir historically has been using the top down sales approach. Meaning that they will convince the c-suite or high rank gov officials first. \n\nBut for the majority of other saas companies, they have big sales force and plenty of trainings to get users on board, like CRM or snowflake. There is still room for pltr to grow and mature",
+        "created_utc": 1620560571,
+        "id": "gxhlaha",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1620589371.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "If you could only invest in 10 companies or ETFs for the next 10-20 years, what would they be? \n\nI\u2019m 25 and trying to target long term companies that are set to grow. Some of my biggest positions right now are MSFT, AAPL, CRM, PSFE, ROBO, CRSR, lucid, and the ARK funds. \n\nI\u2019m obviously young but want to set myself up well long-term.",
+        "created_utc": 1620270518,
+        "id": "gx3xksz",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1620299318.0
+    },
+    {
+        "author": "lattiboy",
+        "body": "Bought CRM calls right before close and I\u2019m really hoping this AH surge holds",
+        "created_utc": 1622147995,
+        "id": "gzoic6v",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1622176795.0
+    },
+    {
+        "author": "Josefstalion",
+        "body": "Evolve has similar ETFs to ARK, in that they're thematic and mostly tech/future value stocks.\n\nThey have CYBR, which is cyber security focused, DATA is cloud computing, holds stocks like AMZN, MSFT, GOOG, along with some other smaller ones like Salesforce, and HERO is their Esports ETF",
+        "created_utc": 1620428716,
+        "id": "gxbvjbi",
+        "score": 4,
+        "subreddit": "CanadianInvestor",
+        "created": 1620457516.0
+    },
+    {
+        "author": "schildog9",
+        "body": "There's no need for a space force when we have Salesforce.",
+        "created_utc": 1620765737,
+        "id": "gxrw32j",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1620794537.0
+    },
+    {
+        "author": "The_odd__todd",
+        "body": "I bought CRM yesterday.  So far so good.  Near very important turn around prices off a historical support level.",
+        "created_utc": 1621017943,
+        "id": "gy4qchm",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1621046743.0
+    },
+    {
+        "author": "tendiesorrope",
+        "body": "Anyone playing CRM? Just broke out of a year long channel",
+        "created_utc": 1622379832,
+        "id": "gzyz558",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1622408632.0
+    },
+    {
+        "author": "junckdogg",
+        "body": "#$PLTR..KNOW WHAT YOU OWN- Put F.U.D. on Ignore.\n\n1) PLTR is an A.I. Data Mining Co. Just like Salesforce except it is growing at a quicker pace.\n\n2) PLTR has two main Platforms, a) Gotham which serves U.S. Agencies, CIA, FBI, ICE and  the Military b) Foundry serves Commercial Businesses \n\n3) PLTR\u2019s Gotham is the default operating  system for data across the U.S. Government.\n\n4) PLTR generated 56% revenue from Government and 44% from Commercial customers in 2020\n\n5) PLTR  revenue growth for 2020 rose 47%... 77 % of that growth was from Government.\n\n6) PLTR has new Contracts with the FDA,  The Army,  Air Force, Rio Tinto,  PG&amp;E,  and DP.",
+        "created_utc": 1620414900,
+        "id": "gxb2vrm",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1620443700.0
+    },
+    {
+        "author": "Elchupanebre4",
+        "body": "Opened up my companies instance of Salesforce.\n\nIt's loading page has a gay looking bear with a heart flapping like a butterfly.\n\nPuts on SFDC?",
+        "created_utc": 1621464914,
+        "id": "gyr8d3q",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1621493714.0
+    },
+    {
+        "author": "jawabdey",
+        "body": "I was a big believer in their product until recently. Redshift, an AWS alternative &amp; their main competitor, has caught up significantly. Their sales guy, a Stanford grad, was like a parrot, repeating the same tired lines over and over again.\n\nYou can get a similar product for a cheaper price that fits better into your ecosystem, all without a contract. I see sales slowing down in the future. I might buy it at like $50-$100, based solely on a future acquisition by Microsoft, Oracle or Salesforce",
+        "created_utc": 1620976691,
+        "id": "gy2ogyq",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1621005491.0
+    },
+    {
+        "author": "Calvin833",
+        "body": "I am looking for diversify into   industrials, consumer staples.\n\nany suggestions?\n\n|AAPL|7%|\n|:-|:-|\n|AMD|8%|\n|SHOP|8%|\n|NKE|7%|\n|MSFT|6%|\n|FB|5%|\n|SQ|6%|\n|PINS|8%|\n|ESTSY|7%|\n|PYPL|6%|\n|TSLA|6%|\n|BABA|6%|\n|SNAP|5%|\n|TDOC|6%|\n|CRM|4%|\n|FVRR|5%|",
+        "created_utc": 1620072585,
+        "id": "gwtnxei",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1620101385.0
+    },
+    {
+        "author": "mr_blockchain_",
+        "body": "Salesforce sales engineer",
+        "created_utc": 1620113738,
+        "id": "gwvr7qf",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620142538.0
+    },
+    {
+        "author": "jsntx",
+        "body": "Tomorrow, I'm feasting on CRM and FUBO",
+        "created_utc": 1622070469,
+        "id": "gzknyyu",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622099269.0
+    },
+    {
+        "author": "Gandolfinator",
+        "body": "CRM\ud83d\ude80",
+        "created_utc": 1622171315,
+        "id": "gzpspjd",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622200115.0
+    },
+    {
+        "author": "tendiesorrope",
+        "body": "CRM best earnings yet. Let's see if it runs.",
+        "created_utc": 1622154696,
+        "id": "gzowxgr",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622183496.0
+    },
+    {
+        "author": "fro2short",
+        "body": "sorry to keep replying to all your posts lol. you want to keep an eye on the DMAs, particularly the 50 DMA and 200 DMA as factors on top of the short term trend chart. \n\nand yeah actually that could be a situation where its worth it, more or less. If you didn't buy salesforce before it entered the Nasdaq, saw it jump 30% and then watched it bleed out all the gains over the next couple months, that could be a great stock to jump in because it may have been oversold into a correction by profit takers. \n\ni love salesforce but i took the profits as soon as it entered the NASDAQ for no other reason than 'wow it jumped 30% in one day im just taking my cash off the table and pocketing this' and never really looked back. that can create an inefficiency in the stock price",
+        "created_utc": 1620602056,
+        "id": "gxjs346",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1620630856.0
+    },
+    {
+        "author": "ALittleSalamiCat",
+        "body": "Where were u when Salesforce was kil",
+        "created_utc": 1620768783,
+        "id": "gxs39a6",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620797583.0
+    },
+    {
+        "author": "mrchessmanj",
+        "body": "Puts on Salesforce CRM\nCalls on cyber security stonks",
+        "created_utc": 1620771462,
+        "id": "gxs99dq",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620800262.0
+    },
+    {
+        "author": "_sillycibin_",
+        "body": "PERI and CRSR absolutely killed it with their earnings and upped guidance and had enthusiastic forward looking statements.  Both dropped.  PERI was down 9% at one point.  I doubled down... but this market is cah-ray-zee.\n\nI'd be careful of course with strategies that might be chasing the market's behavior.  Now that everything has dropped so much, we might actually see stocks go up on good earnings.  Look at Salesforce CRM, battered badly since it's recent high and it's still weeks away from reporting.  There are lots of macro concerns, but a lot of the sell off has been because we were at all time highs and there was sector rotation.  Well things have sold off, and the things rotated into have been pumped up...  Although if you're not crypto or a commodity or closely associated then no one cares about you.",
+        "created_utc": 1620174198,
+        "id": "gwyvlh2",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1620202998.0
+    },
+    {
+        "author": "jonahsrevenge",
+        "body": "CRM, and NOW are undervalued (Morningstar 4-star).  MSFT is solid and maybe a bit undervalued.  ADBE  OKTA and SWKS are probably undervalued (Morningstar 3-star but selling below their fair value estimate). \n\nLong all named.",
+        "created_utc": 1621444480,
+        "id": "gypwcr5",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1621473280.0
+    },
+    {
+        "author": "SeekingHentai",
+        "body": "That week was crazy, ZM did the same thing lol. Wallstreet just seems to hate CRM now, didn\u2019t think the slack merger was *that* bad",
+        "created_utc": 1621525535,
+        "id": "gyu237h",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1621554335.0
+    },
+    {
+        "author": "shermski4",
+        "body": "sat on these CRM calls for so fuckin long anticipating this upgrade and it just has to happen on this day in this market.",
+        "created_utc": 1621445738,
+        "id": "gypzf93",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1621474538.0
+    },
+    {
+        "author": "Desi_techy_girl",
+        "body": "&gt;My employer matches 100 % till 5k. Salesforce.",
+        "created_utc": 1620519172,
+        "id": "gxfzkzo",
+        "score": 3,
+        "subreddit": "StockMarket",
+        "created": 1620547972.0
+    },
+    {
+        "author": "redouglas39",
+        "body": "I am a new investor. Should I get some BRK.B or XLP into play to balance my tech portfolio?\n\nCRM 22%\n\nQCOM 13%\n\nSQ 11%\n\nAAPL 10%\n\nUAL 5%\n\nNET 5%\n\nSNOW 5%\n\nIPOE 4%\n\nOXY 3%\n\nCash 21%",
+        "created_utc": 1620748483,
+        "id": "gxqq4s3",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1620777283.0
+    },
+    {
+        "author": "GYN-k4H-Q3z-75B",
+        "body": "I don't want to crush the idea here nor have I done any real research into this, but as a developer who has worked for years in software consulting, mobile app development is considered a rather unattractive business.\n\nLike web development, the entry bar is set very low because most apps are (or start out as) really simple. In this segment, you get low prices and you compete with tons of students, freelancers and local small businesses, all of which are perfectly capable of getting the job done. Being at a social occasion and hearing \"I have an idea for an app\" is a meme among programmers, and there are many who have built apps for local businesses. It does not scale up well.\n\nWith larger projects, most companies that have critical exposure to their customers via their apps either have de facto body leasing agreements with their preferred software consultancy or a standing in-house development team.\n\nYou may be able to find a software consultancy that does a lot of app development, but a pure play is unlikely. Often, mobile development is just a side show for them, and the real money is in ERP, CRM or custom enterprise development.",
+        "created_utc": 1621292652,
+        "id": "gyi5ofe",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1621321452.0
+    },
+    {
+        "author": "Smipims",
+        "body": "Workday, salesforce, Jira. The 3 hallmarks of \u201cwe make bad decisions because thinking is hard\u201d. Those companies are dinosaurs and will die",
+        "created_utc": 1621823261,
+        "id": "gz8bua9",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1621852061.0
+    },
+    {
+        "author": "Scorpio11777",
+        "body": "Lucky to have NVDA and CRM to break even today.",
+        "created_utc": 1622237001,
+        "id": "gzt095m",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622265801.0
+    },
+    {
+        "author": "Blackdoor-59",
+        "body": "CRM finally getting back to where it should be",
+        "created_utc": 1622208835,
+        "id": "gzr9g1f",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1622237635.0
+    },
+    {
+        "author": "winterpomsky",
+        "body": "Theres nothing wrong with them. If you do the research and have a good guess what the price is, theres little to no risk.\n\nIm selling  otm 10 covered calls for salesforce for a strike 40% from its current price. They payout was $2k for an expiration 5 months for now.\n\nIf I sell  at 40% profit, oh well. I can always find another stock. But I wouldnt call 40% + premium dumb.",
+        "created_utc": 1620697548,
+        "id": "gxoiztg",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1620726348.0
+    },
+    {
+        "author": "DrPeepeeP00p00",
+        "body": "Salesforce bagholder checking in",
+        "created_utc": 1620393289,
+        "id": "gx9q1zm",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620422089.0
+    },
+    {
+        "author": "heapsp",
+        "body": "I'm also bullish on CVS, not for the same reasons as most people - they are in my opinion a data vendor. They are the best pharmacy at gathering datasets for big pharma to use in the US.\n\nWhat many people don't realize is all healthcare data is controlled and sold in the US. You'd think when you go to a hospital, all of that information could be used (blinded) for research purposes - but there are data networks that SELL the data for huge sums from hospital networks. The same with pharmacies. If big Pharma wants to know where their competitors are selling the most and where their salesforce planning needs to happen - they buy CVS's prescription data.",
+        "created_utc": 1620441927,
+        "id": "gxcjifs",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620470727.0
+    },
+    {
+        "author": "earfffffffffff",
+        "body": "Salesforce still down globally at 730pm",
+        "created_utc": 1620776126,
+        "id": "gxsj1f0",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620804926.0
+    },
+    {
+        "author": "Laxman259",
+        "body": "Whatever ERP Salesforce comes up with will be hot garbage. Their platforms are fucking awful.",
+        "created_utc": 1620570331,
+        "id": "gxi08ae",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620599131.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "Thought so. It\u2019s a tough job. Hey look, even the managers of the Dow Jones fuck up. They booted XOM, it rocketed. They added CRM, it bear trended for 6 months now.",
+        "created_utc": 1621201387,
+        "id": "gyddpkr",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1621230187.0
+    },
+    {
+        "author": "Local-Illustrator-20",
+        "body": "CRM\n\nLack luster year for a stock that I thought would do better at least by stock price, company crushed numbers but stock performance has waned what is holding it back? long CRM",
+        "created_utc": 1621293035,
+        "id": "gyi6g2s",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1621321835.0
+    },
+    {
+        "author": "Training-Space-8232",
+        "body": "No it\u2019s good long term but it\u2019s literally bleeding them dry with all the shit involved in a big buyout like that. Like don\u2019t confuse my dislike for playing crm earnings currently with my dislike for the company; I own a decent amount of their stock",
+        "created_utc": 1621525652,
+        "id": "gyu2dcb",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1621554452.0
+    },
+    {
+        "author": "lattiboy",
+        "body": "I\u2019m up 20% since Tuesday lows. I sold the hell out of all my calls except CRM, banks, and Alaska Air. Also grabbed some VXX calls just in case. I think the inflation number will look really bad and the marker will overreact to it. Hopeful It gives me a window to buy some stuff",
+        "created_utc": 1622158082,
+        "id": "gzp3mi3",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1622186882.0
+    },
+    {
+        "author": "bg1029camp",
+        "body": "It's pretty obvious that all the entry-level Joe's in this thread don't have a clue about Salesforce or what they do. First, shitty implementation doesn't make a shitty product. Second, Salesforce is much more than their legacy CRM software anyways. It's now their 3rd largest product cloud and is not counted on to deliver the 20%+ Y/Y growth you continue to see every quarter (although it's still posting double digit growth). You are obviously free to spend your hard-earned dollars elsewhere, but CRM (the ticker) is going to keep posting high growth as they continue to gobble up market share and expand product offerings.",
+        "created_utc": 1622209685,
+        "id": "gzrb8ge",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1622238485.0
+    },
+    {
+        "author": "ASUS_USUS_WEALLSUS",
+        "body": "CRM calls while they are on sale. Trust me on that one.",
+        "created_utc": 1620068580,
+        "id": "gwteo7m",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620097380.0
+    },
+    {
+        "author": "Mountain-Baby-6346",
+        "body": "Anyone playing CRM earnings ??",
+        "created_utc": 1621966230,
+        "id": "gzf2zwf",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621995030.0
+    },
+    {
+        "author": "EstimateOk8103",
+        "body": "thought on $crm / salesforce? $230 call or no?",
+        "created_utc": 1622047722,
+        "id": "gzj7k17",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622076522.0
+    },
+    {
+        "author": "vics80",
+        "body": "anyone going to play CRM earnings?",
+        "created_utc": 1622054232,
+        "id": "gzjn7wf",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622083032.0
+    },
+    {
+        "author": "vics80",
+        "body": "CRM earnings \ud83d\udfe2",
+        "created_utc": 1622145977,
+        "id": "gzodqv2",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622174777.0
+    },
+    {
+        "author": "No-Philosophy4438",
+        "body": "CRM w nice earnings",
+        "created_utc": 1622147303,
+        "id": "gzogsvv",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622176103.0
+    },
+    {
+        "author": "jsntx",
+        "body": "Thanks for the comment! \n\nI firmly believe in CRM. I made a good chunk of money with Slack. They are definitely moving forward.",
+        "created_utc": 1622148697,
+        "id": "gzojx91",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622177497.0
+    },
+    {
+        "author": "Cliving01",
+        "body": "CRM gonna blow up at open, price target $260 today",
+        "created_utc": 1622203822,
+        "id": "gzr078c",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622232622.0
+    },
+    {
+        "author": "vics80",
+        "body": "CRM \ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "created_utc": 1622147804,
+        "id": "gzohx5h",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622176604.0
+    },
+    {
+        "author": "gizamo",
+        "body": "My dev team entirely replaced Workday in only a few short weeks. For comparison, ridding ourselves of Salesforce took nearly ~3 years.",
+        "created_utc": 1622207401,
+        "id": "gzr6ko9",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622236201.0
+    },
+    {
+        "author": "Dmoan",
+        "body": "CRM IMO should pop after ER it sold off a bit due to slack acquisition and has struggled\nto break 230 since.",
+        "created_utc": 1621705688,
+        "id": "gz2rj3y",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621734488.0
+    },
+    {
+        "author": "yeetem_all",
+        "body": "Get some cum $CRM. Earnings on Thursday gonna be a blowout.",
+        "created_utc": 1621934103,
+        "id": "gzdf4zo",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621962903.0
+    },
+    {
+        "author": "Dmoan",
+        "body": "It is frustrating my portfolio can't hit AH because of RKT, CRM and AMD. Wish I had dumped those",
+        "created_utc": 1620426251,
+        "id": "gxbqohg",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620455051.0
+    },
+    {
+        "author": "DeadpoolvsMorty",
+        "body": "Salesforce has a social studio!!! TIL",
+        "created_utc": 1620787311,
+        "id": "gxt56cy",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620816111.0
+    },
+    {
+        "author": "KingAngeli",
+        "body": "5/21\n\nSq 230\n\nQqq 335 x2\n\nTqqq 100\n\nCrm 220\n\nArkk 110\n\n6/18\n\nAapl 135 x3\n\nDis 185\n\nPfe 40\n\nArkg 90\n\nTlry sndl yolo leaps lmao",
+        "created_utc": 1620392447,
+        "id": "gx9og36",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620421247.0
+    },
+    {
+        "author": "Omerkv",
+        "body": "Should I walk out of CRM Stock? It\u2019s getting low, bought at 230USD",
+        "created_utc": 1621314088,
+        "id": "gyj9so3",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621342888.0
+    },
+    {
+        "author": "shermski4",
+        "body": "how much does salesforce run on that upgrade?",
+        "created_utc": 1621425041,
+        "id": "gyoo69d",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621453841.0
+    },
+    {
+        "author": "UselessPresent",
+        "body": "CRM for run up.\n\n$225 C for a month out",
+        "created_utc": 1621288700,
+        "id": "gyhxdcq",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621317500.0
+    },
+    {
+        "author": "UselessPresent",
+        "body": "CRM!!!",
+        "created_utc": 1621448719,
+        "id": "gyq6llo",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621477519.0
+    },
+    {
+        "author": "DonPietroSavastano88",
+        "body": "I refuse to sell. These leaps made up over 50% of my portfolio so to just eat the loss would of been too devastating. Instead, I decided to risk it all and double the fuck down lol. I sold every single position that I was still profitable in such as Apple, Salesforce, ect. I then used the money to purchase as many deep ITM NIO leaps as I could in order to bring my breakeven and average strike down. I snagged a 15c, 17c, and two 25c all expiring the same date as my original bleeding leaps (Jan 2023). \n\nI now have 90% of my portfolio in NIO which is absolutely insane but I was able to bring my breakeven price from $74 to under $55 which allows me to sleep a bit better lol.",
+        "created_utc": 1621452030,
+        "id": "gyqeeqy",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1621480830.0
+    },
+    {
+        "author": "dl_friend",
+        "body": "It's simply a matter of looking at each week's IV. For CRM expiration May 21, the IV is 32.56% - that's a base IV not affected by next week's earnings. The May 28 expiration IV is 54.89%. Notice that the IV is much larger because of the uncertainty caused by earnings.\n\nThe IV declines over the following weeks until by 45 dte, the IV is down to the mid-30s. It would be rare for an earnings event to affect IV beyond 60 dte.",
+        "created_utc": 1621524424,
+        "id": "gytzfy2",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1621553224.0
+    },
+    {
+        "author": "jorlev",
+        "body": "Waiting for some big Bluebird and Lion Electric buses rolling out with Nuvve V2G.\n\nThe question is how much new business will they get from Stonepeak/Levo deal vs how much revenue will they give up to this partner. I guess they need the salesforce Stonepeak/Levo can provide. Anyway, $$$ is coming!",
+        "created_utc": 1621466335,
+        "id": "gyrb5eq",
+        "score": 2,
+        "subreddit": "SPACs",
+        "created": 1621495135.0
+    },
+    {
+        "author": "rederick57",
+        "body": "There were rumors a few years ago that Salesforce was going to buy APPN (Appian). Still could make sense at a cheaper price.",
+        "created_utc": 1622479801,
+        "id": "h03jmqq",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1622508601.0
+    },
+    {
+        "author": "r-T00Littl3Time",
+        "body": "Talk about ridiculously low PE, RKT makes a profit of about 1 billion a month and the PE is what, 11? Check that, I just looked it up, 6.8.  They just gave away almost a billion in a special dividend a few months ago. What a cash cow, the share price is so under where it ought to be.  Yet PYPL and CRM are something like 56 and 48 respectively.  TSLA 621!",
+        "created_utc": 1620821129,
+        "id": "gxudybl",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1620849929.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "I\u2019m going to sell the fuck out of SalesForce and Fubo tomorrow and put it all in PSFE",
+        "created_utc": 1620337881,
+        "id": "gx7b7g7",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620366681.0
+    },
+    {
+        "author": "andrwsc",
+        "body": "&gt; Do you think in 10 years these will be the same stocks if you use the exact same metric? Of course you don't. So how will you adjust your portfolio? If you used the metric you used above to construct a portfolio for 2015, how many of the stocks you just listed above would be in your that portfolio?\n\nThis is an excellent question.  I went back to my spreadsheet and disregarded the returns from 2016-2020.  Here are the differences by sector:\n\n* CHTR instead of GOOG\n* WBA instead of TGT\n* GILD and BIIB instead of DHR and TMO\n* LMT and RTX instead of HON and UNP\n* AVGO and CRM instead of AAPL and NVDA\n\nSo yeah, 8 of the 20 stocks would be different.  But you know what?  That portfolio still beat the S&amp;P 500 in 4 of the 5 years from 2016-2020, with about 2x the total return.",
+        "created_utc": 1620111613,
+        "id": "gwvovgq",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1620140413.0
+    },
+    {
+        "author": "lattiboy",
+        "body": "My bets for this week and next are Ford / GM, CRM, and retail (Target, Gap, and AEO). \n\nAlso, grabbed some CLF and VIX options late in the day just in case I\u2019m wrong.",
+        "created_utc": 1621377447,
+        "id": "gyml3sd",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1621406247.0
+    },
+    {
+        "author": "Level420Jesus",
+        "body": "CRM is the way",
+        "created_utc": 1621383546,
+        "id": "gymxkga",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1621412346.0
+    },
+    {
+        "author": "ALL_GRAVY_BABY",
+        "body": "They missed some of the biggest trains in market history... CRM? RELATION DATABASE? CLOUD? Will miss AI ... Will miss Genomics... But hey, Watson can win a chess Match. \n\nTravesty for shareholders. Board past and present should be tar'd and feather'd.",
+        "created_utc": 1621197928,
+        "id": "gyd62zs",
+        "score": 194,
+        "subreddit": "stocks",
+        "created": 1621226728.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "Don\u2019t you worry about mr yellow. Money is flowing elsewhere at the moment. Just collect your dividends and we\u2019ll finish the year around 140-160.  My avg is 121 and I\u2019m not the least bit concerned. All megacap stocks are trending very similar. CRM is much more disappointing to me",
+        "created_utc": 1621144571,
+        "id": "gyap36c",
+        "score": 32,
+        "subreddit": "StockMarket",
+        "created": 1621173371.0
+    },
+    {
+        "author": "TimeRemove",
+        "body": "Palantir catalog:   \n\n - CRM now with AI\u2122 (Foundry).     \n - Microsoft Power BI with AI\u2122 (Gotham).     \n - Cloud but with 100x marketing (Apollo).   \n\nBut companies license it because AI/ML is *so hot right now* and selling super advanced capabilities++ is way sexier than \"Let's just license Power BI Premium w/Advanced AI, SQL Server, and Microsoft Dynamics from this little upstart called Microsoft.\"   \n\nHalf the posts about them here is \"I don't really understand what they do.\" That isn't by accident, they literally make money by taking simple ideas, sprinkling in some AI/ML just *because*, and making them sound future-tech-ie.   \n\nThe people that understand PLTR skip it because even if they *could* become something eventually it is just a pile of buzzword snakeoil right now. Of course the USG paid money for it, getting the DoD to buy shit is practically an American tradition.",
+        "created_utc": 1621009738,
+        "id": "gy47ai3",
+        "score": 17,
+        "subreddit": "stocks",
+        "created": 1621038538.0
+    },
+    {
+        "author": "yzy_",
+        "body": "&gt; the Salesforce of data analysis and machine learning\n\nIn terms of market capture, yes. But in terms of the software itself, PLTR is like a year 3000 superhuman cyborg vs. SF's paleolithic era caveman",
+        "created_utc": 1620935370,
+        "id": "gy0mcxh",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1620964170.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "If we all say the top is in, Wall Street algos will inverse the shit out of our puts and make it go back up.\n\nSo...\n\nThe top is in. I am buying puts specifically on AAPL, MSFT, PSFE, ICLN, PLTR, MP, and CRM.",
+        "created_utc": 1620681000,
+        "id": "gxnlcba",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1620709800.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "How is SalesForce such a piece of shit? I bought CRM at $225 back in November and it is at the same fucking level.",
+        "created_utc": 1620062156,
+        "id": "gwsz9rs",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1620090956.0
+    },
+    {
+        "author": "404__LostAngeles",
+        "body": "TDOC = Healthcare\n\nU = Tech\n\nTWLO = Communication Services\n\nDDOG = Tech\n\nTSLA = Consumer Cyclical\n\nNIO = Consumer Cyclical\n\nTWTR = Communication Services\n\nBABA = Consumer Cyclical\n\nSHOP = Tech\n\nCRM = Tech\n\nJD = Consumer Cyclical",
+        "created_utc": 1620951839,
+        "id": "gy1kye8",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1620980639.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "The savage move was on March 22ish I did 100 MSFT @ 135 and 200 WFC @ 25. Later in the year I bought another 100 WFC averaging down to $24. Got 100 DIS @ 99 as well. Showed up to AAPL &amp; CRM kinda late but those first moves were gold.",
+        "created_utc": 1621176994,
+        "id": "gybw3rd",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1621205794.0
+    },
+    {
+        "author": "WickedSensitiveCrew",
+        "body": "EV and Space stocks kinda risky. If it were me i'd cut FSR and SPCE for something safer that pays a dividend or another index fund such as SPY/VOO/VTI to at least protect a larger portion of your portfolio in case growth comes under fire again.\n\nIf you must go all in growth. Maybe consider cloud stocks such as CRWD, SNOW, CRM or international ecommerce stocks such as CPNG, JMIA, and SE those have gotten beaten and could get hit if growth sells off again.",
+        "created_utc": 1621185537,
+        "id": "gyceh1p",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1621214337.0
+    },
+    {
+        "author": "Oakland_Trader",
+        "body": "Salesforce global outage in the middle of the working day, Bullish",
+        "created_utc": 1620771683,
+        "id": "gxs9r3k",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1620800483.0
+    },
+    {
+        "author": "Pikaea",
+        "body": "lmao that is crazy wtf. In all this insanity since CCIV DA, that has to be the wildest thing ive seen. Especially as they are also going to be heavily into SalesForce, no longer one trick pony with Microsoft.",
+        "created_utc": 1620948036,
+        "id": "gy1dly6",
+        "score": 7,
+        "subreddit": "SPACs",
+        "created": 1620976836.0
+    },
+    {
+        "author": "jsblk3000",
+        "body": "As someone who uses Salesforce daily, I am not really a fan but it's better than our older crap we had. Maybe it's my organization's fault but it feels like information is cluttered and it's clunky to use or communicate.",
+        "created_utc": 1620357347,
+        "id": "gx8dxpu",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1620386147.0
+    },
+    {
+        "author": "ALL_GRAVY_BABY",
+        "body": "It really is shocking. I mean... Salesforce went from nothing to a Dow Jones 30 company right under their nose. \n\nAnd many others... Even a similar life stage company like Coke is constantly doing partnerships and acquisitions to grow the future business.\n\nBig Blue ain't so big anymore.",
+        "created_utc": 1621206727,
+        "id": "gydoq0c",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1621235527.0
+    },
+    {
+        "author": "blackiechan25",
+        "body": "You're 18. What you have that not many of us have in Reddit is time. You've picked some pretty safe, slow growing companies, which there's nothing wrong with besides the fact that you'll be growing too slow for your age.\n\nWhat young investors should do is invest more in growth oriented companies (I don't mean the SPACs or high risk growth companies of the world) because you can waiver the downturns in the market in the long run than let's say, someone in their 50s.\n\nYour \"risk adjusted\" returns over 10 years via growth stocks will be well rewarded and as you get older, that's when you start shifting to less volatile names like your BAC, KO, MSFT of the world.\n\nExample of what I mean for growth companies: Square (SQ), Draftkings (DKNG), Petco (WOOF), Salesforce (CRM), Spotify (SPOT)",
+        "created_utc": 1621187048,
+        "id": "gychy4y",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1621215848.0
+    },
+    {
+        "author": "tmajewski",
+        "body": "TDOC, Unity, Twilio, DDOG, Tesla, NIO, Twitter, BABA, Shopify, Salesforce, JD, just to name a few.  Obviously not all huge names in tech, but a good lot of high volume growth/tech stocks have definitely tanked 20-40% in the last couple months",
+        "created_utc": 1620941436,
+        "id": "gy10bun",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1620970236.0
+    },
+    {
+        "author": "Training-Space-8232",
+        "body": "Now that we\u2019re 2 weeks out, this is your quarterly reminder to not fucking play CRM earnings because regardless of what options you buy youre 100% going to be wrong.",
+        "created_utc": 1620928746,
+        "id": "gy066ii",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1620957546.0
+    },
+    {
+        "author": "AlteregoMike",
+        "body": "It\u2019s hard to say because they are transitioning into commercial.  And execution matters all. But if they do execute it well, I can imagine they will catch up quickly with CRM in 5 years, which is currently 5x of PLTR\u2019s market cap",
+        "created_utc": 1620563540,
+        "id": "gxhp7gl",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1620592340.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "The February correction has allowed me to accumulate my entire AAPL position. I\u2019m more than grateful. I only had 8 shares last year. kicked myself when it ran to $140. Now I\u2019m up to 100 @ $121.  Also accumulated 50 CRM @ $223",
+        "created_utc": 1621173959,
+        "id": "gybq6p9",
+        "score": 5,
+        "subreddit": "StockMarket",
+        "created": 1621202759.0
+    },
+    {
+        "author": "lulubutts",
+        "body": "Salesforce still down \ud83d\ude2b",
+        "created_utc": 1620778187,
+        "id": "gxsn6rw",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1620806987.0
+    },
+    {
+        "author": "jeanneLstarr",
+        "body": "Sure.  ON. VRT.  PANW.  GLW.  AMD.  CRM.  FCX.",
+        "created_utc": 1620865591,
+        "id": "gxx70z3",
+        "score": 5,
+        "subreddit": "options",
+        "created": 1620894391.0
+    },
+    {
+        "author": "AlteregoMike",
+        "body": "Thank you for sharing. This is also how I feel. Palantir historically has been using the top down sales approach. Meaning that they will convince the c-suite or high rank gov officials first. \n\nBut for the majority of other saas companies, they have big sales force and plenty of trainings to get users on board, like CRM or snowflake. There is still room for pltr to grow and mature",
+        "created_utc": 1620560571,
+        "id": "gxhlaha",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1620589371.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "If you could only invest in 10 companies or ETFs for the next 10-20 years, what would they be? \n\nI\u2019m 25 and trying to target long term companies that are set to grow. Some of my biggest positions right now are MSFT, AAPL, CRM, PSFE, ROBO, CRSR, lucid, and the ARK funds. \n\nI\u2019m obviously young but want to set myself up well long-term.",
+        "created_utc": 1620270518,
+        "id": "gx3xksz",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1620299318.0
+    },
+    {
+        "author": "Josefstalion",
+        "body": "Evolve has similar ETFs to ARK, in that they're thematic and mostly tech/future value stocks.\n\nThey have CYBR, which is cyber security focused, DATA is cloud computing, holds stocks like AMZN, MSFT, GOOG, along with some other smaller ones like Salesforce, and HERO is their Esports ETF",
+        "created_utc": 1620428716,
+        "id": "gxbvjbi",
+        "score": 4,
+        "subreddit": "CanadianInvestor",
+        "created": 1620457516.0
+    },
+    {
+        "author": "schildog9",
+        "body": "There's no need for a space force when we have Salesforce.",
+        "created_utc": 1620765737,
+        "id": "gxrw32j",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1620794537.0
+    },
+    {
+        "author": "The_odd__todd",
+        "body": "I bought CRM yesterday.  So far so good.  Near very important turn around prices off a historical support level.",
+        "created_utc": 1621017943,
+        "id": "gy4qchm",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1621046743.0
+    },
+    {
+        "author": "junckdogg",
+        "body": "#$PLTR..KNOW WHAT YOU OWN- Put F.U.D. on Ignore.\n\n1) PLTR is an A.I. Data Mining Co. Just like Salesforce except it is growing at a quicker pace.\n\n2) PLTR has two main Platforms, a) Gotham which serves U.S. Agencies, CIA, FBI, ICE and  the Military b) Foundry serves Commercial Businesses \n\n3) PLTR\u2019s Gotham is the default operating  system for data across the U.S. Government.\n\n4) PLTR generated 56% revenue from Government and 44% from Commercial customers in 2020\n\n5) PLTR  revenue growth for 2020 rose 47%... 77 % of that growth was from Government.\n\n6) PLTR has new Contracts with the FDA,  The Army,  Air Force, Rio Tinto,  PG&amp;E,  and DP.",
+        "created_utc": 1620414900,
+        "id": "gxb2vrm",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1620443700.0
+    },
+    {
+        "author": "jawabdey",
+        "body": "I was a big believer in their product until recently. Redshift, an AWS alternative &amp; their main competitor, has caught up significantly. Their sales guy, a Stanford grad, was like a parrot, repeating the same tired lines over and over again.\n\nYou can get a similar product for a cheaper price that fits better into your ecosystem, all without a contract. I see sales slowing down in the future. I might buy it at like $50-$100, based solely on a future acquisition by Microsoft, Oracle or Salesforce",
+        "created_utc": 1620976691,
+        "id": "gy2ogyq",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1621005491.0
+    },
+    {
+        "author": "Calvin833",
+        "body": "I am looking for diversify into   industrials, consumer staples.\n\nany suggestions?\n\n|AAPL|7%|\n|:-|:-|\n|AMD|8%|\n|SHOP|8%|\n|NKE|7%|\n|MSFT|6%|\n|FB|5%|\n|SQ|6%|\n|PINS|8%|\n|ESTSY|7%|\n|PYPL|6%|\n|TSLA|6%|\n|BABA|6%|\n|SNAP|5%|\n|TDOC|6%|\n|CRM|4%|\n|FVRR|5%|",
+        "created_utc": 1620072585,
+        "id": "gwtnxei",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1620101385.0
+    },
+    {
+        "author": "mr_blockchain_",
+        "body": "Salesforce sales engineer",
+        "created_utc": 1620113738,
+        "id": "gwvr7qf",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620142538.0
+    },
+    {
+        "author": "fro2short",
+        "body": "sorry to keep replying to all your posts lol. you want to keep an eye on the DMAs, particularly the 50 DMA and 200 DMA as factors on top of the short term trend chart. \n\nand yeah actually that could be a situation where its worth it, more or less. If you didn't buy salesforce before it entered the Nasdaq, saw it jump 30% and then watched it bleed out all the gains over the next couple months, that could be a great stock to jump in because it may have been oversold into a correction by profit takers. \n\ni love salesforce but i took the profits as soon as it entered the NASDAQ for no other reason than 'wow it jumped 30% in one day im just taking my cash off the table and pocketing this' and never really looked back. that can create an inefficiency in the stock price",
+        "created_utc": 1620602056,
+        "id": "gxjs346",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1620630856.0
+    },
+    {
+        "author": "ALittleSalamiCat",
+        "body": "Where were u when Salesforce was kil",
+        "created_utc": 1620768783,
+        "id": "gxs39a6",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620797583.0
+    },
+    {
+        "author": "mrchessmanj",
+        "body": "Puts on Salesforce CRM\nCalls on cyber security stonks",
+        "created_utc": 1620771462,
+        "id": "gxs99dq",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620800262.0
+    },
+    {
+        "author": "_sillycibin_",
+        "body": "PERI and CRSR absolutely killed it with their earnings and upped guidance and had enthusiastic forward looking statements.  Both dropped.  PERI was down 9% at one point.  I doubled down... but this market is cah-ray-zee.\n\nI'd be careful of course with strategies that might be chasing the market's behavior.  Now that everything has dropped so much, we might actually see stocks go up on good earnings.  Look at Salesforce CRM, battered badly since it's recent high and it's still weeks away from reporting.  There are lots of macro concerns, but a lot of the sell off has been because we were at all time highs and there was sector rotation.  Well things have sold off, and the things rotated into have been pumped up...  Although if you're not crypto or a commodity or closely associated then no one cares about you.",
+        "created_utc": 1620174198,
+        "id": "gwyvlh2",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1620202998.0
+    },
+    {
+        "author": "Desi_techy_girl",
+        "body": "&gt;My employer matches 100 % till 5k. Salesforce.",
+        "created_utc": 1620519172,
+        "id": "gxfzkzo",
+        "score": 3,
+        "subreddit": "StockMarket",
+        "created": 1620547972.0
+    },
+    {
+        "author": "redouglas39",
+        "body": "I am a new investor. Should I get some BRK.B or XLP into play to balance my tech portfolio?\n\nCRM 22%\n\nQCOM 13%\n\nSQ 11%\n\nAAPL 10%\n\nUAL 5%\n\nNET 5%\n\nSNOW 5%\n\nIPOE 4%\n\nOXY 3%\n\nCash 21%",
+        "created_utc": 1620748483,
+        "id": "gxqq4s3",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1620777283.0
+    },
+    {
+        "author": "GYN-k4H-Q3z-75B",
+        "body": "I don't want to crush the idea here nor have I done any real research into this, but as a developer who has worked for years in software consulting, mobile app development is considered a rather unattractive business.\n\nLike web development, the entry bar is set very low because most apps are (or start out as) really simple. In this segment, you get low prices and you compete with tons of students, freelancers and local small businesses, all of which are perfectly capable of getting the job done. Being at a social occasion and hearing \"I have an idea for an app\" is a meme among programmers, and there are many who have built apps for local businesses. It does not scale up well.\n\nWith larger projects, most companies that have critical exposure to their customers via their apps either have de facto body leasing agreements with their preferred software consultancy or a standing in-house development team.\n\nYou may be able to find a software consultancy that does a lot of app development, but a pure play is unlikely. Often, mobile development is just a side show for them, and the real money is in ERP, CRM or custom enterprise development.",
+        "created_utc": 1621292652,
+        "id": "gyi5ofe",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1621321452.0
+    },
+    {
+        "author": "winterpomsky",
+        "body": "Theres nothing wrong with them. If you do the research and have a good guess what the price is, theres little to no risk.\n\nIm selling  otm 10 covered calls for salesforce for a strike 40% from its current price. They payout was $2k for an expiration 5 months for now.\n\nIf I sell  at 40% profit, oh well. I can always find another stock. But I wouldnt call 40% + premium dumb.",
+        "created_utc": 1620697548,
+        "id": "gxoiztg",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1620726348.0
+    },
+    {
+        "author": "DrPeepeeP00p00",
+        "body": "Salesforce bagholder checking in",
+        "created_utc": 1620393289,
+        "id": "gx9q1zm",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620422089.0
+    },
+    {
+        "author": "heapsp",
+        "body": "I'm also bullish on CVS, not for the same reasons as most people - they are in my opinion a data vendor. They are the best pharmacy at gathering datasets for big pharma to use in the US.\n\nWhat many people don't realize is all healthcare data is controlled and sold in the US. You'd think when you go to a hospital, all of that information could be used (blinded) for research purposes - but there are data networks that SELL the data for huge sums from hospital networks. The same with pharmacies. If big Pharma wants to know where their competitors are selling the most and where their salesforce planning needs to happen - they buy CVS's prescription data.",
+        "created_utc": 1620441927,
+        "id": "gxcjifs",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620470727.0
+    },
+    {
+        "author": "earfffffffffff",
+        "body": "Salesforce still down globally at 730pm",
+        "created_utc": 1620776126,
+        "id": "gxsj1f0",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620804926.0
+    },
+    {
+        "author": "Laxman259",
+        "body": "Whatever ERP Salesforce comes up with will be hot garbage. Their platforms are fucking awful.",
+        "created_utc": 1620570331,
+        "id": "gxi08ae",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1620599131.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "Thought so. It\u2019s a tough job. Hey look, even the managers of the Dow Jones fuck up. They booted XOM, it rocketed. They added CRM, it bear trended for 6 months now.",
+        "created_utc": 1621201387,
+        "id": "gyddpkr",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1621230187.0
+    },
+    {
+        "author": "Local-Illustrator-20",
+        "body": "CRM\n\nLack luster year for a stock that I thought would do better at least by stock price, company crushed numbers but stock performance has waned what is holding it back? long CRM",
+        "created_utc": 1621293035,
+        "id": "gyi6g2s",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1621321835.0
+    },
+    {
+        "author": "ASUS_USUS_WEALLSUS",
+        "body": "CRM calls while they are on sale. Trust me on that one.",
+        "created_utc": 1620068580,
+        "id": "gwteo7m",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620097380.0
+    },
+    {
+        "author": "Dmoan",
+        "body": "It is frustrating my portfolio can't hit AH because of RKT, CRM and AMD. Wish I had dumped those",
+        "created_utc": 1620426251,
+        "id": "gxbqohg",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620455051.0
+    },
+    {
+        "author": "DeadpoolvsMorty",
+        "body": "Salesforce has a social studio!!! TIL",
+        "created_utc": 1620787311,
+        "id": "gxt56cy",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620816111.0
+    },
+    {
+        "author": "KingAngeli",
+        "body": "5/21\n\nSq 230\n\nQqq 335 x2\n\nTqqq 100\n\nCrm 220\n\nArkk 110\n\n6/18\n\nAapl 135 x3\n\nDis 185\n\nPfe 40\n\nArkg 90\n\nTlry sndl yolo leaps lmao",
+        "created_utc": 1620392447,
+        "id": "gx9og36",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620421247.0
+    },
+    {
+        "author": "Omerkv",
+        "body": "Should I walk out of CRM Stock? It\u2019s getting low, bought at 230USD",
+        "created_utc": 1621314088,
+        "id": "gyj9so3",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621342888.0
+    },
+    {
+        "author": "UselessPresent",
+        "body": "CRM for run up.\n\n$225 C for a month out",
+        "created_utc": 1621288700,
+        "id": "gyhxdcq",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1621317500.0
+    },
+    {
+        "author": "r-T00Littl3Time",
+        "body": "Talk about ridiculously low PE, RKT makes a profit of about 1 billion a month and the PE is what, 11? Check that, I just looked it up, 6.8.  They just gave away almost a billion in a special dividend a few months ago. What a cash cow, the share price is so under where it ought to be.  Yet PYPL and CRM are something like 56 and 48 respectively.  TSLA 621!",
+        "created_utc": 1620821129,
+        "id": "gxudybl",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1620849929.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "I\u2019m going to sell the fuck out of SalesForce and Fubo tomorrow and put it all in PSFE",
+        "created_utc": 1620337881,
+        "id": "gx7b7g7",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620366681.0
+    },
+    {
+        "author": "andrwsc",
+        "body": "&gt; Do you think in 10 years these will be the same stocks if you use the exact same metric? Of course you don't. So how will you adjust your portfolio? If you used the metric you used above to construct a portfolio for 2015, how many of the stocks you just listed above would be in your that portfolio?\n\nThis is an excellent question.  I went back to my spreadsheet and disregarded the returns from 2016-2020.  Here are the differences by sector:\n\n* CHTR instead of GOOG\n* WBA instead of TGT\n* GILD and BIIB instead of DHR and TMO\n* LMT and RTX instead of HON and UNP\n* AVGO and CRM instead of AAPL and NVDA\n\nSo yeah, 8 of the 20 stocks would be different.  But you know what?  That portfolio still beat the S&amp;P 500 in 4 of the 5 years from 2016-2020, with about 2x the total return.",
+        "created_utc": 1620111613,
+        "id": "gwvovgq",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1620140413.0
+    },
+    {
+        "author": "lattiboy",
+        "body": "My bets for this week and next are Ford / GM, CRM, and retail (Target, Gap, and AEO). \n\nAlso, grabbed some CLF and VIX options late in the day just in case I\u2019m wrong.",
+        "created_utc": 1621377447,
+        "id": "gyml3sd",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1621406247.0
+    },
+    {
+        "author": "AnonBoboAnon",
+        "body": "I can\u2019t think of any pure play companies but the closest parallels would be the cloud field. I know AWS and Azure have app services via a true app written in a true language or just low code like power apps and power bi. \n\nEven the chatbots in a lot of website are just imbedded cloud apps running on all of the NLP the providers have and you route the data points and logic in a GUI.\n\nCRM is a basically this but a suite strictly for business services and accompanying utilities.\n\nIf someone really figure out a good way to offer this together and bring the fractured market together they\u2019d crush it.",
+        "created_utc": 1621287440,
+        "id": "gyhulsf",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1621316240.0
+    },
+    {
+        "author": "cydworth",
+        "body": "Short CRM. Nationwide outage.",
+        "created_utc": 1620790801,
+        "id": "gxtbftr",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620819601.0
+    },
+    {
+        "author": "OmniscientOpossum",
+        "body": "210 is lava for CRM, i would bet a lot of money we don't see sub-200 on this correction",
+        "created_utc": 1620836935,
+        "id": "gxvcbfa",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620865735.0
+    },
+    {
+        "author": "Immortan-GME",
+        "body": "Beating earnings would have been no guarantee for a rallying price either. Look at Apple or Salesforce or countless other examples. Never bet on earnings, it's literally a coin toss. And especially not options like that other guy that posted.",
+        "created_utc": 1620261669,
+        "id": "gx3g33i",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620290469.0
+    },
+    {
+        "author": "cyber900",
+        "body": "Does watching my CRM crash and burn count as a move?",
+        "created_utc": 1620249856,
+        "id": "gx2qt2g",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620278656.0
+    },
+    {
+        "author": "fino_nyc",
+        "body": "I\u2019d rather invest in Microsoft or wait until Salesforce buys Zoom",
+        "created_utc": 1621087745,
+        "id": "gy7se8k",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1621116545.0
+    },
+    {
+        "author": "akmalhot",
+        "body": "I'm more considering trimming adbe, payc, crm than maybe amzn, goog, msft, aapl\n\nI mean inbough amzm around 1000.  On one hand they're taking over the world on the other is growth still easy?",
+        "created_utc": 1621122452,
+        "id": "gy9pbwz",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1621151252.0
+    },
+    {
+        "author": "BeatBigAll",
+        "body": "Made money with JNJ calls, sold 1/2. Made money with CLF calls, sold all and bought few puts. Bought CRM puts and made money and sold 70%. Green Day finally!",
+        "created_utc": 1620157169,
+        "id": "gwxtoel",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620185969.0
+    },
+    {
+        "author": "Altruistic_Nobody176",
+        "body": "CRM AND WDAY are good buys.",
+        "created_utc": 1620215068,
+        "id": "gx0ka3w",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1620243868.0
+    },
+    {
+        "author": "juanton_slinky",
+        "body": "At this point in time if you want to be serious about machine learning/ai. You are going to use a nvidia card. Amazon, Microsoft, Google, facebook, salesforce, all using nvidia cards for their machine learning needs. It boils down to software support for nvidia over amd. There's no reason why  amd cannot make their software suite better. But nvidia cards are the industry standard. Idk too much about the gaming market.",
+        "created_utc": 1620127552,
+        "id": "gww7c0j",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1620156352.0
+    },
+    {
+        "author": "mr_blockchain_",
+        "body": "CRM is hella down",
+        "created_utc": 1620098957,
+        "id": "gwv73i4",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620127757.0
+    },
+    {
+        "author": "FireFlyRox",
+        "body": "Even AAPL, CRM, etc has screwed me over the months.",
+        "created_utc": 1619884384,
+        "id": "gwjwkac",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1619913184.0
+    },
+    {
+        "author": "DONE_WITH_POLITICS",
+        "body": "Jack had a good idea coming up with the Twitter idea but he\u2019s no business man. Marc Benioff, CEO of Salesforce wanted to buy Twitter but the board voted No. Benioff said he had great ideas to make tons of money with it and I believe he could have. Jack needs to back away and let someone monetize the company before everyone\u2019s had enough, I know I have.",
+        "created_utc": 1619981787,
+        "id": "gwp4lz0",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1620010587.0
+    },
+    {
+        "author": "wwittenborn",
+        "body": "I like some of the more cutting edge ideas from CRM but their legacy installed base is a blessing/curse.  Not possible for them to match the innovation at PLTR.  Similar to the reason Windows is a mess.",
+        "created_utc": 1620669877,
+        "id": "gxmv5b2",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620698677.0
+    },
+    {
+        "author": "Leblanc_James",
+        "body": "stuff like amazon, salesforce, aapl, baba???",
+        "created_utc": 1620837686,
+        "id": "gxve6n6",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1620866486.0
+    },
+    {
+        "author": "madrox1",
+        "body": "i like the stocks u chose. good price on the CRM",
+        "created_utc": 1621181148,
+        "id": "gyc4re5",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1621209948.0
+    },
+    {
+        "author": "dtdude87",
+        "body": "Nvda and crm all in before ER and sell right before",
+        "created_utc": 1621222573,
+        "id": "gyek7wt",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1621251373.0
+    },
+    {
+        "author": "DonPietroSavastano88",
+        "body": "I originally had purchased three $40 calls with same expiration as yours when the stock price was at like $55 a share. I'm down over 75% on those right now lol. \n\nLast week, I decided to just sell everything i was still in the green with (apple, salesforce, etc) and just doubled-down on my Nio leaps by buying them mostly deep ITM. I did this so that I can bring my original breakeven price down. I bought two $25 calls, one $17 call, one $15 call, and two $55 calls. Before purchasing these, my breakeven was around $72. Now my breakeven is below 55 and I could certainly sleep better at night \ud83d\ude02. Still a bit risky but better than before. \n\nI can't speak for any of your other positions. But if you're in a similar spot as I was and you're starting to get nervous, then the approach I took is something to consider at least. For me, it was the obvious choice rather than selling for over 75% loss haha.\n\nBefore NIO's recent correction, $80 leaps expiring Jan 2023 seemed like a decent bet. Now, I feel like we will be extremely lucky to see $75 a share by that date. Obviously just my opinion though.\n\nGood luck and stay strong, brotha !",
+        "created_utc": 1621282138,
+        "id": "gyhiofc",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1621310938.0
+    },
+    {
+        "author": "The_Folkhero",
+        "body": "Facebook \n\nAdobe \n\nSalesforce \n\nIntuit",
+        "created_utc": 1621105720,
+        "id": "gy8tbtw",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1621134520.0
+    },
+    {
+        "author": "Altruistic_Nobody176",
+        "body": "CRM",
+        "created_utc": 1621014644,
+        "id": "gy4iq07",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1621043444.0
+    },
+    {
+        "author": "UselessPresent",
+        "body": "Averaging up on my CRM calls, feeling a run up for next week.",
+        "created_utc": 1621021782,
+        "id": "gy4z025",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1621050582.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "I got 50 DIA in the crash @ 216. Lol. I showed up late to QQQ and taking advantage of this 3 month tech consolidation. Loaded up on 100 AAPL &amp; 50 CRM over the past 5 months. Already had 100 MSFT locked in. Let\u2019s get it!!!!!!",
+        "created_utc": 1620995757,
+        "id": "gy3cfjf",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1621024557.0
+    },
+    {
+        "author": "PuffyPanda200",
+        "body": "Sorry if I wasn't clear, there are other companies that provide different tools that are seemingly similarly dominant in their industry (not data analysis).\n\nA really good example would be Autodesk (ADSK). They make the AutoCad family, REVIT and other tools, all for construction design. They are very dominant in this field and it would be very difficult for competitors to break in for a variety of reasons. ADSK trades at a 52 P/E ratio and about 20 P/R ratio. I think they are a bit overvalued and Yahoo seems to agree with me. I wouldn't stay they are a bad buy though. This company is only valued at ~2 times PLTR but looks way better. Another example would be ANSYS (ANSS) that makes FEA software. \n\nPLTR provides what one would hope is a dominant data analysis suite/tools. That's great but I am just not sure that they will find enough customers that sit in the 'goldilocks zone' of having enough data to analyze and not having the resources to create the tools themselves. I am also not entirely certain that companies that run systems like CRM services can't provide similar tools with other items. Salesforce, Google, and Microsoft all advertise data analytics. How would a customer know if the Palantir tools are better or worse than those produced by other larger companies that the customer may already have a relationship with (CRM, Microsoft suite, G-suite, etc.)?",
+        "created_utc": 1620535329,
+        "id": "gxgs8sa",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1620564129.0
+    },
+    {
+        "author": "Barca1313",
+        "body": "I think you\u2019re missing my point. The software doesn\u2019t decide anything. It\u2019s like blaming Microsoft Excel and Salesforce for my company going bankrupt. Softwares don\u2019t make decisions they simply analyze the data you give it and then you make the decision. The decisions to search for Bin Laden, go to war or deport immigrants were not made by any software. They were made by the people in our government. The people in our government could have just as well used the Palantir software for good, to make common sense immigration reform and use the data analytics in that way.",
+        "created_utc": 1620493900,
+        "id": "gxeluvn",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1620522700.0
+    },
+    {
+        "author": "ifoundyourtoad",
+        "body": "Is this company considered a long term hold? I'm not a day trader by any means, I'm just trying to pick good long term companies. \n\nCurrently investing in \n\nDKNG, AAPL, NOBL, MKG, BLV, BRKB, CRM, DIS, FB, NVDA, OKTA, SQ, VNQ\n\nI'm starting to wonder if I should re-align some.. But I mean, it isn't a whole lot of money, just trying to figure out how I wanted to start my dang long term holds lol.",
+        "created_utc": 1620751811,
+        "id": "gxqy4d4",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1620780611.0
+    },
+    {
+        "author": "Silver_Wolf_19",
+        "body": "Yes,  Salesforce can defeat everybody.   :(",
+        "created_utc": 1620766797,
+        "id": "gxrymre",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620795597.0
+    },
+    {
+        "author": "The_Folkhero",
+        "body": "Don't get me wrong, I own Apple too, in equal weighting in my portfolio. But you hit upon it, % return wise there are better plays. Because isn't it % returns that we are chasing in stocks?! And I am willing, and have, been putting down a larger % on the smaller cap players.. That's why I am not overweight  Apple and am overweight smaller cap companies such as the \"baby FAANGs of Adobe, Salesforce, Intuit, and especially, out of FAANG, Facebook (which is not even at a trillion market cap). The Apple trees don't grow to the sky and stock physics apply. And great companies don't always get bigger - just look at the dead money that Microsoft was for a decade. Cisco is another company that was one of the largest stocks back in the day and today it is a relic of what it once was.",
+        "created_utc": 1620828176,
+        "id": "gxurjey",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1620856976.0
+    },
+    {
+        "author": "lanchadecancha",
+        "body": "You have quite a strict philosophy. I\u2019m about 90% passive investments in ETFS and mutual funds myself that I don\u2019t touch, but I don\u2019t consider people who buy Apple, AMZN etc \u201cnon-investors\u201d. I don\u2019t think buying individual blue chip stocks somehow categorizes a person as an outright gambler. If Google, Amazon, and Salesforce are your gambling stocks, you don\u2019t know how to gamble, lol.",
+        "created_utc": 1620787826,
+        "id": "gxt64xu",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1620816626.0
+    },
+    {
+        "author": "DrPeepeeP00p00",
+        "body": "We\u2019ll find out in 5mins if CRM will take a massive morning shit or not",
+        "created_utc": 1620393942,
+        "id": "gx9rcu2",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620422742.0
+    },
+    {
+        "author": "sc8132217174",
+        "body": "This is so gerry-rigged, but we paid so much for sales force and I hate it. What I\u2019ve liked a lot more is actually this little drag and drop app platform called glide run off of Google sheets. It\u2019s so simple to make forms, add data items, checkboxes, etc. Not saying it\u2019s in any way a replacement for big companies, but I can\u2019t understand why they don\u2019t make something that\u2019s actually user friendly. I guess because then they can\u2019t sell \u201carchitects\u201d?\n\nAlso salesforce makes you pay with check. Which I think demonstrates how ridiculous they are.",
+        "created_utc": 1620368365,
+        "id": "gx8u18q",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1620397165.0
+    },
+    {
+        "author": "claytondpark",
+        "body": "crm has been trading in a well define channel from it's ath, I suggest playing that channel",
+        "created_utc": 1620215403,
+        "id": "gx0ksba",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620244203.0
+    },
+    {
+        "author": "BeatBigAll",
+        "body": "Headwinds for CRM",
+        "created_utc": 1620150719,
+        "id": "gwxm4x9",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620179519.0
+    },
+    {
+        "author": "marioistic",
+        "body": "Why does Salesforce CRM chart look so weird lol",
+        "created_utc": 1620079811,
+        "id": "gwu47mg",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620108611.0
+    },
+    {
+        "author": "SirDouglasMouf",
+        "body": "Bought in at 7$ months ago, about to buy another bucket of shares. Excellent DD and everything you said about their use cases is fantastic. It's the reason I enjoy the company and like the stock.  That and the fact Salesforce has a shit UX",
+        "created_utc": 1621375438,
+        "id": "gymgvza",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1621404238.0
+    },
+    {
+        "author": "high_roller_dude",
+        "body": "pins, crm, twlo. i am selling junk at a loss and adding to my winners into weakness. just dumped fsly and some other garbage to buy dips in twlo.",
+        "created_utc": 1620880898,
+        "id": "gxxzj1m",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1620909698.0
+    },
+    {
+        "author": "aron574",
+        "body": "I pay someone to invest for me, but with my side hustle money I day trade. I like to watch Salesforce (CRM), CGC, Apple, BABA, EA. When I personally invest, I buy stocks I\u2019m willing to hold forever in case the trade goes bad.  I use MACD crossover and 7,15,50 day moving averages to determine when to get back into the stocks. I like using the website big charts and it lets me determine what technicals I personally want to see. TD ameritrade charts are good but I like big charts.",
+        "created_utc": 1620908004,
+        "id": "gxywcvb",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1620936804.0
+    },
+    {
+        "author": "CLASSIC_REDDIT",
+        "body": "the proper nomenclature is $CRM",
+        "created_utc": 1620938889,
+        "id": "gy0uu4k",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620967689.0
+    },
+    {
+        "author": "thekingbun",
+        "body": "General sentiment is \u201cmehhh\u201d so that means I\u2019m buying. Last week I bought 25 QQQ, 15 SPY, 20 CRM. Long term outlook. \n\nListen\u2026 everyone is concerned. BUT, these companies are still growing.  That seems to be what everyone forgets.",
+        "created_utc": 1621174316,
+        "id": "gybqui2",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1621203116.0
+    },
+    {
+        "author": "DelphiCapital",
+        "body": "Salesforce? Oracle?",
+        "created_utc": 1620001020,
+        "id": "gwq6jyl",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620029820.0
+    },
+    {
+        "author": "Start155",
+        "body": "Major part of your comment history is either arguing with people about how great PLTR is and how Salesforce is a bad product, how Tableau is a garbage product etc. How PLTR is awesome because they have partnership with AWS and IBM. Seriously? go check how many companies have partnership with AWS that you never even heard of. It's like someone selling something in Amazon and telling people he has a partnership with Amazon. And how are you getting this random number that he will need to pay over $500,000,000? Did he tell you that or did you ever see his tax filling? Based on the vesting schedule of 2.5% per quarter there will be a total of 10.95M stocks from options and RSUs combined by the end of this year that he might need to pay tax on. Overestimating the average price per share at $23 will results in a net compensation from these equities at $251M. Even if he pay full 40% tax on that compensation that will be 100M at max which is fully deductible against expenses. \n\nYou have a conclusion based on your hope that Palantir will do good on some days so that you can offload your large bag and that's why you keep arguing with random stranger all over the reddit for Palantir. \n\nHope is good but delusion is a prime cause for bag holder. Delusion like justifying premature selling of large quantity share by a CEO within six of going public when the company is still bleeding money by saying he will need to pay tax as if he is the only CEO in this tech world who pays tax and no one else pay anything. The whole world knows how unfair the tax rule is for CEOs compare to mass population where the CEOs can completely write of the whole tax liability from the performance based stock compensation which is the major part of their overall package. \n\nGet out of your delusion.",
+        "created_utc": 1620617171,
+        "id": "gxki8hp",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620645971.0
+    },
+    {
+        "author": "AeroEngineer56",
+        "body": "Sold SalesForce down 8% to buy AMD and AMZN today",
+        "created_utc": 1620742474,
+        "id": "gxqc0ff",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620771274.0
+    },
+    {
+        "author": "OmniscientOpossum",
+        "body": "CRM earning 5/27, this thing will take off believe it or not.  we are basically at 210 support, won't see sub-200 i'm almost positive.",
+        "created_utc": 1620661304,
+        "id": "gxmarhl",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620690104.0
+    },
+    {
+        "author": "SKT_T1_eSports",
+        "body": "PTON isn't a high multiple stock anymore that's why it's not falling, it has a lower P/S ratio than boomer stocks like salesforce",
+        "created_utc": 1620672144,
+        "id": "gxn0k5y",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620700944.0
+    },
+    {
+        "author": "Altruistic_Nobody176",
+        "body": "RKT short term maybe, CRM, WDAY",
+        "created_utc": 1620219567,
+        "id": "gx0rur7",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620248367.0
+    },
+    {
+        "author": "Altruistic_Nobody176",
+        "body": "CRM climbing ya'll!",
+        "created_utc": 1620391902,
+        "id": "gx9nf77",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620420702.0
+    },
+    {
+        "author": "Treylw13",
+        "body": "And I like the SpotX acquisition a lot, just hate that it can hold the share price down while everything is being digested. I was a LVGO holder and a TDOC holder and it seems the merger just blew them both up for the time being. Slack/CRM also",
+        "created_utc": 1620781835,
+        "id": "gxsue6d",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1620810635.0
+    },
+    {
+        "author": "earfffffffffff",
+        "body": "Salesforce is down entirely, we use it for work and are effed right now. Called and they told me it\u2019s a company wide problem. Anyway salesforce puts tomorrow consider this insider trading.",
+        "created_utc": 1620770738,
+        "id": "gxs7ocn",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1620799538.0
+    }
+]

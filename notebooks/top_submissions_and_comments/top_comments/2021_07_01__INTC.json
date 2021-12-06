@@ -1,0 +1,2738 @@
+[
+    {
+        "author": "KingCuerv0",
+        "body": "Nothing too technical or a complex trading strategy but I have been working in Finance for over 15 years so I have a bit of experience.\n\nEssentially I follow 20-30 stocks like a hawk, adding and removing stocks from this list. I know these companies in and out. Then I wait for a dislocation in the stock and or a sell off in the market. Once this happens I buy call LEAPs at least one to two years out, waiting for mean reversion and or whatever catalyst I believe takes place. Most importantly, I trim gains along the way up by setting specific targets. Thus at 20% gain I sell X amount of position, 50% x amount of position etc etc. This protects my gains even though does limit a bit of my upside but found this to be important in locking in gains before they all erode. Especially in options. IE earlier this year CEO of VWM left for INTC, VMW was crushed by over 15% for a stock that barely moves. That was an easy play knowing there was a dislocation and the stock soldoff based on their CEO leaving which really didn't matter since the company is essentially controlled by Dell. Then I bought calls on VMW, stock went back to previous levels and I trimmed at 40% and 70% initially then let the rest ride. Ended up closing my position a few weeks later for a bit over 60% gain in about 3 months by using target goals I set myself for each position and play.\n\nDoesn't mean I am always invested all the time, I patiently wait for the right opportunities but do sit in higher cash position than most before striking. Currently 40% cash as markets are a bit frothy.\n\nHave had excellent returns with this approach but it took time to develop and learn through my experiences.",
+        "created_utc": 1625535852,
+        "id": "h46wcz3",
+        "score": 244,
+        "subreddit": "stocks",
+        "created": 1625564652.0
+    },
+    {
+        "author": "totally_possible",
+        "body": "The best way to make money off INTC is to sell and buy AMD/NVDA",
+        "created_utc": 1625867635,
+        "id": "h4n0180",
+        "score": 83,
+        "subreddit": "stocks",
+        "created": 1625896435.0
+    },
+    {
+        "author": "RecklessWiener",
+        "body": "SMH - semiconductors \n\nTop holdings:\n\nTSM\n\nNVDA \n\nASML \n\nINTC\n\nLRCX",
+        "created_utc": 1625235808,
+        "id": "h3t36xp",
+        "score": 41,
+        "subreddit": "investing",
+        "created": 1625264608.0
+    },
+    {
+        "author": "iJurassicSlaps",
+        "body": "I am also a AMD Stan, did a ton of research on it while building myself a computer and fell in love with the company. Still bought an NVDA GPU but AMD is absolutely killing it in both sectors. They\u2019re better than Intel and NVDA in price:performance, it\u2019s only a matter of time before people realize just how good of a company this is.",
+        "created_utc": 1625526018,
+        "id": "h46eg5v",
+        "score": 23,
+        "subreddit": "wallstreetbets",
+        "created": 1625554818.0
+    },
+    {
+        "author": "CoDxxjokerxx49",
+        "body": "AMD still has a lot of room to grow as long as Intel continues to fall behind in improvements. AMD has a LOT of market share to take from Intel even with the growth they have already had.",
+        "created_utc": 1625439216,
+        "id": "h42m3gd",
+        "score": 20,
+        "subreddit": "wallstreetbets",
+        "created": 1625468016.0
+    },
+    {
+        "author": "da7mi",
+        "body": "Thanks for the quality write up. Questions is, why would you buy in a company that is and will keep losing market share to a stronger competitor in the next 3-5 years? You can jump ship once they get back in the lead. For now, it doesn't make sense to me to buy Intel when AMD is gaining ok them massively.\n\nI think with a good discount, Intel might be worth it, considering they are also trying to get into the gpu segment.",
+        "created_utc": 1625319195,
+        "id": "h3x2x1x",
+        "score": 17,
+        "subreddit": "ValueInvesting",
+        "created": 1625347995.0
+    },
+    {
+        "author": "QuestionablySensible",
+        "body": "The AMD GPUs are heritage ATI and are not at the same level as NVidia. Yet. Also their drivers have been desperate for a long time. While NVidia sometimes puts their boot up their asshole wrt drivers, they generally just tickle the ring whereas AMD started with the booth firmly ensconced in the lower intestine and have been struggling to remove it. They have improved, but are still a ways behind.\n\nTheir CPUs are really good right now and Intel are floundering. That said they are still hampered because most current software isn't very good at multi threading so single core performance is important, especially for gaming, and Intel are competitive there. They are eating Intel in data centers though.\n\nThe big thing for me is that AMD have a runway - theyre still behind but have better CPUs and the data centre uptake is very bullish. Supply could become an issue here, because the big data centre players won't want to wait or to overpay. But assuming adequate supply there should be noticeable growth in the data center side, and of course GPU supply constraints mean that they will continue to sell as many as they make.",
+        "created_utc": 1625528375,
+        "id": "h46iqjh",
+        "score": 16,
+        "subreddit": "wallstreetbets",
+        "created": 1625557175.0
+    },
+    {
+        "author": "mn_sunny",
+        "body": "&gt;Worked at Intel for over five years as a manufacturing engineer.\n\nHa so that's why you actually know what you're talking about. Thanks for saving me from having to be the one to make the cautionary/dissuading comment.\n\n(large AMD investor since 2016 who constantly sees value guys with essentially no semi/x86/litho knowledge being very bullish on INTC solely because of their past financials).",
+        "created_utc": 1625334136,
+        "id": "h3xv2ar",
+        "score": 16,
+        "subreddit": "ValueInvesting",
+        "created": 1625362936.0
+    },
+    {
+        "author": "Dannimaru",
+        "body": "I think think you're forgetting about a little company named Intel.",
+        "created_utc": 1625524467,
+        "id": "h46bklr",
+        "score": 16,
+        "subreddit": "wallstreetbets",
+        "created": 1625553267.0
+    },
+    {
+        "author": "Zednot123",
+        "body": "You realize Intel has been using TSMC for a long while right? They were a larger customer than AMD in terms of wafer starts until recently (might still be). It's just that it was mostly other products than main product line CPUs and not necessarily leading edge.\n\nThem moving even more products to TSMC while they try to solve their node issues would hardly be surprising.",
+        "created_utc": 1625233961,
+        "id": "h3sz4dr",
+        "score": 14,
+        "subreddit": "investing",
+        "created": 1625262761.0
+    },
+    {
+        "author": "JonStowe1",
+        "body": "i wish i had inside intel too",
+        "created_utc": 1625829115,
+        "id": "h4kuvnk",
+        "score": 14,
+        "subreddit": "wallstreetbets",
+        "created": 1625857915.0
+    },
+    {
+        "author": "PIethora",
+        "body": "By referencing INTC you suggest you have not understood OPs post. The concerns over INTC are over technology and competitiveness. The business continues to nake money, pay a reasonable dividend, and cash flow continue to increase.",
+        "created_utc": 1625613146,
+        "id": "h4akpkt",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1625641946.0
+    },
+    {
+        "author": "AverageRedditorNum69",
+        "body": "As a long time AMD fanboy who bought inferior AMD  products simply because I believed in them - I can say that im now very Bullish on INTC. \n\nAMD is killing it in the PC gaming ring, and that's great. INTC still dominates for servers (~95% share) and laptop/work device sales. And for gaming they, while inferior, are still able to remain relevant on 14nm nontheless. Most importantly - they print money -  wayy more than AMD.\n\nTheyve hooked up with TSM (super bullish) to hop on 5nm. \n\nTheir pe is like 13. The fact that theyve been a dumpster fire for the last few years is priced in. Nobody is betting against them (like 2% short to AMD's 10%) theyre not going anywhere at all - uncle sam would never let them go under.\n\nAs a value investment they're a great deal. Mass hate of a company be it GM3, GM, F has this year at least equaled stocks up.\n\nIntc is going to recover faster than expected. TSM foundries will make them relevant in gaming and high-end creation markets again. 14nm will print cheap chips for the rest of the worlds craptops. The recovery is coming. \n\nAMD still hasnt passed their 2006 peak market share. While i like lisa su, her products, and the underdog story better, i also like money, so ill sit in INTC and wait.",
+        "created_utc": 1625875703,
+        "id": "h4ne8xu",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1625904503.0
+    },
+    {
+        "author": "CentralFLSubyBoy",
+        "body": "While it is true that Intel probably remains the top dog when it comes to chip production, their chips are just not competitive enough now days with AMD. AMD is coming out with Processors that are years ahead of anything Intel is putting out for both gaming and Server Set ups. If they don\u2019t do something innovative soon, AMD will steal their crown.",
+        "created_utc": 1625505197,
+        "id": "h45a1ok",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1625533997.0
+    },
+    {
+        "author": "iamnewnewnew",
+        "body": "Im not saying they dont....\n\nU buy amd because its smacking intel and the cpu market share... . Not because they are doing better than nvda.\n\nNo offense but do u not follow the chip manufacturers businesses..?",
+        "created_utc": 1625355871,
+        "id": "h3yyy8z",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1625384671.0
+    },
+    {
+        "author": "Paul_Ostert",
+        "body": "I think INTC would be a good dividend play for a few years.  The stock price is low (due to company having problems executing). But right now it's a cash cow.  Just milk it until it succeed or dies.",
+        "created_utc": 1625244494,
+        "id": "h3tod7a",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1625273294.0
+    },
+    {
+        "author": "zxc123zxc123",
+        "body": "Hi. I'm from the Intel side! I think AMD side shouldn't worry too much about INTC. It's a big old ship that's getting bombarded from all sides. The fact that it's a big ship means it's changes will take time. I'm giving Gelsinger a chance to right the ship, but it will take a long while to undo BSwan's bad moves, get the right people, develop the chips, and catch up to AMD. \n\nA plus side for everyone is that the semi-space is a growing area with electronification, digitization, and \"5G-cloudification\" of everything along with the increasing importance of AI &amp; tech in business and government. Semis are so important in fact, that at this point US Gov should really be looking at INTC/NVD/TI more like they did Ford/GM 100 years ago: as a strategic industrial/military resource. \n\nReal threat to AMD isn't INTC. INTC was the big market share holder in the past and isn't likely gaining any ground any time soon. What AMD and all the trad chip manufacturers should fear is FAAAM &amp; BAT. Apple has started designing it's own chips. They aren't going back to using outsourced chips. If history says anything it's that Apple will continue to cut others out as they continue to in-house their chips for their entire lineup while improving their chips just like how they kept improving their computers, just like how the iphone kept improving until NOK/MOT were beat, just like how a good chunk of the watch market is Apple watches, just like how Ipads have taken away from of the laptop space, just like how Apple TV keeps chipping away at cable, just like how the app store and Apple's eco system keeps growing, etcetcetc. There is nothing AMD/NVD/INTC can do to stop Apple. And Apple is just the first. MSFT also doing the same. Google, Facebook, and Amazon might follow suit. China's Tencent and Alibaba will likely copy what the US companies do as soon as Pooh Bear gets done man handling them.",
+        "created_utc": 1625258081,
+        "id": "h3uk775",
+        "score": 13,
+        "subreddit": "investing",
+        "created": 1625286881.0
+    },
+    {
+        "author": "roald_1911",
+        "body": "Maybe my prospects are longer term, or just wrong. But it seems to me that the x86 technology got itself into a corner and it would be very difficult to get out of there. AAPL proved that one can make a better processor starting from scratch, and if Windows will support ARM better, then the x86 market is toast. The RISC architecture has advantages over CISC architecture which we are observing right now and/or will observe in the near future. And these can't be undone, worked over, or something else. Every x86/x64 processor developed today can run programs written 30-40 years ago, while a company like Apple can come and say screw that, we start from scratch. This and other issues in the x86 architecture make it an (apparent at least) dead end. AMD is also offering a big competition to Intel, and in the server space there is also big competition. Most of us use phones or tablets with Arm processors. I would rather wait to see how the market progresses.",
+        "created_utc": 1625320913,
+        "id": "h3x5wk0",
+        "score": 12,
+        "subreddit": "ValueInvesting",
+        "created": 1625349713.0
+    },
+    {
+        "author": "GuiBz123",
+        "body": "Intel",
+        "created_utc": 1625685937,
+        "id": "h4dzhx9",
+        "score": 12,
+        "subreddit": "stocks",
+        "created": 1625714737.0
+    },
+    {
+        "author": "fish60",
+        "body": "Puts on INTC are cheap. Put your money where your mouth is and post your positions.",
+        "created_utc": 1625509308,
+        "id": "h45i4nh",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1625538108.0
+    },
+    {
+        "author": "WillyBoynka",
+        "body": "Their competitors have around 30 P/E while Intel is at 10. So I say that them losing market shares is already priced in.",
+        "created_utc": 1625327305,
+        "id": "h3xhs24",
+        "score": 11,
+        "subreddit": "ValueInvesting",
+        "created": 1625356105.0
+    },
+    {
+        "author": "nevetando",
+        "body": "Reddit will punish you for this, but I have to agree. \n\nReally because they can actually get chips to market. AMD has better performing chips, sure, but they can't actually get them out there for use, and NVIDIA seems to still be the dominate GPU (despite me owning a complete AMD system right now)\n\nIn the last Steam hardware survey, it showed Intel gaining significant market share. \n\nIt isn't about what chip is \"best\" it is about what you can get right now. Intel makes their own chips. AMD is waiting in line with 100 other companies with TSM.",
+        "created_utc": 1625690880,
+        "id": "h4eatx4",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1625719680.0
+    },
+    {
+        "author": "thatgeekinit",
+        "body": "I got one good free tip from them for AMD but I knew enough about how good their chips had gotten in this generation vs Intel that I could validate it on my own.",
+        "created_utc": 1625433953,
+        "id": "h42cetp",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1625462753.0
+    },
+    {
+        "author": "Ehralur",
+        "body": "Intel is not getting their company culture back on rails any time soon. They're gonna be getting shit on by AMD for at least another few years.",
+        "created_utc": 1625520376,
+        "id": "h463u56",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1625549176.0
+    },
+    {
+        "author": "wontonforevuh",
+        "body": "Lol it's gonna take Intel 5-10 years to recover if at all. They are so far behind TSM.",
+        "created_utc": 1625506706,
+        "id": "h45d0o8",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1625535506.0
+    },
+    {
+        "author": "mistermc90",
+        "body": "Altria, BTI, Imperial Brands, Intel, Vertex Pharmaceuticals.\n\nMarket is quite expensive ATM. Quite hard to find large caps at a reasonable discount with strong CF-generation.",
+        "created_utc": 1625486944,
+        "id": "h44dt1f",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1625515744.0
+    },
+    {
+        "author": "IMIRZA0",
+        "body": "INTC +19%?\n\nI highly doubt that will Happen",
+        "created_utc": 1625603539,
+        "id": "h4a0l1b",
+        "score": 9,
+        "subreddit": "StockMarket",
+        "created": 1625632339.0
+    },
+    {
+        "author": "Onion_jam",
+        "body": "AMD is going to absolutely murder INTC in the server space over the next decade.",
+        "created_utc": 1625882171,
+        "id": "h4npf82",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1625910971.0
+    },
+    {
+        "author": "SlowRyder",
+        "body": "Oh wow, great intel on point one! I did not know that and that explains the rapid growth of the EFI segment. I could see that it has been exploding but couldn\u2019t tell why.\n\nGreat point on the second point as well! I agree that their marketing is extremely on-point all around. They have a chart in their presentation that shows the significant growth of their festival circuit, including the addition of new festivals. They\u2019re doing a great job cultivating a community.\n\nI think that their digital marketing is increasingly on-point as well. I\u2019ve looked at their site over the years on Archive.org and it\u2019s evident that they really got that right just within the last few years. Additionally, their increasing investment in content marketing is very well executed and is going to be huge for SEO and product education.",
+        "created_utc": 1625620398,
+        "id": "h4aydyl",
+        "score": 8,
+        "subreddit": "SPACs",
+        "created": 1625649198.0
+    },
+    {
+        "author": "agentpurplek1",
+        "body": "That stock is going to moon. Intel had a fuck up with manufacturing. Amd bout to eat a lot of market share also starting to see a lot of talk on WSB about it.",
+        "created_utc": 1625127783,
+        "id": "h3nt6t7",
+        "score": 8,
+        "subreddit": "options",
+        "created": 1625156583.0
+    },
+    {
+        "author": "Investing8675309",
+        "body": "TSM put out 5nm last year and is ramping this year. Intel 10nm won\u2019t be out until mid-fall. After that they\u2019ll go to 7nm. \n\nTo be fair this isn\u2019t a nm-to-nm comparison, some have argued, rightfully so, that an Intel 7nm is comparative to a TSM 5nm. I believe AMD\u2019s are still on 7nm (I\u2019m not going to check this but going off memory). Intel has done a great job of improving their chips over the last few years without the nm shrinkage. That said, AMD has caught up.\n\nThere have been some interesting reports of Intel partnering on 3nm with TSM, not sure if that will go anywhere.\n\nKeep in mind this isn\u2019t just an Intel vs AMD/TSM. TSM supplies Apple, Qualcomm, and, really, just about everyone else.",
+        "created_utc": 1625326048,
+        "id": "h3xfebw",
+        "score": 8,
+        "subreddit": "ValueInvesting",
+        "created": 1625354848.0
+    },
+    {
+        "author": "holdingtankers",
+        "body": "AAPL, FB, HD, INTC because America",
+        "created_utc": 1625225152,
+        "id": "h3sjsif",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1625253952.0
+    },
+    {
+        "author": "Trisolaran_arbitrage",
+        "body": "TER has been one of my long-term favorites - I like the CEO a lot (he has worked there his whole career), and they are growing revenues like crazy. They manufacturer Semiconductor test systems as well as wireless test systems. \n\nGood strong balance sheet and they are one of the favorite suppliers to TSMC - should see good sales growth the next few years as TSMC and Intel put their Capex plans in place. Also, they are pivoting to industrial automation - have bought robotics companies that past few years. The CEO wants automation revenue to become the largest source of revenue for the company so they can move beyond the boom-bust cycles in Semi's.",
+        "created_utc": 1625684858,
+        "id": "h4dx32g",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1625713658.0
+    },
+    {
+        "author": "JRshoe1997",
+        "body": "Right now my portfolio consists of AAPL, INTC, LMT, JNJ, PEP, O, PLTR, PLHNF, WMT, and VOO. Right now I am only buying INTC and LMT because they are the only stocks right now that are selling cheap in terms if valuation. Everything else is pretty expensive right now imo.",
+        "created_utc": 1625245394,
+        "id": "h3tqigv",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1625274194.0
+    },
+    {
+        "author": "ohThisUsername",
+        "body": "&gt;It isn't about what chip is \"best\" it is about what you can get right now.\n\nActually it sort of is in datacenters. Every % improvement of performance per watt makes a huge difference when you have millions of machines. After Intels problems with performance and vulnerabilities, datacenters / cloud platforms learned that they need to diversify a bit and have rapidly introducing AMD based servers. \n\nWhile I do think Intel will fix their issues and is still valuable, in terms of pure growth, it seems like AMD has more potential as datacenters are diversifying to use more AMD. I guess the main risk is if AMD can keep up with demand.\n\nWhat I'm more interested in is Intels venture into ARM based chips.",
+        "created_utc": 1625706336,
+        "id": "h4f7lb6",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1625735136.0
+    },
+    {
+        "author": "TheMagicHorsey",
+        "body": "I\u2019m an Intel alumni too. But I worked with Gelsinger before he left Intel. Gelsinger is a way better CEO than anyone the company had between Grove and now. Intel has needed an engineering leader for a while and they\u2019ve only had finance and sales guys.\n\nYou are counting out Intel based on their record of past failures over the last decade. However, my belief is that their execution and product line are going to improve drastically over the next couple years.\n\nThere\u2019s room in the market for both TSM and Intel on the fab side. There\u2019s a massive shortage in semiconductor capacity. Everything is going to need high performance chips in ten years. Current investments by TSM and Intel are just a drop in the ocean compared to what is needed to create capacity to meet future demand. So it\u2019s not a zero sum market between TSM and Intel.\n\nAMD vs Intel vs ARM is a bigger threat \u2026 however, people underestimate what Intel\u2019s server group has cooking. Here also I think x86 with Intel cores will reign supreme for some high value work loads. Having said that, I think it\u2019s unavoidable that ARM based VMs are going to swallow a lot of low end cloud compute. We tested AWS ARM VMs for many work loads and they were an absolute win on a cost adjusted basis. Intel will have to do some serious work to stop that drift.\n\nAlso, having my dev machine as an ARM Mac instead of an x86 MAc this year for the first time, means I\u2019m actually running ARM server binaries natively and x86 binaries under emulation, instead of vice versa which was the case in previous years.",
+        "created_utc": 1625364172,
+        "id": "h3zcb94",
+        "score": 6,
+        "subreddit": "ValueInvesting",
+        "created": 1625392972.0
+    },
+    {
+        "author": "Runningflame570",
+        "body": "Their competitive position is getting better with every Intel delay and increase in available capacity at TSMC. No real price target here, but they're well worth buying still.\n\nAbout the only thing that could realistically prevent further appreciation over the next year or two is if China blocks the Xilinx merger.",
+        "created_utc": 1625185143,
+        "id": "h3qwetf",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1625213943.0
+    },
+    {
+        "author": "Paraflaxis",
+        "body": "Intel is severely underrated has low pe decent div and pretty much can only go up from here they will take longer to catch up but the opportunity cost is so much better than the others",
+        "created_utc": 1625689597,
+        "id": "h4e7y1i",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1625718397.0
+    },
+    {
+        "author": "imposter22",
+        "body": "Intel is spending $3billion on fab facilities in Arizona.\n\nIntel has a new workstation GPU coming late2021 early2022.\n\nIntel has a 3nm, 5nm, 7nm and 12nm and their 11th gen 14nm. And lots of new ICX coming 2022.\n\nIntel has a new automotive computer to sell to car manufacturers.\n\nIntel Sapphire Rapids has a new instruction set for AI compute which is supposed to be pretty dramatic for AI workloads\n\nExpect their new fab to be done in 2025.\n\nExpect their GPU to be a success in the corporate environment.\n\nExpect their huge growth in ICX.\n\nExpect massive sales for their automotive computers.\n\n\nIntel isn\u2019t going anywhere. Its going to be hard for AMD to stay on top.",
+        "created_utc": 1625235809,
+        "id": "h3t373j",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1625264609.0
+    },
+    {
+        "author": "Goodenough4Alex69",
+        "body": "Yes, I think AMD is a good buy, I believe they have overtaken intel in price and performance on CPU side and I do believe eventually they'll overtake Nvidia in the same way. \n\nThere are better buys.\n\nI was in on some good ass DD with BB back in oct 2020. I sold my BB to buy GME at $40 the morning of the run-up in Jan. Best decision I've ever made. \n\nJust because I think AMD will be a good performer doesn't mean I think it has the same potential as GME. Decades ago some people invested in FORD (low risk low reward) while others invested in Apple(high risk high reward). I don't even think (opinion) GME is high risk, just high reward. Infinite money glitch, come get your cash hombre.",
+        "created_utc": 1625458503,
+        "id": "h43gbff",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625487303.0
+    },
+    {
+        "author": "aurora4000",
+        "body": "I'm bearish on Intel. June 30 Intel announced that it is delaying production of one of its newest chips to early 2022 to improve performance, after previously saying it would be ready late this year. \nhttps://on.wsj.com/3jpnsHd\n\nI own NVDA,AMD,and MRVL instead.",
+        "created_utc": 1625524197,
+        "id": "h46b2my",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1625552997.0
+    },
+    {
+        "author": "BorisYeltzen",
+        "body": "I nominate SPCE + BABA + INTC for the worst stocks to ever list",
+        "created_utc": 1625148563,
+        "id": "h3ondae",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625177363.0
+    },
+    {
+        "author": "IIxNullxII",
+        "body": "Good write up. As a previous die-hard Intel fanboy (since early 90s) my next build, and all future builds, will be AMD. I do believe AMD will eventually eclipse Intel's market share. Perhaps within the next half-decade.",
+        "created_utc": 1625539871,
+        "id": "h473fkh",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625568671.0
+    },
+    {
+        "author": "MoneyForThePeople",
+        "body": "What do you think about my portfolio?  \nABNB\t10%\r  \nCLF\t\t5%\r  \n\rINTC\t9%\r  \n\rITUB\t5%\r  \nLMND\t5%\r  \nNIO\t\t11%\r  \nPRNT\t5%\t\t\r  \nQS\t\t5%\r  \nSPCE\t5%\t\r  \nSPY\t\t30%\r  \nTSLA\t10%",
+        "created_utc": 1625495253,
+        "id": "h44qnbw",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1625524053.0
+    },
+    {
+        "author": "Protoculture_11",
+        "body": "the shortage issues massively massively hurt AMD. Without it, it would have shown higher YoY growth and faster marketshare growth in datacentre/HPC. Its fucked AMD a lot. We could have been 105 now instead of 95. TSMC expansion in the US along with Intels drive to expand into foundry leaves a lot of possibilities for AMD. Its not super clear that its a slam dunk win for AMD. Its more moving parts in the future whereas we prefer less moving parts with current competitive advantage.\n\nNVDA is kicking AMD's ass inside out on GPU and hardware acceleration in datacentre/AI. We just have to accept it as it is. NVDA is something you should also look to get into when the price isnt so stupid. AMD is not NVDA though. Dont expect those price levels. NVDA has a fucking stranglehold in market sectors that AMD does not have.\n\nAMD is however takings Intel's lunchmoney on x86 and its mainly because Intel fucked up on EUV. Intel's comments on \"chiplets glued together\"? Well those chiplets glued together are what allow AMD to make much better yields on smaller die sizes. When a wafer has an issue, you lose a lower portion of the wafer if you have smaller dies, or chiplets. So now AMD has several years lead on making chiplet designs talk to eachother faster or more efficiently.\n\nIntel is however throwing in the towel and going to pay for EUV by TSMC in 2023. AMD has advance plans for 2023 with TSMC anyway and think they are second customer behind Apple so should be on a more even playing field moving forward in 2023, with the advantage of maybe 5 years with infinity fabric and chiplet design instead of monolithic dies. However if EUV pellicles come good by then, monolithic dies may be better - cant tell.\n\nTrying to figure out short term moves with AMD is nuts. Just buy stock or leaps.",
+        "created_utc": 1625535064,
+        "id": "h46uxq8",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1625563864.0
+    },
+    {
+        "author": "d_howe2",
+        "body": "To follow on your point about nm-to-nm comparisons. Is the process node (length?) really the most important metric? \n\nIt seems like the intel i9 11900k (14nm) is comparable to the Ryzen 9 (7nm) - Except for power consumption! Which is quite bad at the moment!",
+        "created_utc": 1625327495,
+        "id": "h3xi54r",
+        "score": 5,
+        "subreddit": "ValueInvesting",
+        "created": 1625356295.0
+    },
+    {
+        "author": "marcuscontagius",
+        "body": "Everybody talking about designs\u2026INTC ain\u2019t behind in cpu or GPU design, they are behind in manufacturing capability and Fab expertise at the moment because they got skimpy on technical positions while financier bob was running the show at a vertically integrated company. Once they get as deep into EUV as tsmc and Samsung have been they\u2019re vertical advantage will again become relevant. \n\nOnce the fabs are a up and running they will take the market share back because tech innovation moves fast and amd can\u2019t take advantage of Rsic-v or vertical integration the same way intel is right now..\n\nY\u2019all are acting like intel and amd play on the same level lol, amd makes cpus and take margin cuts to prioritize their products at tsmc. This was their only advantage along with their underdog narrative . Unfortunately this element of the business model has been taken from beneath them by intel after news broke recently that intel will be the first customer of tsmc 3nm process next year!! \n\nYes amd will continue to make good chips and their will be demand for second fastest chips (that\u2019s amd for you\u2026second fastest) but they won\u2019t take intels lunch for longer then the next 12 months at most\u2026then they\u2019ve got to keep those 5% market share gains you\u2019re all foaming over. \n\nI like amd, I like their products, I have a 3700x sitting in my girls work rig, but I won\u2019t fool myself into thinking they won\u2019t get crushed by a company much larger with much more capital to throw around now that they are willing to do so\u2026the run up for amd was the past two years not the next two imho\u2026maybe I\u2019m wrong \n\nhttps://www.google.com/amp/s/www.tomshardware.com/amp/news/apple-intel-set-to-use-tsmc-3nm-node-for-2023-products-report",
+        "created_utc": 1625527342,
+        "id": "h46gv1q",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1625556142.0
+    },
+    {
+        "author": "fish60",
+        "body": "TSM is subject to a lot of geopolitical risk. I am thinking the US government is going to want to subsidize INTC. They are a national security asset at this point.",
+        "created_utc": 1625508961,
+        "id": "h45hg6k",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1625537761.0
+    },
+    {
+        "author": "HillarysPornAccount",
+        "body": "In a margin account, buy an ATM LEAP call and sell an ATM LEAP put (same strikes). You can do this on the INTC Jan23 $55 for a small net credit. This results in tracking gains and losses as if you own 100 shares but you received a credit to set it up, just uses a little margin. If your thesis doesn\u2019t play out in time for expiration, you can often roll into new LEAPs for free or possibly another credit. Great for when you\u2019re expecting an INTC turnaround and they delay their new chips by yet another quarter :)\n\nIf you\u2019ve got time to kill before the catalysts truly start pumping the stock you can still sell shorter term calls against it just like you would a covered call. Now you\u2019ve got a synthetic covered call, which sounds incredibly fancy at your next party.",
+        "created_utc": 1625207874,
+        "id": "h3ryx4w",
+        "score": 5,
+        "subreddit": "options",
+        "created": 1625236674.0
+    },
+    {
+        "author": "Pdicky69",
+        "body": "\\*$INTC has entered the chat\\*  \n\n\nI know an idiot thats too much of an idiot to realize that Macy's is a value trap and is a terminal $0 stock. \"But the real estate value isn't marked to market\" The reality is that these companies even if they trade at a discount to book value, will cannibalize itself until its all gone.",
+        "created_utc": 1625612169,
+        "id": "h4aisix",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1625640969.0
+    },
+    {
+        "author": "Bouvill",
+        "body": "Okay sure, but you invest to see growth, you expect the value to go up. Do you expect intel to go up?",
+        "created_utc": 1625232207,
+        "id": "h3sviov",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625261007.0
+    },
+    {
+        "author": "ClaxtonGanja",
+        "body": "A shrewd investor I see. I thought this was a crispy chip company like Intel but it is a games company. Games equals poker chips equals big casino money. \n\nCayman has no McDonald's restaurants.",
+        "created_utc": 1625324996,
+        "id": "h3xdeqj",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625353796.0
+    },
+    {
+        "author": "XWarriorYZ",
+        "body": "NIO is partnered with MobilEye (Intel) to develop autonomous driving tech and has an agreement to supply the actual taxis once it\u2019s ready for deployment.",
+        "created_utc": 1625185731,
+        "id": "h3qxirl",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1625214531.0
+    },
+    {
+        "author": "kai_n7",
+        "body": "Whose dick at\u00e9 you sucking to get the Intel to make this play OP?",
+        "created_utc": 1625866691,
+        "id": "h4my5c9",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625895491.0
+    },
+    {
+        "author": "Impressive-Row1235",
+        "body": "I think AMD would be a better buy rn. Because of their recent acquisition. Su is one of the best ceos of the past decade. And they have constantly been capturing market share from Intel. Just my opinion",
+        "created_utc": 1625164533,
+        "id": "h3pnics",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1625193333.0
+    },
+    {
+        "author": "Stoli1387",
+        "body": "Lol wasn't expecting to see this one but was hopeful... everyone writing them off while revenue and FCF just keeps going up and up...price/fcf of like 6 lmao....Intel all day",
+        "created_utc": 1625689016,
+        "id": "h4e6muy",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1625717816.0
+    },
+    {
+        "author": "GSCToMadeira",
+        "body": "&gt;If Intel doesnt do something in next 1 year then AMD will just eat it up raw..\n\nIntel has cash to last a longer than 1 year. A new CEO turning it around in just 6 months was never going to happen. Personally don't own any INTC as i think it's a bit of a gamble if they will be able to comeback or not but it's way too early to tell.\n\nAs someone not from the US, a detail a lot of people don't realise is Intel still dominates a lot of foreign markets. Where i live AMD is way overpriced and Intel is still the more competitive choice by far.\n\nI'd say they easily have 5-8 years to make a comeback, question is will they?",
+        "created_utc": 1625518242,
+        "id": "h45zqio",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1625547042.0
+    },
+    {
+        "author": "Apcorp78",
+        "body": "I\u2019ve had my eye on Intel. Looks like it may be a good buy right now. Any thoughts? Seems like it\u2019s at a discount",
+        "created_utc": 1625166012,
+        "id": "h3pqy9r",
+        "score": 3,
+        "subreddit": "ValueInvesting",
+        "created": 1625194812.0
+    },
+    {
+        "author": "sharist_DIY_bio",
+        "body": "I was really curious about the Intel board advisement on this play, by Omar Ishrak, who obviously led the way for Medtronics implantables. So, my thinking back two warrant flips ago on this one, was to think about Intel and what they are doing that is related. This is what I came up with as pure speculation: https://www.intel.com/content/www/us/en/newsroom/news/sandia-national-labs-neuromorphic-computing.html#gs.5d0opq So, the best thing Intel has going for it now is chip on chip neuromorphic computation. The best thing Mr. Ishrak did was bring the pacemakers to market. So, let's say I want a personalized AI, that learns from me and continuously recalibrates for my unique body in real time. I'm gonna need Intel level computational support to run my implantable, like a pacemaker. The big problem Mr. Ishrak ran into in his life was that the pacemakers got hacked. So, bear with me, if I'm a theoretical whale, I can afford a badassed implant. 1) I'm wise enough to know I want it to be AI &amp; computationally gifted, super smart, and personalized. 2) I need that implant to be autonomous and never talk to the cloud for security reasons, as if my health data goes public or gets hacked, it can be used to tank my stonk, or kill me, or in the case of a world leader, bring political turmoil. I'd like to see CPUH go visionary and make a chip on chip neuromorphic device that is implantable. But I don't know of any such company in the OPs ecosystem, so elegantly outlined.My question ?? who is doing this, ...and even if they are, they might be in stealth mode. ;D Fun, to speculate. I like this ticker.",
+        "created_utc": 1625239770,
+        "id": "h3tcguw",
+        "score": 3,
+        "subreddit": "SPACs",
+        "created": 1625268570.0
+    },
+    {
+        "author": "roald_1911",
+        "body": "To me, the apple story is more important in that it shows ARM based processors can beat intel processors. Apple builds laptops that don\u2019t need fans. And they also have good performance. And let\u2019s face it, they are in the business of building processors for less then 10 years.",
+        "created_utc": 1625374608,
+        "id": "h3zs3uy",
+        "score": 3,
+        "subreddit": "ValueInvesting",
+        "created": 1625403408.0
+    },
+    {
+        "author": "Jordibato",
+        "body": "Their low powered gpu's are already being shipped but they're far from jawdropping, and by the time they launch the 3070 competitor amd and nv will already have launched a new gen of gpu's.\nWhilst intel's 10nm is denser that tsmc's 7, tsmc's is a 2018 node and  hasn't been their best for close to a year whilst intel still has to prove that they can produce big dies on 10nm, and to say nothing of the delays their 7nm is rumored to be suffering. \nOn the other hand intel is still the largest us based semiconductor manufacturer, and the most advanced so IFS could boom sooner than expected but even on the best case that won't be until 2023. In the meanwhile i only see pain for intel \nTLDR: i'd gladly sell intel 01/2023 60c",
+        "created_utc": 1625520751,
+        "id": "h464k3o",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625549551.0
+    },
+    {
+        "author": "jin0004",
+        "body": "Are you sure Intel has the fastest single core speed? As far as I'm aware, ryzen 5 completely dominates both single thread and muti thread performance compared to 11 gen",
+        "created_utc": 1625530215,
+        "id": "h46m1rf",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625559015.0
+    },
+    {
+        "author": "TiltMastery",
+        "body": "With all the analytics, you people are ignoring the fact that their products are getting worst by the second + AMD and NVIDIA are both creating masterpieces both in CPU and GPU. They are eating INTEL like it's nothing. I would avoid INTEL at all cost.",
+        "created_utc": 1625514231,
+        "id": "h45rugd",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625543031.0
+    },
+    {
+        "author": "NeelAsman",
+        "body": "Just give tsmc some time, intc will be forced to turn over to them",
+        "created_utc": 1625541615,
+        "id": "h476g30",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1625570415.0
+    },
+    {
+        "author": "ThePandaRider",
+        "body": "TSMC is years ahead of Intel but Intel has also booked a chunk of TSMC's 3nm capacity and I wouldn't be surprised if Intel takes AMD's approach to their fabrication problems by outsourcing fabrication of their chips to TSMC and Samsung.",
+        "created_utc": 1625518525,
+        "id": "h460a66",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625547325.0
+    },
+    {
+        "author": "Hugh_Mongous_Richard",
+        "body": "Intel IMO is a great company and will be one of the core companies for the future of the US. Domestic semiconductor fabrication, design, and production are pretty important.",
+        "created_utc": 1625621842,
+        "id": "h4b140a",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625650642.0
+    },
+    {
+        "author": "HillarysPornAccount",
+        "body": "LEAPs are a specific type of option (Long-Term Equity Anticipation) that expire more than 1 year out. Right now most LEAPs are for January 2023, and I think we'll see some January 2024s coming out in the next few months.\n\nWith the synthetic long, you should aim for as far out into the future as possible. This allows ample time for your investment thesis to play out (somewhat moot because you can roll indefinitely), and more importantly helps with taxes if you make gains on the long call (assuming USA here). No need to worry about the greeks in this strategy because the long call and short put offset the greeks on each other, but important to know your delta will come out to 1 after you buy the call and sell the put. Opening 1 of these positions with a delta of 1 means you are tracking the gains and losses of 100 shares. That's what gives this strategy the leverage it has, because you get a delta of 1 while sometimes getting paid to open the position.\n\nBuying a call does not take care of the collateral for the written put and this strategy will use some of your available margin. Most securities will require 30ish% collateral for the short put, and higher for more volatile securities. So in this instance, entering at the 55 strikes for INTC will require $1,650 of margin, but you'll receive $.10 credit with yesterday's prices. Compare that to the cost to buy 100 shares, which is about $5,600 today, so this is where the leverage shows.",
+        "created_utc": 1625213504,
+        "id": "h3s5uhj",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1625242304.0
+    },
+    {
+        "author": "Apcorp78",
+        "body": "Intel looks like a better buy right now, to me. Qualcomm looks like it\u2019s been on bit of a run",
+        "created_utc": 1625165719,
+        "id": "h3pq9l3",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625194519.0
+    },
+    {
+        "author": "IllmaticaL1",
+        "body": "That\u2019s not accurate, they do have FCF and are more innovative than INTC.  In fact they recently announced buy back and I never said I would buy at this level. I would hold at my cost basis at $60 per share.",
+        "created_utc": 1625354201,
+        "id": "h3yw4w3",
+        "score": 3,
+        "subreddit": "ValueInvesting",
+        "created": 1625383001.0
+    },
+    {
+        "author": "LeoFireGod",
+        "body": "Amd NVDA and somewhat intel are in a weird cluster fuck of yo-yo land.   Buying calls on dips and selling the first green day is the way for amd rn.",
+        "created_utc": 1625688982,
+        "id": "h4e6k3m",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625717782.0
+    },
+    {
+        "author": "Responsible_Paint_24",
+        "body": "I look for familiar, household names, like Intel, GE, Chevron, Kohl's, Conagra, Kroger, Fox, etc.  I check out the PE first.  I then look at 1 week, 1 month, 3 month performance to see if now appears to be a low entry point.  I check debt to be sure the company doesn't appear to be on the ropes (but I am not as careful about that).  I then look for the recent headlines to see if there is a reason it's down.  If not, and if it pays good premium per #3, I'll bet on it.",
+        "created_utc": 1625593253,
+        "id": "h49di82",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1625622053.0
+    },
+    {
+        "author": "SorryLifeguard7",
+        "body": "This.\n\nMy first job (fuck it was a decade ago) was fixing and building computers (mainly towers), I saw then how Corsair and AMD  could have had an uphand over Intel in the gaming sector. Never did I think this much. Gotta admit that Lisa is a great manager and Intel did some rookie (albeit) mistakes.\n\nLong AMD, but also buy when everyone is fearful of INTC.",
+        "created_utc": 1625503482,
+        "id": "h456n23",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625532282.0
+    },
+    {
+        "author": "Jordibato",
+        "body": "Yes intel is trying to turn arround by r&amp;d  but the earliest i'd expect them to bare results is 2024 and even then it's not even assured, they are facing heavy competition from within the x86 space, and from outside, (ARM risc-v, apple silicon), their gpu's are still in their infancy and both amd and nv are firing on all cilinders and IFS, their just launched foundry service seem to be closer to SMIC, GloFo than TSMC or samsung. Probalby if they manage to rise again it will be in the 4-6 years horizon and by then the price may have fallen further. Any noney they might get from the govt should go to fund the az fabs",
+        "created_utc": 1625519292,
+        "id": "h461rby",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625548092.0
+    },
+    {
+        "author": "madeinph1la",
+        "body": "I\u2019m definitely bullish, but as others have said, it\u2019s a long term horizon. Intel is an excellent major chipmaker, in a world in which chipmakers are only increasing in importance.",
+        "created_utc": 1625520223,
+        "id": "h463jl8",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625549023.0
+    },
+    {
+        "author": "flobbley",
+        "body": "Seconding Intel, yes they're not doing great right now but it wasn't that long ago that you only bought from AMD if you couldn't afford Intel. They got complacent and fell behind, but I'm sure that's kicked them into gear. Of course there is risk there but that's the case with all undervalued stocks, they're undervalued for a reason.\n\nI hold Autodesk currently but I dont think it's undervalued, probably just about where it should be tbh.",
+        "created_utc": 1625486992,
+        "id": "h44dva1",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625515792.0
+    },
+    {
+        "author": "stevejam89",
+        "body": "Why would they subsidize Intel but not TSMC when TSMC is investing billions more than Intel into fabs located in the US?",
+        "created_utc": 1625522820,
+        "id": "h468ib2",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625551620.0
+    },
+    {
+        "author": "RhinoMan2112",
+        "body": "You're sort of assuming/implying Intel is done as a company which is a bit extreme, good companies can go through rough patches.",
+        "created_utc": 1625438173,
+        "id": "h42k91y",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625466973.0
+    },
+    {
+        "author": "BobandSteve",
+        "body": "I literally have 0 intel position. I had a small one for a couple months and sold it at literally a $4 loss. if ur gonna read through my comment history, at least actually READ it",
+        "created_utc": 1625419345,
+        "id": "h41j8ag",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625448145.0
+    },
+    {
+        "author": "_Floriduh_",
+        "body": "I don\u2019t mean to say it isn\u2019t a risk, but for me personally I think TSM would be very careful about how they interact with one of their largest competitors..\n\nIf I\u2019m TSM I\u2019d have anxiety every step of the way working with Intel who would love to sniff out a trade secret or two that they could use to supercharge their fab processes.",
+        "created_utc": 1625255449,
+        "id": "h3ue80k",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1625284249.0
+    },
+    {
+        "author": "NervousTumbleweed",
+        "body": "Intel gained back market share on steam survey, su bae says supply chain issues are still really gay",
+        "created_utc": 1625688930,
+        "id": "h4e6g12",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625717730.0
+    },
+    {
+        "author": "SomewhatAmbiguous",
+        "body": "I'm really not sure how something as aggressively priced as NVDA could possibly be considered a \"safe haven\".  It could drop 80% and it would still be trading at 20X earnings (a fairly normal amount) if Intel and AMD did the same they'd be at 2.5X and 4X respectively, which is effectively impossible.\n\nObviously there's a lot of potential for upside with NVDA but there's massive risk to balance that, hence not a safe haven.",
+        "created_utc": 1625752044,
+        "id": "h4h176g",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1625780844.0
+    },
+    {
+        "author": "hahdbdidndkdi",
+        "body": "Did it apply to Cisco and intel and unysis in 1999?",
+        "created_utc": 1625496979,
+        "id": "h44tvav",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625525779.0
+    },
+    {
+        "author": "Responsible_Paint_24",
+        "body": "Intel is good even when assigned.  I would sell $57 expiring 7/9 for even better premium.  While 29/29 sounds good, you're leaving money on the table.  Too safe, especially with a stock which doesn't require much caution.",
+        "created_utc": 1625528983,
+        "id": "h46jttk",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1625557783.0
+    },
+    {
+        "author": "ShortPutAndPMCC",
+        "body": "I have the same bullish views on INTC for short puts and JD",
+        "created_utc": 1625564065,
+        "id": "h47ygee",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1625592865.0
+    },
+    {
+        "author": "stevoacp1",
+        "body": "i love $AMD, however comparing them to NVDA is not the right move. NVDA is a different beast in that they have the growth of AMD while having the stellar gross margins. Investors are willing to pay a premium for NVDA because of how stellar they are in printing cash and profits. That being said, AMD deserves to be priced closer to NVDA than Intel. I do not believe AMD and Su Bae are focused on catching NVDA, and are more concerned with taking market share from and crushing Intel. All the DDs written on here continue to ignore how important the Xilinx merger is. It was hated on by many, but Su Bae is no moron, she is strongly positioning AMD to dominate the CPU and Semi-Custom solutions. AMD will continue to make progress in the GPU and gaming market but the growth and tendies will come from expanding further into and dominating the server industry and building strong relationships that will establish profits for years, as well as expansion into 5g, aerospace and defense, and AI.",
+        "created_utc": 1625575783,
+        "id": "h48d31e",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625604583.0
+    },
+    {
+        "author": "littlered1984",
+        "body": "Intel is a customer of TSMC and is more than just a foundry.",
+        "created_utc": 1625512798,
+        "id": "h45p1fa",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625541598.0
+    },
+    {
+        "author": "HillarysPornAccount",
+        "body": "I\u2019ve been running a synthetic long on INTC and selling some calls against it while this new CEO hopefully turns the ship around",
+        "created_utc": 1625205743,
+        "id": "h3rw23w",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1625234543.0
+    },
+    {
+        "author": "Whiteasian56",
+        "body": "Happened on SKLZ, PRPL, RKT, FDX, QCOM, DIS, SBUX, BABA, GE, UBER, LYFT, NKE, V, WMT, INTC, TGT, KO, DAL, CCL, UAL, LUV, PYPL, NCHL, and RCL as well. Very weird",
+        "created_utc": 1625192652,
+        "id": "h3raojg",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1625221452.0
+    },
+    {
+        "author": "sharist_DIY_bio",
+        "body": "Yup! totally into [Loihi](https://www.intc.com/news-events/press-releases/detail/1420/intel-and-sandia-national-labs-collaborate-on-neuromorphic) and [DNA as data for that reason.](https://www.twistbioscience.com/themes/custom/twist_theme/assets/DNA_digital_data_storage_whitepaper_2017.pdf) It sucks when I wake up naturally at 4 am. I get it. I often say to myself: calm the fuck down! Nobody likes this shit! LMFAO! Gonna go hassle my brother now. I've hassled all you y'all for too long this lively Saturday morning. The reading thing has been a problem for me in the past. It is a problem I'm willing to live with. But I hear you. Working on it. Actually make my living at at it. ;D Just not on Reddit.",
+        "created_utc": 1625323362,
+        "id": "h3xadtm",
+        "score": 2,
+        "subreddit": "SPACs",
+        "created": 1625352162.0
+    },
+    {
+        "author": "redtexture",
+        "body": "Your worst case scenario is if INTC drops in value 25%.",
+        "created_utc": 1625265508,
+        "id": "h3uzvgz",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1625294308.0
+    },
+    {
+        "author": "anonyymi",
+        "body": "Agreed that Intel is the slow moving boomer here.",
+        "created_utc": 1625178497,
+        "id": "h3qj7wk",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1625207297.0
+    },
+    {
+        "author": "ck3po-a",
+        "body": "Intel has been working well for me. Just been selling weekly's near the money.",
+        "created_utc": 1625523696,
+        "id": "h46a5ba",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1625552496.0
+    },
+    {
+        "author": "marcuscontagius",
+        "body": "Not as far as you\u2019d think, their 14nm is equivalent to what tsmc and others market as 10nm\u2026same with INTC 10nm = tsmc 7nm which is amd\u2019s latest technology. Intel still has faster single core speeds which is the majority of cpu workloads. Don\u2019t be fooled into thinking they are far behind in anything these companies you\u2019ve mentioned actually do. They are design firms, they\u2019re advantage doesn\u2019t come from design but from fab yields which they actually don\u2019t have any part in! That\u2019s about as temporary as an advantage can get. Especially if intel understands this\u2026",
+        "created_utc": 1625527683,
+        "id": "h46hhap",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1625556483.0
+    },
+    {
+        "author": "Stubtronics101",
+        "body": "That's a good question. Really our phones are a quite powerful personal computer. But I was referring to the more traditional desktop and even laptop. Doesn't really matter the point I failed to articulate is Intel is branching out from being just a cpu maker, which is the right move or else they will end up like IBM.",
+        "created_utc": 1625527658,
+        "id": "h46hfnm",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1625556458.0
+    },
+    {
+        "author": "fish60",
+        "body": "I would say the IBM comparison is relatively fair, but comparing the highest of high tech companies, that is, potentially, one tech breakthrough from cornering the chip market for ANOTHER several decades, to Exxon doesn't seem fair. It isn't like INTC is seeing world wide protests demanding the destruction of their industry.",
+        "created_utc": 1625515139,
+        "id": "h45tn1v",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1625543939.0
+    },
+    {
+        "author": "fish60",
+        "body": "You are getting downvoted, but I tend to agree that, raw performance aside, AMD leaves something to be desired in the customer support, and, IMHO, software stability. Their GPUs have had quite a few pretty serious driver issues that went on for years. The firmware for some of their mobo chipsets have been buggy. I feel like you aren't always getting a fully fleshed out product.\n\nIntel, on the other hand, while notorious for changing chipsets, locking speeds, and other nasty behavior, has extremely high quality drivers and a long, long history of stability and reliability at scales that AMD is only beginning to dream of.",
+        "created_utc": 1625514960,
+        "id": "h45taa6",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1625543760.0
+    },
+    {
+        "author": "MotivatingElectrons",
+        "body": "Just buy AMD, Avago, Intel, Nvidia, Micron, and call it good. (Maybe marvel and xilinx as well, but xilinx is soon to become AMD).\n\nThe shortages will persist for awhile, but they will recover. I am long semiconductor sector. Chips are everywhere now from computers to cars to microwave ovens and IoT devices. They are not going anywhere soon...",
+        "created_utc": 1625788325,
+        "id": "h4j86kn",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1625817125.0
+    },
+    {
+        "author": "tampow",
+        "body": "Unless they pull a intel",
+        "created_utc": 1625791836,
+        "id": "h4jep7j",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1625820636.0
+    },
+    {
+        "author": "filtervw",
+        "body": "There is one more aspect, this bull market can't run forever and it's already very extended. It's better to think of cost of opportunity while you stay on the bench waiting for Intel to come back. Intel will see revenues shrink for at least three years, I would better put my money in the SP500 and collect a decent 10% than 2% with Intel. If stock turns around and the leadership will execute don't expect Intel to rocket like NVDA.",
+        "created_utc": 1625928578,
+        "id": "h4pfrwg",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1625957378.0
+    },
+    {
+        "author": "gainbabygain",
+        "body": "Here's something to get you wet. The once mighty INTC is now purchasing all of TSMC's 3nm production capacity\n\nhttps://www.asiantechpress.com/sources-intel-to-buy-full-tsmc-3nm-production-capacity.html",
+        "created_utc": 1625830385,
+        "id": "h4kwjdp",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1625859185.0
+    },
+    {
+        "author": "Double2Entendre",
+        "body": "Ma man",
+        "created_utc": 1625550404,
+        "id": "h47j4d4",
+        "score": 212,
+        "subreddit": "wallstreetbets",
+        "created": 1625579204.0
+    },
+    {
+        "author": "discovery999",
+        "body": "VUG, VOO, AAPL, GOOGL, MA, IEP, MSFT, AMZN, FB",
+        "created_utc": 1625432475,
+        "id": "h429j4f",
+        "score": 90,
+        "subreddit": "stocks",
+        "created": 1625461275.0
+    },
+    {
+        "author": "Mehwhatever92",
+        "body": "Same. Jack Ma is the most well known entrepreneur in China and he went poof, unreal tbh",
+        "created_utc": 1625723147,
+        "id": "h4fzzq3",
+        "score": 86,
+        "subreddit": "wallstreetbets",
+        "created": 1625751947.0
+    },
+    {
+        "author": "Fabianos",
+        "body": "WSB is dead ma man, its bots with hedge funds pumping their strategies, its leaking into other subs as well.",
+        "created_utc": 1625176566,
+        "id": "h3qf3s0",
+        "score": 68,
+        "subreddit": "StockMarket",
+        "created": 1625205366.0
+    },
+    {
+        "author": "cometburn4",
+        "body": "He must have found Jack Ma!",
+        "created_utc": 1625541535,
+        "id": "h476b0f",
+        "score": 67,
+        "subreddit": "wallstreetbets",
+        "created": 1625570335.0
+    },
+    {
+        "author": "Duckgamerzz",
+        "body": "The CCP and BABAs interests are aligned. The prices currently reflects public opinion which is that the CCP can and might delete BABA at any time. This is somewhat delusional, BABAs and the CCPs interests are aligned like 90% of the time. I think public opinion on BABA is just this bad because people dont fully understand the CCP and the way they function. They dont take shit from people and they dont like challenges to their power, especially not public ones from Jack Ma, who is now keeping his head down.\n\nThe stock is safe, the CCP would be shooting themselves in the foot to destroy their best AMZN competitor in the next 5 years.",
+        "created_utc": 1625505141,
+        "id": "h459xox",
+        "score": 43,
+        "subreddit": "stocks",
+        "created": 1625533941.0
+    },
+    {
+        "author": "PlandomeProwler",
+        "body": "Just out on CLOV\n\nClover Health (CLOV) is joining other Medicare Advantage (MA) plans in offering a grocery benefit to its members, an option that was\u00a0first made available\u00a0by the U.S. Centers for Medicare and Medicaid Services (CMS) in 2018.\u00a0\nClover CEO Vivek Garipalli told Yahoo Finance the goal is to help alleviate health-determining factors, known in the industry as social determinants of health, which include access to healthy food.\nMajor MA players like Humana (HUM) and Centene (CNC) have already begun to offer the benefit, as have others in the past year.\n\nClover has calculated an annual benefit of between $300 to $500 per member, depending on the plan, which comes at no cost to plan members. Qualifying members are those with underlying conditions.",
+        "created_utc": 1625613430,
+        "id": "h4al990",
+        "score": 38,
+        "subreddit": "wallstreetbets",
+        "created": 1625642230.0
+    },
+    {
+        "author": "BearBearChooey",
+        "body": "MA (or V) \n\nWide moat. No credit risk. People will always consume and spend. More spending via cards and less with cash going forward is even greater for these companies.",
+        "created_utc": 1625272573,
+        "id": "h3vd3nb",
+        "score": 31,
+        "subreddit": "stocks",
+        "created": 1625301373.0
+    },
+    {
+        "author": "Lurkuh_Durka",
+        "body": "Jack Ma straight up disappeared for months.... it's not the same as making Zuck testify infront congress.",
+        "created_utc": 1625575132,
+        "id": "h48c1ym",
+        "score": 24,
+        "subreddit": "stocks",
+        "created": 1625603932.0
+    },
+    {
+        "author": "SgtRuy",
+        "body": "Jack Ma Dick",
+        "created_utc": 1625727694,
+        "id": "h4g5ix2",
+        "score": 23,
+        "subreddit": "wallstreetbets",
+        "created": 1625756494.0
+    },
+    {
+        "author": "JoanOfSnarke",
+        "body": "This $BABA loss porn makes me wanna Jack Ma meat.",
+        "created_utc": 1625785661,
+        "id": "h4j310n",
+        "score": 21,
+        "subreddit": "wallstreetbets",
+        "created": 1625814461.0
+    },
+    {
+        "author": "ImFedUpWithItAll",
+        "body": "Aren't you worried putting so much on a chinese company? I mean, the government there can just decide tomorrow to break it up or just bury it along with Ma. \n\nEven if the business is sound and great the gov risk is always high.",
+        "created_utc": 1625539193,
+        "id": "h47293a",
+        "score": 20,
+        "subreddit": "wallstreetbets",
+        "created": 1625567993.0
+    },
+    {
+        "author": "ThirdIRoa",
+        "body": "Ahh, the feeling of being at the round table. I remember when I too were once stating at a private community wall and now I am within. I told you ma, I told you we'd make it! Now all we gotta do is find out who and why this \"BofA\" fellow wants our tendies.",
+        "created_utc": 1625415621,
+        "id": "h41blq2",
+        "score": 20,
+        "subreddit": "wallstreetbets",
+        "created": 1625444421.0
+    },
+    {
+        "author": "BetterGarlic7",
+        "body": "This is the same guy that praised CCP for keeping Jack Ma shut. Lol.",
+        "created_utc": 1625499343,
+        "id": "h44yf3r",
+        "score": 18,
+        "subreddit": "wallstreetbets",
+        "created": 1625528143.0
+    },
+    {
+        "author": "utalkin_tome",
+        "body": "Maybe but it seems a lot more about control and preventing any entity from getting too big to challenge CCP itself. Jack Ma, for example, flew a little too close to the sun and got a little too critical and the regulators suddenly realized that Alibaba had problems apparently.",
+        "created_utc": 1625582289,
+        "id": "h48pdk3",
+        "score": 16,
+        "subreddit": "stocks",
+        "created": 1625611089.0
+    },
+    {
+        "author": "allbutluk",
+        "body": "Kind of? But its not really \u201cregulation\u201d as in there\u2019s really no rules. Or rather new rules can be invented any moment. Take Ant Fin for example, if Jack Ma did not make that speech about china fin system i dont think Ipo would be stopped or at least not this abrupt",
+        "created_utc": 1625593485,
+        "id": "h49e0ze",
+        "score": 15,
+        "subreddit": "investing",
+        "created": 1625622285.0
+    },
+    {
+        "author": "CptTonyStark",
+        "body": "Approve ma dick",
+        "created_utc": 1625332306,
+        "id": "h3xrhts",
+        "score": 14,
+        "subreddit": "wallstreetbets",
+        "created": 1625361106.0
+    },
+    {
+        "author": "ElectricalGene6146",
+        "body": "If you were dumb enough to buy into DiDi via a VIE after seeing China gut Mr Ma, you deserve losing 30%. USA stonks only \ud83d\ude80",
+        "created_utc": 1625560196,
+        "id": "h47ugwi",
+        "score": 13,
+        "subreddit": "wallstreetbets",
+        "created": 1625588996.0
+    },
+    {
+        "author": "nnaoeznnaoezhis",
+        "body": "Jack ma ass",
+        "created_utc": 1625784099,
+        "id": "h4izvkx",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1625812899.0
+    },
+    {
+        "author": "LasagnaWater",
+        "body": "Jack Ma can be a pallbearer at my funeral so BABA can let me down one last time",
+        "created_utc": 1625592173,
+        "id": "h49b387",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1625620973.0
+    },
+    {
+        "author": "BDELUX3",
+        "body": "Jack Ma? Is that you?",
+        "created_utc": 1625535984,
+        "id": "h46wlnp",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1625564784.0
+    },
+    {
+        "author": "Gherdogg",
+        "body": "\u201cThe bat fetcher trick with ma teeth\u201d good old Kenny Rogers",
+        "created_utc": 1625268396,
+        "id": "h3v5gho",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1625297196.0
+    },
+    {
+        "author": "SabrinaStonk",
+        "body": "China says \"trust us\".  What a joke!  Get out of Chinese stocks until their government proves with actions they are not freakin stupid. As the Alibaba founder Jack Ma said, the Chinese banks of operate with a \"pawn-shop mentality\". Look what happened to him shortly afterwards - he disappeared.  I am sure you will NEVER hear from his mouth what he really thinks again. There is no such thing as free speech in China. Your \"Boiz\" in China are giving you the party line. They have to for their own personal safety. Don't be naive.",
+        "created_utc": 1625413464,
+        "id": "h41774w",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1625442264.0
+    },
+    {
+        "author": "Maktak666",
+        "body": "NIO ma bitch \u2764\ufe0f",
+        "created_utc": 1625145734,
+        "id": "h3ohk2r",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1625174534.0
+    },
+    {
+        "author": "ajna6688",
+        "body": "That's just rumor though. The bottom line is....Didi was obviously already having problems with the government....chances are good that CCP didn't want didi to go through with the listing. Didi went ahead and listed anyway, ccp cracked down.\n\nThe fact the stock was listed with such low fanfare....the fact that they didn't even ring the bell on the day of the IPO.....should have told you something was off...\n\nDidi having problems with regulators should not be surprising though. Jack ma having problems with regulators was a surprise, that caught me off guard, the guy knew how to work the system, and he worked it well. Didi, on the other hand, have had problems with regulators on a regular basis.",
+        "created_utc": 1625421270,
+        "id": "h41n7fv",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1625450070.0
+    },
+    {
+        "author": "psych_ing_invest",
+        "body": "You guys still pumping this ? Oh ma so many bagholders",
+        "created_utc": 1625177028,
+        "id": "h3qg3qg",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1625205828.0
+    },
+    {
+        "author": "Professional-Bear543",
+        "body": "Bezos and Branson want to go to space.\n\nJack Ma is actually already there in a secret Chinese gulag on the moon.",
+        "created_utc": 1625766035,
+        "id": "h4hwjpb",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1625794835.0
+    },
+    {
+        "author": "Ilasper",
+        "body": "Another day of getting punched in the groin by Jack Ma",
+        "created_utc": 1625567718,
+        "id": "h482d0a",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1625596518.0
+    },
+    {
+        "author": "000kay",
+        "body": "Jack Ma? More like Jack MIA",
+        "created_utc": 1625548718,
+        "id": "h47gxda",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1625577518.0
+    },
+    {
+        "author": "edmonddantesofficial",
+        "body": "I need Jack Ma to make an appearance on SNL before August 6th",
+        "created_utc": 1625801235,
+        "id": "h4jw7hx",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1625830035.0
+    },
+    {
+        "author": "Random-Guy-555",
+        "body": "I have both.  Barron\u2019s (boomer newspaper) did an article on them. With the exception of this year, for a very long time Visa and MasterCard were beating the s&amp;p500",
+        "created_utc": 1625444188,
+        "id": "h42uko2",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1625472988.0
+    },
+    {
+        "author": "DahyunDabFan",
+        "body": "Free Jack Ma",
+        "created_utc": 1625665277,
+        "id": "h4cpc09",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1625694077.0
+    },
+    {
+        "author": "anonyymi",
+        "body": "Jack Ma needs publicly suck Xi's cock.",
+        "created_utc": 1625772359,
+        "id": "h4iawbw",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1625801159.0
+    },
+    {
+        "author": "CptTonyStark",
+        "body": "BAC ma ass",
+        "created_utc": 1625336090,
+        "id": "h3xyqsk",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1625364890.0
+    },
+    {
+        "author": "Tangerine_Jazzlike",
+        "body": "THCB has popped back above the 200 MA on the daily.",
+        "created_utc": 1625756869,
+        "id": "h4hbjui",
+        "score": 7,
+        "subreddit": "SPACs",
+        "created": 1625785669.0
+    },
+    {
+        "author": "four1six_",
+        "body": "Hm thanks for the RSI and MA reality check. I thought for sure we were going to be overbought.\n\nSold my winners off today, hoping for a good reentry Tuesday.",
+        "created_utc": 1625264148,
+        "id": "h3ux6nu",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625292948.0
+    },
+    {
+        "author": "Janto_2021",
+        "body": "#look ma, it's Elmer FUD",
+        "created_utc": 1625439656,
+        "id": "h42mvcg",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625468456.0
+    },
+    {
+        "author": "TheRandomnatrix",
+        "body": "Solid companies both for trading and long term investment. Mastercard is actually an amazing stock for swing trading, my personal favorite in this crazy market. Very strong supports with enough volatility to make good money on swings.",
+        "created_utc": 1625445218,
+        "id": "h42w9eh",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1625474018.0
+    },
+    {
+        "author": "eyerollingsex",
+        "body": "Did Jack Ma break out of prison?",
+        "created_utc": 1625767537,
+        "id": "h4hzz69",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625796337.0
+    },
+    {
+        "author": "ClassicRepeater",
+        "body": "I think the 2028 Olympics will be at SOFI arena. These ma fuckas are playin the long game, and so should you. 2023 ITM leaps r cheap as fck right now.",
+        "created_utc": 1625636976,
+        "id": "h4bqic1",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625665776.0
+    },
+    {
+        "author": "Chitownguy06",
+        "body": "Weekend thread gonna be so lit. Puts on livers monday and calls on clean water. LFG WHERE MY REDBULL MA! MA! THE REDBULL! \ud83e\udd73\ud83c\uddfa\ud83c\uddf8",
+        "created_utc": 1625250982,
+        "id": "h3u3vh9",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625279782.0
+    },
+    {
+        "author": "masteryyi",
+        "body": "ma boy TELL keeping my portfolio in the green \ud83d\ude80\ud83d\ude80",
+        "created_utc": 1625757410,
+        "id": "h4hcqa9",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625786210.0
+    },
+    {
+        "author": "PlandomeProwler",
+        "body": "Just out on CLOV\n\nClover Health (CLOV) is joining other Medicare Advantage (MA) plans in offering a grocery benefit to its members, an option that was\u00a0first made available\u00a0by the U.S. Centers for Medicare and Medicaid Services (CMS) in 2018.\u00a0\nClover CEO Vivek Garipalli told Yahoo Finance the goal is to help alleviate health-determining factors, known in the industry as social determinants of health, which include access to healthy food.\nMajor MA players like Humana (HUM) and Centene (CNC) have already begun to offer the benefit, as have others in the past year.\n\nClover has calculated an annual benefit of between $300 to $500 per member, depending on the plan, which comes at no cost to plan members. Qualifying members are those with underlying conditions.",
+        "created_utc": 1625613421,
+        "id": "h4al8lz",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625642221.0
+    },
+    {
+        "author": "MadeTheAccountForWSB",
+        "body": "Ma man! Thanks for listening to my rambelings on twitter :D  You are a great partner to discuss this stuff with!",
+        "created_utc": 1625429397,
+        "id": "h423fpn",
+        "score": 6,
+        "subreddit": "SPACs",
+        "created": 1625458197.0
+    },
+    {
+        "author": "Abdalhadi_Fitouri",
+        "body": " No. Anyone suggesting you invest in Chinese companies doesn't understand the impact of regulation.\n\nDid just stole 20 billion from Americans. No Chinese companies should be allowed on the nyse after what China has been doing. The fake accounting, the disappearance of Jack ma, the laws against foreign investment, etc, have all lead to China being the one bipartisan issue congress can agree on. Stay away.",
+        "created_utc": 1625722945,
+        "id": "h4fzq5p",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1625751745.0
+    },
+    {
+        "author": "Soldacki",
+        "body": "If you don\u2019t know Ma, then you don\u2019t know Jack",
+        "created_utc": 1625784044,
+        "id": "h4izrbw",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625812844.0
+    },
+    {
+        "author": "actuarythrowaway445",
+        "body": "This right here.  People think the CPC is some mythical monolith run by one dude.\n\nIt's got a lot of power centers.  Many rich families, many up-and-coming families running it.  Ma and BABA got a little ahead of themselves.  They're taking their licks but they're not going to bankrupt one of their biggest success stories.\n\nSame reason politicians can talk all day about fining Facebook or reigning in on Google.  Ain't gonna do shit about really taking them down.\n\nI am bullish af on BABA.  Probably the thing I have the most confidence in for my buy and HODL boomer account.",
+        "created_utc": 1625545316,
+        "id": "h47c7r5",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1625574116.0
+    },
+    {
+        "author": "Duckgamerzz",
+        "body": "Yeah, China wants investment, the CCP wants other countries investing in china, it's absolutely ridiculous to think that they would cut off their nose to spite their face. These guys are far too intelligent for that. \n\nJack Ma is an oddity, i do not think he will continue to cause trouble in the future.",
+        "created_utc": 1625521367,
+        "id": "h465qkc",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1625550167.0
+    },
+    {
+        "author": "_blank_revengence_",
+        "body": "This is the same guy that likes how China muzzled Jack Ma.",
+        "created_utc": 1625501995,
+        "id": "h453oo1",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1625530795.0
+    },
+    {
+        "author": "coolnasir139",
+        "body": "The amount of miss information on this is hilarious. Jack Ma stepped down years ago and isn\u2019t the ceo",
+        "created_utc": 1625503124,
+        "id": "h455xho",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1625531924.0
+    },
+    {
+        "author": "FuzzyWanderer1",
+        "body": "No Wei! Ma goodness, you had to Xi it coming.",
+        "created_utc": 1625697435,
+        "id": "h4epvr8",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1625726235.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Thursday, the  8th of July\n\n\n\n## Upcoming events for Thursday, July  8th\n\n - Stock splits:\n\n    - SNFCA @ **105:100** (Payable date: 07/16/2021)\n\n - Expected earnings:\n\n  ACCD, ARTW, BKSC, DCT, EDUC, HELE, KEQU, LEVI, NTIC, PKE, PSMT\n\n - Ex-div:\n\n  AEO, BRC, BTI, CIO, CULP, DRI, EBF, GIS, GNTX, KIO, KRG, LGI, LOAN, MA, MORN, MRVL, NTAP, OAS, RDY, RVSB, T, TOL\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.050%)\n    - 8-Week Bill Auction (previous: 0.045%)\n    - Consumer Credit (consensus: 18.40B, previous: 18.61B)\n    - Continuing Jobless Claims (consensus: 3,335K, previous: 3,469K)\n    - Crude Oil Imports (previous: -0.603M)\n    - Crude Oil Inventories (consensus: -4.033M, previous: -6.718M)\n    - Cushing Crude Oil Inventories (previous: -1.460M)\n    - Distillate Fuel Production (previous: -0.083M)\n    - EIA Refinery Crude Runs  (previous: 0.187M)\n    - EIA Weekly Distillates Stocks (consensus: 0.171M, previous: -0.869M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.4%, previous: 0.7%)\n    - Gasoline Inventories (consensus: -2.176M, previous: 1.522M)\n    - Gasoline Production (previous: -0.749M)\n    - Heating Oil Stockpiles (previous: 0.016M)\n    - Initial Jobless Claims (consensus: 350K, previous: 364K)\n    - Jobless Claims 4-Week Avg. (previous: 392.75K)\n    - Natural Gas Storage (consensus: 34B, previous: 76B)\n\n## Upcoming events for Friday, July  9th\n\n - Stock splits:\n\n    - TRRSF @ **4:1** (Payable date: )\n\n - Expected earnings:\n\n  AZZ, BRID, GBX\n\n - Ex-div:\n\n  ACV, AFIN, AIO, BRW, CBH, ECC, EFL, EIC, EVF, GNL, GROW, HPF, HPI, HPS, HRL, HTD, INTU, LNC, MANU, MKC, NCV, NCZ, NYC, NYT, OGE, OZK, PCI, PCK, PCN, PCQ, PDI, PDO, PFN, PGP, PKO, PMF, PML, PMX, PNF, PNI, PTY, PYN, PZC, SCHN, TCFC, UDR, UVV, VGI, WSBF, ZTR\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 2.5K)\n    - CFTC Copper speculative net positions (previous: 11.4K)\n    - CFTC Corn speculative net positions (previous: 353.0K)\n    - CFTC Crude Oil speculative net positions (previous: 522.5K)\n    - CFTC Gold speculative net positions (previous: 162.2K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -8.1K)\n    - CFTC Natural Gas speculative net positions (previous: -100.8K)\n    - CFTC S&amp;P 500 speculative net positions (previous: 55.2K)\n    - CFTC Silver speculative net positions (previous: 41.5K)\n    - CFTC Soybeans speculative net positions (previous: 134.0K)\n    - CFTC Wheat speculative net positions (previous: 26.4K)\n    - Fed Monetary Policy Report\n    - U.S. Baker Hughes Oil Rig Count (previous: 372)\n    - U.S. Baker Hughes Total Rig Count (previous: 470)\n    - Wholesale Inventories (previous: 1.1%)\n    - Wholesale Trade Sales (previous: 0.8%)\n\n## Upcoming events for Sunday, July 11th\n\n - Economic events and announcements:\n\n    - FOMC Member Quarles Speaks\n\n^^^^2021-07-08",
+        "created_utc": 1625738414,
+        "id": "h4ggyam",
+        "score": 5,
+        "subreddit": "RobinHood",
+        "created": 1625767214.0
+    },
+    {
+        "author": "JoanOfSnarke",
+        "body": "Listen to Jack Ma try to explain literally anything then you will know the answer.",
+        "created_utc": 1625771275,
+        "id": "h4i8hfv",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1625800075.0
+    },
+    {
+        "author": "TheRandomnatrix",
+        "body": "Stay away from day trading. It's a nasty habit to pick up and most people aren't cut out for it. Swing tradings a lot less work and typically safer\n\nMy advice is:\n\n* The best trading comes from companies that slowly go up long term, but trade \"flat\" over the medium term with stable tops and bottoms.  Amazon and mastercard are good examples of this right now. It's a common mistake to think that companies have to constantly be going up to make money, when the opposite couldn't be truer. You also can't go wrong with swing trading safer companies with lower volatility, especially when you're new. Those are the companies you can safely hold if things go south.\n\n* Don't get married to a single stock. This is a rookie mistake. There's going to be plenty of moments where stocks just don't make sense to trade, typically when they're outside of a predictable trading range(such as breaking a support or resistance) or if it's just not at a good price within the trading range. Do not force trades that don't make sense because you think you need to trade constantly.\n\n* Following that, sometimes you just have to say fuck it and take a stock out of your watchlist because it's no longer favorable to trade within your strategies. I just did that with HD and FB after their insane runups since I now have no idea what they'll be trading within and speculating that is a complete waste of my time for now. The market is always changing and favorable companies can and will become unfavorable.\n\n* If you're trying to get 10% swings constantly you need to curb your expectations. 3-5% is much more reasonable and can be achieved faster as most stocks have +/- 1-3% volatility. Reliable profits always beat occasional large profits",
+        "created_utc": 1625505192,
+        "id": "h45a1bc",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1625533992.0
+    },
+    {
+        "author": "nightastheold",
+        "body": "Even though I had a shit week trading I still bought some A5 Wagyu for my mom and dads bbq tomorrow. \n\nAlso 436 on SPY maybe  buy poots anticipating a pull back / or correction then some UVXY poots as a hedge once ITM on poots and checking in with the 20 MA. I did a bunch of adderall today and looked up marinade recipes. You may eat shit for a few days but whenever we\u2019ve had any downside moves they\u2019ve been fast af. \n\nTuesday spy should do well so I\u2019m thinking if we looking a bit overcooked I\u2019m gonna start picking some up. Just go back to my boomer shit and trade SPY and QQQ for a bit. Also scooping up gobs of FNGD soon. \n\nImo energy and financials were just having a pullback, I think money would like to get back in there as they have retail stuffed with tech bags. Growth got a half dicking but I think it\u2019ll get full dick soon too. \nI\u2019m drunk.",
+        "created_utc": 1625358053,
+        "id": "h3z2i8e",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625386853.0
+    },
+    {
+        "author": "lavishcoat",
+        "body": "*Dim Jack Ma*\n\n*Done Xi wrong*\n\n*Sleep with fishes*\n\n*All night wong*",
+        "created_utc": 1625799575,
+        "id": "h4jt931",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625828375.0
+    },
+    {
+        "author": "iloveyoumiri",
+        "body": "Idk the example regarding Ma is only a 6 month horizon. The business isn\u2019t badly hurt, The stock will go up eventually",
+        "created_utc": 1625676470,
+        "id": "h4ddz9z",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1625705270.0
+    },
+    {
+        "author": "plzbereasonable",
+        "body": "Is OP Jack Ma?",
+        "created_utc": 1625552149,
+        "id": "h47l9rm",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625580949.0
+    },
+    {
+        "author": "tortoisepump",
+        "body": "WinXi the Poo did not approve of public support for Jack Ma. RIP OP.",
+        "created_utc": 1625559881,
+        "id": "h47u3e0",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625588681.0
+    },
+    {
+        "author": "MUPleasFlyAgain",
+        "body": "2-4 is the real reason for the crackdown, the company is only as power as the people in control of it. Companies are forced into state ownership once it reaches a certain stage, with the exception of foreign companies(which all have problems such as China trying to take control of the China counterpart and steal the IP at the same time). The current crackdown stems from both real reason to do so(what you stated, plus people they put in keeps changing side for money, like BABA's CEO changing from spying on company and Ma to become one of Ma's close aide and counter spy), and Xi's heavy insecurities(can't accept that he's not well loved nor in full control).\n\nSource: Am half Chinese, pretty much 90% of my Chinese relative are in China or Hong Kong and hate the current leader.",
+        "created_utc": 1625572430,
+        "id": "h48845u",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625601230.0
+    },
+    {
+        "author": "skat_in_the_hat",
+        "body": "Owned visa for a year and sold it. Bought MA a bit later, but I'll probably keep it for the long run. Over the past year its seemed a bit stronger than visa.",
+        "created_utc": 1625450031,
+        "id": "h433ovl",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1625478831.0
+    },
+    {
+        "author": "quarantrader",
+        "body": "If Jack Ma ain't safe no one is",
+        "created_utc": 1625412528,
+        "id": "h415a56",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625441328.0
+    },
+    {
+        "author": "notcrottsfire",
+        "body": "Jack ma your mom is a hoe",
+        "created_utc": 1625232885,
+        "id": "h3swvsk",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625261685.0
+    },
+    {
+        "author": "night117hawk",
+        "body": "China is all fun and games to invest in until your company ceo gets Jack Ma\u2019d, or they shut down/ make illegal an entire sector, or Xi Jinping bought puts on a company and JACK MA!!!\n\nFuck command economies.",
+        "created_utc": 1625199767,
+        "id": "h3rn7k3",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625228567.0
+    },
+    {
+        "author": "WagieInTheCagie",
+        "body": "I just want Jack Ma and Xi to be best friends. Imagine them dining out together. Having a good time. Imagine BABA",
+        "created_utc": 1625784404,
+        "id": "h4j0icx",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1625813204.0
+    },
+    {
+        "author": "QuestionablySensible",
+        "body": "I'm not sure how familiar you are with the solutions but I would disagree with that statement. They may be easily able to spread across different payment solutions but they will still need underlying payment infrastructure to get from A to B (or P2P, or B2C, or B2B).\n\nThe requirements for this infrastructure are quite high - not just hardware (although there is a difference in focus as transactions *cannot* be lost) but also in terms of regulatory oversight. You can't just start routing transactions without dealing with KYC (Know your customer) AMLA (Anti-Money Laundering) and other financial requirements. \n\nVisa and MasterCard aren't stupid. Their fees get complained about but they're juuuuust low enough that the investment to replace their payment infrastructure is not attractive. It doesn't mean that they cannot misstep or be challenged, but they have done a good job of keeping up with, and sometimes driving, the payments market.",
+        "created_utc": 1625504264,
+        "id": "h4587ft",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1625533064.0
+    },
+    {
+        "author": "Pioneer160",
+        "body": "VZ, T, NVDA, ORCL, MA, DIS, FB driving it up.",
+        "created_utc": 1625161990,
+        "id": "h3phm69",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625190790.0
+    },
+    {
+        "author": "arothen",
+        "body": "Mate, 2x gain for ma y is dream that won't come ever. Its basically gambling if you can't for that kind of payday",
+        "created_utc": 1625321709,
+        "id": "h3x7cm3",
+        "score": 3,
+        "subreddit": "pennystocks",
+        "created": 1625350509.0
+    },
+    {
+        "author": "AlexDK1990",
+        "body": "Jack Ma is the Chinese Prometheus; he be nailed to that there BABA, as punishment it barely moves",
+        "created_utc": 1625254574,
+        "id": "h3uc7bo",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625283374.0
+    },
+    {
+        "author": "sharist_DIY_bio",
+        "body": "Because I get the science and have been a USGOV grantee, or paid techno-evangelist for many years in developing what we call \"transitional\" economies, for twenty years. NAT SEC determines critical roles, infrastructure, and resources, whether language or minerals, in our home grown knowledge base. That means they may determine there are no native born US citizens who speak a certain language. Imagine our dependence on translators in any conflict environment. They may determine we are fucked on cobalt if we want to build batteries. Their job is not actually to staff current conflicts, but to actually project, as far as reasonable, future conflicts and anticipate the need and staff it. They also will wish to staff folks who sow seeds to *avert conflict* and or stage preparedness for future conflicts, in a manner that shifts said conflict in their favor. Interestingly enough, I am American woman, and I abide by rule of law while promoting it overseas, as a service,very cheaply. It is my honor. Why? They don't pay me enough to be loyal. I am loyal because it is my honor and the fabric of my being. They chose me because they know for a fact that I am loyal. Sure, I'm gonna eat street meat in Beijing, savor Crickets on a stick in Burma fed to me by unemployed physicists, feel tanks in my sternum in Moscow in 1990-1991, get Jack Ma heads up from folks to whom I provided VPNS in 2000 in the PRD, 12 hours before BABA tanks. But, ultimately, I have never ever been told what to tell people on the ground when they drop me in country. I am a free agent with (as you may have noticed) every liberty in my free speech. I was allowed to go places in 'transition,' to help or provide tech and humanitarian aide, and I was taught better facility in languages to do so... NOT because I work for the US Gov, but because they vetted me and knew our interests coincided. I wanted the same things they did. It is fairly random. I have signed many agreements, to secure my language training in the many languages I deploy. Those agreements say I will drop everything and serve, if we ever declare war, as a translator. As long as they use plenty of swear words while at war, we should be ok. ;D lol.. I would have have dropped everything, anyway, to serve, so those agreements never bothered me one bit. Why do I like Ginkgo? Because it is in the best interest of global citizens and the USA to form both a biosecurity protocol, and deploy this new tech. It is simultaneously in the best interest of the planet to harness this technology and to have a measured democratic access to the power and promise Syn Bio holds, while sharing, with bio/cyber/controls for the public good. Ginkgo will never weaponize it. I'm banking on that. In the ecosystem I have studied, Zy, not so much. Ginkgo, yes. They will not weaponize it. I invest accordingly with my own eyes wide open. I think Ginkgo is the way to go. I am not paid to do so, but I do enjoy the favor of tax payer dollars to have become a polyglot and represent this technology in multiple languages in places you would most likely never travel of your volition. I do so willingly and with no coercion. I think it will be a breakthrough the likes of the Marshall Plan, following on the Covid catastrophe. I would like to see American democratic values adapt and once again become the shining light on the hill we once were. This pisses people off who have not traveled as widely as me and seen the poverty and potential in the rest of the world when they met young STEM kids abroad. I have very different reasons for making the Ginkgo play than you. You are a quant, I am a qual.",
+        "created_utc": 1625503048,
+        "id": "h455rui",
+        "score": 3,
+        "subreddit": "SPACs",
+        "created": 1625531848.0
+    },
+    {
+        "author": "Ethos_Logos",
+        "body": "Idk man, would you buy a house next to a rail line? I wouldn\u2019t. \n\nSo folks are probably pissed their property value tanking, and ruining their standard of living since they probably can no longer afford to relocate to an equally desirable location. \n\nImagine busting your ass your whole life, finally retiring, and having someone who won\u2019t be affected vote your wealth away. Or that you finally afford to own your own home, and the rest of your wealth trajectory is irreparably thrown off by something like this.\n\nIn my home state, the city of Boston voted to flood several towns because they wanted water. \n\nhttps://www.google.com/amp/s/www.onlyinyourstate.com/massachusetts/underwater-ghost-town-ma/amp/",
+        "created_utc": 1625260780,
+        "id": "h3uq5xv",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625289580.0
+    },
+    {
+        "author": "TodayPlastic",
+        "body": "China hates Baba after the comments Ma made last year",
+        "created_utc": 1625235235,
+        "id": "h3t1w1b",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625264035.0
+    },
+    {
+        "author": "bamfalamfa",
+        "body": "i still dont understand why chinese native ceos keep trying to fuck with the ccp. they think they became successful on their own talent and not because they got the blessing from the state. as if jack ma could ever create alibaba without the government giving him their grace",
+        "created_utc": 1625444459,
+        "id": "h42v0xz",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625473259.0
+    },
+    {
+        "author": "Bolkonsky999",
+        "body": "I remember getting wiped out once in January. Baba was at 250 and I went all in on 260c's a couple weeks out. Then, there were rumors that ccp killed jack ma or sth all the headlines were crazy, haha. Next couple of days baba dived to 220 or sth. Haven't even looked at baba ever since",
+        "created_utc": 1625805509,
+        "id": "h4k358n",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625834309.0
+    },
+    {
+        "author": "defnotjackiec",
+        "body": "I love my dividends, but have overall hybrid holdings with some added tech/growth plus s&amp;p500 &amp; nasdaq 100 etfs to give an extra boost. \n\nMsft and ma are examples of having cake and eating it tech stocks that also includes growing dividends.\n\nI haven\u2019t bothered with drips for years in my non registered. Instead opted to take a riskier route buying more using margin and let the dividends repay the overall balance.",
+        "created_utc": 1625556052,
+        "id": "h47prmv",
+        "score": 3,
+        "subreddit": "CanadianInvestor",
+        "created": 1625584852.0
+    },
+    {
+        "author": "LWS0902",
+        "body": "Jack Ma no longer holds no executive position within Alibaba",
+        "created_utc": 1625577305,
+        "id": "h48fqkj",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625606105.0
+    },
+    {
+        "author": "goofy-boots",
+        "body": "if jack ma is my calls, then yes",
+        "created_utc": 1625579554,
+        "id": "h48jxcb",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625608354.0
+    },
+    {
+        "author": "stuff-dat-roo",
+        "body": "Sure, that said:\n\n- If you look at infection/death rate ratio in the UK it seems like we are getting significantly better at treating COVID cases. \n\n- The 40% headline number doesn\u2019t consider population density/significance. In dense states like California, New York, and states in New England vaccination rates among 18+ are 70-85%. This trend is further exacerbated when you look at rural vs urban within states. These are the people who are most at risk to COVID spread, and also frankly those regions have a much larger impact on the US economy (said like a true NYer lols).\n\n- The 40% also doesn\u2019t consider at risk populations. As I mentioned, every single state has vaccinated 75%+ of its 65+ population. In states like MA, CA, NY, 85%+ of 65+ year olds are vaccinated. These are the people who are most likely to be affected by COVID.\n\nWe seem to be conflating \u201cpeople might get sick\u201d and \u201cthe stock market will crash\u201d",
+        "created_utc": 1625394680,
+        "id": "h40e8j2",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1625423480.0
+    },
+    {
+        "author": "Jhh94",
+        "body": "what happened to baba again? jack ma dead?",
+        "created_utc": 1625450252,
+        "id": "h4340p8",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625479052.0
+    },
+    {
+        "author": "ntdmp18",
+        "body": "Being in a state with a higher minimum wage helps. In MA it's 13.75 right now. It was $11 when I was promoted to a shift manager when I turned 18yo. I was taking home ~26k.\n\nBut waiters/waitress can make good money from tips. I had friends in HS who made over $15/hr in under-the-table labor work.",
+        "created_utc": 1625452291,
+        "id": "h4372e5",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625481091.0
+    },
+    {
+        "author": "ace_thebroker",
+        "body": "True, China has been fucking with baba since then. Jack ma needs to suck up lol",
+        "created_utc": 1625242285,
+        "id": "h3tiuyu",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625271085.0
+    },
+    {
+        "author": "coolnasir139",
+        "body": "Apple, Microsoft, amazon, google, visa/MasterCard \n\nI would also put Facebook in there since they have a rock solid business and have yet to monetize WhatsApp but people on this sub hate it for their practices.\n\nEach one of these companies dominates in their own field. Until something changes I\u2019m sticking with all those companies. The only big name I am worried about is Netflix.",
+        "created_utc": 1625316428,
+        "id": "h3wyngm",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1625345228.0
+    },
+    {
+        "author": "Nofx888",
+        "body": "That dude deleted his account gone like Jack Ma",
+        "created_utc": 1625621158,
+        "id": "h4aztk0",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625649958.0
+    },
+    {
+        "author": "repairmanjack2020",
+        "body": "Ask Jack Ma.  Oh, right, he's missing.  Kind of answers itself.",
+        "created_utc": 1625754902,
+        "id": "h4h79s2",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625783702.0
+    },
+    {
+        "author": "sandaier76",
+        "body": "so when Apple, Facebook, Twitter, Amazon and Google CEOs get dragged before the US government for similar \"you've got too much fucking power\" issues, it's just simple 'regulation'--no problem. But when Chinese regulators get on Jack Ma for getting too big for his own shoes and try to reign in Didi's influence, it's all part of the 'communist' problem. If you're scared to invest, hey of course that's your choice. But to go all Joe McCarthy and blame it on Communism is a fucking weak excuse. The same shit happens in the US.",
+        "created_utc": 1625734372,
+        "id": "h4gcpdz",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625763172.0
+    },
+    {
+        "author": "Soldacki",
+        "body": "Buy when there is blood in the streets, even if you can\u2019t find Ma",
+        "created_utc": 1625805479,
+        "id": "h4k33or",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625834279.0
+    },
+    {
+        "author": "WagieInTheCagie",
+        "body": "Jack Ma ought to offer his daughter to Xi. Or if she looks like Jack then send escorts instead. Anything bro to mend the broken friendship. I pray for you every night Jack \ud83d\ude4f",
+        "created_utc": 1625806332,
+        "id": "h4k4cfg",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625835132.0
+    },
+    {
+        "author": "ckami_91",
+        "body": "We\u2019re literally at the price where Jack Ma \u201cdied\u201d",
+        "created_utc": 1625811903,
+        "id": "h4kboys",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625840703.0
+    },
+    {
+        "author": "Brawldud",
+        "body": "Bullish on baba stock but the fundamental risks are nontrivial, you have regulatory delisting risk + China antitrust risk + CCP probably still gonna bring more hurt on Jack Ma",
+        "created_utc": 1625769179,
+        "id": "h4i3p3z",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625797979.0
+    },
+    {
+        "author": "Soldacki",
+        "body": "Any chyna gamblers, Jack ma style?",
+        "created_utc": 1625826681,
+        "id": "h4kryqw",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625855481.0
+    },
+    {
+        "author": "kemar7856",
+        "body": "So is Jack ma still golfing?",
+        "created_utc": 1625586463,
+        "id": "h48y9is",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625615263.0
+    },
+    {
+        "author": "r3dd1t0rxzxzx",
+        "body": "Yeah I sold my China big tech holdings after the Jack Ma / BABA / Ant Capital escapade. I\u2019m fine holding small fast growing companies, but it\u2019s clear that once they get to a certain size the Communist Party will knee cap them whenever they feel like. Not worth the risk, unless you\u2019re expecting extreme growth in the near term with state support (for me that\u2019s the China EVs).",
+        "created_utc": 1625426674,
+        "id": "h41y3i6",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1625455474.0
+    },
+    {
+        "author": "HerbertWest",
+        "body": "~~A~~en~~i~~**e**ma.",
+        "created_utc": 1625439696,
+        "id": "h42mxvx",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1625468496.0
+    },
+    {
+        "author": "PanPirat",
+        "body": "This is currently my stock portfolio, it constitutes 50% of my portfolio, the rest are ETFs (mostly large-cap global, with an addition of global small cap and EM IMI; the ETFs are *slightly* tilted into a blend of factors):\n\n| Name                        | Ticker | Weight |\n|-----------------------------|--------|--------|\n| Apple                       |  AAPL  |  4,00% |\n| Bank of America             |   BAC  |  2,00% |\n| Brookfield Asset Management |   BAM  |  4,00% |\n| CRISPR                      |  CRSP  |  2,00% |\n| Danaher                     |   DHR  |  2,50% |\n| Illumina                    |  ILMN  |  2,00% |\n| Intuitive Surgical          |  ISRG  |  2,00% |\n| Johnson and Johnson         |   JNJ  |  2,50% |\n| J. P. Morgan Chase          |   JPM  |  2,00% |\n| Lockheed Martin             |   LMT  |  3,00% |\n| MasterCard                  |   MA   |  3,00% |\n| McDonald's                  |   MCD  |  2,00% |\n| MSCI                        |  MSCI  |  2,00% |\n| Microsoft                   |  MSFT  |  4,00% |\n| NextEra Energy              |   NEE  |  3,50% |\n| Sea Limited                 |   SE   |  3,50% |\n| Square                      |   SQ   |  3,00% |\n| Visa                        |    V   |  3,00% |\n\nThe weights are target weights, btw. I don't sell to get down to the target weight (except when there is massive growth in one of those; I reduced my holdings of SQ like this before, for example). Mostly, I keep the balance by contributing to those which are underweight, not selling the overweight winners. I consider virtually all of these as hold forever stocks, but I do occasionally switch them up (if it's a good time to sell, e.g. I can do that without capital gains tax - selling at a loss or after a year of holding in my country).\n\nI reevaluate my portfolio pretty regularly, but my goal is to keep my stocks at \"set it and forget it\" as much as possible. However, if my thesis changes, I don't hesitate much to sell. TTD was one of my biggest winners, for example, but it's no longer in my portfolio. What made me sell in that specific case was mostly Apple's approach to privacy.\n\nI'm only 24, so I tilt towards tech and growth, but I try to keep some balance with stocks like JNJ, LMT, BAC, JPM, and within my ETFs. This is a portfolio I'd be pretty confident to not touch in 10 years.",
+        "created_utc": 1625485051,
+        "id": "h44bi8z",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1625513851.0
+    },
+    {
+        "author": "bazza010101",
+        "body": "10 year average 31% for MA and 29% for V \n\nQuite comfortably on average well beating the S and P",
+        "created_utc": 1625487953,
+        "id": "h44f47i",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1625516753.0
+    },
+    {
+        "author": "Guitar_Strap",
+        "body": "Look ma, no hands!!!",
+        "created_utc": 1625347382,
+        "id": "h3yk475",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1625376182.0
+    },
+    {
+        "author": "Ritz_Kola",
+        "body": "Puts doesn't sound bad on these. Anyone seen Jack Ma?",
+        "created_utc": 1625722790,
+        "id": "h4fziwi",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1625751590.0
+    },
+    {
+        "author": "woolypully",
+        "body": "Question, with the political instability in China and what happened to Jack Ma, doesn't that make Baba, Tencent and other companies risky plays?",
+        "created_utc": 1625755511,
+        "id": "h4h8l4q",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1625784311.0
+    },
+    {
+        "author": "Legitimate_Source_43",
+        "body": "Sorry bad wording i meant that ccp is putting on regulations on companies listed on nyse. Jack ma had his own issues with ccp. I just want thoughts the community has on ali baba thats all.",
+        "created_utc": 1625753492,
+        "id": "h4h49vv",
+        "score": 2,
+        "subreddit": "CanadianInvestor",
+        "created": 1625782292.0
+    },
+    {
+        "author": "Manbear_hawk",
+        "body": "Jack Ma, if you\u2019re still out there we need you right now.",
+        "created_utc": 1625753740,
+        "id": "h4h4ssp",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1625782540.0
+    },
+    {
+        "author": "zdonowitz",
+        "body": "Sell the profit so you are back to your initial investment. Do whatever u want with the profits. But i have to say, there\u2019s really no reason to sell Apple or Microsoft ever",
+        "created_utc": 1625526060,
+        "id": "h46eiwq",
+        "score": 743,
+        "subreddit": "stocks",
+        "created": 1625554860.0
+    },
+    {
+        "author": "Philanthropy-",
+        "body": "I\u2019m so close to giving up and just putting everything (with the exception of amazon and Microsoft) into an S&amp;P 500 index fund bc I have come to the conclusion that there is no way I can beat the market",
+        "created_utc": 1625543377,
+        "id": "h4799a0",
+        "score": 195,
+        "subreddit": "stocks",
+        "created": 1625572177.0
+    },
+    {
+        "author": "Machiavelli127",
+        "body": "My version of MAGA: MSFT, AMZN, GOOG, AAPL",
+        "created_utc": 1625441999,
+        "id": "h42qx94",
+        "score": 183,
+        "subreddit": "stocks",
+        "created": 1625470799.0
+    },
+    {
+        "author": "amg-rx7",
+        "body": "Apple Amazon Microsoft Nvidia PayPal Square Costco Walmart plus a few good EFTs",
+        "created_utc": 1625437049,
+        "id": "h42i7nt",
+        "score": 172,
+        "subreddit": "stocks",
+        "created": 1625465849.0
+    },
+    {
+        "author": "Yo_IDK_Dude",
+        "body": "Without putting any thought into this at all\u2026 Microsoft",
+        "created_utc": 1625265002,
+        "id": "h3uyved",
+        "score": 145,
+        "subreddit": "stocks",
+        "created": 1625293802.0
+    },
+    {
+        "author": "Isunova",
+        "body": "$MSFT is a stock a hold forever.",
+        "created_utc": 1625431503,
+        "id": "h427m94",
+        "score": 138,
+        "subreddit": "stocks",
+        "created": 1625460303.0
+    },
+    {
+        "author": "BrandedStrategy",
+        "body": "I am not disagreeing with you but I would like to ask when do we consider a stock ethical? Here are a few examples...\n\nNike, Mars, Kraft, Apple, Google, Microsoft and Tesla (just to name a few) have all been accused and used child labour to keep operating costs low and profits high.\n\nTesla was accused of instigating a coup in Bolvia for their lithium.\n\nThe US government + energy companies invade countries, mine the oceans and frack the country to keep oil prices low.\n\nBig Pharma (in the US) monopolize life-saving drugs i.e. insulin, inhalers preventing many people from being able to afford healthcare. \n\nMcdonalds + Big sugar investing in studies to convince people that their products are not bad for you. Obesity is a huge problem, heart disease is one of the biggest killers.",
+        "created_utc": 1625485732,
+        "id": "h44caz7",
+        "score": 115,
+        "subreddit": "stocks",
+        "created": 1625514532.0
+    },
+    {
+        "author": "AyyyyyyyLemao",
+        "body": "Pentagon plans to divide the work between Amazon and Microsoft per Bloomberg",
+        "created_utc": 1625592687,
+        "id": "h49c8n1",
+        "score": 105,
+        "subreddit": "stocks",
+        "created": 1625621487.0
+    },
+    {
+        "author": "discovery999",
+        "body": "VUG, VOO, AAPL, GOOGL, MA, IEP, MSFT, AMZN, FB",
+        "created_utc": 1625432475,
+        "id": "h429j4f",
+        "score": 90,
+        "subreddit": "stocks",
+        "created": 1625461275.0
+    },
+    {
+        "author": "Oraclequest",
+        "body": "$MSFT is great investment, great dividend, better returns.\n\nIt's a long term bet for sure.",
+        "created_utc": 1625432396,
+        "id": "h429dmd",
+        "score": 89,
+        "subreddit": "stocks",
+        "created": 1625461196.0
+    },
+    {
+        "author": "gupbiee",
+        "body": "Make it free is my general policy. But with stocks like AAPL and MSFT I'd just hold cuz at the moment they're kinda too big to fail (or tank for the immediate future)",
+        "created_utc": 1625537450,
+        "id": "h46z84g",
+        "score": 87,
+        "subreddit": "stocks",
+        "created": 1625566250.0
+    },
+    {
+        "author": "FlameoHotman-_-",
+        "body": "This has to be an unpopular opinion...and for the record, I distrust the CCP as much as the next person, but these crackdowns may not be entirely bad. Let's look at some examples:\n\n\\- So in this case, Didi's operation got suspended because \"Didi had illegally collected users' personal data.\"\n\n\\- Alibaba got fined because of monopolistic practices.\n\n\\- Ant Group's IPO got slashed because the CCP wanted to regulate Ant Group like an actual bank.\n\nTo be honest, these sound pretty reasonable to me. Facebook was in trouble for collecting data without content too. Remember the whole Cambridge Analytica scandal? But now everyone is hot for FB stocks.\n\nMicrosoft has been fined millions by the EU for monopolistic practices as well. But everyone loves Microsoft stocks nonetheless. \n\nAnd as to Ant Group, they are a massive financial service company that can offer customers credit. How come they don't get to be regulated like a bank? My point is that these actions make sense and good regulations is beneficial for investors too in the long run.",
+        "created_utc": 1625412759,
+        "id": "h415r1e",
+        "score": 76,
+        "subreddit": "investing",
+        "created": 1625441559.0
+    },
+    {
+        "author": "FaatmanSlim",
+        "body": "Been holding MSFT For a while now. While it goes through periods like last week, where the stock pops 1-2% a day, this stock is a bit more of a slow burn. If you look back at the past 4-5 years, it as beaten other FAANG stocks at how fast it has grown, but at times, its growth can seem downright glacial.\n\nThis is not a \"get rich quick\" stock, but I feel it's definitely a long-term growth stock if you look out a few years into the future.",
+        "created_utc": 1625432788,
+        "id": "h42a4ii",
+        "score": 65,
+        "subreddit": "stocks",
+        "created": 1625461588.0
+    },
+    {
+        "author": "quickclickz",
+        "body": "That was public information in March and then in May...\n\nhttps://www.bloomberg.com/news/articles/2021-03-05/microsoft-s-10-billion-pentagon-deal-at-risk-amid-amazon-fight\n\nhttps://www.fool.com/investing/2021/05/10/pentagon-considers-dropping-microsoft-jedi-effort/\n\nshe made her purchase in May.... when the information was already public.",
+        "created_utc": 1625597132,
+        "id": "h49m3tb",
+        "score": 64,
+        "subreddit": "options",
+        "created": 1625625932.0
+    },
+    {
+        "author": "Jr4044",
+        "body": "Surprised MSFT takes so much scrolling to find",
+        "created_utc": 1625442974,
+        "id": "h42sk27",
+        "score": 63,
+        "subreddit": "stocks",
+        "created": 1625471774.0
+    },
+    {
+        "author": "BGoode348",
+        "body": "Msft for sure.",
+        "created_utc": 1625274503,
+        "id": "h3vgk3w",
+        "score": 59,
+        "subreddit": "stocks",
+        "created": 1625303303.0
+    },
+    {
+        "author": "one8e4",
+        "body": "Lawyers will win. \n\nTime to see if the law firms Amazon and Microsoft use are listed",
+        "created_utc": 1625591358,
+        "id": "h4999pr",
+        "score": 55,
+        "subreddit": "stocks",
+        "created": 1625620158.0
+    },
+    {
+        "author": "Dav1d13",
+        "body": "AAPL/MSFT/GOOGL/AMZN and go back to my daily life, knowing that I am in good shape!",
+        "created_utc": 1625160913,
+        "id": "h3pf3j1",
+        "score": 51,
+        "subreddit": "stocks",
+        "created": 1625189713.0
+    },
+    {
+        "author": "360NoScopeDropShot69",
+        "body": "The legend of Joco the shrimp man, Bry drinks his piss if Spy closes green, Chinese dam puts, Microsoft 200, Tesla battery day \n\nThere's a ton",
+        "created_utc": 1625441327,
+        "id": "h42pseo",
+        "score": 46,
+        "subreddit": "wallstreetbets",
+        "created": 1625470127.0
+    },
+    {
+        "author": "BornAcanthocephala10",
+        "body": "Microsoft",
+        "created_utc": 1625279465,
+        "id": "h3vp4dw",
+        "score": 45,
+        "subreddit": "stocks",
+        "created": 1625308265.0
+    },
+    {
+        "author": "warrior5715",
+        "body": "Yes, msft is enron.... \u201cBingo\u201d",
+        "created_utc": 1625448901,
+        "id": "h432072",
+        "score": 39,
+        "subreddit": "stocks",
+        "created": 1625477701.0
+    },
+    {
+        "author": "Spork_Warrior",
+        "body": "Just because they are advertising for a job that leverages Microsoft doesn't mean that's the only platform they use.\n\nCompanies like Palantir tend to have agreements with all major cloud providers and they have expertise in multiple platforms.",
+        "created_utc": 1625251198,
+        "id": "h3u4e34",
+        "score": 39,
+        "subreddit": "stocks",
+        "created": 1625279998.0
+    },
+    {
+        "author": "Dgarciarieckhof23",
+        "body": "MSFT no doubt",
+        "created_utc": 1625280295,
+        "id": "h3vqhn6",
+        "score": 38,
+        "subreddit": "stocks",
+        "created": 1625309095.0
+    },
+    {
+        "author": "KyivComrade",
+        "body": "DAAMN has been treating me well so far. \n\n\n\nDisney, Apple, Amazon, Microsoft and Netflix.",
+        "created_utc": 1625562586,
+        "id": "h47wy88",
+        "score": 38,
+        "subreddit": "stocks",
+        "created": 1625591386.0
+    },
+    {
+        "author": "Podcastsandpot",
+        "body": "Apple, Tesla, Nvidia, Amazon, Microsoft, Square",
+        "created_utc": 1625436337,
+        "id": "h42gwdm",
+        "score": 37,
+        "subreddit": "stocks",
+        "created": 1625465137.0
+    },
+    {
+        "author": "The0Walrus",
+        "body": "NVDA, DIS, MSFT",
+        "created_utc": 1625442442,
+        "id": "h42robt",
+        "score": 37,
+        "subreddit": "stocks",
+        "created": 1625471242.0
+    },
+    {
+        "author": "JaegerBrick",
+        "body": "She sits on relevant committees that affect choosing vendors for various government contracts. There is no law punishing insider trading for US government officials. She likely did nothing criminal under the current law. She also made a ton on $MSFT a few months ago. We can say her husband made the trades, but at the end of the day she is the one on the relevant budget committees and her name is on the trades.",
+        "created_utc": 1625591570,
+        "id": "h499qm8",
+        "score": 37,
+        "subreddit": "options",
+        "created": 1625620370.0
+    },
+    {
+        "author": "cen0812",
+        "body": "AAPL, MSFT, and VOO.",
+        "created_utc": 1625438093,
+        "id": "h42k3xl",
+        "score": 36,
+        "subreddit": "stocks",
+        "created": 1625466893.0
+    },
+    {
+        "author": "Sik-Kunt",
+        "body": "She bought before the split was announced and before the government cancelled the MSFT Jedi contract. As if she already knew. Because she did.",
+        "created_utc": 1625599335,
+        "id": "h49qz6s",
+        "score": 34,
+        "subreddit": "options",
+        "created": 1625628135.0
+    },
+    {
+        "author": "financiallyanal",
+        "body": "Gates has argued tech companies deserve a lower multiple due to obsolescence risk. People price some of these things like they\u2019ll all have the durability of Coca Cola and margins of Microsoft. Very few discuss the reality of businesses not lasting forever, but I agree it\u2019s critical.",
+        "created_utc": 1625512633,
+        "id": "h45oply",
+        "score": 33,
+        "subreddit": "SecurityAnalysis",
+        "created": 1625541433.0
+    },
+    {
+        "author": "Burgerb",
+        "body": "I have that dilemma: I bought things like TTD, SHOP, NVDA, MSFT and others.  Stocks have multiplied and I want to take gains and put them in an Index fund.  However, I'm worried about the Tax implications when I sell.  What should I do?",
+        "created_utc": 1625171016,
+        "id": "h3q2jdm",
+        "score": 33,
+        "subreddit": "investing",
+        "created": 1625199816.0
+    },
+    {
+        "author": "seattletechy",
+        "body": "I am surprised it didn\u2019t take off after the Xbox/Microsoft integration last week.  Just to give you a perspective it takes almost 2-3 years to convince a company of Microsoft\u2019s size to agree for an integration such as this one.  They have 100s of millions users.  While Paysafe is starting with the Xbox team Microsoft\u2019s payments stacks serves the entire company including  Azure, office, windows and Teams.  Now imagine the size of the customer base Paysafe has.",
+        "created_utc": 1625361862,
+        "id": "h3z8ngq",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1625390662.0
+    },
+    {
+        "author": "baskinginthesunbear",
+        "body": "Paysafe is fucking useless to deal with from a merchant standpoint. Incredibly poor processes and controls. Constant fuck-ups. Zero accountability. Honestly surprised a company as big as Microsoft wants to deal with them.",
+        "created_utc": 1625408936,
+        "id": "h40y7aa",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1625437736.0
+    },
+    {
+        "author": "bagelwhore_x0",
+        "body": "Killing it! I\u2019m at like 20% profit all time and I\u2019m ready to just stick with trading blue chip stocks and msft is my favorite. It\u2019s the most predictable imo. I missed out on it tho this week chasing some other stocks and now I learned my lesson not to stray from my bestie Microsoft",
+        "created_utc": 1625252893,
+        "id": "h3u8ct0",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1625281693.0
+    },
+    {
+        "author": "averagebensimmons",
+        "body": "I see so many mentions of AMD and APPL and I'm like hey you know there is MSFT?",
+        "created_utc": 1625444726,
+        "id": "h42vgpk",
+        "score": 28,
+        "subreddit": "stocks",
+        "created": 1625473526.0
+    },
+    {
+        "author": "lilaznjocky",
+        "body": "Anything that is well diversified tbh. MSFT Amazon. They have their hands in everything, and they can\u2019t have everything fail. Just wait to get 100 shares and sell covered calls on the way up.",
+        "created_utc": 1625431497,
+        "id": "h427lun",
+        "score": 27,
+        "subreddit": "stocks",
+        "created": 1625460297.0
+    },
+    {
+        "author": "Captain_Yolo_",
+        "body": "Told my parents I'm finally taking the position at Microsoft. I'm tired of not making a difference.\n\n\nAs third shift janitor I promise to make sure those urinals are licked clean and the floors polished to a mirror finish \ud83d\udc4c",
+        "created_utc": 1625272323,
+        "id": "h3vcn3n",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1625301123.0
+    },
+    {
+        "author": "MyParanoidEyes",
+        "body": "MSFT, GOOGL, VISA, Amazon, the big guns",
+        "created_utc": 1625424318,
+        "id": "h41tdwk",
+        "score": 26,
+        "subreddit": "stocks",
+        "created": 1625453118.0
+    },
+    {
+        "author": "Rclarkttu07",
+        "body": "Doing the same with $25 each week split into apple Amazon and Tesla. Also buy 1 msft a month and one VTI. Hoping to sell my AMC shares to spread out if it ever takes off again.",
+        "created_utc": 1625603775,
+        "id": "h4a14ty",
+        "score": 23,
+        "subreddit": "investing",
+        "created": 1625632575.0
+    },
+    {
+        "author": "coolcomfort123",
+        "body": "msft is on fire, it just keep going up.",
+        "created_utc": 1625233776,
+        "id": "h3syq7d",
+        "score": 22,
+        "subreddit": "stocks",
+        "created": 1625262576.0
+    },
+    {
+        "author": "WolfPackWSB",
+        "body": "Yup that was me in October 2020 buying GME @ $11 and averaged all the way down to $7.87 after Microsoft said they would give GME a % of every digital sale on the Xbox console!! Put every penny I could $13,700 then another $138/week after that.. Made my 2 year old daughter a Millionaire",
+        "created_utc": 1625663518,
+        "id": "h4cm300",
+        "score": 22,
+        "subreddit": "wallstreetbets",
+        "created": 1625692318.0
+    },
+    {
+        "author": "Pdicky69",
+        "body": "$NET is on a fundamental basis is over valued. They expect rev to be $500M+ this year but they trade at $33B. It\u2019s been on of my biggest picked winners. \n\nHere is a quick breakdown of what the popular services they offer, highly scaleable and a HUGE TAM.\n\nhttps://www.freelancer.com/articles/web-development/cloudflare\n\nHowever I sold off at $75, $85 levels due to price action getting ahead of the fundamental business. I\u2019ve exited about 50% of my position. I still have 200 shares because I believe, it could do some long term stuff well and be a $100B company. But I can\u2019t allocate so much of my portfolio in this company vs a FB/AMZN/GOOG (where I get growth, balance sheet safety, and moat)\n\nFrom here, if you want to get in on the action. You have to believe they do a few things\u2026\n1) surprise HEAVILY on revenue growth and forward guidance\n2) grow more into their cyber security suite of tools beyond just basic stuff like their widely used DDOS prevention (a ton of websites use them for this) and firewall \n3) Content delivery network investment trend continues and profit margins aren\u2019t competed away with bigger boys entering the game (ie GOOG, MSFT, AMZN)\n4) website speeds overwhelmingly determine ranking on google and mobile searches\n\nCloudflare and Fastly are the two more popular services for websites and apps to use as they offer ease of use to speed up website access for users and support to prevent website downtime. Folks have frequently complimented on how easy cloudflare is to use.",
+        "created_utc": 1625514830,
+        "id": "h45t0z8",
+        "score": 22,
+        "subreddit": "stocks",
+        "created": 1625543630.0
+    },
+    {
+        "author": "Shadow23z",
+        "body": "Msft",
+        "created_utc": 1625160818,
+        "id": "h3peviw",
+        "score": 21,
+        "subreddit": "stocks",
+        "created": 1625189618.0
+    },
+    {
+        "author": "defenstrate5731",
+        "body": "Investing in ETFs, specifically the S&amp;P ones you\u2019re going to come out in top. That\u2019s why actively trading/day trading/swing trading people hate on is because you typically won\u2019t be the market. \n\nPersonally, I have about 30% in VOO and rest in individual stocks, but big names like MSFT, FB,DIS, JPM, etc.  \n\nIf you\u2019re lazy and don\u2019t really want to do the research, stick to ETFs like VOO, VTI, VTSAX, etc.",
+        "created_utc": 1625249575,
+        "id": "h3u0irf",
+        "score": 20,
+        "subreddit": "investing",
+        "created": 1625278375.0
+    },
+    {
+        "author": "teslas_love_pigeon",
+        "body": "Don't disturb the retards with your facts please.\n\nNext think you're going to tell me is that Palantir doesn't have deals with Facebook, Google, Microsoft, and Amazon and they are just listing react, vscode, and aws in job ad.",
+        "created_utc": 1625255630,
+        "id": "h3uenb0",
+        "score": 20,
+        "subreddit": "wallstreetbets",
+        "created": 1625284430.0
+    },
+    {
+        "author": "RunningJay",
+        "body": "Let's take MSFT at 20%. Let's say you put $5000 in and you're now at $6000.  I always like to keep the capital invested and take only profit so I'd sell 4x MSFT, or if I was more confident only 3x @ \\~$832.95.\n\nNow technically you're not taking profits exactly, you're just taking cash off the table.\n\nWith AAPL, same theory, if you invested $1000, you're currently at $1500, so sell $500 worth to return to your original capital investement.\n\n&amp;#x200B;\n\nWhatever you do with that $ better out-perform MSFT or AAPL, otherwise, just leave it there.",
+        "created_utc": 1625536498,
+        "id": "h46xj51",
+        "score": 20,
+        "subreddit": "stocks",
+        "created": 1625565298.0
+    },
+    {
+        "author": "doggy_lovers",
+        "body": "Microsoft in the 1990s was the most valuable company in the world switching spots with GE, it is currently the only company that was in the top 10 list in 1990 and is currently still top 10 right now (at #2 spot behind apple). It was the #1 company by marketcap in 2019 and march 2020.\n\nMoreover, It has never fallen out of the top 10 list for more than 20+ years even with failure of Ballmer, tech bubble crash, Nokia, etc. Now with the new ceo, I dont see it going out of the top 10 especially since it is so far ahead from #10 spot which is Alibaba at 600 billion market cap. (Microsoft is worth 2.1 trillion).\n\nBack in the 1990s #1 spot had 200 billion valuation compared to 100 billion for #10 spot. So now the Top 5 companies are much more valuable compared to the bottom 5 of the list. Unlike the 1990s the top companies were not investing to the future and focus on short term profits.\n\nMicrosoft continues to invest in the future with the cloud technology, ai, vr/ar tech as well as is extremely diversified with equal 33% weight in 3 different classified segments.(the other trillion companies aren't as diversified). Finally, it is one of two companies (other being JNJ) with triple AAA credit rating, higher than the US government. It faces less regulatory risk than tech giants competitors allowing for easy acquisitions thanks to its stellar balance sheet.\n\nSource: https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization#2012",
+        "created_utc": 1625340104,
+        "id": "h3y6e91",
+        "score": 19,
+        "subreddit": "stocks",
+        "created": 1625368904.0
+    },
+    {
+        "author": "FlyersTime",
+        "body": "Amazon \nNvidia\nMicrosoft \nApple \n\nThat\u2019s all you fucking need",
+        "created_utc": 1625662084,
+        "id": "h4cjmmm",
+        "score": 19,
+        "subreddit": "wallstreetbets",
+        "created": 1625690884.0
+    },
+    {
+        "author": "harrison_wintergreen",
+        "body": "ELI5: \n\n- Burry believes (as he wrote): \"passive investing has removed price discovery from the equity markets\". https://www.bloomberg.com/news/articles/2019-09-04/michael-burry-explains-why-index-funds-are-like-subprime-cdos\n\n- price discovery is the process of estimating a reasonable fair value for a stock. \n\n- because relatively few people are buying/selling stocks based on their fair value, prices for stocks are often being determined mainly by cash-flows. see Tesla or dogecoin for examples. Tesla sells under 1% all vehicles worldwide but is somehow worth *more than all the other carmakers combined* because lots of people were buying Tesla stock and not because of any financial status of Tesla. dogecoin started LITERALLY as a joke but somehow was more valuable than companies like Ford Motors only because a ton of cash flowed into Dogecoin. this is all sheer insanity by traditional stock valuation guidelines. asset bubbles are nothing new, but Burry believes it's being exacerbated by passive investing. \n\n- Burry believes this situation of prices being based on cash flows is similar to what happened in the housing bubble, when multi-zillion Collateralized Debt Obligations (CDOs) were being priced not by a reasonable estimate of their fair value but by cash-flows. \n\n- when flows reverse and lots of people want out of index funds, it will get ugly because so many stocks are linked/benchmarked to major stock indexes *including lower volume stocks*. consider VTI: the top holdings (Apple, Microsoft, Johnson &amp; Johnson) might have a billion shares in total and hundreds of millions of dollars trading each day. but the smallest company stocks might have only a few million shares and a few million dollars trading each day. if too many people want to sell all at the same time, it will drive prices down sharply because these stocks are so often sold as a bundle/unit. as Burry puts it: \"The theater keeps getting more crowded, but the exit door is the same as it always was\"\n\n&gt;since the guy predicted 2007-2008 crash.\n\nhe also predicted the dot-com bubble.",
+        "created_utc": 1625611801,
+        "id": "h4ai1k1",
+        "score": 19,
+        "subreddit": "stocks",
+        "created": 1625640601.0
+    },
+    {
+        "author": "freehouse_throwaway",
+        "body": "seriously ppl.\n\njust buy big tech calls.\n\n if 2020 hasnt taught you this... or the bounce from Feb/March correction, or May pull back... not sure what will.\n\nyeah you can buy meme shit and pray that this week is when it decides to do meme shit vs pump &amp; dump by ppl\n\nor you can buy AAPL, MSFT, GOOGL, AMZN, FB, and NVDA calls and make actual fucking money and be able to sleep at night.\n\n* poor? do AAPL/MSFT/FB monthlies + leaps on dips.\n\n* got $ to blow? GOOGL and NVDA calls apparently doesnt know when to stop mooning\n\n* adventurous ppl can do AMZN monthlies and try to time AMZN's year-long channel of low 3000s to 3500s.",
+        "created_utc": 1625257131,
+        "id": "h3ui223",
+        "score": 18,
+        "subreddit": "wallstreetbets",
+        "created": 1625285931.0
+    },
+    {
+        "author": "StonksInvesteur",
+        "body": "MSFT 300 calls, anyone?",
+        "created_utc": 1625571987,
+        "id": "h487i74",
+        "score": 18,
+        "subreddit": "wallstreetbets",
+        "created": 1625600787.0
+    },
+    {
+        "author": "gcko",
+        "body": "Almost same. \n\nHolding AAPL, MSFT, DIS, VCR all the way to retirement unless something major happens to these companies. \n\nOh and at least a couple shares of GME I bought at $69 which I will eventually transfer into my children\u2019s college fund. It\u2019ll make a good story.",
+        "created_utc": 1625441988,
+        "id": "h42qwkq",
+        "score": 18,
+        "subreddit": "stocks",
+        "created": 1625470788.0
+    },
+    {
+        "author": "apooroldinvestor",
+        "body": "Like MSFT?",
+        "created_utc": 1625422990,
+        "id": "h41qp81",
+        "score": 18,
+        "subreddit": "stocks",
+        "created": 1625451790.0
+    },
+    {
+        "author": "hardtoexplainnnnn",
+        "body": "MSFT was going up like this back in january-february. same with the other tech stocks. all tech stocks seem to be rising a lot again lately too. i think the tech bull run is back.",
+        "created_utc": 1625432779,
+        "id": "h42a3tw",
+        "score": 17,
+        "subreddit": "stocks",
+        "created": 1625461579.0
+    },
+    {
+        "author": "TheFilterJustLeaves",
+        "body": "Probably fucked. MSFT doesn\u2019t pump. It is the blob slowly eating everything in its path.",
+        "created_utc": 1625345803,
+        "id": "h3yh6y5",
+        "score": 16,
+        "subreddit": "options",
+        "created": 1625374603.0
+    },
+    {
+        "author": "NigelRL",
+        "body": "I bought MSFT puts so it will go higher \ud83d\ude80",
+        "created_utc": 1625609358,
+        "id": "h4ad1hv",
+        "score": 16,
+        "subreddit": "wallstreetbets",
+        "created": 1625638158.0
+    },
+    {
+        "author": "CountTheForDown",
+        "body": "Tech has fooled me a couple of times over the past couple of weeks. The most recent indicator  of the mega tech is msft. There's about a 15 buck difference between one peak to the next. It just hit the next 15 on friday.\n\nFrom what I saw in mid fed, no matter how great an earnings was it was a blood bath. No reason to expect different now.",
+        "created_utc": 1625451161,
+        "id": "h435dnr",
+        "score": 16,
+        "subreddit": "options",
+        "created": 1625479961.0
+    },
+    {
+        "author": "justsomescrub",
+        "body": "Not so much diversifying as just straight up killing it. Operating income rose 189% from 2019 to 2020 with eps up 604%. Q1 2021 operating income is up 266% and eps is up 232% from Q1 2020 and it isn't *just* higher margins; Total revenue in 2020 was up 45% from 2019 and Q1 2021 total rev Is up 92% compared to Q1 2020. Oh and the XLNX acquisition or whatever pending china approval.\n\n  \nAND there are some tasty insider whispers IF TRUE insinuating next gen GPU performance above and beyond what they expect from Nvidia. FULL STOP. Not at bargain price points, or for certain niche applications just straight up expecting to have the best GPUs on the market next gen. Nvidia having something spicy up their sleeve non-withstanding; you never know with Nvidia.   \n\n  Add in plans to buy back 4 billion worth of shares over the next 4(?) Years with cash on hand and plans for 3nm production by 2024 and everything I hear about AMD makes me think up up up. They have new deals with Samsung for their phones and google/amazon for servers, to add to the pile of deals like making chips for Sony and Microsoft consoles. The future looks bright.\n\nI put 90% of my account in AMD last month when they were hovering around 80$ without a single worry and I haven't unwound my position yet. Hoping for 2021 guidance to be adjusted from 50% to 75% growth to set this thing off again. Or merger approval, whatever comes first.",
+        "created_utc": 1625268525,
+        "id": "h3v5p9o",
+        "score": 16,
+        "subreddit": "wallstreetbets",
+        "created": 1625297325.0
+    },
+    {
+        "author": "Jdog43349",
+        "body": "Yeah cause Android isnt just as big as Apple, right? And Google doesnt own YouTube, right? \n\nDont listen to this guy, buy Google AND Microsoft.",
+        "created_utc": 1625342689,
+        "id": "h3ybbv1",
+        "score": 15,
+        "subreddit": "stocks",
+        "created": 1625371489.0
+    },
+    {
+        "author": "Mesmeryze",
+        "body": "microsoft just been solid as a rock through the hard times sincr 2 years ago my god",
+        "created_utc": 1625242013,
+        "id": "h3ti1bl",
+        "score": 15,
+        "subreddit": "stocks",
+        "created": 1625270813.0
+    },
+    {
+        "author": "Guy_Who_Made_Money",
+        "body": "Amazon may split, Ford may do a reverse split, Microsoft may merge with Apple, Disney is going to sell off the Mickey Mouse Family IP to focus on Marvel, EA is merging with Take Two, Nokia may actually make money.          \nNow buy those rumors I made up.",
+        "created_utc": 1625363069,
+        "id": "h3zak3h",
+        "score": 15,
+        "subreddit": "wallstreetbets",
+        "created": 1625391869.0
+    },
+    {
+        "author": "half0tempo",
+        "body": "My 5 shares of MSFT are so solid, I transitioned to a lazy portfolio VOO and VXUS. But kept my 5 MSFT shares I bought during the heat of the pandemic. Never will let go.",
+        "created_utc": 1625252960,
+        "id": "h3u8ibm",
+        "score": 15,
+        "subreddit": "stocks",
+        "created": 1625281760.0
+    },
+    {
+        "author": "brbcripwalking",
+        "body": "Imagine being a boomer\n\nCasually fucking buy MSFT at $0.10, AMZN at $1.73, and buy AAPL at $0.80 on some Forrest Gump shit.\n\nPull yourself up by the bootstraps youngin what do you mean you can't afford a home?",
+        "created_utc": 1625186528,
+        "id": "h3qz1jm",
+        "score": 14,
+        "subreddit": "wallstreetbets",
+        "created": 1625215328.0
+    },
+    {
+        "author": "Boomtown626",
+        "body": "I haven\u2019t sold a share of MSFT or aapl. Not have a sold a share of my yolo plays. What I\u2019m selling are my reopening plays, my clean energy plays that don\u2019t appear to be keeping up with the sector, and my long shot penny stocks. \n\nThe kicker: I\u2019m only selling when I find something better - either a new position or building weight in the positions I\u2019m most confident in.",
+        "created_utc": 1625535521,
+        "id": "h46vrg2",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1625564321.0
+    },
+    {
+        "author": "creemeeseason",
+        "body": "I've owned Microsoft since 2018. If I had a 20% stop loss it would have triggered in March of 2020, among other times (at $160 or so). Instead, I just held and it always came back up and is at $277 today. \n\nJust hold, especially with solid companies.",
+        "created_utc": 1625332382,
+        "id": "h3xrn7l",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1625361182.0
+    },
+    {
+        "author": "Icommandyou",
+        "body": "SPY and MSFT doing great. Memes down.\n\nNature is healing itself.",
+        "created_utc": 1625256108,
+        "id": "h3ufr4u",
+        "score": 13,
+        "subreddit": "wallstreetbets",
+        "created": 1625284908.0
+    },
+    {
+        "author": "FalconsBlewA283Lead",
+        "body": "MSFT is such a machine",
+        "created_utc": 1625254708,
+        "id": "h3uci55",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1625283508.0
+    },
+    {
+        "author": "apooroldinvestor",
+        "body": "20% of my portfolio is MSFT AAPL.  Am I ok?",
+        "created_utc": 1625548835,
+        "id": "h47h2yz",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1625577635.0
+    },
+    {
+        "author": "zxc123zxc123",
+        "body": "Hi. I'm from the Intel side! I think AMD side shouldn't worry too much about INTC. It's a big old ship that's getting bombarded from all sides. The fact that it's a big ship means it's changes will take time. I'm giving Gelsinger a chance to right the ship, but it will take a long while to undo BSwan's bad moves, get the right people, develop the chips, and catch up to AMD. \n\nA plus side for everyone is that the semi-space is a growing area with electronification, digitization, and \"5G-cloudification\" of everything along with the increasing importance of AI &amp; tech in business and government. Semis are so important in fact, that at this point US Gov should really be looking at INTC/NVD/TI more like they did Ford/GM 100 years ago: as a strategic industrial/military resource. \n\nReal threat to AMD isn't INTC. INTC was the big market share holder in the past and isn't likely gaining any ground any time soon. What AMD and all the trad chip manufacturers should fear is FAAAM &amp; BAT. Apple has started designing it's own chips. They aren't going back to using outsourced chips. If history says anything it's that Apple will continue to cut others out as they continue to in-house their chips for their entire lineup while improving their chips just like how they kept improving their computers, just like how the iphone kept improving until NOK/MOT were beat, just like how a good chunk of the watch market is Apple watches, just like how Ipads have taken away from of the laptop space, just like how Apple TV keeps chipping away at cable, just like how the app store and Apple's eco system keeps growing, etcetcetc. There is nothing AMD/NVD/INTC can do to stop Apple. And Apple is just the first. MSFT also doing the same. Google, Facebook, and Amazon might follow suit. China's Tencent and Alibaba will likely copy what the US companies do as soon as Pooh Bear gets done man handling them.",
+        "created_utc": 1625258081,
+        "id": "h3uk775",
+        "score": 13,
+        "subreddit": "investing",
+        "created": 1625286881.0
+    },
+    {
+        "author": "ACELUCKY23",
+        "body": "$MSFT, $AAPL AND $NVDA. I like $AMD, but I don\u2019t plan to hold that as \u201cforever\u201d at the moment. \n\nPlease avoid meme stocks if possible, those are not meant to be long term investments.",
+        "created_utc": 1625442592,
+        "id": "h42rx5g",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1625471392.0
+    },
+    {
+        "author": "Sweaty-Bumblebee4055",
+        "body": "All in on that AMD run before it turns into NVDA and gonna throw it all in on MSFT",
+        "created_utc": 1625538228,
+        "id": "h470kgk",
+        "score": 13,
+        "subreddit": "wallstreetbets",
+        "created": 1625567028.0
+    },
+    {
+        "author": "iceberg_crumble",
+        "body": "Hey man hopefully you\u2019re using other DD than this job post. I work in the SI and SaaS space - super common to have an alliance manager that runs the cloud relationship, especially given they both (MSFT and PLTR) have big gov contracts. \n\nI doubt the role is new - prob turnover or titling change.  Just google this title and you\u2019ll see all major SaaS companies have this role or something similar if it can be integrated/sold with O365.",
+        "created_utc": 1625574665,
+        "id": "h48bc8w",
+        "score": 13,
+        "subreddit": "wallstreetbets",
+        "created": 1625603465.0
+    },
+    {
+        "author": "Perdix_Icarus",
+        "body": "AMZN, MSFT and GOOGL are at ATH and looks like AAPL would also join them there soon.",
+        "created_utc": 1625581920,
+        "id": "h48om67",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1625610720.0
+    },
+    {
+        "author": "manofculture003",
+        "body": "If you invested $1000 in Microsoft back in Dec 1999, in Oct 2016 you would have had $1000",
+        "created_utc": 1625590254,
+        "id": "h496s19",
+        "score": 13,
+        "subreddit": "wallstreetbets",
+        "created": 1625619054.0
+    },
+    {
+        "author": "heatd",
+        "body": "MSFT and AAPL are 11% of SPY and 20% of QQQ",
+        "created_utc": 1625549600,
+        "id": "h47i36q",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1625578400.0
+    },
+    {
+        "author": "maz-o",
+        "body": "Nope this is called timing the market and you know how the saying goes. \n\nI\u2019m never selling my MSFT.",
+        "created_utc": 1625156419,
+        "id": "h3p4fun",
+        "score": 12,
+        "subreddit": "stocks",
+        "created": 1625185219.0
+    },
+    {
+        "author": "left_turn_signal",
+        "body": "\"The bulk of the Pelosis' money comes from investments in stocks and real estate. Operating through Financial Leasing Services, his San Francisco investment firm, Paul Pelosi owns stock in companies including Microsoft, AT&amp;T, Cisco Systems, Disney, Johnson &amp; Johnson and a variety of tech stocks.\nReal estate investments include a four-story office building at 45 Belden St. in the Financial District, office buildings on Battery and Sansome streets near the Embarcadero, a building housing a Walgreens drugstore near Ocean Beach and other commercial property in San Anselmo.\nOther investments include a St. Helena vineyard worth between $5 million and $25 million, a $1 million-plus townhome in Norden (Nevada County), and minority interests in the Auberge du Soleil resort hotel in Rutherford, the CordeValle Golf Club in San Martin, and the Piatti Italian restaurant chain.\"\n\nLook at the date of that article 2007. \n\n(https://www.sfgate.com/politics/article/Pelosi-s-husband-prefers-a-low-profile-2660253.php)",
+        "created_utc": 1625593216,
+        "id": "h49df75",
+        "score": 12,
+        "subreddit": "options",
+        "created": 1625622016.0
+    },
+    {
+        "author": "6151rellim",
+        "body": "That is scary to think. If I had a large sum to invest tomorrow I\u2019d be right on the fence between Microsoft or Amazon.",
+        "created_utc": 1625297154,
+        "id": "h3wd7xz",
+        "score": 12,
+        "subreddit": "stocks",
+        "created": 1625325954.0
+    },
+    {
+        "author": "Marquis77",
+        "body": "Nope. VMware does well with on prem virtualization but they are leagues behind AMZN/MSFT in terms of cloud capabilities.",
+        "created_utc": 1625593358,
+        "id": "h49dqjq",
+        "score": 12,
+        "subreddit": "stocks",
+        "created": 1625622158.0
+    },
+    {
+        "author": "_igg",
+        "body": "Been in a coma for a year, did MSFT hit 200 yet?",
+        "created_utc": 1625191614,
+        "id": "h3r8q2u",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1625220414.0
+    },
+    {
+        "author": "GoldDecision7",
+        "body": "Good job MSFT, AMD, and AAPL. I might actually financially recover from joining this place.",
+        "created_utc": 1625247693,
+        "id": "h3tw1c9",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1625276493.0
+    },
+    {
+        "author": "Shacrone",
+        "body": "sir I don't know why you think pltr can be compared to msft",
+        "created_utc": 1625334683,
+        "id": "h3xw3yo",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1625363483.0
+    },
+    {
+        "author": "klumpbin",
+        "body": "Yes. Amazon, Microsoft and google are all on the verge of bankruptcy, so you\u2019ve essentially missed the boat /s",
+        "created_utc": 1625548742,
+        "id": "h47gyhr",
+        "score": 11,
+        "subreddit": "StockMarket",
+        "created": 1625577542.0
+    },
+    {
+        "author": "1foxyboi",
+        "body": "SPY pays one, so does QQQ. \n\nAAPL MSFT too\n\nI would say not having a single dividend in a portfolio is the strategy outside the norm",
+        "created_utc": 1625440295,
+        "id": "h42nztf",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1625469095.0
+    },
+    {
+        "author": "DoesntUnderstandJoke",
+        "body": "I\u2019m amazing at selling covered calls. Msft 265c for $1.16. Now At $13. \n\nNice negative 10 bagger \ud83d\udcc8\ud83d\ude23\ud83d\udd2b",
+        "created_utc": 1625253307,
+        "id": "h3u9apz",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1625282107.0
+    },
+    {
+        "author": "throwitup1124",
+        "body": "Go look at the top ten companies 10, 20, 30 years ago and see where they\u2019re at today. In order to outperform the index, you\u2019re suggesting that these companies will continue to outperform over the long term. MSFT, AAPL, FB, GOOGL, V market caps are already at mega levels and it\u2019s a big assumption that they will continue to get bigger. While I do think they will continue to grow in the short/mid-term, I\u2019d be cautious on just owning the top ten.",
+        "created_utc": 1625173751,
+        "id": "h3q8ts1",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1625202551.0
+    },
+    {
+        "author": "schittluck",
+        "body": "MSFT all the way",
+        "created_utc": 1625268165,
+        "id": "h3v50zu",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1625296965.0
+    },
+    {
+        "author": "ShortPutAndPMCC",
+        "body": "But have you seen the returns of just \u201cblindly\u201d investing in solid stocks like Microsoft, Google, Amazon, NVDA, AMD, SEA, TSMC, etc? They beat my returns easily and I\u2019ve been following their price for 13 months. Makes me wonder why I followed them so long and didn\u2019t buy, but learnt options for only 5 months and decided to go into it just because I thought I could make it work.",
+        "created_utc": 1625563738,
+        "id": "h47y4eh",
+        "score": 11,
+        "subreddit": "options",
+        "created": 1625592538.0
+    },
+    {
+        "author": "BobandSteve",
+        "body": "I'm just gonna say, if fucking covid couldn't cause the crash of all crashes idk if its just gonna spontaneously happen.\n\nWhy would there be a correction to tech? What would make Apple or Microsoft lose 20% of market cap when they bring in a shit ton of cash. It can happen but I dont really buy inflation as the reason",
+        "created_utc": 1625435036,
+        "id": "h42eheb",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1625463836.0
+    },
+    {
+        "author": "uselessadjective",
+        "body": "Sorry dont agree, PE ratio of AMD is still 20  It used to be 70-80 till last year.\nCompartively nVidia's PE ratio is 80. AMZN and GOOGLE also in 50s.\n\nOut of all Tech stocks only AMD is undervalued right now. \n\nHave been holding all below stocks from last 4 years\n\nMSFT\nFB\nAMD\nNVIDIA\nTWTR\nAMZN\n\nAMD is gonna fly very soon.",
+        "created_utc": 1625346445,
+        "id": "h3yidwv",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1625375245.0
+    },
+    {
+        "author": "ACELUCKY23",
+        "body": "I feel like $MSFT is a stock everyone should have some money invested in at the moment. It\u2019s been very impressive as of late and I don\u2019t see things changing for some time.",
+        "created_utc": 1625243749,
+        "id": "h3tmk4g",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1625272549.0
+    },
+    {
+        "author": "TotheMoongirl21",
+        "body": "I bought the shares when Microsoft was $231 and still holding. This is my long term not selling stock.",
+        "created_utc": 1625258646,
+        "id": "h3ulgpa",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1625287446.0
+    },
+    {
+        "author": "Qarantyl",
+        "body": "Why is apple super expensive and msft only fair value, MSFT is trading at higher multiples than AAPL right now. I would say msft's 45x free cash flow is actually very overvalued. Its a great company but everyone seems to have such a hard on for it right now around here.",
+        "created_utc": 1625638261,
+        "id": "h4bs4lx",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1625667061.0
+    },
+    {
+        "author": "ImmySnommis",
+        "body": "About half is wrapped up in MSFT, GOOG, AAPL and COST. Another quarter or so is in DE, PSTH and TSM. The test is a smattering of speculative stuff that's kinda just for fun - stuff like SPCE, NIO, MYRG, and some SPACs.",
+        "created_utc": 1625422968,
+        "id": "h41qnnw",
+        "score": 10,
+        "subreddit": "investing",
+        "created": 1625451768.0
+    },
+    {
+        "author": "Sheeple81",
+        "body": "Does this mean Microsoft is a meme stock?",
+        "created_utc": 1625251595,
+        "id": "h3u5c5o",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1625280395.0
+    },
+    {
+        "author": "CokeRapThisGlamorous",
+        "body": "This thread is likely due to the JEDI contract news that broke today, announcing that MSFT will not be the Pentagon's sole cloud provider. AMZN and MSFT have risen/dropped as a result. I imagine Pelosi's position would make her privy to this news in advance of the general public. Could be a reach that this is the reasoning for the move though.",
+        "created_utc": 1625600624,
+        "id": "h49tuct",
+        "score": 10,
+        "subreddit": "options",
+        "created": 1625629424.0
+    },
+    {
+        "author": "Sweaty-Bumblebee4055",
+        "body": "AMD MSFT WISH let\u2019s GO",
+        "created_utc": 1625576659,
+        "id": "h48el9w",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1625605459.0
+    },
+    {
+        "author": "Overall-Jaguar-445",
+        "body": "ARKK-10.96%\n\nNVDA-35.68%\n\nQQQ-31.08%\n\nMSFT-22.28%",
+        "created_utc": 1625598462,
+        "id": "h49p0xw",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1625627262.0
+    },
+    {
+        "author": "YourInnate",
+        "body": "It's a matter of perspective and big picture stuff. If you bough a SPY leap the day before the market crashed last year from covid, and bought 100 shares the day before the crash in covid, the LEAP would be worth more today.\n\n2-5% a month seems super low, but options are a grind. When in doubt, zoom out. 2-5% a month is 25-60% a year. Consider the indexes historically return 10%, doubling that on your bad years and quintupling it on your good years seems like a good trade.\n\nAnother note, this past year has been a historic bull run/recovery for most of the stock market. You can't compare throwing money into microsoft or google and watching it appreciate vs selling options on the same underlying. Likewise, if you had been selling RIOT/MARA puts the first 4 months of the year, you could've been making 10% a week. \n\nEverything in the market is perspective. If you think 2-5% a month is too slow/boring... You might consider roulette.",
+        "created_utc": 1625587456,
+        "id": "h490gmj",
+        "score": 9,
+        "subreddit": "options",
+        "created": 1625616256.0
+    },
+    {
+        "author": "BigBrianBrand",
+        "body": "Alibaba is the best Buy and Hold example that fits your question. \n\nIt has perceived government regulation risk. Similar to what Facebook has been through these last 3 years. As long as the financials continue to grow, the stock will eventually skyrocket. \n\nEtsy, VRTX, nVidia, Apple, Facebook, Amazon, Google, Tesla, and Microsoft are also moderate risk picks in terms of their current price",
+        "created_utc": 1625176385,
+        "id": "h3qeph1",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1625205185.0
+    },
+    {
+        "author": "WhiskerTwister",
+        "body": "The real OGs remember losing money on MU 90 already.",
+        "created_utc": 1625126461,
+        "id": "h3nrqmp",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1625155261.0
+    },
+    {
+        "author": "duosharp",
+        "body": "I have a modest position in Infineon (listed in Germany). I also like Micron, but this is for the broader industry rather than automobiles. Don't see these two names mentioned in the sub often.",
+        "created_utc": 1625126619,
+        "id": "h3nrwx4",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1625155419.0
+    },
+    {
+        "author": "chilledcamo",
+        "body": "Somehow I get the feeling that my 88 MU FDs are not going to print\ud83e\udd21",
+        "created_utc": 1625126098,
+        "id": "h3nrc0s",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1625154898.0
+    },
+    {
+        "author": "BurritoBurglar9000",
+        "body": "Shits gunna hit 4350 today w/ good data. That would completely offset my MU losses!",
+        "created_utc": 1625125220,
+        "id": "h3nqcht",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1625154020.0
+    }
+]

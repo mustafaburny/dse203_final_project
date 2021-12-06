@@ -1,0 +1,290 @@
+[
+    {
+        "author": "investri",
+        "body": "I think this is a great take. And don\u2019t just limit your search to major processor suppliers.\n\nWould also look into companies that supply all of the peripheral chips for auto and consumer electronics (think TXN, ADI). Your average BOM includes 1 main processor, and many, many peripheral chips.. Peripheral chips are typically cheaper, less competitive, built on more stable processing nodes, and have high margins.\n\nOne other company of interest related to semiconductors is TER. Wide moat tester supplier for just about every one of these chip makers. The need for comprehensive test solutions is growing (arguably) faster than the semiconductor market itself, especially as INTC and AAPL are reaching their 5-7nm process nodes. \n\n- An engineer in the semiconductor industry",
+        "created_utc": 1611031763,
+        "id": "gjsroq6",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1611060563.0
+    },
+    {
+        "author": "RogueJello",
+        "body": "That's probably one of the best bear cases I've seen against INTC, I'll keep your points in mind.\n\nFab costs- I don't see how INTC survives without a fab.  If they do go fabless like AMD, I'd expect them to go down pretty quick.  It's the reason why they're able to get such high margins, it's what their entire design process is built around, and it's likely what's allowing them to maintain market share while AMD and NVidia face supply shortages.  However, you do raise a good point about ongoing costs.\n\nFab Under-utilitization.  Seems like they've gotten a ton of product out of 14 nm, to the point that it's become a running joke.  I heard your point about them not selling space to other companies, but this seems to be partially because nobody wants that space.  TSMC is the fab everybody goes to because they're not producing their own products, Intel has no such claims.\n\nToxic Culture - I've also heard the rumors, but having worked for a number of big companies there always seems to be the same old rumors.  MSFT, Oracle, etc have all had the same things said about them, and they continue to be successful.  Steve Jobs is like the prototypical toxic boss, waking people up at 3 am when they're sleeping under their desks to tell them their shit sucks.  Truth is that in a large enough company there's always going to be disgruntled employees, toxic bosses, and drama.\n\nI missed their CES, but I'll give you this point and the server loss.  I've heard enough about mix ups, and apparent bad communication between marketing and engineering.\n\nI'll also agree with you that this idea of the \"Great Man\" fixing things seems to be pretty dumb.  I don't think CEOs have anywhere near the impact people thing they do, any more than I think Jim Keller was going to do something amazing for them, or Bob Swan was the origin of all their problems.  Just not possible to have a large impact in an organization of 100K employees.\n\nAny particular reason for the 25-50% prediction?  Seems like it's already priced in with people arguing that NVidia and AMD are fair value.  If INTC traded at those same valuations, they would be a $255 per share company.  Even just trading at 25x P/E like, say Texas Instruments would double their price.",
+        "created_utc": 1611375338,
+        "id": "gkajt7z",
+        "score": 3,
+        "subreddit": "SecurityAnalysis",
+        "created": 1611404138.0
+    },
+    {
+        "author": "TheMailmanic",
+        "body": "Txn and adi are very attractive\n\nAsml and lrcx are needed by everyone\n\nEveryone is using tsmc fabs to make chips (and Samsung of course)",
+        "created_utc": 1611044339,
+        "id": "gjt80hx",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1611073139.0
+    },
+    {
+        "author": "BleedingDick6669",
+        "body": "TXN I work there and we ramping up production like crazy",
+        "created_utc": 1610549718,
+        "id": "gj47y86",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1610578518.0
+    },
+    {
+        "author": "TheGreatDuv",
+        "body": "I agree with the bullish side for RR. Invested before the share offering, and with the share offering cost basis dropped massively. Then the first vaccine news came out in December? Since then slowly wound out of the position at 70% profit.\n\nThat money has went into GME and once this is over the big drops in RR the past week have been very tempting to get back in hoping they get back on their feet in the long term.\n\nAlso the current CEO Warren East has had long term and successful positions at ARM Holdings and Texas instruments.\n\nI believe the bottom could be as low as 75p a share as that was the estimated value with the share offering taken into account at a pretty grim time. They have reached highs of 130p in December.\n\nThe main risk they face is time. Share price has went down since they've pushed back their timeframe for being cash-positive(?). However, I hope it stays here or gets a bit cheaper as I'm still bullish and would like a bargin again",
+        "created_utc": 1611975571,
+        "id": "glbrpcw",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1612004371.0
+    },
+    {
+        "author": "GoBeaversOSU",
+        "body": "Get a $TXN graphing calculator",
+        "created_utc": 1611197850,
+        "id": "gk0rdlq",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1611226650.0
+    },
+    {
+        "author": "808scripture",
+        "body": "&gt;$txn\n\nyou're betting on kids going back to school?",
+        "created_utc": 1611932724,
+        "id": "gl8ror6",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1611961524.0
+    },
+    {
+        "author": "taiwansteez",
+        "body": "Agreed! Don't forget QCOM, TXN, &amp; MU if you're making a semiconductor basket!",
+        "created_utc": 1611338627,
+        "id": "gk7olun",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1611367427.0
+    },
+    {
+        "author": "RogueJello",
+        "body": "&gt; For its part, MobilEye has already locked in TSMC 7nm as a contract months ago.\n\nI thought most of their stuff was all analog chips, ala Texas Instruments, and therefore didn't need to be on the bleeding edge.  Why do they care if it's 7 nm or 10 nm or even 14?",
+        "created_utc": 1610594580,
+        "id": "gj6v8si",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1610623380.0
+    },
+    {
+        "author": "Unlucky-Prize",
+        "body": "Totally, just be aware they tend to do it the way they do it, that's sometimes not what you want, and appealing it is a giant pain and you tend to lose. I just try not to even fight it at this point and avoid these situations unless they are cash settled or I have the shares to complete the txn.",
+        "created_utc": 1610664991,
+        "id": "gja6fik",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1610693791.0
+    },
+    {
+        "author": "Dontreadgud",
+        "body": "I know people aren't saying they agree, but I just counted 9 out of the whole list I don't have a problem with on the surface.   Texas instruments for one, I have like 7 calculators so I'd look at it.\n\nI like sharing and seeing these types of presentations put together though because it makes me consider different things I haven't before.  Right now I'm kind of wondering if I could make more money exploiting Navient than they've exploited out of me over the history of my never ending student loan",
+        "created_utc": 1611384964,
+        "id": "gkb8lv4",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1611413764.0
+    },
+    {
+        "author": "Travamoose",
+        "body": "Incorrect. \n\nFinite supply. \n\nEach Bitcoin can be broken into 100,000,000 satoshis (sat)\nYou can not have half a sat. \n\nMax supply is 21 mil \n\n11% of holdings belong to Satoshi Nakamoto and he will probably never move those coins. \n\nCoins in circulation is ~18.5m \nSo there are 18,500,000,000 sats. \nMore to be mined in the future to get to 21m and then the network relys on txn fees rather than txn+mining fees. \n\nThe whole reason that people want digital assets is that there is scarcity. \n(Excepting some of the shitcoin alts floating around with infinite supply. That I don't understand...)",
+        "created_utc": 1609678329,
+        "id": "ghy1zin",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1609707129.0
+    },
+    {
+        "author": "Unlucky-Prize",
+        "body": "Melvins best route would be to tweet they love the stock and show a txn report buying 1m shares. Lol. I wonder if wsb would explode from the cognitive dissonance.",
+        "created_utc": 1611972228,
+        "id": "glbkwc4",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1612001028.0
+    },
+    {
+        "author": "Darthbird1999",
+        "body": "Texas Instruments stonk \ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "created_utc": 1611943213,
+        "id": "gl9l7gq",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611972013.0
+    },
+    {
+        "author": "rbathplatinum",
+        "body": "Texas Instruments goes up 20%",
+        "created_utc": 1611944757,
+        "id": "gl9pgh4",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611973557.0
+    },
+    {
+        "author": "SignificanceDeep",
+        "body": "Txn? Why? \n\n??",
+        "created_utc": 1611070231,
+        "id": "gju6o91",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611099031.0
+    },
+    {
+        "author": "spliffykillah",
+        "body": "Tech companies reporting next week: AMD, TXN, AAPL, TSLA, MSFT, FB, LRCX, WDC, SWKS\n\u2014\u2014-&gt; BUY THE FUCKING DIP",
+        "created_utc": 1611323858,
+        "id": "gk6bwmc",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611352658.0
+    },
+    {
+        "author": "LordOfTheTennisDance",
+        "body": "I'm Bullish now on Texas Instruments! I believe that is Ti-83 that he used to make this iron balls move.",
+        "created_utc": 1611962385,
+        "id": "glb0fut",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611991185.0
+    },
+    {
+        "author": "geekybean89",
+        "body": "[SHOW YOUR GME STONK support and help St.Judes children hospital](https://www.customink.com/fundraising/wsb-power-to-the-players?pc=TXN-167778&amp;utm_campaign=fr_org_confirmation&amp;utm_source=fr_organizer_txn&amp;utm_medium=email&amp;utm_content=campaign)",
+        "created_utc": 1611876085,
+        "id": "gl5uyxk",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611904885.0
+    },
+    {
+        "author": "ImaginaryRobbie",
+        "body": "I'm holding for my mom and dad. We were not ruined by the various financial crashes through the last couple of decades, but I know it changed their life plans.    \n     \nMy dad had a pretty good job at Texas Instruments and got stock over the years. After the dot com crash, he started to be sent down a dead-end street of transfers to subsidiary companies. Eventually he lost the job he loved.    \nMy mom has always, nearly every single day for almost 20 years, always worked night shift at Parkland hospital. 7p - 7a. I know it wasn't because she liked it, though she did make friends. I always knew it was because the night shift made more than the day shift. She did this for many, many years before she (I'm so glad she did) retired March of last year, just before the pandemic set off.    \nNow, in the middle of all of this I have a brother with special needs. So between them going full steam on their jobs, they restlessly fight the state and county to get my brother support. It's very taxing, trying to talk with government officials.    \n    \nI will never forget when my mom said, \"We thought TI would get us through retirement, but it doesn't look like that's even a possibility now.\" I thought, \"this is it. We've lost it all.\"     \nBut my parents kept going. My mom kept working nights; my dad tried to get another job, but ended up spending a lot of his time taking care of us and learned how to cook very well, and he's now very well known in the Special Olympics circle and that's kind of become his life, his new passion, helping special needs kids.    \n    \nSo my family is okay now, but only because they worked very hard to keep themselves on track. For almost 20 years I only saw my mom a couple of hours every day, if even. I would maybe catch her when she got home, then she'd go to bed when I went to work, then we'd get together for dinner, and she would go back to the hospital.    \n    \nIt makes me tear up... but I'm holding this stock, and I know it won't get me back all the time with my mom, but hopefully it will let us have more fun times in the future to forget about how hard she's worked her whole life.",
+        "created_utc": 1612101220,
+        "id": "glh9quy",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1612130020.0
+    },
+    {
+        "author": "neuro_crit1",
+        "body": "Why is THBR getting hyped I don't understand. They haven't made any lidar related semiconductors yet to my understanding. Even if they do allegro microsystems and texas instruments are already way ahead of them in the technology and already selling their product.",
+        "created_utc": 1609538856,
+        "id": "ghrk6w1",
+        "score": 1,
+        "subreddit": "SPACs",
+        "created": 1609567656.0
+    },
+    {
+        "author": "rch25",
+        "body": "What are your positions? I\u2019ve got some TXN and LRCX, considering ASML &amp; AVGO.",
+        "created_utc": 1611231046,
+        "id": "gk1xqmx",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611259846.0
+    },
+    {
+        "author": "Wilko2324",
+        "body": "First time poster and relatively new to investing. Been casually investing small amount for few years without much idea of what I was doing. This year I cleared my debts and got some savings behind me so decided to start taking investing a little more serious. After doing a bit of educating I came up with a strategy and started signed up to T212. In total I have invested \u00a31000 to date and made around \u00a3170 in profit.\n\nMy portfolio consists of 13 stocks mostly safe divided paying stocks with a few small mining companies I have done my own DD on and like the direction they are going in. I have also included 4 ETFs.\n\nStocks\n\nV 9%\n\nAPPL 9%\n\nMSFT 9%\n\nJNJ 9%\n\nTXN 8%\n\nKO  5%\n\nMPW 4%\n\nRDW 4%\n\nSPT 2%\n\nGGP 2%\n\nKIFI 1%\n\nKOD 1%\n\nETFs\n\nUKDV 9%\n\nVHYL 9%\n\nSEDY 5%\n\nBATG 5%\n\nMy plan is to now start investing around \u00a3100 a month into this but would appreciate it if some more experienced investors could cast an eye over it and share there thoughts.\n\nI am 30, I\u2019m in full time employment (\u00a340k year annual salary) looking for long term investment with a long term goal of building towards retirement.",
+        "created_utc": 1611265782,
+        "id": "gk3wgjh",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1611294582.0
+    },
+    {
+        "author": "pacifiksound",
+        "body": "**Hi Guys,**\n\n**I\u2019d like some advice on my current portfolio ( \u20ac18000 )**  \n**I\u2019ve split it into different sector with these proportions :**\n\nBiotechnology 7% : iShares Nasdaq US Biotechnology UCITS ETF  \nclean energy 10% : iShares Global Clean Energy ETF  \nhealthcare 13% : iShares Healthcare Innovation HEAL  \nsemiconductors 15% : Stocks I picked up myself\\*  \nSocial Media 15% : Stocks I picked up myself\\*\\*  \nreal estate 5% : Stocks I picked up myself\\*\\*\\*  \nmetals 10% : WisdomTree Physical Precious Metals  \nsolar energy 10% : Stocks I picked up myself\\*\\*\\*\\*  \nGeneral 10% : Vanguard S&amp;P 500 ETF  \nDividend 5% : Vanguard High Dividend Yield\n\n**I\u2019m planning to fund it each month with \u20ac1000 with the proportions above.**  \n**Any suggestions on sector percentage allocation, Sectors to add, better ETF\u2019s,.. and so on are more than welcome !**\n\n^(\\*AMD 10% / Nvidia 10% / Intel 10% / Taiwan Semiconductors 8% / Qualcomm 7% / Broadcom 7% / Texas Instruments 7% / NXP 6% / Applied Materials 5% / Analog devices 5% / Lam Research 5% / Micron technology 4% / KLA 4% / ASML Holding NV 4% / Xilinx 4% / Microchip technology 4%)\n\n^(\\*\\*Tencent Holdings Ltd. 13% / Snap 12% / Facebook 12% / Twitter 9% / Match Group 8% / Baidu 7% / Pinterest 6% / Spotify 5% / Yandex 5% / Alphabet 5% / NetEase 5% / Bilibili 4% /)\n\n^(IAC/InteractiveCorp. 3% / Zynga Inc. Class A 3% / Tencent Music 2% / United Internet 1%)\n\n^(\\*\\*\\*Realty Income 10% / Vonvia 10% / CyrusOne 10 % / Digital Realty Trust 10% / Segro 10% / Prologis 10% / Deutsche Wohnen 8% / Healthpeak Properties 7% / Store Capital 5% / Stag Industrial 5% / Tritax Big Box REIT 5% / Innovative Industrial Properties 5% / LEG Immobilien 3% / Unibail Rodamco 2%)\n\n^(\\*\\*\\*\\*Enphase 22% / SolarEdge 19% / Sunrun 13% / First Solar 10% / JinkoSolar 7% / Daqo 7% / Hannon 7% / Canadian Solar 5% / Encavis 5% / SunPower 5%)\n\n**Thank you !**",
+        "created_utc": 1609875998,
+        "id": "gi7pj3e",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1609904798.0
+    },
+    {
+        "author": "zshift",
+        "body": "TI-84 in his desk, it's a sign to buy $TXN !!!!  \n\n\nI am not a financial advisor",
+        "created_utc": 1611942806,
+        "id": "gl9k1ez",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611971606.0
+    },
+    {
+        "author": "Pascalgreen",
+        "body": "A couple good ones tied to increase in autos - LSCC, ON, STM, TXN, NXPI\n5G plays - INSG, SWKS, MRVL, QCOM",
+        "created_utc": 1611792359,
+        "id": "gl0r0n7",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1611821159.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Thursday, the 28th of January\n\n\n\n## Upcoming events for Thursday, January 28th\n\n - Stock splits:\n\n    - LSI @ **3:2** (Payable date: 01/27/2021)\n\n - Expected earnings:\n\n  AAL, ABCB, ABMD, ABTX, ADS, AIT, AJG, AMAL, AMRB, ANIX, AOS, ATI, AX, BC, BPOP, BWB, BY, BZH, CBNK, CBTX, CE, CFB, CFFN, CFR, CLFD, CMCO, CMCSA, CNOB, CNX, COLB, CRS, CSTR, CVCO, CVLY, CZNC, DCOM, DHR, DLB, DOV, DOW, DVD, EBC, EBTC, EGHT, EMN, ETH, EWBC, EXP, FBIZ, FCFS, FFBC, FFIC, FFIN, FFNW, FHI, FIBK, FICO, FISI, FLEX, FLWS, FMBH, FRBA, FRME, GATX, GBCI, GFF, GHM, GSIT, HAYN, HBT, HFWA, HLI, HTBK, HTH, HWKN, HZO, IBCP, JBLU, JNPR, KEX, LUV, MA, MATW, MCBC, MCD, MDLZ, MITK, MIXT, MKC, MKC.V, MMC, MMYT, MO, MOFG, MRLN, MSBI, MSCI, MSTR, MTA, MTSI, MUR, MYFW, NATI, NOC, NTCT, NUE, NURO, NWFL, OCFC, OLN, OPBK, ORI, OSIS, PCB, PCSB, PFG, PHM, PNR, PVBC, RCI, RHI, RMD, RVSB, SBCF, SBFG, SHW, SIFY, SIGI, SILC, SMED, STBA, STM, STRT, SWK, SWKS, TBBK, TEAM, TOWN, TROW, TSCO, UBFO, USX, V, VLO, VLY, WDC, WRK, WTBA, X, XEL\n\n - Ex-div:\n\n  ADC, AES, AGNC, AOS, ARC, AVAL, BRMK, BSRR, CAG, CBAN, CCLP, CRT, CSWI, DNP, EFC, EPD, EV, FT, GEL, HMLP, KFFB, KNOP, LCUT, LEN, LEN.B, LNT, MAIN, MS, MSB, NNN, NWN, ORC, OSBC, OVBC, PAA, PAGP, PBT, PFE, PRT, PSEC, PSXP, SCHL, SCM, SJT, SKT, SLG, STAG, TCP, UNM, VRTS\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.070%)\n    - 7-Year Note Auction (previous: 0.662%)\n    - 8-Week Bill Auction (previous: 0.080%)\n    - Continuing Jobless Claims (consensus: 5,054K, previous: 5,054K)\n    - Core PCE Prices (consensus: 1.50%, previous: 3.40%)\n    - GDP (consensus: 4.0%, previous: 33.4%)\n    - GDP Price Index (consensus: 2.4%, previous: 3.7%)\n    - GDP Sales (previous: 25.9%)\n    - Goods Trade Balance (previous: -85.49B)\n    - Initial Jobless Claims (consensus: 875K, previous: 900K)\n    - Jobless Claims 4-Week Avg. (previous: 848.00K)\n    - KC Fed Composite Index (previous: 14)\n    - KC Fed Manufacturing Index (previous: 12)\n    - Natural Gas Storage (consensus: -136B, previous: -187B)\n    - New Home Sales (consensus: 1.9%, previous: -11.0%)\n    - New Home Sales (consensus: 865K, previous: 841K)\n    - PCE Prices (previous: 3.7%)\n    - Real Consumer Spending (previous: 41.0%)\n    - Retail Inventories Ex Auto (previous: 0.2%)\n    - US Leading Index (consensus: 0.3%, previous: 0.6%)\n    - Wholesale Inventories (previous: 0.0%)\n\n## Upcoming events for Friday, January 29th\n\n - Expected earnings:\n\n  AENZ, AMTB, ATLO, BAH, BBVA, BHAT, BMI, BRID, BSVN, CASS, CAT, CBFV, CHD, CHTR, CL, CPLP, CVX, CWBC, DSKE, EMCF, ERIC, ESXB, FBP, FCCY, FNCB, GENC, GNTX, HON, IBN, IHT, INTG, JCI, KFFB, KKR, LBAI, LHX, LLY, LYB, MOG.A, MOG.B, OPY, PFHD, PFIS, PFS, PIPR, PSX, PSXP, RBCAA, RDY, RIVE, RMBI, ROLL, ROP, SAP, SCX, SF, SMFG, SMMF, SYF, TCFC, TMP, TWIN, WETF, WY\n\n - Ex-div:\n\n  ALLY, ALX, AON, APOG, ATLO, BK, BMO, BMTC, C, CASY, CNBKA, CZNC, DMLP, ENLC, GLP, HFBL, KMI, KRP, LYTS, MMC, NRG, NVEC, O, OKE, ORRF, OVLY, PAYX, PBCT, PETS, PFBI, PKBK, PLBC, PNW, RBB, SBNY, SPFI, STL, TRGP, TXN, UNB, VALU, VNO, VOC, WES\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 3.1K)\n    - CFTC Copper speculative net positions (previous: 68.1K)\n    - CFTC Corn speculative net positions (previous: 528.7K)\n    - CFTC Crude Oil speculative net positions (previous: 508.6K)\n    - CFTC Gold speculative net positions (previous: 246.6K)\n    - CFTC Nasdaq 100 speculative net positions (previous: 31.6K)\n    - CFTC Natural Gas speculative net positions (previous: 14.0K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -1.9K)\n    - CFTC Silver speculative net positions (previous: 52.0K)\n    - CFTC Soybeans speculative net positions (previous: 226.7K)\n    - CFTC Wheat speculative net positions (previous: 39.0K)\n    - Chicago PMI (consensus: 58.5, previous: 58.7)\n    - Core PCE Price Index (consensus: 0.1%)\n    - Core PCE Price Index (consensus: 1.3%, previous: 1.4%)\n    - Dallas Fed PCE (previous: 0.50%)\n    - Employment Benefits (previous: 0.60%)\n    - Employment Cost Index (consensus: 0.5%, previous: 0.5%)\n    - Employment Wages (previous: 0.40%)\n    - Michigan 5-Year Inflation Expectations (previous: 2.70%)\n    - Michigan Consumer Expectations (previous: 73.8)\n    - Michigan Consumer Sentiment (consensus: 79.2, previous: 79.2)\n    - Michigan Current Conditions (previous: 87.7)\n    - Michigan Inflation Expectations (previous: 3.0%)\n    - PCE Price index (previous: 1.1)\n    - PCE price index\n    - Pending Home Sales (consensus: -0.1%, previous: -2.6%)\n    - Pending Home Sales Index (previous: 125.7)\n    - Personal Income (consensus: 0.1%, previous: -1.1%)\n    - Personal Spending (consensus: -0.4%, previous: -0.4%)\n    - Real Personal Consumption (previous: -0.4%)\n    - U.S. Baker Hughes Oil Rig Count (previous: 287)\n    - U.S. Baker Hughes Total Rig Count (previous: 373)\n\n^^^^2021-01-28",
+        "created_utc": 1611831619,
+        "id": "gl2nxch",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1611860419.0
+    },
+    {
+        "author": "nubbiecakes_",
+        "body": "I'm using robinhood. They do a fake txn to your bank to verify it, says it'll be 3-5 business days. Once that is done, as someone else mentioned, they'll spot your up to 1k for trading while a transfer (of equal of greater value) is being processed.",
+        "created_utc": 1611776592,
+        "id": "gkznjrt",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611805392.0
+    },
+    {
+        "author": "TheMailmanic",
+        "body": "I also hold asml.  Looking at lrcx, adi, and txn as well",
+        "created_utc": 1610573469,
+        "id": "gj5onrk",
+        "score": 0,
+        "subreddit": "investing",
+        "created": 1610602269.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Friday, the 29th of January\n\n\n\n## Upcoming events for Friday, January 29th\n\n - Stock splits:\n\n    - MDRPF @ **1:10**\n\n - Expected earnings:\n\n  AENZ, AMTB, ATLO, BAH, BBVA, BHAT, BMI, BRID, BSVN, CASS, CAT, CBFV, CHD, CHTR, CL, CPLP, CVX, CWBC, DSKE, EMCF, ERIC, ESXB, FBP, FCCY, FNCB, GENC, GNTX, HON, IBN, IHT, INTG, JCI, KFFB, KKR, LBAI, LHX, LLY, LYB, MOG.A, MOG.B, OPY, PFHD, PFIS, PFS, PIPR, PSX, PSXP, RBCAA, RDY, RIVE, RMBI, ROLL, ROP, SAP, SCX, SF, SMFG, SMMF, SYF, TCFC, TMP, TWIN, WETF, WY\n\n - Ex-div:\n\n  ALLY, ALX, AON, APOG, ATLO, BK, BMO, BMTC, C, CASY, CNBKA, CZNC, DMLP, ENLC, GLP, HFBL, KMI, KRP, LYTS, MMC, NRG, NVEC, O, OKE, ORRF, OVLY, PAYX, PBCT, PETS, PFBI, PKBK, PLBC, PNW, RBB, SBNY, SPFI, STL, TRGP, TXN, UNB, VALU, VNO, VOC, WES\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 3.1K)\n    - CFTC Copper speculative net positions (previous: 68.1K)\n    - CFTC Corn speculative net positions (previous: 528.7K)\n    - CFTC Crude Oil speculative net positions (previous: 508.6K)\n    - CFTC Gold speculative net positions (previous: 246.6K)\n    - CFTC Nasdaq 100 speculative net positions (previous: 31.6K)\n    - CFTC Natural Gas speculative net positions (previous: 14.0K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -1.9K)\n    - CFTC Silver speculative net positions (previous: 52.0K)\n    - CFTC Soybeans speculative net positions (previous: 226.7K)\n    - CFTC Wheat speculative net positions (previous: 39.0K)\n    - Chicago PMI (consensus: 58.5, previous: 58.7)\n    - Core PCE Price Index (consensus: 0.1%)\n    - Core PCE Price Index (consensus: 1.3%, previous: 1.4%)\n    - Dallas Fed PCE (previous: 0.50%)\n    - Employment Benefits (previous: 0.60%)\n    - Employment Cost Index (consensus: 0.5%, previous: 0.5%)\n    - Employment Wages (previous: 0.40%)\n    - FOMC Member Daly Speaks\n    - FOMC Member Kaplan Speaks\n    - Michigan 5-Year Inflation Expectations (previous: 2.70%)\n    - Michigan Consumer Expectations (previous: 73.8)\n    - Michigan Consumer Sentiment (consensus: 79.2, previous: 79.2)\n    - Michigan Current Conditions (previous: 87.7)\n    - Michigan Inflation Expectations (previous: 3.0%)\n    - PCE Price index (previous: 1.1)\n    - PCE price index\n    - Pending Home Sales (consensus: -0.1%, previous: -2.6%)\n    - Pending Home Sales Index (previous: 125.7)\n    - Personal Income (consensus: 0.1%, previous: -1.1%)\n    - Personal Spending (consensus: -0.4%, previous: -0.4%)\n    - Real Personal Consumption (previous: -0.4%)\n    - U.S. Baker Hughes Oil Rig Count (previous: 287)\n    - U.S. Baker Hughes Total Rig Count (previous: 373)\n\n## Upcoming events for Monday, February  1st\n\n - Expected earnings:\n\n  ADUS, AKTS, AMG, ARE, ARLP, BCBP, BCH, CACC, CBT, CRUS, CSWC, CZWI, EZPW, FN, FNWB, FUSB, HLIT, HONE, IBTX, ITUB, IX, KMPR, KMT, KRC, LBRDA, LBRDK, LND, LUB, MNOV, MRBK, MTSC, NRIM, NSSC, NTP, NXPI, OMCL, ON, OTIS, OXLC, PBHC, PCH, QTNT, RBC, RGCO, RMBS, RMR, RYAAY, SBT, SKY, SVBI, SXI, TESS, TMO, VRTX, WMG, WWD\n\n - Ex-div:\n\n  CAPL, CPLP, CRS, DGICA, DGICB, DKL, FAM, FCCO, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, FTHY, HAS, HEP, IGD, IID, ITUB, LMRK, SAFM, SHLX, SPH, SRCE, SRLP, SXT, TACO, TGP, WSR\n\n - Economic events and announcements:\n\n    - Construction Spending (consensus: 0.7%, previous: 0.9%)\n    - ISM Manufacturing Employment (previous: 51.7)\n    - ISM Manufacturing New Orders Index (previous: 67.5)\n    - ISM Manufacturing PMI (consensus: 60.0, previous: 60.5)\n    - ISM Manufacturing Prices (consensus: 65.7, previous: 77.6)\n    - Loan Officer Survey\n    - Manufacturing PMI (previous: 59.1)\n\n^^^^2021-01-29",
+        "created_utc": 1611918014,
+        "id": "gl7zrca",
+        "score": 0,
+        "subreddit": "RobinHood",
+        "created": 1611946814.0
+    },
+    {
+        "author": "LoLRabb1t",
+        "body": "all in on  $txn",
+        "created_utc": 1611932636,
+        "id": "gl8rfam",
+        "score": -1,
+        "subreddit": "wallstreetbets",
+        "created": 1611961436.0
+    },
+    {
+        "author": "Sufficient-Struggle7",
+        "body": "Nano is good but cardano is the third generation blockhain tech where coins can be made on. Plus it has staking rewards. Completely scaleable, decentralized, audited, peer reviewed, multiple txn in 1 txn, cheapy, fast, Cardano is really the way. They even have a eth smart contract convertor.",
+        "created_utc": 1611839512,
+        "id": "gl2zu0m",
+        "score": -2,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1611868312.0
+    }
+]

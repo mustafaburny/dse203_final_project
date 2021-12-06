@@ -1,0 +1,479 @@
+[
+    {
+        "author": "dwdsquared2",
+        "body": "**Events in the US Today (EDT):**\n\n* 8:55am - Redbook (YoY&amp;MoM) \\[1/3 Volatility\\]\n* 9:00am - S&amp;P/CS HPI Composite Data \\[2/3 Volatility\\]\n* 10:00am - CB Consumer Confidence (Jul) \\[3/3 Volatility\\]\n   * Richmond Manuf. &amp; Services Index, Shipments (Jul) \\[1/3 Volatility\\]\n   * The Senate convenes for session\n* 10:30am - Dallas Fed Services Revenue (Jul) \\[1/3 Volatility\\]\n   * Texas Services Sector Outlook (Jul) \\[1/3 Volatility\\]\n* 4:30pm - API Weekly Crude Oil Stock \\[2/3 Volatility\\]\n* Investors are betting setbacks in the fight against the coronavirus will lead Federal Reserve Chairman Jerome Powell to signal Wednesday that rates will stay near zero for longer\n   * The Federal Open Market Committee holds its policy meeting **today**, with an **a****nnouncement due on Wednesday**\n* Senate Republicans presented a $1 trillion proposal as a first step toward negotiating a compromise with Democrats, who\u2019ve offered their own $3.5 trillion plan\n   * Headlining the proposal is a reduction of the enhanced unemployment insurance from $600 to $200 per week\n   * The HEALS Act will also include another round of direct checks to some Americans that will mirror those that were distributed after the CARES Act was approved in late March. The proposal would give a one-time check to those making up to $75,000 a year, with the amount winding down before it hits the $99,000 income ceiling\n   * It also includes $1.75 billion for construction of new FBI building\n*  U.S. second-quarter GDP is expected on Thursday\n\n**Events in the World Today (EDT):**\n\n* 8:30am - Brazil Current Account (USD-Jun) \\[1/3 Volatility\\]\n* 2:00pm - Brazil CAGED Net Payroll Jobs \\[2/3 Volatility\\]\n* 9:30pm - Australia CPI (QoQ-Q2) \\[3/3 Volatility\\]\n   * Australia Trimmed Mean CIP (QoQ-Q2) \\[2/3 Volatility\\]\n* The ECB extended its recommendation that banks pay no dividends by another six months to the end of the year\n\n**Earnings Before Open:**\n\n* Pfizer, McDonald's, 3M, Raytheon Technologies, Centene Corp., Altria, jetBlue, Harley Davidson, Sherwin Williams, LabCorp\n\n**Earnings After Close:**\n\n* AMD, Visa, eBay, Starbucks, Dexcom, FireEye, Akamai, Amgen, Oneok, Avis Budget Group\n\n[Earnings This Week](https://i.redd.it/6i19e9do82d51.jpg)",
+        "created_utc": 1595934704,
+        "id": "fzi2lmm",
+        "score": 33,
+        "subreddit": "wallstreetbets",
+        "created": 1595963504.0
+    },
+    {
+        "author": "bumblebear3012",
+        "body": "Neither of these names are speculative. In fact, I believe both companies - should they continue to position themselves accordingly - have one of the longest growth runways of any stocks on the market. I realize that is quite the statement, but most of the analysts and commentators have not had a full understanding of the technologies on offer or the potential end-markets these two can service (I suppose you can throw Akamai into the mix, but they\u2019ve been slower to get into the edge computing game). \n\nA lot of people have almost exclusively characterized these two as CDN providers. A content delivery network utilizes edge servers (servers placed at a geographical proximity closer to the end-user) to cache web content (text, images, videos, etc.) from websites and applications so that they can be sent to a web client more quickly and more securely. \n\nHowever, that is just one part of what these companies offer. The real promise for me is 5G and IoT. As the 5G buildout matures, it will be more economical to deploy IoT devices for a greater breadth of companies. Because of this, there will be an exponential demand for data transmission. Projections have put the growth of the global datasphere at nearly 300% over the next four years alone. \n\nSecurity will be huge in this type of computing environment, more so than today even, as sensors and IoT devices track and manage the performance of logistics, industrial, and transportation systems. Despite numerous advantages of edge computing, it also increases the number of attack vectors for network intrusion. Therefore security offerings and DDoS mitigation capacity will be big selling points for IoT customers to choose a network provider. \n\nWhile the CDN market will continue to grow at a fairly consistent pace as more people work from home, stream video, do shopping online, etc., the broader edge computing market will probably end up dwarfing the CDN market in terms of size. \n\nFor me, you can definitely say the valuations are stretched - on pretty much any metric. At the same time, I don\u2019t think the TAM that these companies are exposed to is being fully taken into account. Neither is the fact that this is a mega-trend that will likely not run its full course until 2030 or 2035. \n\nRisks are that they lose competitive positioning, end-market demands shift, too much spending on the network prevents profitability and multiples eventually shrink as growth comes down. I\u2019m sure new ones could emerge, but it\u2019s not hard for me to see how these companies can continue to execute and sustain richer valuations. Especially in the case of Cloudflare, with their margins, they have the potential to be a cash cow.",
+        "created_utc": 1595802206,
+        "id": "fzcgkit",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1595831006.0
+    },
+    {
+        "author": "notbrokemexican",
+        "body": "I have heavy DD in my profile on this subject.\n\nIn a nutshell; cloudflare is cybersec and IT cloud. Fastly is media optimization (aka video gold mine).\n\nThe CDN industry is not a zero sum game. cloudflare is more of a competitor to Akamai. Limelight Networks is more of a competitor to Fastly.\n\n\nThey share a lot of the same mechanics but the differentiator is their product focus. High quality speed only makes privacy less of a business risk and they don't charge you more for getting DDoSed. \n\nFastly will give you cheap and quality video services.\n\nNeither lock you into a vendor like Azure or AWS.",
+        "created_utc": 1594586459,
+        "id": "fxv3cq7",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1594615259.0
+    },
+    {
+        "author": "PM_Me_Ur_Greyhound",
+        "body": "Three plays. Various timelines.\n\nImmediate: Akamai Technologies (AKAM). Cyber infrastructure play. Meh company but trading at a significant discount to its peers. Earnings Tuesday.\n\nMedium: SuRo Capital (SSS). Large investment in Palantir and two e-education start ups that are about to IPO. NAV is around $12/share, right now trading in the mid $13s.\n\nLong: VanEck Vectors Vietnam (VNM). Already did a rant about why I think this will be good. Dong is stabilizing, economy growing, zero covid deaths. Just need Vingroup CEO not to die in the next 5 years.",
+        "created_utc": 1595777876,
+        "id": "fzb56rq",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1595806676.0
+    },
+    {
+        "author": "ejobit",
+        "body": "&gt;AKAM\n\nJust looked at AKAM charts - was $300+ in 99 then under $1 in 2002.",
+        "created_utc": 1595778348,
+        "id": "fzb63ff",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1595807148.0
+    },
+    {
+        "author": "knowledgemule",
+        "body": "i think when it was first ipo'd it was in a weird no man's land of healthcare and tech and now the multiple clearly endorses the tech view. I met w/ them at a conference and it all makes sense to me. clearly costs too high - this is a very cheap total cost ownership thing that is sold to who actually cares about the costs being too high, your employer lol. The healthcare system wants them higher forever. Do some light searches in the diabetes forums about LVGO - will be helpful too. If they become a defacto standard it really gets going. All in all seems like an \"obviously\" good idea. \n\nMeanwhile CDNs lol. i have done a lot work and it's clear they have some special execution going on at FSLY, but AKAM invented this category and has only ceded share",
+        "created_utc": 1594156356,
+        "id": "fx8vmgt",
+        "score": 2,
+        "subreddit": "SecurityAnalysis",
+        "created": 1594185156.0
+    },
+    {
+        "author": "gzaw1",
+        "body": "As a website owner cloudflare is the premier/leading CDN for individual website owners.  \n\nIf you\u2019re enterprise, you\u2019re more likely to use someone like fastly or akamai.",
+        "created_utc": 1594616663,
+        "id": "fxwgh8w",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1594645463.0
+    },
+    {
+        "author": "ZeroBullshitMan",
+        "body": "I like cloudflare a lot. I moved my DNS / CDN management off Azure and to them. They let you manage domains, conduct filtering and redirect HTTPS traffic. All for free!\n\nIt's a great way to get new customers. If I need one of the paid services they provide, it's much simpler to keep all my shit on Cloudflare.\n\nBut they've been around a while and have a lot of competitors.\n\nYou should look up Akamai, I think almost all Facebook content is hosted via them. But I haven't been on Facebook in about 12 years.\n\nAlso Fastly is a bit of s growth stock. Can't be 100% they won't fall over, but they're much younger.",
+        "created_utc": 1595146119,
+        "id": "fyjhwpk",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1595174919.0
+    },
+    {
+        "author": "bumblebear3012",
+        "body": "Adobe, Akamai, Square, Doordash are among the clients and there are some pretty talented developers and data scientists at those companies. \n\nPlus AWS, Azure, and Google Cloud aren\u2019t synced with Salesforce data. Companies are increasingly looking to avoid over-reliance on a single cloud vendor. \n\nThose factors, combined with the extremely flexible pricing, provide enough of a need for their 2000 enterprise customers by the looks of it.",
+        "created_utc": 1595654361,
+        "id": "fz652ft",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1595683161.0
+    },
+    {
+        "author": "surmoiFire",
+        "body": "LLNW posted surprise earning (0.03 vs 0.01 est) \ngoing to see if i could pick up some NET FSLY AKAM call tomorrow\nwish me luck \ud83d\ude0c",
+        "created_utc": 1595309274,
+        "id": "fyqlgpr",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1595338074.0
+    },
+    {
+        "author": "AnonZeit",
+        "body": "ATVI and AKAM but I need 10x baggers bru bru",
+        "created_utc": 1595558630,
+        "id": "fz1tv37",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1595587430.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the 27th of July\n\n\n\n## Upcoming events for Monday, July 27th\n\n - Stock splits:\n\n    - FMO @ **1:5**\n    - MCC @ **1:20**\n\n - Expected earnings:\n\n  ABCB, ACI, AGNC, AMG, AMKR, ARE, ARLP, AVY, BOH, BRO, BSVN, CATY, CBU, CINF, CMRE, CR, CSBR, CX, DGICA, DSX, EHC, EQT, FBMS, FFIV, FIBK, FIX, FRBA, FRTA, FSB, GOOD, HAS, HBMD, HBT, HMST, HSII, HSTM, HTLF, HXL, IBA, IVAC, JBT, JJSF, LECO, LKFN, LM, LXFR, MEDP, MEDS, MMLP, MNSB, NBTB, NOV, NWBI, NXPI, OGS, OMF, PCH, PFG, PMBC, PPBI, PRK, QCRH, QTS, RBB, RNST, RPM, SALT, SAP, SBFG, SI, SMBC, SSD, TBI, TCF, TESS, TFII, TNET, UHS, USAK, VCRA, VET\n\n - Ex-div:\n\n  CVLY, FAST, SAFM\n\n - Economic events and announcements:\n\n    - 2-Year Note Auction (previous: 0.193%)\n    - 3-Month Bill Auction (previous: 0.120%)\n    - 5-Year Note Auction (previous: 0.330%)\n    - 6-Month Bill Auction (previous: 0.130%)\n    - Core Durable Goods Orders (consensus: 3.5%, previous: 3.7%)\n    - Dallas Fed Mfg Business Index (previous: -6.1)\n    - Durable Goods Orders (consensus: 7.2%, previous: 15.7%)\n    - Durables Excluding Defense (previous: 15.3%)\n    - Goods Orders Non Defense Ex Air (consensus: 2.3%, previous: 1.6%)\n    - Investing.com Gold Index (actual: 52.6%, previous: 50.9%)\n    - Investing.com S&amp;P 500 Index (actual: 41.0%, previous: 40.0%)\n\n## Upcoming events for Tuesday, July 28th\n\n - Stock splits:\n\n    - EMO @ **1:5**\n    - CEM @ **1:5**\n    - CTR @ **1:5**\n\n - Expected earnings:\n\n  AAT, ABG, ACCO, AFL, AGYS, AKAM, ALRS, AMAL, AMD, AMED, AMGN, APAM, APEN, ARCH, ASC, ASH, ATEN, ATRC, AUDC, AWI, AXS, B, BDGE, BE, BEN, BGFV, BPFH, BSBR, BUSE, BXP, BYD, CAC, CAR, CATC, CB, CCS, CE, CHRW, CMI, CNC, COWN, CSGP, CSLT, CSV, CVLT, CYH, DCOM, DENN, DHI, DTE, DXCM, EBAY, EBMT, ECL, EDU, EGP, EIX, ENVA, EQR, FBC, FBP, FCF, FELE, FEYE, FTV, GLW, GSS, HA, HAFC, HBCP, HIW, HLI, HOG, HP, HRZN, HUN, IBCP, IBTX, IMAX, IRDM, IVZ, JBLU, JNPR, LBC, LBRT, LH, LSCC, LW, MASI, MCD, MDC, MDLZ, MLM, MMM, MO, MPWR, MRC, MSCI, MTDR, MXIM, NBR, NEO, NWE, OKE, OMCL, OVV, OXSQ, PEGA, PFC, PFE, PII, PJT, PKG, PKI, PLT, PRGX, PRLB, PROV, QUMU, RCKY, RDHL, RNR, ROK, ROP, RRD, RTX, RVSB, RXN, SAN, SBUX, SHW, SIFY, SITC, SPGI, SPN, SQNS, SSNC, SSTK, ST, STAG, STX, SYX, TCS, TENB, THFF, THG, TPB, TRMK, TRU, TRVG, UDR, UMBF, UNM, USX, V, VBTX, WAB, WAT, WDR, WH, WNC, WNEB, WRE, XGN, XRX, YNDX, ZBRA\n\n - Ex-div:\n\n  AMRB, ATR, CFG, CLX, ENTG, GBX, WST\n\n - Economic events and announcements:\n\n    - 7-Year Note Auction (previous: 0.511%)\n    - API Weekly Crude Oil Stock (previous: 7.544M)\n    - CB Consumer Confidence (consensus: 94.5, previous: 98.1)\n    - Dallas Fed Services Revenues (previous: 5.7)\n    - Redbook (previous: -7.5%)\n    - Redbook (previous: 1.9%)\n    - Richmond Manufacturing Index (previous: -27)\n    - Richmond Manufacturing Shipments (previous: -1)\n    - Richmond Services Index (previous: -28)\n    - S&amp;P/CS HPI Composite - 20 n.s.a. (consensus: 4.0%, previous: 4.0%)\n    - S&amp;P/CS HPI Composite - 20 n.s.a. (previous: 0.9%)\n    - S&amp;P/CS HPI Composite - 20 s.a. (consensus: 0.3%, previous: 0.3%)\n    - Texas Services Sector Outlook (previous: 2.1)\n\n## Upcoming events for Wednesday, July 29th\n\n - Expected earnings:\n\n  AAN, ACGL, ADM, ADP, AEGN, AEM, AER, AGI, AHCO, AHT, AIN, AJRD, ALG, ALGT, ALIM, ALKS, ALTA, ALTM, AM, AMP, ANTM, APA, APHA, APLS, APRN, AQMS, AR, ARCB, ASGN, ATNI, AVB, AVGR, AVTR, AX, AXTA, BA, BBVA, BCO, BDC, BG, BHLB, BKCC, BKU, BLKB, BOOT, BSGM, BSMX, BSX, BTU, BXMT, CAKE, CBL, CCI, CCJ, CDE, CERN, CF, CFFN, CFMS, CGNX, CHDN, CHE, CHEF, CHT, CLS, CME, CMO, CMPR, CNMD, CODI, CONE, CORR, CPAC, CPF, CPLP, CRHM, CRTO, CS, CTO, CTSH, CVEO, CXO, DIN, DRE, DRTT, DT, DX, EEFT, EGOV, ENB, EPD, EQC, EQIX, ESRT, ETN, ETR, EVBN, EXEL, EZPW, FB, FBHS, FCPT, FICO, FISI, FLOW, FSS, FTI, GAIN, GD, GE, GIB, GLDD, GM, GRFS, GRMN, GWB, HBB, HBNC, HES, HESM, HI, HOLX, HOME, HPP, HWKN, ILPT, INOV, IO, IPG, IRT, ISBC, JAKK, JCS, JHG, JRVR, KAMN, KGC, KLIC, KN, KRA, KRC, KTOS, LADR, LFUS, LIVN, LRCX, LXU, LYG, MAA, MANT, MC, MCO, MEET, MEOH, MFG, MGLN, MGRC, MHH, MHO, MKSI, MLVF, MMSI, MNRO, MOBL, MPX, MSEX, MTOR, MTSI, MUFG, MYRG, NEXA, NGVT, NLS, NLY, NMM, NMR, NOA, NOVA, NOW, NSC, NSCO, NYCB, OC, OCX, OII, OIS, OMC, ONDK, ORLY, ORN, PAG, PB, PDM, PEIX, PGRE, PI, PPC, PS, PTC, PYPL, QCOM, QEP, QRVO, R, RAIL, RDWR, RDY, RES, RGCO, RIG, RJF, ROIC, ROL, RYI, SAIA, SANM, SBBP, SBH, SBPH, SC, SCI, SDPI, SFM, SGC, SHOO, SHOP, SIGI, SIMO, SITE, SIX, SKY, SLAB, SLRX, SMG, SNY, SP, SPFI, SPG, SPOT, SRDX, SREV, SRI, STRA, SWIR, TAK, TARO, TBIO, TBPH, TDOC, TEL, TGI, TKC, TLRD, TMDI, TPC, TPL, TRNO, TROW, TROX, TRTX, TS, TSE, TSEM, TSU, TT, TTEK, TTMI, TUP, TX, TYL, UCTT, URI, UTHR, UVE, VAC, VGZ, VICI, VKTX, VNDA, VSEC, VTVT, WERN, WHD, WING, WIRE, WLL, WRI, WTI, WTRE, XAN, YUM, YUMC\n\n - Ex-div:\n\n  AM, BPMP, ERF, FRC, HMLP, KNOP, MSB, PVBC\n\n - Economic events and announcements:\n\n    - Crude Oil Imports (previous: -0.076M)\n    - Crude Oil Inventories (consensus: -2.088M, previous: 4.892M)\n    - Cushing Crude Oil Inventories (previous: 1.375M)\n    - Distillate Fuel Production (previous: -0.097M)\n    - EIA Refinery Crude Runs  (previous: -0.103M)\n    - EIA Weekly Distillates Stocks (consensus: -0.618M, previous: 1.073M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.5%, previous: -0.2%)\n    - FOMC Press Conference\n    - FOMC Statement\n    - Fed Interest Rate Decision (consensus: 0.25%, previous: 0.25%)\n    - Gasoline Inventories (consensus: -1.386M, previous: -1.802M)\n    - Gasoline Production (previous: -0.016M)\n    - Goods Trade Balance (previous: -75.26B)\n    - Heating Oil Stockpiles (previous: -0.750M)\n    - MBA 30-Year Mortgage Rate (previous: 3.20%)\n    - MBA Mortgage Applications (previous: 5.1%)\n    - Pending Home Sales (consensus: 15.3%, previous: 44.3%)\n    - Pending Home Sales Index (previous: 99.6)\n    - Retail Inventories Ex Auto (previous: -1.6%)\n    - Seevol Cushing Storage Report (previous: 0.769M)\n    - Wholesale Inventories (previous: -1.2%)\n\n## Upcoming events for Thursday, July 30th\n\n - Expected earnings:\n\n  AAPL, ABTX, ACA, ADSW, AGCO, AGIO, AIMT, AINC, AJG, ALXN, AMSF, AMT, AMZN, ANIK, AOS, APO, APTV, ARI, ARW, ASPN, ATR, ATUS, AZN, BAND, BAX, BC, BGCP, BGS, BHR, BIO, BLDR, BPMC, BRKS, BSAC, BUD, BVN, BZH, CARR, CARS, CASA, CBTX, CBZ, CC, CCC, CFR, CG, CGEN, CI, CLF, CMCO, CMCSA, CNHI, CNOB, CNX, CNXM, COG, COHU, COLM, COOP, COP, COR, CPG, CPT, CRAI, CROX, CRS, CRY, CUBI, CUZ, CVA, CWT, CXP, DAN, DBD, DCO, DD, DECK, DLA, DLR, DLX, DNKN, DRQ, DSPG, DVA, EA, EBS, EGHT, EGO, EKSO, ELAN, ERII, ERJ, ESXB, EVLO, EXAS, EXP, EXPE, EXPO, F, FCN, FHI, FLEX, FLS, FMBH, FMS, FND, FORM, FORR, FTAI, FTS, FWRD, GHM, GIL, GILD, GLPI, GNRC, GOOG, GOOGL, GPC, GPI, GRA, GTX, HBI, HGV, HIG, HOPE, HST, HTGC, HTH, HUBB, HUBG, HURN, ICE, IDA, INFI, INT, IP, IRMD, ISDR, ITGR, JILL, K, KDP, KEX, KHC, KNSL, LAWS, LIN, LKQ, LLY, LNTH, LOCO, LPLA, LTC, LXRX, MA, MAS, MATW, MD, MDRX, MELI, MERC, MGM, MGNX, MGPI, MHK, MITK, MIXT, MMC, MMP, MN, MOH, MPW, MSA, MT, MTA, MTD, MTLS, MTX, MTZ, MWK, MX, MYE, NATI, NEM, NOC, NTCT, NTUS, NVCR, NVST, NXGN, ODFL, OFC, ONEW, OPI, ORBC, ORC, OSK, PATK, PBI, PCG, PEB, PFPT, PFS, PG, POWI, PQG, PRFT, PRO, QDEL, RDFN, RDS.A, RGEN, ROG, RP, RTRX, SAH, SEM, SGEN, SHAK, SIRI, SKYW, SNDR, SO, SOI, SPSC, SPXC, SSB, STBA, SWK, SWN, SYK, TAL, TAP, TBBK, TEAM, TEX, TFX, TIGO, TMHC, TNC, TNDM, TPX, TRP, TRS, TW, TWOU, TXT, ULH, UPS, UTL, VC, VCYT, VLO, VRAY, VRTU, VRTX, WEX, WLTW, WM, WRTC, WWE, WYND, X, XEL, XFOR, XHR, XLNX, XPO, XYL, ZEN\n\n - Ex-div:\n\n  AGNC, ALLY, AOS, ATLO, AVAL, BMRC, BRMK, BSRR, CADE, CCLP, COST, CRT, CSWI, DCP, DD, DNP, EFC, ENLC, EPD, EV, FT, GECC, GEL, GPP, GRP.U, KFFB, LNT, MCBS, MS, NI, NNN, NWN, OHI, ORC, OSBC, OVBC, PAA, PAGP, PBT, PETS, PFE, PLBC, PSEC, PSXP, SBNY, SLG, STAG, TGP, TRGP, TXN, UNM, USAC, UVE, VRTS, WES\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.080%)\n    - 8-Week Bill Auction (previous: 0.100%)\n    - Continuing Jobless Claims (consensus: 17,067K, previous: 16,197K)\n    - Core PCE Prices (consensus: 1.40%, previous: 1.70%)\n    - GDP (consensus: -34.0%, previous: -5.0%)\n    - GDP Price Index (consensus: 1.2%, previous: 1.6%)\n    - GDP Sales (previous: -3.5%)\n    - Initial Jobless Claims (consensus: 1,400K, previous: 1,416K)\n    - Jobless Claims 4-Week Avg. (previous: 1,360.25K)\n    - Natural Gas Storage (consensus: 36B, previous: 37B)\n    - PCE Prices (previous: 1.3%)\n    - Real Consumer Spending (previous: -6.8%)\n\n^^^^2020-07-27",
+        "created_utc": 1595844034,
+        "id": "fze1qb2",
+        "score": 2,
+        "subreddit": "RobinHood",
+        "created": 1595872834.0
+    },
+    {
+        "author": "spacebizzle",
+        "body": "Can someone give insight on Cloudflare, Fastly vs like Akamai, AWS or other CDNs?  What differentiates them?",
+        "created_utc": 1595791107,
+        "id": "fzbvhtk",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1595819907.0
+    },
+    {
+        "author": "astroyeet",
+        "body": "Puts on SBUX, Puts on AKAM, Calls on VISA",
+        "created_utc": 1595956353,
+        "id": "fzj41s0",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1595985153.0
+    },
+    {
+        "author": "notbrokemexican",
+        "body": "Read the DD on my profile if you want to know about the history of this space.\n\nPS, akamai",
+        "created_utc": 1593848702,
+        "id": "fwvv4oh",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1593877502.0
+    },
+    {
+        "author": "Entuaka",
+        "body": "I know Cloudflare, but i didn't knew that it was public. The valuation looks high  \n\n\n\\- Cloudflare 2019\n\nRevenue = 300M$\nProfit = -100M$\n\n\\- Akamai 2019  \nRevenue = 2.9B$  \nProfit = 500M$  \n\n2020 should be a good year for both",
+        "created_utc": 1593832651,
+        "id": "fwvbmqe",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1593861451.0
+    },
+    {
+        "author": "NoCapsCap",
+        "body": "Concrete customer info is murky at best, but from my best guess...NETs offering is similar to FSLY with the added benefit of security...the larger companies of CDN would be Akamai but it\u2019s slower and older tech",
+        "created_utc": 1594045430,
+        "id": "fx3npwn",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1594074230.0
+    },
+    {
+        "author": "MaxandmillionB89",
+        "body": "Thank you. I will def read the article you mentioned. \nSo many articles have been written on Fastly lately. The company has recently IPOd and had a tremendous growth in a very short period of time. Inevitably the question about sustainability is raised. \nTons of analyst are saying that Akamai should benefit greatly from 5G development. Is it capable to outperform Fastly and Cloudflare?",
+        "created_utc": 1593998036,
+        "id": "fx1zid3",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1594026836.0
+    },
+    {
+        "author": "rogueMeow",
+        "body": "It is tricky.. I would wait though.. Earnings season might push it higher. Love the idea of CDM.. But Akamai is already a well established player, so I am not sure how long will this rally go",
+        "created_utc": 1593646113,
+        "id": "fwn18iy",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1593674913.0
+    },
+    {
+        "author": "CountingCrush",
+        "body": "AKAM PE is only 37 holy shit buy buy buy",
+        "created_utc": 1593697406,
+        "id": "fwp1csk",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593726206.0
+    },
+    {
+        "author": "notbrokemexican",
+        "body": "I have DD in my profile that discusses this. I value cloudflare a lot more than fastly and consider fastly more of a competitor to Akamai.",
+        "created_utc": 1593660330,
+        "id": "fwnpko1",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1593689130.0
+    },
+    {
+        "author": "fastfrequency",
+        "body": "Fastly and Akamai are eating their lunch\n\nI wouldn't touch a mediocre CDN business in a crowded market",
+        "created_utc": 1593677544,
+        "id": "fwobbgq",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1593706344.0
+    },
+    {
+        "author": "herk_destro",
+        "body": "AWS provides Edge as a service, like Akamai. Netflix is just a long time customer.  Also by comingling their stuff with AWS it becomes harder for ISPs to discriminate against thier service without being obvious.",
+        "created_utc": 1594863862,
+        "id": "fy7jmbo",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594892662.0
+    },
+    {
+        "author": "SS324",
+        "body": "Cloudflare also hosts stormfront and their CEO is insane.  Consider the political climate.  If you invest in Cloudflare you may want to hedge in Akamai, netscout, or fastly.\n\nTBH, just buy shares in all of them.  This is growing market.",
+        "created_utc": 1594584797,
+        "id": "fxv0afh",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594613597.0
+    },
+    {
+        "author": "thekidtheycountedout",
+        "body": "Hi! 18 year old recent high school graduate here. I\u2019m looking to invest a lot of my savings before college. I have no debts, about $15,000 to invest , and make about $400 per week. All I want is for my money to make money for me. My timespan is 30+ years. This is all money I\u2019m prepared to put aside for a while. I\u2019ve been doing a lot of reading the past few weeks and have come up with a few companies I\u2019d like to invest in. Feedback on my ideas (good idea/bad idea/etc.) and any advice in general is much appreciated. I haven\u2019t looked into anything but single companies thus far, and want to look into other ways to invest but don\u2019t know where to start, so recommendations on where to start would great. \n\nMy ideas thus far:\nVerizon, \nClorox,\nGeneral dynamics,\nNvidia ,\nSquare ,\nAkamai ,\nScott\u2019s Miracle Gro ,\nAdvanced Micro Devices ,\nThermo Fisher Scientific ,\nLockheed Martin ,\nNorthrop Grumman \n\nI know these are all massive companies and represent value rather than growth investing. I do want to invest in some growth shares, but have no idea where to start. Tech, energy, and defense are my preferred industries because I have good insight into them but honestly any advice and recommendation can do nothing but help. Thanks!",
+        "created_utc": 1594429548,
+        "id": "fxl9qh9",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1594458348.0
+    },
+    {
+        "author": "dawhizkid",
+        "body": "AKAM &gt; FSLY",
+        "created_utc": 1594316624,
+        "id": "fxfzm8l",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594345424.0
+    },
+    {
+        "author": "gnosticplayer",
+        "body": "NET, AKAM",
+        "created_utc": 1595107066,
+        "id": "fyhyhit",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1595135866.0
+    },
+    {
+        "author": "theknowndude",
+        "body": "Anyone playing NET and FSLY for AKAM earnings today?",
+        "created_utc": 1595965685,
+        "id": "fzjnny9",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1595994485.0
+    },
+    {
+        "author": "inb4ElonMusk",
+        "body": "AKAM... still down from where it opened this morning...",
+        "created_utc": 1595968436,
+        "id": "fzjtffy",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1595997236.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Tuesday, the 28th of July\n\n\n\n## Upcoming events for Tuesday, July 28th\n\n - Stock splits:\n\n    - EMO @ **1:5**\n    - CEM @ **1:5**\n    - CTR @ **1:5**\n    - PKKFF @ **1:10**\n\n - Expected earnings:\n\n  AAT, ABG, ACCO, AFL, AGYS, AKAM, ALRS, AMAL, AMD, AMED, AMGN, APAM, APEN, ARCH, ASC, ASH, ATEN, ATRC, AUDC, AWI, AXS, B, BDGE, BE, BEN, BGFV, BPFH, BSBR, BUSE, BXP, BYD, CAC, CAR, CATC, CB, CCS, CE, CHRW, CMI, CNC, COWN, CSGP, CSLT, CSV, CVLT, CYH, DCOM, DENN, DHI, DTE, DXCM, EBAY, EBMT, ECL, EDU, EGP, EIX, ENVA, EQR, FBC, FBP, FCF, FELE, FEYE, FTV, GLW, GSS, HA, HAFC, HBCP, HIW, HLI, HOG, HP, HRZN, HUN, IBCP, IBTX, IMAX, IRDM, IVZ, JBLU, JNPR, KAI, LBC, LBRT, LH, LSCC, LW, MASI, MCD, MDC, MDLZ, MLM, MMM, MO, MPWR, MRC, MSCI, MTDR, MXIM, NBR, NCR, NEO, NWE, OKE, OMC, OMCL, OVV, OXSQ, PEGA, PFC, PFE, PII, PJT, PKG, PKI, PLT, PRGX, PRLB, PROV, QUMU, RCKY, RDHL, RNR, ROK, ROP, RRD, RTX, RVSB, RXN, SAN, SBUX, SHW, SIFY, SITC, SPGI, SPN, SQNS, SSNC, SSTK, ST, STAG, STX, SYX, TCS, TENB, THFF, THG, TPB, TRMK, TRU, TRVG, UDR, UMBF, UNM, USX, V, VBTX, WAB, WAT, WDR, WH, WNC, WNEB, WRE, XGN, XRX, YNDX, ZBRA\n\n - Ex-div:\n\n  AMRB, ATR, CFG, CLX, ENTG, GBX, WST\n\n - Economic events and announcements:\n\n    - 7-Year Note Auction (previous: 0.511%)\n    - API Weekly Crude Oil Stock (previous: 7.544M)\n    - CB Consumer Confidence (consensus: 94.5, previous: 98.1)\n    - Dallas Fed Services Revenues (previous: 5.7)\n    - Redbook (previous: -7.5%)\n    - Redbook (previous: 1.9%)\n    - Richmond Manufacturing Index (previous: -27)\n    - Richmond Manufacturing Shipments (previous: -1)\n    - Richmond Services Index (previous: -28)\n    - S&amp;P/CS HPI Composite - 20 n.s.a. (consensus: 4.0%, previous: 4.0%)\n    - S&amp;P/CS HPI Composite - 20 n.s.a. (previous: 0.9%)\n    - S&amp;P/CS HPI Composite - 20 s.a. (consensus: 0.3%, previous: 0.3%)\n    - Texas Services Sector Outlook (previous: 2.1)\n\n## Upcoming events for Wednesday, July 29th\n\n - Expected earnings:\n\n  AAN, ACGL, ADM, ADP, AEGN, AEM, AER, AGI, AHCO, AHT, AIN, AJRD, ALG, ALGT, ALIM, ALKS, ALTA, ALTM, AM, AMP, ANTM, APA, APHA, APLS, APRN, AQMS, AR, ARCB, ASGN, ATNI, AVB, AVGR, AVTR, AX, AXTA, BA, BBVA, BCO, BDC, BFST, BG, BHLB, BKCC, BKU, BLKB, BOOT, BSGM, BSMX, BSX, BTE, BTU, BXMT, CAJ, CAKE, CBD, CBL, CCI, CCJ, CDE, CERN, CF, CFFN, CFMS, CGNX, CHDN, CHE, CHEF, CHT, CKH, CLBK, CLS, CME, CMO, CMPR, CNMD, CODI, CONE, CORR, CPF, CRHM, CRTO, CS, CTO, CTSH, CVEO, CXO, DB, DIN, DORM, DRE, DRTT, DT, DX, EEFT, EGOV, ENB, EPD, EQC, EQIX, ESRT, ETN, ETR, EVBN, EXEL, EZPW, FARO, FB, FBHS, FCPT, FICO, FISI, FLOW, FSS, FTI, GAIN, GD, GE, GIB, GLDD, GM, GRFS, GRMN, GSK, GWB, HBB, HBNC, HES, HESM, HI, HOLX, HOME, HPP, HWKN, ILPT, INOV, INVA, IO, IPG, IRT, ISBC, JAKK, JCS, JHG, JMP, JRVR, KAMN, KGC, KLIC, KN, KRA, KRC, KTOS, LFUS, LIVN, LN, LRCX, LXU, LYG, MAA, MANT, MC, MCO, MEET, MEOH, MFG, MGLN, MGRC, MHH, MHO, MKSI, MLCO, MLVF, MMSI, MNRO, MOBL, MPX, MSC, MSEX, MTOR, MTSI, MUFG, MYRG, NBN, NEXA, NGVT, NLS, NLY, NMM, NMR, NOA, NOVA, NOW, NSC, NYCB, OC, OCX, ODT, OII, OIS, ONDK, ORLY, ORN, PAG, PB, PDM, PEIX, PGRE, PI, PPC, PS, PTC, PYPL, QCOM, QEP, QRVO, R, RAIL, RDWR, RDY, RES, RGCO, RIG, RJF, ROIC, ROL, RYI, SAIA, SANM, SBBP, SBH, SBPH, SC, SCCO, SCI, SFM, SGC, SHOO, SHOP, SIGI, SIMO, SITE, SIX, SKY, SLAB, SLRX, SMG, SNY, SONM, SPFI, SPG, SPOT, SRDX, SREV, SRI, STRA, SWIR, TAK, TARO, TBIO, TBPH, TCFC, TDOC, TEL, TKC, TLRD, TMDI, TPC, TPL, TRNO, TROW, TROX, TRTX, TS, TSE, TSEM, TSU, TT, TTEK, TTMI, TUP, TX, TYL, UCTT, URI, USAP, UTHR, UVE, VAC, VGZ, VICI, VKTX, VNDA, VSEC, VTVT, WERN, WHD, WING, WIRE, WLL, WPG, WRI, WSBF, WTI, WTRE, XAN, YUM, YUMC\n\n - Ex-div:\n\n  AM, BPMP, ERF, FRC, HMLP, KNOP, MSB, PVBC\n\n - Economic events and announcements:\n\n    - Crude Oil Imports (previous: -0.076M)\n    - Crude Oil Inventories (consensus: -2.088M, previous: 4.892M)\n    - Cushing Crude Oil Inventories (previous: 1.375M)\n    - Distillate Fuel Production (previous: -0.097M)\n    - EIA Refinery Crude Runs  (previous: -0.103M)\n    - EIA Weekly Distillates Stocks (consensus: -0.333M, previous: 1.073M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.5%, previous: -0.2%)\n    - FOMC Press Conference\n    - FOMC Statement\n    - Fed Interest Rate Decision (consensus: 0.25%, previous: 0.25%)\n    - Gasoline Inventories (consensus: -0.967M, previous: -1.802M)\n    - Gasoline Production (previous: -0.016M)\n    - Goods Trade Balance (previous: -75.26B)\n    - Heating Oil Stockpiles (previous: -0.750M)\n    - MBA 30-Year Mortgage Rate (previous: 3.20%)\n    - MBA Mortgage Applications (previous: 5.1%)\n    - Pending Home Sales (consensus: 15.0%, previous: 44.3%)\n    - Pending Home Sales Index (previous: 99.6)\n    - Retail Inventories Ex Auto (previous: -1.6%)\n    - Seevol Cushing Storage Report (previous: 0.769M)\n    - Wholesale Inventories (previous: -1.2%)\n\n## Upcoming events for Thursday, July 30th\n\n - Expected earnings:\n\n  AAPL, ABTX, ACA, ADSW, AGCO, AGIO, AIMT, AINC, AJG, ALXN, AMSF, AMT, AMZN, ANIK, AOS, APO, APTV, ARI, ARW, ASPN, ATR, ATUS, AZN, BAND, BAX, BC, BEAT, BGCP, BGS, BHR, BIO, BLDR, BPMC, BRKS, BSAC, BUD, BVN, BZH, CACC, CARR, CARS, CASA, CBTX, CBZ, CC, CCC, CFR, CG, CGEN, CI, CLF, CMCO, CMCSA, CNHI, CNOB, CNX, CNXM, COG, COHU, COLM, COOP, COP, COR, CPG, CPT, CRAI, CROX, CRS, CRY, CUBI, CUZ, CVA, CWT, CXP, DAN, DBD, DCO, DD, DECK, DLA, DLR, DLX, DNKN, DRQ, DSPG, DVA, EA, EBS, EGHT, EGO, EKSO, ELAN, ERII, ERJ, ESXB, EVLO, EXAS, EXP, EXPE, EXPO, F, FCN, FHI, FLEX, FLS, FMBH, FMS, FND, FORM, FORR, FTAI, FTS, FWRD, GFF, GHM, GIL, GILD, GLPI, GNRC, GOOG, GOOGL, GPC, GPI, GRA, GRUB, GSHD, GTX, HBI, HGV, HIG, HOPE, HST, HTGC, HTH, HUBB, HUBG, HURN, ICE, IDA, INFI, INT, IP, IRMD, ISDR, ITGR, JILL, K, KDP, KEX, KHC, KL, KNSL, KRNY, LADR, LAWS, LIN, LKQ, LLY, LNTH, LOCO, LPLA, LXRX, MA, MAS, MATW, MD, MDRX, MELI, MERC, MGM, MGNX, MGPI, MHK, MITK, MIXT, MMC, MMP, MN, MOH, MPW, MSA, MT, MTA, MTD, MTLS, MTX, MTZ, MWK, MX, MYE, NATI, NEM, NOC, NTCT, NTUS, NVCR, NVST, NXGN, ODFL, OFC, ONEW, OPI, ORBC, ORC, OSK, PATK, PBI, PCG, PEB, PFPT, PFS, PG, POWI, PQG, PRFT, PRO, QDEL, RARE, RDFN, RDS.A, RGEN, RLGY, ROG, RP, RTRX, RWT, SAH, SAND, SEM, SGEN, SHAK, SIRI, SKYW, SNDR, SO, SOI, SPSC, SPXC, SSB, STBA, SWK, SWN, SYK, TAL, TAP, TBBK, TEAM, TEX, TFX, TIGO, TMHC, TNC, TNDM, TPX, TRP, TRS, TW, TWOU, TXT, ULH, UPS, UTL, VC, VCYT, VLO, VRAY, VRTU, VRTX, WEX, WLTW, WM, WRLD, WRTC, WWE, WYND, X, XEL, XFOR, XHR, XLNX, XPO, XYL, ZEN\n\n - Ex-div:\n\n  AGNC, ALLY, AOS, ATLO, AVAL, BMRC, BRMK, BSRR, CADE, CCLP, COST, CRT, CSWI, DCP, DD, DNP, EFC, ENLC, EPD, EV, FT, GECC, GEL, GPP, GRP.U, KFFB, LNT, MCBS, MS, NI, NNN, NWN, OHI, ORC, OSBC, OVBC, PAA, PAGP, PBT, PETS, PFE, PLBC, PSEC, PSXP, SBNY, SLG, STAG, TGP, TRGP, TXN, UNM, USAC, UVE, VRTS, WES\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.080%)\n    - 8-Week Bill Auction (previous: 0.100%)\n    - Continuing Jobless Claims (consensus: 16,200K, previous: 16,197K)\n    - Core PCE Prices (consensus: 1.00%, previous: 1.70%)\n    - GDP (consensus: -34.1%, previous: -5.0%)\n    - GDP Price Index (consensus: 1.1%, previous: 1.6%)\n    - GDP Sales (previous: -3.5%)\n    - Initial Jobless Claims (consensus: 1,450K, previous: 1,416K)\n    - Jobless Claims 4-Week Avg. (previous: 1,360.25K)\n    - Natural Gas Storage (consensus: 36B, previous: 37B)\n    - PCE Prices (previous: 1.3%)\n    - Real Consumer Spending (previous: -6.8%)\n\n## Upcoming events for Friday, July 31st\n\n - Stock splits:\n\n    - TLSA @ **5:2** (Payable date: 07/30/2020)\n\n - Expected earnings:\n\n  ABBV, AON, AROC, ASIX, ASX, ATRO, AXL, BAH, BCBP, BCPC, BERY, CAT, CBOE, CBRE, CHD, CHTR, CL, CPLP, CTS, CVX, D, ES, FCAU, GLYC, GT, HRC, IMGN, IMO, ITT, ITW, JCI, LAZ, LHX, LTC, LYB, MGI, MRK, NVT, NWL, OFS, OIIM, OXLC, PBF, PBFX, PEG, PINS, PIPR, PNM, POR, PSX, PSXP, SCM, SHLX, SLCA, SNA, SPB, SRC, TAC, TU, UAA, UBX, VFC, WETF, WPC, WY, XOM\n\n - Ex-div:\n\n  AB, AES, AON, ASRV, BMTC, BX, C, CASY, CNBKA, DGICA, DGICB, DMLP, FCCO, HAS, HEP, HFBL, KMI, LBAI, LCUT, MATW, MCI, NRG, NSEC, NVEC, O, OCFC, OKE, ORRF, OVLY, PAYX, PBCT, PEBO, PNW, RELX, STL, SXT, SYF, TCP, WABC\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 125.0K)\n    - CFTC Copper speculative net positions (previous: 38.6K)\n    - CFTC Corn speculative net positions (previous: -98.9K)\n    - CFTC Crude Oil speculative net positions (previous: 548.9K)\n    - CFTC Gold speculative net positions (previous: 266.4K)\n    - CFTC Nasdaq 100 speculative net positions (previous: 15.7K)\n    - CFTC Natural Gas speculative net positions (previous: -22.9K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -43.0K)\n    - CFTC Silver speculative net positions (previous: 46.8K)\n    - CFTC Soybeans speculative net positions (previous: 121.5K)\n    - CFTC Wheat speculative net positions (previous: 18.8K)\n    - Chicago PMI (consensus: 43.9, previous: 36.6)\n    - Core PCE Price Index (consensus: 0.2%, previous: 0.1%)\n    - Core PCE Price Index (consensus: 1.0%, previous: 1.0%)\n    - Dallas Fed PCE (previous: 1.50%)\n    - Employment Benefits (previous: 0.40%)\n    - Employment Cost Index (consensus: 0.6%, previous: 0.8%)\n    - Employment Wages (previous: 0.90%)\n    - Michigan 5-Year Inflation Expectations (consensus: 2.70%, previous: 2.50%)\n    - Michigan Consumer Expectations (consensus: 66.2, previous: 72.3)\n    - Michigan Consumer Sentiment (consensus: 73.0, previous: 73.2)\n    - Michigan Current Conditions (consensus: 84.2, previous: 87.1)\n    - Michigan Inflation Expectations (consensus: 3.1%, previous: 3.0%)\n    - PCE Price index (previous: 0.5)\n    - PCE price index (previous: 0.1%)\n    - Personal Income (consensus: -0.5%, previous: -4.2%)\n    - Personal Spending (consensus: 5.5%, previous: 8.2%)\n    - Real Personal Consumption (previous: 8.1%)\n    - U.S. Baker Hughes Oil Rig Count (previous: 181)\n    - U.S. Baker Hughes Total Rig Count (previous: 251)\n\n^^^^2020-07-28",
+        "created_utc": 1595930416,
+        "id": "fzhy8hz",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1595959216.0
+    },
+    {
+        "author": "shacoand2boxes",
+        "body": "Looking at $AKAM &amp; $NIO. $AKAM might be the next big play like FSLY",
+        "created_utc": 1594008616,
+        "id": "fx2fy1x",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594037416.0
+    },
+    {
+        "author": "RogerMcDodger",
+        "body": "Well done. I have held and grown since last summer. Thankfully had the opportunity to add in March at just under $14.  My initial exit was going to be $82, but I am willing to see where it goes. Double the current price puts it near AKAM levels which seems crazy, but with this market not unfathomable.",
+        "created_utc": 1593612275,
+        "id": "fwl1cvb",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593641075.0
+    },
+    {
+        "author": "JE163",
+        "body": "Verizon is also big in the CDN space and security space and I'm sure there are others too.  I think Akamai is going to have a tough fight ahead.",
+        "created_utc": 1594077919,
+        "id": "fx5gaa8",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1594106719.0
+    },
+    {
+        "author": "lmneozoo",
+        "body": "You can argue that FSLY is better than the competition, but data centers are basically commodities. You're also paying 15x more for FSLY than the competition (AKAM).",
+        "created_utc": 1594662809,
+        "id": "fxy8rr1",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594691609.0
+    },
+    {
+        "author": "alexbbto",
+        "body": "I thought they had something of their own on top of Amazon. Something like Akamai but their own.",
+        "created_utc": 1594863627,
+        "id": "fy7j7ou",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594892427.0
+    },
+    {
+        "author": "thug_funnie",
+        "body": "CDNs are pick axes. Fastly, limelight, etc.\n\nCybersecurity is shovels. CrowdStrike, Akamai\n\nBasically look at all the apps on your phone and figure out who those companies use to run their businesses.",
+        "created_utc": 1594340095,
+        "id": "fxhaz32",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1594368895.0
+    },
+    {
+        "author": "holcamania",
+        "body": "Can\u2019t wait for Akamai to fuck me",
+        "created_utc": 1595942553,
+        "id": "fzid8y1",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1595971353.0
+    },
+    {
+        "author": "theknowndude",
+        "body": "AKAM beat = FSLY and NET calls?",
+        "created_utc": 1595966975,
+        "id": "fzjqe2g",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1595995775.0
+    },
+    {
+        "author": "dawhizkid",
+        "body": "AKAM too low imo",
+        "created_utc": 1593823500,
+        "id": "fwuxv8u",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593852300.0
+    },
+    {
+        "author": "CountingCrush",
+        "body": "AKAM we flying on monday baby",
+        "created_utc": 1593730659,
+        "id": "fwqzbpx",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593759459.0
+    },
+    {
+        "author": "alkaline119",
+        "body": "AKAM is one of the world's largest CDNs. Amazon has one, too (CloudFront). But FSLY and NET are considered to be the leaders. FSLY, especially, is well positioned to dominate. Here's a good write up on FSLY and their advantages. It's a bit technical.\n\nhttps://softwarestackinvesting.com/fastly-edge-compute-explained/",
+        "created_utc": 1593996804,
+        "id": "fx1xhqx",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1594025604.0
+    },
+    {
+        "author": "shacoand2boxes",
+        "body": "Read below at my other comment. Also have you used AKAM?",
+        "created_utc": 1594008805,
+        "id": "fx2g7us",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594037605.0
+    },
+    {
+        "author": "22strokestreet",
+        "body": "Why AKAM?",
+        "created_utc": 1594008713,
+        "id": "fx2g34q",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594037513.0
+    },
+    {
+        "author": "sumtastic",
+        "body": "AKAM is the original FSLY. They invented the concept back in the 90s.",
+        "created_utc": 1594008690,
+        "id": "fx2g1vt",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594037490.0
+    },
+    {
+        "author": "shacoand2boxes",
+        "body": "Akamai Technologies stock is trading higher Thursday after Cowen analyst Colby Synesael raised his rating on the content-delivery network company to Outperform from Market Perform, while upping his target price to $150 from $107.\n\nSynesael is basically making the observation (which I made in an April Tech Trader column) that Akamai shares (ticker: AKAM) have not participated in the huge rally in internet infrastructure plays amid the Covid-19 pandemic. The analyst says there is now a \"meaningful disconnect\" between Akamai and other security and CDN stocks, despite its larger scale, higher profitability and \" still solid growth.\" He sees Akamai as an \"attractive way\" to play long-term trends like cloud security and edge computing.\n\nSynesael points out that the stock looks cheap relative to both security plays like Palo Alto Networks (PANW) and Fortinet (FTNT) and to other content- delivery networks, such as Cloudflare (NET), Fastly (FSLY), and Limelight Networks (LLNW). He argues that Covid-19 has served as a catalyst to Akamai's security and CDN businesses.\n\n\"We believe Covid-19 has resulted in increased demand for both its enterprise and internet security product offerings given the increase in the number of attacks across organizations and the internet,\" Synesael writes. \"We believe Akamai's security business is an underappreciated component of its long- term growth opportunity and that as it becomes a larger portion of total revenue more investors are likely to start valuing it on its [sum of the parts] which we believe will result in a significant re-rating of the stock.\"\n\nThe analyst notes that there have been investor concerns about the company losing market share to peers like Fastly, but asserts that \"the growth of competitors is more a function of an expanding opportunity for CDN providers rather than share stealing from Akamai.\"\n\nAkamai shares were up 7%, at $113.78, in recent trading, while the S&amp;P 500 was up 0.9%. The stock is up about 32% year to date, which is impressive growth -- except when compared with Cloudflare, which has more than doubled, and Fastly, which has more than quadrupled",
+        "created_utc": 1594008784,
+        "id": "fx2g6sr",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594037584.0
+    },
+    {
+        "author": "SECdeezTrades",
+        "body": "Akamai surging is the reason why.\n\n&amp;#x200B;\n\nCloudflare is using its margin as a weapon and gaining more marketshare then Akamai is.\n\n&amp;#x200B;\n\nThe only hardpoint though is Akamai is the gorilla, and the whole CDN market has doubled anyway from the amount of digitization / streaming media increase.",
+        "created_utc": 1594217899,
+        "id": "fxbcf98",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594246699.0
+    },
+    {
+        "author": "PROSTARR",
+        "body": "AKAM gapped up $6 pre market if you guys want to hammer the call button at open",
+        "created_utc": 1593691889,
+        "id": "fwor49l",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593720689.0
+    },
+    {
+        "author": "K215215",
+        "body": "Yes, FAANG are the biggest companies, but look at the market caps for companies like SHOP, CRM, AKAM, OKTA, SQ, PYPL, CRWD, COUP etc. They're not as big as MSFT and FB but their still fucking huge and growing 30-40% a year. These are big companies with much different business models than you're describing",
+        "created_utc": 1593636108,
+        "id": "fwmg0sc",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593664908.0
+    },
+    {
+        "author": "haraami_shakaal",
+        "body": "Keep an eye on AKAM folks. This is the most underrated work from home stock with actually generating profits and gaining more customers , internet traffic. Companies like fastly in the same space have more than quadrupled with no revenue. I know that it is future looking, but look at the customers these both companies have and you will be appalled. Plus akamai has been expanding rapidly in areas outside america, so its very diversified. I am eyeing there earnings.",
+        "created_utc": 1594401029,
+        "id": "fxjrj2l",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1594429829.0
+    },
+    {
+        "author": "WiWiWiWiWiWi",
+        "body": "Cisco:  CSCO\nPali Alto Networks:  PANW\nCrowdstrike Holdings:  CRWD\nZ-Scaler:  ZS\nCheckpoint Software:  CHKP\nAkamai:  AKAM\nCyberArk:  CYBR",
+        "created_utc": 1595517822,
+        "id": "fyzkaqv",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1595546622.0
+    },
+    {
+        "author": "haraami_shakaal",
+        "body": "Akamai",
+        "created_utc": 1595216177,
+        "id": "fymimu8",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1595244977.0
+    },
+    {
+        "author": "motterpaul",
+        "body": "AKAM beat but just sold off, VISA also went higher but is selling off now.",
+        "created_utc": 1595969809,
+        "id": "fzjw93d",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1595998609.0
+    },
+    {
+        "author": "PM_Me_Ur_Greyhound",
+        "body": "I told you dumbfucks to buy AKAM but you went and bought silver and eBay instead.\n\nWhy do I even try anymore.\n\n*well now I feel dumb",
+        "created_utc": 1595968233,
+        "id": "fzjt0l8",
+        "score": -1,
+        "subreddit": "wallstreetbets",
+        "created": 1595997033.0
+    }
+]

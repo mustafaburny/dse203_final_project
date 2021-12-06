@@ -1,0 +1,362 @@
+[
+    {
+        "author": "codingprofessor",
+        "body": "I'll be writing a large DD post on understanding CDNs and networking security today for non technical investors. It'll help you understand why CloudFront and Big tech isnt much of a concern but more of a symbiotic relationship.\n\nThe CDN market is way too big for anyone one player to dominate.",
+        "created_utc": 1591481663,
+        "id": "ft76d3x",
+        "score": 12,
+        "subreddit": "stocks",
+        "created": 1591510463.0
+    },
+    {
+        "author": "orrangearrow",
+        "body": "Powell has the cadence and general lack of confidence in what he's saying like somebody who knows the end of days asteroid is heading towards the earth and we've got a few months/year and maybe we can shoot some nukes at it but things are pretty much fucked",
+        "created_utc": 1591815572,
+        "id": "ftm39lp",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1591844372.0
+    },
+    {
+        "author": "Thales111",
+        "body": "I found a textbook \u2018retard money\u2019 post. \n\nhttps://www.reddit.com/r/wallstreetbets/comments/gxh8ba/200_gains_35k_from_a_basket_of_beat_company_fds_v/\n\nHe joined during the lockdown and has the cadence of a YouTube penny stock guru...",
+        "created_utc": 1591449781,
+        "id": "ft4ahyi",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1591478581.0
+    },
+    {
+        "author": "MrOaiki",
+        "body": "I have no idea what news has recently come out to warrant the company\u2019s depreciation. But I do believe Cloudflare\u2019s biggest competitor is Amazon. Cloudflare are huge when it comes to CDNs, but Amazon has their own delivery networks and they\u2019re building new data centers all over the world. You can of course run your server on Amazon\u2019s web services and use Cloudflare\u2019s CDN, but companies that move to AWS tend to go for an all AWS solution eventually.",
+        "created_utc": 1592941786,
+        "id": "fvryuf7",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1592970586.0
+    },
+    {
+        "author": "FinndBors",
+        "body": "I'm not sure, but I put this in my bucket of stocks that may tangentially benefit from COVID. The various news sites and medium sized media companies (like reddit which uses cloudflare) will get more traffic and will need more services. They aren't just anti DDOS, they do CDNs.",
+        "created_utc": 1591045000,
+        "id": "fskcqpn",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1591073800.0
+    },
+    {
+        "author": "xolican",
+        "body": "I'm up 290% on shares. Lekezen2 made me learn. what CDNs were",
+        "created_utc": 1592522386,
+        "id": "fva7633",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1592551186.0
+    },
+    {
+        "author": "AlexValleDoesCocaine",
+        "body": "MSFT, AAPL, AMZN, GOOG, CRM, MA, V, CCI.\n\nDOCU, AYX, SQ, PYPL, CDNS, XLNX, TER.\n\nTDOC, CRNC, ALRM, LITE.\n\nFree reveal of one \"top\" stocks: https://imgur.com/a/FKAPgzc. \n\n[Shh.](https://imgur.com/a/nhAfyA2) Don't Tekashi 6ix9ine this thread.",
+        "created_utc": 1591320595,
+        "id": "fsxc5a8",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1591349395.0
+    },
+    {
+        "author": "Meymo",
+        "body": "Even if the market crashes or goes sideways, as long as you keep buying in on a regular cadence, you will succeed. \n\nPeople often like to think, \u201cwell what if the market is sideways for a decade?!?\u201d Okay, if that happens and you keep buying in every 2-weeks or every month, when the market goes up you\u2019ll also have a bunch more money invested which will increase in value as well. \n\nIf you\u2019re under 55, there\u2019s no reason to ever consider exiting 100%. Would you really stop your 401k, HSA, or IRA just because of a couple of bad years? \n\nInvesco did a great infographic which describes the bull and bear markets over time. Since 1957, The average bear market only lasts 1 year.\n\n\nhttps://www.invesco.com/us-rest/contentdetail?contentId=049233173f5c3510VgnVCM100000c2f1bf0aRCRD&amp;audienceType=investors\n\nWe\u2019ve been in a bear market for around 90 days now. If this is an average bear market, then the odds are we will start the next bull market either this year or early next year. Again, this assumes the historical trends hold.\n\nWith the amount of money and policy changes that are being pumped into the system, it wouldn\u2019t surprise me to see this current bear market end much sooner than one year from now. \n\nTime will tell. Good luck!",
+        "created_utc": 1592966082,
+        "id": "fvt85d7",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1592994882.0
+    },
+    {
+        "author": "Justice4Ned",
+        "body": "Do you just post this on a 2 hour cadence ?",
+        "created_utc": 1591052697,
+        "id": "fskrtwf",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1591081497.0
+    },
+    {
+        "author": "bbbpppccc",
+        "body": "Having worked for years in startups and enterprises, I\u2019ve seen the move away from third party cdns to cloud specific cdns. Especially for companies moving from on prem to the cloud.\n\nThey offer less hops into the network, tighter security, ddos mitigation, and well its easier for accounting (this matters mostly for enterprises).\n\nThe only times I\u2019ve ever recommended cloud flare before, were for smaller businesses with like zero technical understanding.\n\nI\u2019m personally never going to touch cloudflare/fastly",
+        "created_utc": 1591169222,
+        "id": "fsq38p6",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1591198022.0
+    },
+    {
+        "author": "Your_the_best",
+        "body": "You seem to have taken it upon yourself to speak for single moms and working stiffs. I think I'll just believe instead what i'm hearing directly from... single moms and working stiffs. \n\nGreat boring speech though. By the 4th \"tell that to the\", a cadence took hold and the whole thing was riveting.",
+        "created_utc": 1592143637,
+        "id": "fusuv4i",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1592172437.0
+    },
+    {
+        "author": "adjust_your_set",
+        "body": "\u201cThey rally round r\u2019hood, with a pocket full of calls\u201d\n\nFits the cadence a bit better.",
+        "created_utc": 1592149029,
+        "id": "fut3ty9",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1592177829.0
+    },
+    {
+        "author": "khanx290",
+        "body": "How is cadence stock? Is it a strong buy?",
+        "created_utc": 1592419181,
+        "id": "fv5dtb0",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1592447981.0
+    },
+    {
+        "author": "Green_Rocket",
+        "body": "Trying as hard as I could, I could not help but read that post to the cadence of the song. Infuriating. Y u do dis 2 me?",
+        "created_utc": 1591600191,
+        "id": "ftciwm1",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591628991.0
+    },
+    {
+        "author": "notbrokemexican",
+        "body": "They are primarily media processing. It was briefly mentioned in the post explaining what CDNs can provide (they helped with Redddits r/place and PAN) and market share \n\n\nCloudflare is mostly angled around security. So same overall market but different business needs. A lot of interchange and in this regard - competition is good for both.",
+        "created_utc": 1591549677,
+        "id": "fta86y2",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1591578477.0
+    },
+    {
+        "author": "orebright",
+        "body": "As someone who's worked remotely for many years now in a fully remote team, I think at least some segment of workers will want to do this permanently. This might cause some shift though it may not be drastic. A lot of factors go into this. The biggest one I tend to see is people don't set up their space to be a hybrid work/live place. They just do work where they usually entertain (living room/couch, on their laptop) and this leads to much faster burnout because you can easily work too much, or get easily distracted and struggle with focus because you're giving your mind mixed signals. It's been very important to me to have an office space, whether that's a dedicated desk in a living room or a completely dedicated office in the house. With the right setup I think working from home is fantastic and most people would probably enjoy it, but with the wrong setup most are going to get very tired of it and want to go back to an office asap. So in my opinion we won't see a \"plummet\" but there will likely be some noticeable effect from workers who got in the right cadence and prefer working at home.",
+        "created_utc": 1591200681,
+        "id": "fsrd49x",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1591229481.0
+    },
+    {
+        "author": "firestormdude",
+        "body": "I agree but looking at how many customers Cloudflare added last quarter, it was damn impressive. CDNs aren\u2019t new but websites were slow as hell to adopt",
+        "created_utc": 1592875657,
+        "id": "fvp5iqh",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1592904457.0
+    },
+    {
+        "author": "EpicMangina",
+        "body": "Yeah, mostly. CDNs are big right now. I'm also confused why FSLY is skyrocketing while NET is down 5% today. Fastly does have some big name clients, which may be adding to the surge.",
+        "created_utc": 1592929603,
+        "id": "fvr9mnb",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1592958403.0
+    },
+    {
+        "author": "khanx290",
+        "body": "Why is cadence so much up today",
+        "created_utc": 1592837067,
+        "id": "fvn3cfg",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1592865867.0
+    },
+    {
+        "author": "BlueFalcon2009",
+        "body": "https://www.armystudyguide.com/content/cadence/marching_cadence/yellow-bird-2.shtml\n\nAnd people wonder what\u2019s wrong with veterans \ud83d\ude02",
+        "created_utc": 1593277488,
+        "id": "fw6k7jy",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593306288.0
+    },
+    {
+        "author": "zimzamzoom2",
+        "body": "They shouldn't cause much of a noticeable affect. I'd go with a large one that has many CDNs, privateinternetaccess is usually a good one for that.",
+        "created_utc": 1592766018,
+        "id": "fvk9ub5",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1592794818.0
+    },
+    {
+        "author": "wtf_is_up",
+        "body": "CDNS",
+        "created_utc": 1593005887,
+        "id": "fvum3u8",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1593034687.0
+    },
+    {
+        "author": "Albedo100",
+        "body": "This is not uncommon. Dropbox has a 75% gross profit margin and has the same marketcap with over 5x the revenue. Even salesforce has that margin and is barely positive. \n\nI'm not convinced a company like Cloudflare and Fastly can just drop their sales and be profitable. Switching between CDNs is one of the easiest things a tech department can do. It's literally drag and drop stuff or a couple lines of code. It's not like using salesforce where it benefits from being an expert in it and you have an entire team developed around using it. \n\nCDN stocks are just a flavor of the season and are pumping high because of their low market caps.",
+        "created_utc": 1592932500,
+        "id": "fvrflvy",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1592961300.0
+    },
+    {
+        "author": "KelbySmith",
+        "body": "CDNS 8/21 120c",
+        "created_utc": 1593525124,
+        "id": "fwh3s81",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593553924.0
+    },
+    {
+        "author": "wtf_is_up",
+        "body": "QQQ + LMT NEE EQIX AMT HD DPZ POOL CDNS ASML BAH MA V",
+        "created_utc": 1592098267,
+        "id": "furcegl",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1592127067.0
+    },
+    {
+        "author": "pharmacykiller33",
+        "body": "You\u2019ll get there if you go to medical school, but it takes time developing a cadence. I completed 2 years of residency as well and was fortunate in the match process to get into a great program. \n\nFor starters, look at your inclusion criteria and see what \u201cclinical question\u201d they are answering. Does the therapy fill a void or is it replacing standard of care? If it\u2019s going for new SOC was their trial design set up to evaluate it compared to current standard of care or was it compared to a weak comparator to help it get approved. That\u2019s the problem with the approval process now. Weak agents are getting compared to crappy regimens to make it look better. \n\nFollow major physicians on twitter. You\u2019ll learn exponentially faster in how they think about things.",
+        "created_utc": 1592275308,
+        "id": "fuz02ok",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1592304108.0
+    },
+    {
+        "author": "DrixGod",
+        "body": "I've looked at some benchmarks of cdns online and fastly doesn't seem any better to me than cloudfare or even Google's cdn. So what exactly is there \"innovative\" about it?",
+        "created_utc": 1593517384,
+        "id": "fwgscfo",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1593546184.0
+    },
+    {
+        "author": "ae232",
+        "body": "No, you don\u2019t take a lump sum. DCA is investing the same amount at a regular cadence, agnostic of price.",
+        "created_utc": 1592579539,
+        "id": "fvcemne",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1592608339.0
+    },
+    {
+        "author": "27Rench27",
+        "body": "Oh for sure, I\u2019ve been day/week trading stocks in my 401k, got my cadence down pretty well to avoid any PDT flags. Figure with this much volatility in the market, knowing the right companies can net some good wins (and the occasional reddit post of course)",
+        "created_utc": 1593106959,
+        "id": "fvz4918",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593135759.0
+    },
+    {
+        "author": "probablymytenthacc",
+        "body": "Given the spike in cases the next 2-3 weeks are looking incredibly bearish. Also the tech stonk pump to the moon has to end eventually... lol if you think fastly is really worth $8b on revenue of $300m with no meaningful differentiation against other CDNs",
+        "created_utc": 1593161375,
+        "id": "fw1mbmc",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593190175.0
+    },
+    {
+        "author": "dawhizkid123",
+        "body": "Yes\n\nBut CDNs are otherwise cheap. There\u2019s no profits to be made. Race to the bottom....",
+        "created_utc": 1593295238,
+        "id": "fw7hn5z",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593324038.0
+    },
+    {
+        "author": "nonasiandoctor",
+        "body": "SNPs, cdns, TSMC.",
+        "created_utc": 1591023131,
+        "id": "fsj4lxg",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591051931.0
+    },
+    {
+        "author": "towermaster69",
+        "body": "What the. Fuck is wrong. With Lagarde's. Cadence when she. Speaks?",
+        "created_utc": 1591274553,
+        "id": "fsurosq",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591303353.0
+    },
+    {
+        "author": "notbrokemexican",
+        "body": "It's a slow burn and the Titan of the industry. I DCA into them but it's kind of like investing in a bank or investing in Square (NET). If anything Akamai proves the inherent value of CDNs over time\n\nhttps://user-images.githubusercontent.com/37036296/83956485-92440e00-a813-11ea-9ffc-2967560d639e.png",
+        "created_utc": 1591550615,
+        "id": "fta9z1g",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1591579415.0
+    },
+    {
+        "author": "RIC_FLAIR-WOOO",
+        "body": "AMT EQIX BIPC NEE LMT BAH COST HD PLD NOW CDNS ASML POOL",
+        "created_utc": 1591551059,
+        "id": "ftaata4",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1591579859.0
+    },
+    {
+        "author": "devereaux",
+        "body": "They'll probably never scale profitably, they only focus on large enterprise customers, and any of their customers can drop them at any time to make their own CDNs. \n\nPeople don't care though and throw their money at tech stocks. Valuations are meaningless in 2020.",
+        "created_utc": 1592259103,
+        "id": "fuy5zbw",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1592287903.0
+    },
+    {
+        "author": "esInvests",
+        "body": "Was awesome hanging out with everyone. I\u2019ll likely keep some of weekly cadence for it.",
+        "created_utc": 1592098386,
+        "id": "furcl0z",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1592127186.0
+    },
+    {
+        "author": "sub2pewdiepie-_-",
+        "body": "I'm not criticizing their size or growth, I just don't see a reason for the excitement.  CDNs have existed for some time, what is so special about Cloudflare?",
+        "created_utc": 1593024210,
+        "id": "fvvmnfy",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1593053010.0
+    },
+    {
+        "author": "unfair_bastard",
+        "body": "CDNS",
+        "created_utc": 1593190059,
+        "id": "fw2tzd3",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1593218859.0
+    },
+    {
+        "author": "LactatingJello",
+        "body": "top-370 pornstars (not up for debate)\r\n\n-\n\n1. Mia Malkova\n2. Lana Rhoades\n3. Abella Danger\n4. Nikki Benz\n5. Angela White\n6. Sophie Dee\n7. Nicole Aniston\n8. Kendra Sunderland\n9. Sara Jay\n10. Romi Rain\n11. Alexis Texas\n12. Valentina Nappi\n13. Elsa Jean\n14. Adriana Chechik\n15. Dani Daniels\n16. Riley Reid\n17. Asa Akira\n18. Tori Black\n19. Madison Ivy\n20. Gina Valentina\n21. Julia Ann\n22. Brandi Love\n23. Veronica Rodriguez\n24. Rachel Starr\n25. Maitland Ward\n26. Karlee Grey\n27. Jayden Jaymes\n28. Teanna Trump\n29. Alina Lopez\n30. Kimmy Granger\n31. Aletta Ocean\n32. Eva Lovia \n33. Alexis Fawx\n34. Vicky Vette\n35. Emily Willis\n36. Autumn Falls\n37. Stormy Daniels\n38. Jessa Rhodes\n39. Cherie Deville\n40. Dillion Harper\n41. Gianna Dior\n42. Nikki Delano\n43. Jesse Jane\n44. Carter Cruise\n45. Kayden Kross\n46. Tanya Tate\n47. Ariana Marie\n48. Samantha Saint\n49. Kenzie Reeves\n50. Gabbie Carter\n51. Natalia Starr\n52. Jada Stevens\n53. Nina Hartley\n54. Piper Perri\n55. Vicki Chase\n56. Moriah Mills\n57. Kiara Mia\n58. Phoenix Marie\n59. Rose Monroe\n60. Eva Notty\n61. Kissa Sins\n62. Luna Star\n63. Kaylani Lei\n64. Whitney Wright\n65. Aaliyah Hadid\n66. Gianna Michaels\n67. Bonnie Rotten\n68. Joanna Angel\n69. Alura Jenson\n70. Bridgette B\n71. Lela Star\n72. Raven Bay\n73. Riley Steele\n74. Kali Roses\n75. Natasha Nice\n76. Sarah Vandella\n77. Jill Kassidy\n78. Tiffany Watson\n79. Kirsten Price\n80. Skyla Novea\n81. Richelle Ryan\n82. Janice Griffith\n83. Sheena Ryder\n84. Tina Kay\n85. Mandy Muse\n86. Sheila Ortega\n87. Blair Williams\n88. Eliza Ibarra\n89. Veronica Avluv\n90. Scarlett Sage\n91. Katrina Jade\n92. Sinn Sage\n93. Julie Cash\n94. Lisa Ann\n95. Anya Olsen\n96. Karmen Karma\n97. Nyomi Banxxx\n98. Naomi Woods\n99. Victoria June\n100. Gina Gerson\n101. Marley Brinx\n102. Francesca Le\n103. Zoey Monroe\n104. Jaclyn Taylor\n105. Molly Stewart\n106. Jelena Jensen\n107. Melody Marks\n108. Kesha Ortega\n109. Jayden Cole\n110. Shyla Jennings\n111. Kira Noir\n112. Kelly Divine\n113. Ella Hughes\n114. Misha Cross\n115. Stella Cox\n116. Noelle Easton\n117. Valentina Jewels\n118. Mia Melano\n120. Jessica Drake\n121. Sheridan Love\n122. AJ Applegate\n123. Kenna James\n124. Syren Demer\n125. Lauren Phillips\n126. Lady Dee\n127. Gabriella Paltrova\n128. Karla Kush\n129. Katie Morgan\n130. Kayla Kayden\n131. Skin Diamond\n132. Riley Reyes\n133. Misty Stone\n134. Khloe Kapri\n135. Jane Wilde\n136. Athena Faris\n137. Kelly Madison\n138. Kenzie Taylor\n139. Maddy O Reilly\n140. Uma Jolie\n141. Joslyn James\n142. Penny Pax\n143. Ivy Lebelle\n144. Lena Nitro\n145. Anikka Albrite\n146. Krissy Lynn\n147. Darcie Dolce\n148. Kristina Rose\n149. Maya Bijou\n150. Aaliyah Love\n151. Jessie Volt\n152. Nina North\n153. Jordi Pollo\n154. Anny Aurora\n155. Jillian Janson\n156. Paige Owens\n157. Britney Amber\n158. Abigail Mac\n159. Lily LaBeau\n160. Georgia Jones\n161. Kendra Spade\n162. Gia Paige\n163. Sydney Cole\n164. Lana Rain\n165. Brooklyn Chase\n166. Rebecca Volpetti\n167. Morgan Lee\n167. Julia Roca\n168. Chanel Preston\n169. Jodi West\n170. Lacy Lennon\n171. Shooting Star\n172. Emma Hix\n173. Aidra Fox\n174. Sarah Jessie\n175. Alexis Monroe\n176. Rharri Rhound\n177. Samantha Rone\n178. Lena Paul\n179. Kimber James\n180. Holly Hendrix\n181. Nia Nacci\n182. Claudia Marie\n182. Canela Skin\n183. Jennifer White\n184. Brett Rossi\n185. Dana DeArmond\n186. Amirah Adara\n187. Jojo Kiss\n188. Elena Koshka\n189. Evelyn Claire\n190. Tia Cyrus\n191. Kenzie Madison\n192. Chloe Cherry\n193. Scarlit Scandal\n194. Casey Calvert\n195. Cali Carter\n196. Ella Knox\n197. Skylar Snow\n198. Charlotte Sartre\n199. Alex Grey\n200. Lyra Law\n201. Giselle Palmer\n202. Anissa Kate\n203. Ashley Adams\n204. Gracie Glam\n205. Cathy Heaven\n206. Zoe Bloom\n207. Riley Star\n208. Honey Gold\n209. Ana Foxxx\n210. Franceska Jaimes\n211. Naomi Swann\n212. Kate England\n213. Deauxma\n214. Stacy Cruz\n215. Joseline Kelly\n216. Katrina Moreno\n217. Reena Sky\n218. Kiki Minaj\n219. Dana Vespoli\n220. Lena Spanks\n221. Silvia Saige\n222. Cadence Lux\n223. Vienna Black\n224. Veronica Vain\n225. Arietta Adams\n226. Riley Nixon\n227. Kiara Cole\n228. Maggie Green\n229. Aiden Starr\n230. Kyler Quinn\n240. Savannah Sixx\n241. Texas Patti\n242. Proxy Paige\n243. Mona Wales\n244. Carolina Sweets\n245. Natalia Queen\n246. Haley Reed\n247. Candice Dare\n248. Saya Song\n249. Domino Presley\n250. Josephine Jackson\n251. Sofie Reyez\n252. Jewelz Blu\n253. Melody Petite\n254. Jade Jantzen\n255. Tiffany Tatum\n256. Georgie Lyall\n257. Bella Rose\n258. Dakota Skye\n259. Chloe Foster\n260. Christie Stevens\n261. Bree Daniels\n262. Bella Bellz\n263. Jessy Dubai\n264. Hime Marie\n265. April O'Neil\n266. Shay Fox\n267. Sarah Shevon\n268. Brenna Sparks\n269. Cindy Starfall\n270. Rebel Lynn\n271. Allie Nicole\n272. Ella Reese\n273. Alex Coal\n274. Bunny Colby\n275. Addie Andrews\n276. Daisy Stone\n277. Evelin Stone\n278. Aspen Rae\n279. Isabelle Deltore\n280. Mandy Flores\n281. Alexis Adams\n282. Carmen Caliente\n283. Alina Henessy\n284. Desiree Dulce\n285. Alex Chance\n286. Gemma Massey\n287. Jade Kush\n288. Erica Lauren\n289. Sophie Anderson\n290. Lily Love\n291. Anna De Ville\n292. Jezabel Vessir\n293. Ginebra Bellucci\n294. Katya Rodriguez\n295. Jenna Sativa\n296. Mea Melone\n297. Jasmine Webb\n298. Christiana Cinn\n299. Trillium\n300. Kalina Ryu\n301. Ember Snow\n302. Mindi Mink\n303. Indica Flower\n304. Heather Vahn\n305. Little Caprice\n306. Ivy Wolfe\n307. Dani Jensen\n308. Larkin Love\n309. Devon\n310. Kylie Maria\n311. Raven Hart\n312. Nickey Huntsman\n313. Sarah Rae\n314. Amanda Cerny\n315. Sophia Leone\n316. Julianna Vega\n317. Yui Hatano \n318. Ashley Fires\n319. Angel Wicky \n320. Desiree Dulce\n321. Anya Ivy\n322. Jenna Jameson\n323. Katie Banks \n324. Veronica Leal\n325. Ava Devine\n326. Jill Kassidy\n327. Hannah Hays\n328. Eva Elfie\n329. Ava Taylor\n330. Alina Li\n331. Ms London\n332. Kiara Mia\n333. Emily Addison\n334. Mistress T\n335. Ashley Adams\n336 Aubrey Sinclair\n337 Jenna Haze\n338. Evelin Stone\n339. Foxy Di\n340. Janet Mason\n341. Nancy A.\n342. Connie Carter\n343. Cassidy Klein\n344. Naomi Russell\n345. Amy Anderssen\n346. Cameron Canela\n347. Jillian Janson\n348. Maria Ozawa\n349. Kali Roses\n350. Stoya 191\n351. Amirah Adara\n352. Nekane\n353. Sybil Stallone\n354. Shyla Stylez\n355. Darcie Dolce\n356. Sensual Jane\n357. Vanessa Veracruz\n358. Malena Morgan\n359. Nina North\n360. Aryana Adin\n361. Kenna James\n362. Scarlit Scandal\n363. Nikita Bellucci\n364. Skin Diamond\n365. Tera Patrick\n366. Syren De Mer\n367. Jada Fire\n368. Diamond Kitty\n369. Rebecca More\n370. Harmony Wonder",
+        "created_utc": 1593494120,
+        "id": "fwg38xl",
+        "score": -13,
+        "subreddit": "wallstreetbets",
+        "created": 1593522920.0
+    }
+]

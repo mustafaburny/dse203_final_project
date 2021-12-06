@@ -1,0 +1,902 @@
+[
+    {
+        "author": "CalligrapherOneTwo3",
+        "body": "You are obviously very new to crypto and so I will give you a quick summary of the basics. In short, no, you will not own real crypto with WealthSimple. Here are a few points which may or may not be helpful to you from my perspective regarding buying this alternative asset class, cold storage wallets, taxation, and the cheapest method of accumulating/procuring it in Canada:\r  \n\r  \n1. Personally, I only buy on the Newton app since they currently have the lowest purchasing fees out of all of the available exchanges in Canada. Newton's average spread varies from 0.50% to 0.60% which is 2-3 times cheaper than most of the other available exchanges that are available to us as Canadians. I also use the ShakePay app to earn free Bitcoin on a daily basis by physically shaking my phone once a day. Trust me, I know that sounds ridiculous, stupid, and suspicious, but ShakePay is a legitimate company based out of Montr\u00e9al which is regulated by both FINTRAC and AMF while it is also legally licensed as a Money Service Business. I never actually buy from ShakePay because of their high purchasing spreads (which is approximately 1.75%) and I simply use them for the free daily accumulation of Bitcoin. Anyone who uses ShakePay can easily confirm their legitimacy and I have been stacking free Satoshis for a few years now.   \r  \n\r  \n2. Since I actually want to own the underlying asset, I withdraw my Bitcoin from both of those exchanges and I put my assets into a cold storage wallet. In Canada, this is currently the cheapest method of accumulating Bitcoin and truly owning the assets by storing them \"offline\" in a cold storage wallet. However, in order to unlock the ShakingSats feature in ShakePay to earn free Bitcoin, you will need to be referred as per their current terms and conditions. I can assist you with that in addition to answering any general questions that you may have regarding buying, selling, converting, and taxation-related issues if you want to message me directly as I am always willing to help educate others in this space with whatever knowledge and/or experience that I have gained over the years.\r  \n\r  \n3. If you want tax free capital gains, you can buy BTCX, ETHX or BTCC in your TFSA. With that said, you do not truly own crypto with any of those because they are a fund; and therefore, you own shares of the fund and not the asset itself. As the saying goes and as you may have heard if you have done your due diligence: \"not your keys, not your crypto\". As such, you run and operate with all of the associated risks of leaving your coins on an exchange which is why I choose to own the real thing and use a cold storage wallet. The products mentioned above are not completely insured. Big risk, but tax free/deferred in a TFSA/RRSP.\r  \n\r  \n4. You may have heard of a Canadian company named Quadriga. In short, many investors did not truly own their Bitcoin with them since Quadriga sold \"entitlements to receive crypto assets or fiat currency from Quadriga\" while Quadriga held the \"keys\" to the real Bitcoin and investors lost around 135 million dollars CAD, but up to 250 million dollars CAD according to Wikipedia. This is verifiable information, a famous story, and a perfect example of \"not your keys, not your crypto\" as well as a lack of insurance of clients. Also, as of April, 22, 2021, Thodex, an exchange with 400,000 users went offline while Interpol issued a red notice for its CEO who mysteriously disappeared. According to Fortune,  an international manhunt is currently underway to locate the CEO and secure $2 billion in digital tokens he allegedly embezzled from Thodex.\r  \n\r  \n5. Unfortunately, with BTCC, ETHX, and WealthSimple Crypto, you cannot take your Bitcoin off of their exchanges because, again, you do not truly own Bitcoin with them. Rather, you own shares of the fund whereas those organizations truly own the asset since they have the \"keys\". They are the ones who own the real asset (crypto) and simply run the fund with the crypto backing that fund as they make money through their ridiculously overpriced premiums and spread/fees (WealthSimple's spread is around 1.5-2.0% if not higher and BTCC's MER is about 1%).\r  \n\r  \n6. In regards to taxes, if you truly own the crypto-asset, it is subject to capital appreciation tax whenever you trigger a taxable event such as selling it, buying things with it, and/or converting crypto-to-crypto. As such, you need to be prudent in your bookkeeping behavior and calculate your adjusted cost base (ACB) for each transaction. There is no legal requirement forcing you to calculate your ACB for each transaction, but it just saves you a lot of headaches later on when you need to pay taxes. This is no different than investing in traditional equities in a taxable account after you have maxed out your TFSA, RRSP, RESP, etc.\r  \n\r  \n7. Before you invest in anything regardless of the asset class, make sure you understand what you are putting your money towards, understand your risk tolerance, understand the proper asset allocation percentages for your risk tolerance, and formulate a clear plan of what you want to achieve. For me, the biggest investment is not really crypto itself, but rather, it is in the application of blockchain technology which serves as a massive global public ledger as well as the decentralization of this digital store of value combined with its independence from overbearing governing bodies whereby the crypto-assets itself simply have a monetary value relative to fiat currency. Moreover, investing is simply risk management and from a risk-adjusted returns perspective, having some excellent crypto-projects is better than not having any at all while I personally see this as the 12th sector in the overall global market index.\r  \n\r  \nNow, here are some general points of interests to help you understand cold storage wallets:\r  \n\r  \n1. There is a big misconception that if you decide to operate as your own bank (i.e.truly own your Bitcoin) and use a cold storage wallet device (i.e. physical hardware connected via USB to your PC), that your assets (Bitcoin) will be transferred and stored onto that physical USB device. This is the part that confuses a lot of people. In short, Bitcoin is not stored on that device, it will never be stored there, and this is because Bitcoin can never leave its \"blockchain\".\r  \n\r  \n2. So, what does your cold storage device do? The device allows you to have a \"key\" to your asset (Bitcoin) on the blockchain. How is this \"key\" established? Without going too deep into the technical aspects, when you initially setup the hardware wallet device, you will be given a 24-word \"seed phrase\" and it is literally 24 words. From a computer science perspective, this 24-word \"seed phrase\" actually represents and is transcribed into a huge series/string of alphanumeric characters. This 24-word \"seed phrase\" is essentially your \"keys\" to your assets on the blockchain.\r  \n\r  \n3. Your 24-word \"seed phrase\" is what is most important if you decide to act as your own bank and truly own Bitcoin since this is what gives you access to it. It does not matter if you lose your physical device and it does not matter if your physical device was destroyed. Why? Again, your assets are on the blockchain and not on the physical device. So, if you lose your physical device, you can simply replace it with another one (and this can be one from a different manufacturer too), set it up with your original 24-word \"seed phrase\" and you will once again have access to your assets since they are on the blockchain. In essence, never lose your \"keys\" because then you will have truly lost your Bitcoin. \r  \n\r  \n4. As you can probably see now, your 24-word \"seed phrase\" is extremely important (and more important than the physical hardware device itself). Therefore, when you first take note of your 24-word \"seed phrase\" during the initial setup of your physical hardware device, make sure that no one is watching, there are no cameras around you (including your mobile phone), etc. Only you should know your \"keys\". Never type it out on any digital device, never e-mail it to yourself, never take a photo of it, never upload it to a cloud database such as Google Docs and never try to encrypt it and put it on a regular USB drive. You want this 24-word seed phrase as private as possible. So, if anyone/anything asks you for your \"keys\", never give it out. Period.\r  \n\r  \nDisclaimer: I am irresponsibly long Bitcoin/Ethereum and I sincerely hope that this has been helpful to you and good luck!",
+        "created_utc": 1634857711,
+        "id": "hhjw6ww",
+        "score": 124,
+        "subreddit": "CanadianInvestor",
+        "created": 1634886511.0
+    },
+    {
+        "author": "yogafan00000",
+        "body": "BTC.X is the ticker symbol to track the USD/BTC pair.  Typically you would use a crypto exchange to buy and sell, like Kraken or Coinbase although more brokerages are starting to offer crypto holding services.  If you want to HODL your keys, you need to have a Bitcoin wallet on your phone or desktop in order to transfer the coins.  It's technical.  You pay fees when you buy and sell and also when you transfer to wallets.  Typically not available for registered accounts like TFSA or RRSP.\n\nBTCX is the ticker for Galaxy Bitcoin ETF available only to Canadians in your brokerage account.  They hold a certain amount of Bitcoins and your shares represent a certain interest in these Bitcoins.  The fees are structured similar to other ETF.  You will not be allowed to take ownership of any coins.   There are two versions of this product, one is hedged to the USD and the other is not.  The biggest advantage is that these are available inside your TFSA/RRSP.  There are other variations of Bitcoin ETF's in Canada:  BTCC, EBIT, BTCQ and probably more.  They each have their own configuration and you will have to research each one to decide if it's right for your investment objectives.\n\nWith Bitcoin, you are the custodian (unless you leave your balance on the Crypto Exchange, which has it's own set of issues).  If you lose your computer or phone with no backup, you have no recourse.  No one can help you.  Your coins and wealth are gone.  It's 100% your responsibility to ensure your assets are secure and safe.\n\nWith BTCX (or any other holding ETF) you are paying for custody services via their MER fees.  You could possibly sue or have other recourse if they get hacked or do an exitscam, but, of course, it would still be a bad time.\n\nBe aware some ETF's don't actually hold Bitcoin such as the new American ETF: BITO.  They only hold futures contracts on the Chicago Mercantile Exchange.\n\nGood luck!",
+        "created_utc": 1635084489,
+        "id": "hhv2j3m",
+        "score": 80,
+        "subreddit": "CanadianInvestor",
+        "created": 1635113289.0
+    },
+    {
+        "author": "AbbaFuckingZabba",
+        "body": "Everything is digital now.  All the fed needs to do is hit some keys and suddenly everyone's money is right back where it was.  That's not at question here.\n\nThe issue is everyone who has investments has basically been pushed into Real Estate and Equities due to fed policy giving incredible gains to those two asset types.  Now, it wasn't really their goal to do this, but it was a side effect of \"saving\" the economy in 2008 and 2020.  \n\nSo that really leaves two paths forward.  One where the fed continues to support those assets - and there are many, many reasons they would want to do this.  And one where the fed does not.  \n\nThe issue is, the fed didn't really mean to support those assets that much, but they didn't see they had any other choice due to the crisis.  In 2008 systemic collapse was a real threat.  Now we're at a point where there is enormous pressure to support these assets simply because no one wants to see them crash.  And that's dangerous because all it does is kick the can down the road and potentially create a bigger problem later.    \n\n\nOn the other hand, if the fed doesn't support those assets at their current high levels, it's very possible they could drop significantly - or slowly.  Especially if rates are raised to combat inflation.  If we saw the S&amp;P drop say 5-10% per year for \\~5ish years what would happen?  Who would hold onto stocks losing 6% a year when they could buy bonds yielding 3%?   Who would buy houses when their prices were declining and they could save money by waiting?  How much house could people even afford if companies are spending less on payroll (remember their stocks are falling so they're in cut costs mode) and rates are double where they are now?   And don't forget, housing can enter a self-reinforcing loop where prices fall, causing people to walk away, causing prices to fall further, causing more people to walk away ect.  \n\n  \nWho knows if this stuff will really happen, but we haven't really had a meaningful crash that the government hasn't stepped in and been as accommodating as possible for in quite some time.  Clearly the fed's plan is to \\*very\\* slowly back off and begin raising rates.  But last time we tried that we had a taper tantrum, so it can only be accomplished \\*very\\* slowly during periods of high growth.  If inflation continues to rise then the fed is going to have to choose between raising rates faster and potentially causing a stall, and between keeping things accommodating (low rates) and allowing inflation which benefits basically everyone who owns these assets now.",
+        "created_utc": 1635021227,
+        "id": "hhs3yr4",
+        "score": 44,
+        "subreddit": "stocks",
+        "created": 1635050027.0
+    },
+    {
+        "author": "PoontoniusJigabrewha",
+        "body": "By Wednesday $SDC should be in better shape, Diamond Hands and Volume are Keys to the Squeeze! $SDC Let's GO!\ud83d\udc69\u200d\ud83d\ude80\ud83d\udc68\u200d\ud83d\ude80\ud83d\ude80\ud83d\udcb0",
+        "created_utc": 1633977692,
+        "id": "hg9d4jt",
+        "score": 36,
+        "subreddit": "wallstreetbets",
+        "created": 1634006492.0
+    },
+    {
+        "author": "bigtexas91",
+        "body": "It\u2019s 4:02pm. Bears wipe the sweat from their brow with a dirty sock, violently toss empty Fresca cans from their tray table as they lift off their couch and head up the stairs of their step-dad\u2019s basement, heading towards the side door they grab the keys to their mom\u2019s \u201898 Chrysler Town and Country, hoping to blow off some steam from yet another cancelled recession with a gas station roller grill hotdog and a trip to the local gay bar.",
+        "created_utc": 1633119099,
+        "id": "hf0k7uh",
+        "score": 32,
+        "subreddit": "wallstreetbets",
+        "created": 1633147899.0
+    },
+    {
+        "author": "10xwannabe",
+        "body": "Here I will give you the keys to the kingdom for free (no costs).  Below is what I have learned matters to being rich.  Nothing more and nothing less.  \n\n1.  Get a good education in a high paying job you like so you can save to invest as much as you can.\n2. Asset Allocation is king and should be the major focus when investing\n3. Active management is a loser's game (picking stocks and market timing)\n4. Be cognizant of investing costs (loads/ 12b-1 fees, expense ratios), taxes, and inflation as they cut into long term returns.\n5. Stay the course, i.e. don't bail out when the bad times are sure to come.",
+        "created_utc": 1635695405,
+        "id": "hirxfbi",
+        "score": 25,
+        "subreddit": "investing",
+        "created": 1635724205.0
+    },
+    {
+        "author": "CPTDICKBONG",
+        "body": "Ridiculous take, frankly. That's like saying 'the Roman empire will never give up the keys to being a superpower to the barbarians'. There won't be a choice. By the time it's evident it has happened, it will be too late.",
+        "created_utc": 1633709930,
+        "id": "hfvbo4j",
+        "score": 18,
+        "subreddit": "investing",
+        "created": 1633738730.0
+    },
+    {
+        "author": "PM_ME_VOCALOID_SONGS",
+        "body": "Always add two security keys, so you have one as a backup. (If a site only allows one key, _they are doing it wrong._)",
+        "created_utc": 1633128099,
+        "id": "hf137n1",
+        "score": 15,
+        "subreddit": "investing",
+        "created": 1633156899.0
+    },
+    {
+        "author": "Dryja123",
+        "body": "Keep your coin off of exchanges. Not your keys, not your crypto.",
+        "created_utc": 1633120269,
+        "id": "hf0mrgd",
+        "score": 14,
+        "subreddit": "investing",
+        "created": 1633149069.0
+    },
+    {
+        "author": "fz-09",
+        "body": "Quick question - I have been authenticating to Vanguard with SMS 2FA. This post prompted me to go in and switch my second factor to use my Yubikey. However, when I log in there's a thing at the bottom that's like:\n&gt; I don't have my security key? Log on using security codes\n\nwhich sends me an SMS OTP to authenticate. \n\nWhat the fuck is the point of using a hardware key if an attacker can bypass it and use SMS OTP anyway just by clicking a link at the bottom of the login page?\n\nI tried to go to the settings and disable SMS OTP and it says: \n&gt; You use a security key to log on to vanguard.com. If you want to remove the security code option, you must first delete your registered keys.\n\nI get that they want to make sure you don't get locked out of your account or whatever but that doesn't seem like it adds any additional security whatsoever on top of traditional SMS OTP 2FA.",
+        "created_utc": 1633123025,
+        "id": "hf0spbg",
+        "score": 14,
+        "subreddit": "investing",
+        "created": 1633151825.0
+    },
+    {
+        "author": "cristiano-potato",
+        "body": "This is why crypto will face issue with mass adoption in first world countries. When shit is centralized, like at some brokerage, or a bank, and someone breaks into your account, you can sometimes get your assets back by proving your identity. Like, someone ITT mentioned a friend who got 60k stolen out of a bank account and they got it back. \n\nWith crypto, the keys to control your assets are *your* responsibility and there is no central authority who can go get your assets back for you if they\u2019re stolen. This is a pro in some sense, as you fully control your assets, but a con when you have things stolen from you. They\u2019re just gone.\n\nI\u2019m not convinced most people will want that reward / responsibility tradeoff. They want to be able to go to their bank and say \u201chere\u2019s my ID, someone stole my money\u201d",
+        "created_utc": 1633129159,
+        "id": "hf15fho",
+        "score": 11,
+        "subreddit": "investing",
+        "created": 1633157959.0
+    },
+    {
+        "author": "Ban_Evasion_Alt_Acct",
+        "body": "It's tough cause the type of person who can't secure their own keys is usually also the type of person who would fall for phishing attacks.",
+        "created_utc": 1633123180,
+        "id": "hf0t11t",
+        "score": 10,
+        "subreddit": "investing",
+        "created": 1633151980.0
+    },
+    {
+        "author": "gunnarbird",
+        "body": "Goddamit guys, if you turn VisualMod into the first true AI we\u2019re all fucked. I don\u2019t need my phone calling me a retard when I forget where my keys are",
+        "created_utc": 1634269669,
+        "id": "hgp53b5",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1634298469.0
+    },
+    {
+        "author": "Dmillehee",
+        "body": "Why\u2019d you leave the keys upon the table ?",
+        "created_utc": 1633221640,
+        "id": "hf5zhbz",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1633250440.0
+    },
+    {
+        "author": "xkulp8",
+        "body": "You need a keyboard with keys that change colors, then people know ur a hardcore gamer",
+        "created_utc": 1634163155,
+        "id": "hgjfh72",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1634191955.0
+    },
+    {
+        "author": "Cali4niadayz",
+        "body": "Apple had the keys to the kingdom and they let it go over quick profit\u2026 still worth Trillions, so who cares.",
+        "created_utc": 1635549426,
+        "id": "hiksfnt",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1635578226.0
+    },
+    {
+        "author": "wwamd",
+        "body": "Where are my car keys \u2026",
+        "created_utc": 1633488421,
+        "id": "hfk5bc3",
+        "score": 7,
+        "subreddit": "StockMarket",
+        "created": 1633517221.0
+    },
+    {
+        "author": "aintthateazy",
+        "body": "Hi Choco, sorry I should've been clearer. I'm the creator and sole developer of the add-on! This is how I use it to conduct fundamental analysis :)\n\nGoogle app script uses stringent Oauth permissions, it is impossible for me to develop any add-on for Google Sheets without the Oauth service automatically adding those permissions. I can assure you I do not have access to all your spreadsheets, nor your personal info except the public facing email and name you have associated with your account.\n\n3rd party content is due to it connecting to a market data API to pull in the real-time and historical data.\n\nGoogle even anonymises users with a random temporary keys so I can't even simply identify specific users.\n\nIn comparison to regular services/app's Google add-ons is pretty watertight on what I can actually do.\n\nApologies if the permissions seemed scary, I'm not sure how to dial them back. Only use what you're comfortable with and feel free to chat to me more about it either here or via message :)",
+        "created_utc": 1633562550,
+        "id": "hfnyaoh",
+        "score": 7,
+        "subreddit": "ValueInvesting",
+        "created": 1633591350.0
+    },
+    {
+        "author": "mcraze123",
+        "body": "Generally you want to keep whatever you\u2019re hodling in cold storage or in a wallet application instead of an exchange. \u201cNot your keys then it\u2019s not your crypto.\u201d You will need to put it on an exchange if you want to trade or buy/sell it. Side note, people shouldn\u2019t use sms for 2fa anyway, especially with financial things.",
+        "created_utc": 1633131797,
+        "id": "hf1audq",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1633160597.0
+    },
+    {
+        "author": "_skyfish_",
+        "body": "Mash out some random keys and write the DD to fit",
+        "created_utc": 1635215282,
+        "id": "hi2ew6e",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1635244082.0
+    },
+    {
+        "author": "Zachjsrf",
+        "body": "#Pro tip\n\n\nIts never ok to shake a baby, even if you can't find your car keys and you've looked everywhere. Dont shake a baby!",
+        "created_utc": 1635382765,
+        "id": "hibmm27",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1635411565.0
+    },
+    {
+        "author": "Buggy3D",
+        "body": "as far as I now, Binance requires you to enter an SMS, Google Authenticator, and email 2 FA for every single withdrawal... on top of that, they have a whitelist option set up to prevent some party gaining access to your API keys (if you generated any) and avoid transfers to unauthorized addresses.",
+        "created_utc": 1633122616,
+        "id": "hf0ruio",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1633151416.0
+    },
+    {
+        "author": "MRobi83",
+        "body": "It depends on your definition of \"better\".\n\nIf it's in regards to taxes, holding the ETF is certainly better. You can hold it in your TFSA for tax sheltered gains.\n\nIf it's in regards to safety, you're better off holding BTC directly in a hard wallet off the exchange. The saying of \"not your keys not your coins\" is very real in crypto. Look at QuadrigaCX as an example of what can happen when you don't hold your own keys. Hundreds of millions of dollars disappear essentially overnight. It also has the benefit of trading 24/7 vs just during market hours, so in theory if there's a massive crash on a Sunday and you want out quickly you can. \n\nPersonally, I split it and hold both. The appeal of tax free gains is strong enough to at least partially outweigh the risk of not holding the keys. \n\nIf you want to see how closely it tracks BTC in pricing check out bitbo.io",
+        "created_utc": 1633875463,
+        "id": "hg3tgd1",
+        "score": 5,
+        "subreddit": "CanadianInvestor",
+        "created": 1633904263.0
+    },
+    {
+        "author": "CarRamRob",
+        "body": "Their IP represents everyone\u2019s childhood, and thus they hold the keys to dreams that adults will pay anything for their children to experience.\n\nThink about it, what other \u201cbrand\u201d prompts people to fly across the country(or world) just to live like children for a short time?  Not McDonalds, not Nike, not Apple, etc.  There is something special about that IP, and I think it\u2019s even undervalued in how it binds people to them for generations.",
+        "created_utc": 1634436125,
+        "id": "hgxnpry",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1634464925.0
+    },
+    {
+        "author": "woodenmetalman",
+        "body": "\u201cOUR MISSION IS LOFTY, BADASS BUT BEAUTIFULLY SIMPLE: GET MILLIONS TO RETHINK THEIR FOOD CHOICES WHILE HELPING THEM DO THE WORLD A WORLD OF GOOD. BY OFFERING PLANT\u2011BASED FOOD OPTIONS SO DELICIOUS AND NUTRITIOUS, WE\u2019RE HELPING THIS KIND OF DIET BECOME THE NORM.\u201d\n\nI feel as if somebody like me got the keys to a shiny new company \ud83d\ude02\ud83e\udd19\ud83e\udd20\ud83d\udc40\ud83e\udd74",
+        "created_utc": 1633968080,
+        "id": "hg8pwaf",
+        "score": 5,
+        "subreddit": "pennystocks",
+        "created": 1633996880.0
+    },
+    {
+        "author": "Weisheit_first",
+        "body": "I'm owning a Bitcoin future ETF since it's started in Europe. No complains so far ;-) It's the best tool if you're average Joe. No need to worry about wallets and keys or hacks.\n\nhttps://www.boerse-frankfurt.de/en/etf/vaneck-vectors-bitcoin-etn",
+        "created_utc": 1634610763,
+        "id": "hh6qt91",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1634639563.0
+    },
+    {
+        "author": "LoveurOther15",
+        "body": "SPY better open red or im driving my car to the dealer putting the keys on the roof and running",
+        "created_utc": 1633663381,
+        "id": "hft9upq",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1633692181.0
+    },
+    {
+        "author": "jakemoffsky",
+        "body": "3.8 it seems, looks like some users have syncing issues and haven't given it the permissions it needs. I moved over when my priv died last month. Haven't had an issue but it sux that i have ads now obviously. Would have bought a new priv like phone if that was actually an option. Now in 2021 I have to get used to looking at on screen keys while typing... Sigh.",
+        "created_utc": 1633650162,
+        "id": "hfsj21d",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1633678962.0
+    },
+    {
+        "author": "tloffman",
+        "body": "Your post has a lot of great information, but, I agree with most of the comments here - saying you made $500,000 isn't the point - the point is what percent is that of your initial account balance? You indicate that you have made almost 100% gains. Excellent. But, we have been in a roaring bull market ever since the Covid crash of March 2020, so a LOT of people have made some impressive gains during this time, by simply going long SPY or QQQ options or 3x ETFs after pullbacks and selling into overbought rallies. You do a LOT of work - seems like it's your full time job. Most traders or investors have other things going in their life - so they only have so much time to spare for trading. Just being realistic. In my experience, keeping things simple and being very careful about your leverage are keys to long term success in the market. When traders watch too many things they can get lost in a maze of over choice and conflicting signals, indicators, advice.  Also, one can make a lot of money fast trading options and lose all of that money even faster in a series of bad trades. Leverage can be a wonderful thing and a horrible thing. There is an old Wall Street saying that goes \"don't confuse brains for a bull market.\" There are many economic indicators that are suggesting a possible end to the current bull market - so you will have to adjust accordingly, or, we will see another post here that you lost $500,000. When the bull market of the late 1990's ended I lost more than $500,000, after starting with 30k and building that up to a million dollars. So, I have \"been there, done that\".",
+        "created_utc": 1635510863,
+        "id": "hii6pgy",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1635539663.0
+    },
+    {
+        "author": "IamJacksanger",
+        "body": "Good info, but I would elaborate on hot vs cold wallets. You are referring to hot wallets here. Cold wallets like those offered by Trezor and Ledger are a lot safer to protect your crypto. You own your own keys and can recover them at any time as long as you know your seed phrase. I would treat hot wallets like a real fiat wallet and a cold wallet like your personal bank safe. I would be mad if I lost my wallet but it wouldn\u2019t financially ruin me like losing a bank account would. \n\nEven better would be owning your own node but that\u2019s even more technical.",
+        "created_utc": 1635098049,
+        "id": "hhvy7kw",
+        "score": 4,
+        "subreddit": "CanadianInvestor",
+        "created": 1635126849.0
+    },
+    {
+        "author": "hashbreaker",
+        "body": "I find the same thing when I probe a bit deeper with some questions.  Usually it's about losing keys, exchange exiting, or just missing the boat, and has nothing to do with investing.",
+        "created_utc": 1634130847,
+        "id": "hgh9fkv",
+        "score": 4,
+        "subreddit": "CanadianInvestor",
+        "created": 1634159647.0
+    },
+    {
+        "author": "imabev",
+        "body": "This just in: cars are more likely to get stolen if you leave the keys in it.",
+        "created_utc": 1635377744,
+        "id": "hibb9hh",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1635406544.0
+    },
+    {
+        "author": "PlsDontNuke",
+        "body": "If they're b cups I can work with this, the part about the keys sounds kinky",
+        "created_utc": 1633734739,
+        "id": "hfwyakc",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1633763539.0
+    },
+    {
+        "author": "jaghataikhan",
+        "body": "I've read with people losing keys, getting locked out of accounts, etc, it's probably de facto somewhat deflationary",
+        "created_utc": 1634755693,
+        "id": "hhe8c0d",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1634784493.0
+    },
+    {
+        "author": "waynestevenson",
+        "body": "I have a small amount of ETH ETF in my TFSA. I also hold some crypto in Wealth Simple. I also hold some crypto in exchanges. I also mine direct to wallets, and I also mine direct to exchange.   \n\n\nFor the most part, I don't care about the keys. So long as I'm doing business through a reputable exchange / brokerage.   \n\n\nIf it weren't wanting altcoins and mining, I think I would be happy with just holding ETFs or holding through Wealthsimple.",
+        "created_utc": 1635169964,
+        "id": "hhzhdtl",
+        "score": 3,
+        "subreddit": "CanadianInvestor",
+        "created": 1635198764.0
+    },
+    {
+        "author": "Herbisretired",
+        "body": "Keysight.",
+        "created_utc": 1635200571,
+        "id": "hi1j03b",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1635229371.0
+    },
+    {
+        "author": "Soldacki",
+        "body": "Cause they have ave the keys to all the search engines and everything. The phone",
+        "created_utc": 1635510839,
+        "id": "hii6nt5",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1635539639.0
+    },
+    {
+        "author": "GHOST_OF_PEPE_SILVIA",
+        "body": "Took the keys to her fucking car",
+        "created_utc": 1633145193,
+        "id": "hf21019",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1633173993.0
+    },
+    {
+        "author": "isellamdcalls",
+        "body": "i think its a fake name. like alicia keys or elon musk",
+        "created_utc": 1634266749,
+        "id": "hgoz9m8",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1634295549.0
+    },
+    {
+        "author": "PrincPaco",
+        "body": "Highly recommend moving to the Keys when you are rich. Far superior to Miami, and you can still find square grouper floating.",
+        "created_utc": 1634766899,
+        "id": "hhf0b0f",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1634795699.0
+    },
+    {
+        "author": "Otto_Von_Shekelberg",
+        "body": "I was saying that right away. Insider probably mad because of something so they gave the keys away and hoped someone would do something. \n\nAlso nicely timed with the congress waste of time so something political by a political group.",
+        "created_utc": 1633383537,
+        "id": "hfemixh",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1633412337.0
+    },
+    {
+        "author": "DisastrousTourist591",
+        "body": "$net $200 EOD\n\n\nLow key kidding. Like only the lowest of keys",
+        "created_utc": 1634565932,
+        "id": "hh3ybdy",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1634594732.0
+    },
+    {
+        "author": "Gardenho1",
+        "body": "That's just bullshit, all my stoner friends have a much better work ethic than I do and I don't smoke.  Just don't ask them to find their keys.",
+        "created_utc": 1635530789,
+        "id": "hijj22u",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1635559589.0
+    },
+    {
+        "author": "hnr01",
+        "body": "That\u2019s my exact thesis. Let\u2019s not even jump into the whole encryption keys and China mess.",
+        "created_utc": 1634231000,
+        "id": "hgmrmsf",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1634259800.0
+    },
+    {
+        "author": "one-man-circlejerk",
+        "body": "&gt; The government can still find out who you are and how much money you have.\n\nNot the point I was making\n\n&gt; At least in a bank there is a vault.\n\nNot relevant\n\n&gt; Mild torcher can extra the keys with ease.\n\nNot a sentence\n\n&gt; It's not a good store of value.\n\nAgreed",
+        "created_utc": 1635068078,
+        "id": "hhueagx",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1635096878.0
+    },
+    {
+        "author": "wsb_moonshot",
+        "body": "keys, lol. I forgot poor cars still use metal tools",
+        "created_utc": 1635378362,
+        "id": "hibcmv1",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1635407162.0
+    },
+    {
+        "author": "AbstractLogic",
+        "body": "The Chinese government only allowed a small fledgling of capitalism into their system in order to steal Americans technology and advantages on the world stage. \n\nNow that China is the dominant economy and holds the keys to tech, ie production and minerals, they no longer need to abide by capitalism\u2019s rules.\n\nThe question is, why would they continue to allow capitalism in theirp country",
+        "created_utc": 1633274879,
+        "id": "hf8h5bw",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1633303679.0
+    },
+    {
+        "author": "Green_Lantern_4vr",
+        "body": "Use an actual trading program and use hot keys. Get a terminal (Bloomberg).",
+        "created_utc": 1633394259,
+        "id": "hff96p6",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633423059.0
+    },
+    {
+        "author": "Guilty-Ham",
+        "body": "In the early 80's, I sat across from my insurer/broker the first time and he explained with paper prospectus and scribble how I could win on the long and lose on the short.  So I piled the oldman stock, known as blue chip back then.\n\nYou say 92-02, since 02 things have change drastically.  Reddit is almost the forecast, LOL.  A push of a few keys and presto, all the info on the screen.  Every move is dynamic, ticker is dynamic, and the software programs hedge use react faster than the blink of an eye to your buy or sell.\n\nSince GME, they have surely modified and improved the software to prevent such a fall.  Wouldn't you do the same?",
+        "created_utc": 1633446837,
+        "id": "hfhk34m",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633475637.0
+    },
+    {
+        "author": "TheWaveCarver",
+        "body": "\"Sometimes the cum makes the keys stick.\"",
+        "created_utc": 1634397808,
+        "id": "hgva8u0",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1634426608.0
+    },
+    {
+        "author": "Capasian",
+        "body": "Thank you so much for these two meaningful and insightful posts. For a long time I have been trying to convince my friend to drop Intel stock (mostly based on their shrinking market share, your data nicely adds), but he still believes in the power of inertia. Nevertheless, I had gathered a list of stocks one IMO can use instead, not overperformative, but solid. \n\nI think that top pick is ASML - instead of betting on a sloppy big player in a growing market, you switch to the main supplier of players in this market. \nTexas Instruments and Analog Devices are good picks if you trust in the electronics segment as a whole, and they provide a wider product mix in terms of electronic components and integrated circuits.\nAnd my favorites also are companies, that produce good measurement instruments. I do solid state physics, and there is funny coincidence - producers of devices I like and use generally show good performance at a stock market. Those are Ametek, Agilent, Keysight, Danaher (Fortive).\n\nWhether you have the opinion on these companies, I would highly appreciate it.",
+        "created_utc": 1634888953,
+        "id": "hhlf79e",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1634917753.0
+    },
+    {
+        "author": "fIreballchamp",
+        "body": "From your article\n\n&gt;69,000 coins\n\nYou believe this? 69 lol. The article was written by \u00a0Roxanne Henderson\u00a0and\u00a0Loni Prinsloo they are not experts on cryptocurrency, they didn't show any proof of how they came up with the number 69 thousand and probably just made it up or copied someone else who said 69 thousand bitcoins.  Show us the wallets that were hacked which held 69000 bitcoins or the transfers. People are gullable AF. Also the loss claims don't even come close to the billions so who exactly lost 3.6 billion dollars cause they aren't admitting it or asking for it back.\n\nhttps://qz.com/africa/2060593/inside-mti-and-africrypts-bitcoin-scandals/amp/\n\nRead this article it's better. The brothers claim 5 million dollars is missing, not billions, that africrypt only managed 200m at the most and a forensic auditor is looking into it at the moment they don't know how much was stolen. Someone made up the 69 thousand bitcoin figure and it stuck because it sounds cool. \n\n&gt;And who holds those keys? Maybe 4 different people? Cool $1 billion each. What are their salaries again? They have a strong motive.\n\nAgain you have no idea what you're talking about. Those 4 people would not know who else holds the keys, or even if their keys work, how much is in the wallet etc. they would not be able to communicate with each other or collude because they shouldn't even know each other. The coins also move around and are lent out so the borrowers might have control or the exchanges where arbitrage bots are doing their thing. \n\nThey aren't all sitting in one wallet ever where 2 teenage brothers who drive lambos and live in a hotel have control over, that would be a very bad system. Some of the keys constantly change and are held in vaults with cameras and security. It's impressive and well thought out in a proper system.\n\nSecurity audits look for these things and verify the programming. \n\n&gt;Audits exist, of course, but they can only audit the system actually holds bitcoin it says it does and that it's secure against hacking. Not against internal rug pulls.\n\nWhat arw you trying to say? An audit looks for redflags and security holes that can enable rug pulls. People who  know what they are doing audit code and security systems. Not people like you.",
+        "created_utc": 1635114747,
+        "id": "hhx2cpe",
+        "score": 2,
+        "subreddit": "CanadianInvestor",
+        "created": 1635143547.0
+    },
+    {
+        "author": "fIreballchamp",
+        "body": "\n&gt;How is this impressive at all when they stand to gain BILLIONS by rug pulling by comparison\n\nWhat billions are you talking about? Show me the transaction or wallet owned by africrypt that ever had that sort of money. You're making up these numbers or parroting fake news. The amount they stole was a fraction of a billion.\n\n&gt;They have their own keys, obviously, so multisig doesn't stop them from rug pulling.\n\nEnlighten us some more about how multisig keys work. Cause you're wrong, they require input from a number of people not one and there aren't secret keys. Trusting a company ran by an 18 and 19 year old who don't have mutlisig keys but their own private keys is foolish.\n\n&gt;How exactly does one audit that a company is not going to rug pull? Do the auditors have mind reading devices? Can you walk me through this?\n\nThey look at the programming to ensure that mutlisig keys are being used, that margin guidelines are being followed, that adequate security measures are in place. Go read up on it. I'm not your teacher. \n\nIf you don't know about a technology or understand how security works don't argue about it. You're wrong and spreading fake news. It's pathetic.",
+        "created_utc": 1635109084,
+        "id": "hhwpls1",
+        "score": 2,
+        "subreddit": "CanadianInvestor",
+        "created": 1635137884.0
+    },
+    {
+        "author": "DeFi_ance",
+        "body": "I agree, nothing is perfect, can't eliminate every attack vector, but removing as many vectors as possible is something I'm interested in.\n\nI would have to retrieve my physical key, but I have a backup at home and then a few in other places. The keys are also cheaper than backup phones, and I don't have to check on them, keep them updated, power up every few months and charge them, etc. It simplified things for me from a backup management standpoint, and the marginal improvements in the security model, even if I was probably fine, make me *feel* better about it. Which isn't nothing.\n\nI would feel ok handing a copy of my security key to anyone and saying good luck. I wouldn't be pissed if I lose one in an Uber and try to track the driver down. I can't have that same attitude about a phone, primarily because they're fucking expensive.\n\nAlso wasn't a huge fan of Lingua's prior noise stuff, but that new album is crazy haunting.",
+        "created_utc": 1633138101,
+        "id": "hf1nkt3",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1633166901.0
+    },
+    {
+        "author": "kiliankoe",
+        "body": "Purge them or not, but you should always invalidate any secrets you accidentally committed. I'm pretty sure GitHub actually does this for you with any GitHub API keys you might accidentally push. And I think AWS monitors GitHub push events for this as well. But that's only public GitHub, one should *always* also do that themselves.",
+        "created_utc": 1633554903,
+        "id": "hfnhtxg",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1633583703.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "&gt;TWITCH SAYS OUT OF AN ABUNDANCE OF CAUTION, HAVE RESET ALL STREAM KEYS\n$AMZN\n\n^\\*Walter ^Bloomberg ^[@DeItaone](http://twitter.com/DeItaone) ^at ^2021-10-07 ^04:47:11 ^EDT-0400",
+        "created_utc": 1633596440,
+        "id": "hfphg54",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633625240.0
+    },
+    {
+        "author": "EvaUnit343",
+        "body": "Just my keys and some cups, why?",
+        "created_utc": 1633734699,
+        "id": "hfwy7h8",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633763499.0
+    },
+    {
+        "author": "KaitenRS",
+        "body": "Zim, zim, zimma\n\nWho got the keys to the beamah",
+        "created_utc": 1633762508,
+        "id": "hfyd96x",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633791308.0
+    },
+    {
+        "author": "lotsalhop",
+        "body": "The standard for advice in the bitcoin community is \"not your keys, not your coins.\" Bitcoiners are practically screaming at the top of their lungs for newbies to withdraw their coins off exchanges. Nobody trusts the exchanges except for those who don't know better. They will learn in time.",
+        "created_utc": 1634653528,
+        "id": "hh8i5ht",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1634682328.0
+    },
+    {
+        "author": "crimeo",
+        "body": "Of course there's risk, you gave your keys out to someone's custody, and your return also depends fundamentally on their secondary investments doing well which they may not (in your example, overall leveraged trading)",
+        "created_utc": 1635178122,
+        "id": "hi005yv",
+        "score": 2,
+        "subreddit": "CanadianInvestor",
+        "created": 1635206922.0
+    },
+    {
+        "author": "CrabFederal",
+        "body": "Get rid of the keys; any car with keys is excluded from my search.   It\u2019s 2021 guys - what a waste of money",
+        "created_utc": 1634817775,
+        "id": "hhhc0j1",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1634846575.0
+    },
+    {
+        "author": "DeFi_ance",
+        "body": "I recently switched over to Yubikey after using Authy for years, and I friggin' love it. It's far more secure and it's even quicker than pulling up an OTP code for sites that support the FIDO protocol directly, such as Coinbase and Gemini. For sites that don't support FIDO and still use OTP (what Authy/Google Auth is), Yubikey can do those too with a Yubico Authenicator app which requires your key to generate the codes.\n\nYubico's site has excellent setup guides and FAQs to get things going. The only downside is the expense, as you want to buy multiple keys to have a backup incase you lose your primary. But, if you've got a decent chunk of money to protect, spending a hundred bucks for a couple Yubikeys is well worth the vastly improved security.\n\nTradFi is so behind crypto on security models, it's insane. For Fidelity, TDA, and my three banks, they *all* only have SMS 2FA as an option, not even OTP. And for my trading platform, ThinkOrSwim, it doesn't have any 2FA at all to login and make trades. Drives me nuts.",
+        "created_utc": 1633128863,
+        "id": "hf14tiv",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633157663.0
+    },
+    {
+        "author": "jlbryant88",
+        "body": "Why isn\u2019t the number one comment on this thread \u201cnot your keys, not your crypto\u201d",
+        "created_utc": 1633144612,
+        "id": "hf1zz8h",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633173412.0
+    },
+    {
+        "author": "[deleted]",
+        "body": "They leave the keys inside",
+        "created_utc": 1633122427,
+        "id": "hf0rg2v",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1633151227.0
+    },
+    {
+        "author": "DoctorWalnut",
+        "body": "I am having your Pluralsight experience with Coursera- Regardless the bottom line is, we'll need to keep our eyes out for the course website that has high user retention on account of an outright edge. The winner will create a moat through offering the highest quality content to returning users at consistent prices that create shareholder value. Masterclass features Alicia Keys, Neil DeGrasse Tyson, Samuel L. Jackson, Gordon Ramsey, and Natalie Portman as instructors on the platform. How's that for a table flip?",
+        "created_utc": 1633452631,
+        "id": "hfhy94v",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633481431.0
+    },
+    {
+        "author": "tankalum",
+        "body": "I work professionally in IT/software and studied science in University. I have nuclear and particle physics textbooks on my bookshelf, yes they should be taken extremely seriously and they do. I also understand embedded systems and the works and yes I know they got in there with USB keys. Do I think Ontario will suffer a catastrophic cyber security attack - unlikely but that is still a labelled risk as Facilities become more Digital.\n\nhttps://nuclearsafety.gc.ca/eng/resources/emergency-management-and-safety/index.cfm#Security\n...\nCNSC monitors potential threats in collaboration with:\nthe Canadian Security Intelligence Service\n...",
+        "created_utc": 1634569225,
+        "id": "hh45pck",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1634598025.0
+    },
+    {
+        "author": "PlsDontNuke",
+        "body": "&gt; I am assuming you would be having a mortgage, to which you would be paying interest to your bank.\n\nNah, preferably not.\n\n&gt; I don't see how renting your home makes you more secure.\n\nThen would you like some help figuring out what's wrong with your ability to understand the world around you? \n\n&gt; If anything it makes you less secure since your landlord has keys to your apartment. \n\nMy landlord isn't a major security threat and if he was there's not really much chance a door being locked would stop him. What makes you think in such a silly way?\n\n&gt; Besides if someone is \"targeting\" you, why would they care whose property you are on.\n\nBecause if it's not me then it might be someone they don't want to target. I don't get how you have to ask this. \n\n&gt; Sounds like you need to move to a different neighbourhood my friend.\n\nWhat neighborhood is safe from the overlords?\n\n&gt; Are you on the lam or something?\n\nI guess? You could look at it kinda like I'm a runaway slave. Weird framing but it works\n\n&gt; I guess if you are running away from the law, then home ownership is probably out of the question. \n\nWhy do you say \"the law?\" Maybe it's just me but when you call them that in this context it feels like you mean it unironically. \n\nRegardless, home ownership isn't out of the question, it's just best to delay until further security measures avail themselves to me. \n\n&gt; However if you don't have renter insurance you are making a mistake IMO.\n\nWhy would I want renter insurance? It doesn't protect from anything significant unless a lot of your net worth is in expensive wood furniture or you like living in a flood plain with nowhere to park your car or some dumb shit like that. Unless I'm missing something\n\n&gt; That is a negative, unless you want to be a monk and make a poverty vow, in which case be my guess and go live with the Lord.\n\nWhat do you mean?",
+        "created_utc": 1635174159,
+        "id": "hhzqp4j",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635202959.0
+    },
+    {
+        "author": "temporallock",
+        "body": "Especially when they drop their keys at the car and can\u2019t just bend over so you see them take a knee to reach them, then watch the struggle bus of getting back up",
+        "created_utc": 1634947872,
+        "id": "hhoq3n2",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634976672.0
+    },
+    {
+        "author": "crimeo",
+        "body": "XIV lost all its value because it actually lost value as defined. The investors legitimately failed their gamble and the value of the shares was ACTUALLY very low. You have no protection against that. By analogy for bitcoin, that would be more like if someone invented a quantum computer that can crack bitcoin keys or whatever, and the coin itself lost all value.\n\nBut when only the ETF fails due to for example fraud in the TEF itself, and bitcoin is mostly unaffected underneath, and when the price of the (Canadian) ETFs is definitionally pegged to bitcoin, the shares will still have normal high value upon liquidation, and you'll be totally fine.\n\nSame as an ETF that is defined strictly as a basket of underlying stocks in a situation where fraud were to occur there without the underlying assets crashing.",
+        "created_utc": 1635212780,
+        "id": "hi29nm5",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1635241580.0
+    },
+    {
+        "author": "CalligrapherOneTwo3",
+        "body": "A lot of people are investing in crypto-ETFs without realizing some issues such as the fact that you will not own actual crypto. Also, you will not be insured if anything happens to the ETF. That is a pretty big risk even though they can be held in a TFSA while being subjected to big swings during the weekend. Here are a few points which may or may not be helpful to you from my perspective regarding buying this alternative asset class, cold storage wallets, taxation, and the cheapest method of accumulating/procuring it in Canada:\r  \n\r  \n1. Personally, I only buy on the Newton app since they currently have the lowest purchasing fees out of all of the available exchanges in Canada. Newton's average spread varies from 0.50% to 0.60% which is 2-3 times cheaper than most of the other available exchanges that are available to us as Canadians. I also use the ShakePay app to earn free Bitcoin on a daily basis by physically shaking my phone once a day. Trust me, I know that sounds ridiculous, stupid, and suspicious, but ShakePay is a legitimate company based out of Montr\u00e9al which is regulated by both FINTRAC and AMF while it is also legally licensed as a Money Service Business. I never actually buy from ShakePay because of their high purchasing spreads (which is approximately 1.75%) and I simply use them for the free daily accumulation of Bitcoin. Anyone who uses ShakePay can easily confirm their legitimacy and I have been stacking free Satoshis for a few years now.   \r  \n\r  \n2. Since I actually want to own the underlying asset, I withdraw my Bitcoin from both of those exchanges and I put my assets into a cold storage wallet. In Canada, this is currently the cheapest method of accumulating Bitcoin and truly owning the assets by storing them \"offline\" in a cold storage wallet. However, in order to unlock the ShakingSats feature in ShakePay to earn free Bitcoin, you will need to be referred as per their current terms and conditions. I can assist you with that in addition to answering any general questions that you may have regarding buying, selling, converting, and taxation-related issues if you want to message me directly as I am always willing to help educate others in this space with whatever knowledge and/or experience that I have gained over the years.\r  \n\r  \n3. If you want tax free capital gains, you can buy BTCX, ETHX or BTCC in your TFSA. With that said, you do not truly own crypto with any of those because they are a fund; and therefore, you own shares of the fund and not the asset itself. As the saying goes and as you may have heard if you have done your due diligence: \"not your keys, not your crypto\". As such, you run and operate with all of the associated risks of leaving your coins on an exchange which is why I choose to own the real thing and use a cold storage wallet. The products mentioned above are not completely insured. Big risk, but tax free/deferred in a TFSA/RRSP.\r  \n\r  \n4. You may have heard of a Canadian company named Quadriga. In short, many investors did not truly own their Bitcoin with them since Quadriga sold \"entitlements to receive crypto assets or fiat currency from Quadriga\" while Quadriga held the \"keys\" to the real Bitcoin and investors lost around 135 million dollars CAD, but up to 250 million dollars CAD according to Wikipedia. This is verifiable information, a famous story, and a perfect example of \"not your keys, not your crypto\" as well as a lack of insurance of clients. Also, as of April, 22, 2021, Thodex, an exchange with 400,000 users went offline while Interpol issued a red notice for its CEO who mysteriously disappeared. According to Fortune,  an international manhunt is currently underway to locate the CEO and secure $2 billion in digital tokens he allegedly embezzled from Thodex.\r  \n\r  \n5. Unfortunately, with BTCC, ETHX, and WealthSimple Crypto, you cannot take your Bitcoin off of their exchanges because, again, you do not truly own Bitcoin with them. Rather, you own shares of the fund whereas those organizations truly own the asset since they have the \"keys\". They are the ones who own the real asset (crypto) and simply run the fund with the crypto backing that fund as they make money through their ridiculously overpriced premiums and spread/fees (WealthSimple's spread is around 1.5-2.0% if not higher and BTCC's MER is about 1%).\r  \n\r  \n6. In regards to taxes, if you truly own the crypto-asset, it is subject to capital appreciation tax whenever you trigger a taxable event such as selling it, buying things with it, and/or converting crypto-to-crypto. As such, you need to be prudent in your bookkeeping behavior and calculate your adjusted cost base (ACB) for each transaction. There is no legal requirement forcing you to calculate your ACB for each transaction, but it just saves you a lot of headaches later on when you need to pay taxes. This is no different than investing in traditional equities in a taxable account after you have maxed out your TFSA, RRSP, RESP, etc.\r  \n\r  \n7. Before you invest in anything regardless of the asset class, make sure you understand what you are putting your money towards, understand your risk tolerance, understand the proper asset allocation percentages for your risk tolerance, and formulate a clear plan of what you want to achieve. For me, the biggest investment is not really crypto itself, but rather, it is in the application of blockchain technology which serves as a massive global public ledger as well as the decentralization of this digital store of value combined with its independence from overbearing governing bodies whereby the crypto-assets itself simply have a monetary value relative to fiat currency. Moreover, investing is simply risk management and from a risk-adjusted returns perspective, having some excellent crypto-projects is better than not having any at all while I personally see this as the 12th sector in the overall global market index.\r  \n\r  \nNow, here are some general points of interests to help you understand cold storage wallets:\r  \n\r  \n1. There is a big misconception that if you decide to operate as your own bank (i.e.truly own your Bitcoin) and use a cold storage wallet device (i.e. physical hardware connected via USB to your PC), that your assets (Bitcoin) will be transferred and stored onto that physical USB device. This is the part that confuses a lot of people. In short, Bitcoin is not stored on that device, it will never be stored there, and this is because Bitcoin can never leave its \"blockchain\".\r  \n\r  \n2. So, what does your cold storage device do? The device allows you to have a \"key\" to your asset (Bitcoin) on the blockchain. How is this \"key\" established? Without going too deep into the technical aspects, when you initially setup the hardware wallet device, you will be given a 24-word \"seed phrase\" and it is literally 24 words. From a computer science perspective, this 24-word \"seed phrase\" actually represents and is transcribed into a huge series/string of alphanumeric characters. This 24-word \"seed phrase\" is essentially your \"keys\" to your assets on the blockchain.\r  \n\r  \n3. Your 24-word \"seed phrase\" is what is most important if you decide to act as your own bank and truly own Bitcoin since this is what gives you access to it. It does not matter if you lose your physical device and it does not matter if your physical device was destroyed. Why? Again, your assets are on the blockchain and not on the physical device. So, if you lose your physical device, you can simply replace it with another one (and this can be one from a different manufacturer too), set it up with your original 24-word \"seed phrase\" and you will once again have access to your assets since they are on the blockchain. In essence, never lose your \"keys\" because then you will have truly lost your Bitcoin. \r  \n\r  \n4. As you can probably see now, your 24-word \"seed phrase\" is extremely important (and more important than the physical hardware device itself). Therefore, when you first take note of your 24-word \"seed phrase\" during the initial setup of your physical hardware device, make sure that no one is watching, there are no cameras around you (including your mobile phone), etc. Only you should know your \"keys\". Never type it out on any digital device, never e-mail it to yourself, never take a photo of it, never upload it to a cloud database such as Google Docs and never try to encrypt it and put it on a regular USB drive. You want this 24-word seed phrase as private as possible. So, if anyone/anything asks you for your \"keys\", never give it out. Period.\r  \n\r  \nDisclaimer: I am irresponsibly long Bitcoin/Ethereum and I sincerely hope that this has been helpful to you and good luck!",
+        "created_utc": 1635161730,
+        "id": "hhz2qc7",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1635190530.0
+    },
+    {
+        "author": "crimeo",
+        "body": "Actually yes, I strongly advise that if a person cannot follow the white paper and understand how it actually works themselves, they should probably not be investing in a crypto currency significantly.\n\nAnd if they don't well understand the cryptography and at least main types of attacks and vulnerabilities, they shouldn't be keeping their own steel keys and such.\n\n&gt; Then why the fuck are there literal ETFs of such projects?\n\nFor exactly the reason above, is one of the reasons at least: you DON'T have to have the technical skills, because the ETF is protected and regulated by the whole legal system and judicial apparatus, and the impacts of fraud etc. If experts do mishandle things can be reversed for you and reimbursed and so on. Because you're trading tokens tied into the societal structure, not actual currency itself that once gone is just gone into the night immediately and in full.\n\n&gt; If there was a problem, it would be called out immediately and everyone who actually cares about their investments will know\n\nI mean yeah, everyone did definitely immediately know about Mt Gox and africrypt etc lol. Doesn't help much when it's too late and already happened... obviously anyone pulling the rug or triggering a huge scam is going to do it all at once, not one victim at a time day by day.....",
+        "created_utc": 1635318790,
+        "id": "hi7xk7i",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1635347590.0
+    },
+    {
+        "author": "crimeo",
+        "body": "&gt; ETFs trade during trading hours only, Bitcoin trades 24/7\n\nI see this as an advantage personally, day trading bitcoin is pretty dumb, it removes the temptation.\n\n&gt; You can exit your position into a stable coin Or choose to cash out\n\n? Yeah I can cash out ETFs too, including using the cash to buy stablecoin if I wanted, so... no difference.\n\n&gt; You can stake your stable coin in various ways collecting interest 2-7+%\n\nWhich is incredibly risky and can and probably will eventually put your life savings as part of a rug pull/scam headline where you lost everything if/when the custodian gets desperate.\n\n&gt; You can borrow against your bitcoin.\n\nSame thing, unless someone is stupid enough to lend you money on your bitcoin without the keys.\n\n&gt; You can send payments via lightning virtually free and instantaneous.\n\nYou're on /r/canadianinvestor, nobody cares. We are here for investments, not unnecessary internet money that isn't accepted almost anywhere. I don't even think this is at all where the value of bitcoin lies that makes it an investment, either. Its value lies in its use as a gold 2.0\n\n&gt; The list goes on.\n\nIt probably doesn't, actually,",
+        "created_utc": 1635178426,
+        "id": "hi00wl3",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1635207226.0
+    },
+    {
+        "author": "MaximumOrdinary",
+        "body": "this days it goes clickity clack with the pressing of the keyboard keys generating virtual trillions.",
+        "created_utc": 1635276350,
+        "id": "hi5icme",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635305150.0
+    },
+    {
+        "author": "GalaxyWorm",
+        "body": "Vlad was blowing one of the Citadel managers and he was accidentally hitting keys, cause Vlad is secretly the throat goat",
+        "created_utc": 1635281457,
+        "id": "hi5voco",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635310257.0
+    },
+    {
+        "author": "RecommendationNo6304",
+        "body": "I own a tiny (meaning sub-1% portion of this). I view it as a bargain, with two major warts.\n\n1) Stand-up MRI machines. That's the only non-local competitive advantage in a nutshell, and I've read some negative opinions about these. The medical upshot is supposed to be that you can image in load-bearing positions, with most of the criticism being that the images are not clear enough to be useful. I don't know if this is a valid criticism, *Dammit Jim I'm an investor, not a doctor!*\n\n2) Skin in the game. This is a far more serious problem. Damodian senior controls the company via a very minority stake (class C shares). His son is CEO, and most of the profits come from the management of healthcare centers in NY and Florida that (duh) operate MRI machines.\n\nSo taken together this means a potentially weak or non-existent national franchise against whales for competitors. Local franchise may be stronger, I don't really know the situation with the florida/ny medical centers). On top of single entity control of the company with definite conflict of interest. CEO and Chairman are deciding their own cut of any profits and as a practical matter hold the keys to if and when investors ever see a dividend.\n\nThe quantitative numbers look quite promising, but a little digging casts serious qualitative doubts in the whole situation.\n\nI'm curious what happens to the C shares (company control, basically) when Damodian dies. I never did dig around enough to look up the covenants. That would be really important information for anybody taking a serious stake.",
+        "created_utc": 1635281289,
+        "id": "hi5v8hk",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1635310089.0
+    },
+    {
+        "author": "crimeo",
+        "body": "&gt; What billions are you talking about?\n\nUh these ones? Just read literally any news about it? https://www.bloomberg.com/news/articles/2021-06-23/s-african-brothers-vanish-and-so-does-3-6-billion-in-bitcoin\n\n&gt; Cause you're wrong, they require input from a number of people not one and there aren't secret keys.\n\nAnd who holds those keys? Maybe 4 different people? Cool $1 billion each. What are their salaries again? They have a strong motive.\n\n&gt; Go read up on it. I'm not your teacher.\n\nCan't read up on something that doesn't exist, sorry. Audits exist, of course, but they can only audit the system actually holds bitcoin it says it does and that it's secure against hacking. Not against internal rug pulls.",
+        "created_utc": 1635112510,
+        "id": "hhwxgxi",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1635141310.0
+    },
+    {
+        "author": "crimeo",
+        "body": "&gt; The ETFs can be in a TFSA but what if the private keys get stolen somehow or some shit?\n\nWhen an ETF liquidates (in this scenario due to fraud/embezzlement), the broker is required to buy back your shares from you. \n\nIf the broker doesn't have enough liquidity to do that, then the government via CDIC/CIPF insurance reimburses you when/if the entire brokerage goes under.\n\nSo either way you should be totally fine if the ETF managers get their keys stolen (or steal them themselves). Also, overall, this is much less likely to happen than YOU losing YOUR keys when holding them yourself as am amateur who has way less idea what you're doing than them.",
+        "created_utc": 1635187147,
+        "id": "hi0m7gf",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1635215947.0
+    },
+    {
+        "author": "Signal_Fire7",
+        "body": "No. This is what someone who has no idea what they are talking about says.\n\nIt's not even remotely accurate.\n\nEveryone's Bitcoin is everywhere all the time, but everyone has special keys to their own Bitcoin.",
+        "created_utc": 1635505115,
+        "id": "hihx8vf",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1635533915.0
+    },
+    {
+        "author": "cristiano-potato",
+        "body": "Ah, you\u2019re saying that CoinBase should keep your keys hidden until they call you on the phone and verify your identity before you can remove funds. \n\nThere would be a lot of resistance to that since a lot of the crypto community already feels like CoinBase crypto isn\u2019t \u201ctheirs\u201d. If you literally can\u2019t use it without a phone call, it definitely defeats a lot of the purpose.",
+        "created_utc": 1633187048,
+        "id": "hf3sd7k",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633215848.0
+    },
+    {
+        "author": "Bulletsnbeans",
+        "body": "Keys",
+        "created_utc": 1633130882,
+        "id": "hf18yt5",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1633159682.0
+    },
+    {
+        "author": "wthisgoingonanymore",
+        "body": "Play all 3 sides! Up down and time!! Can't lose!! Recipe for success I have!!! The keys \ud83d\udd11 \ud83d\udc4c \ud83d\ude0d",
+        "created_utc": 1633087778,
+        "id": "heyoqtg",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1633116578.0
+    },
+    {
+        "author": "WelcomeLeading1297",
+        "body": "I use a decentralized wallet. No person, institution, or government can supervise and control your funds. It is completely safe and anonymous to control my wallet with mnemonic words and private keys.",
+        "created_utc": 1633413278,
+        "id": "hfg6ugo",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1633442078.0
+    },
+    {
+        "author": "FlyingDutchman997",
+        "body": "Wealth Simple: Trade anytime, no keys, no tax shelter.",
+        "created_utc": 1633880457,
+        "id": "hg44cef",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1633909257.0
+    },
+    {
+        "author": "detourwest",
+        "body": "HLMN. It has a lot of long-term potential. It grows about 30% each year. They just went public. But check it out it has 100% buy rating. They are a hardware vendor for hardware stores like Lowe's,  home Depot, tractor supply, McCoy's, Bomgaars, Big R, True Value, ACE, and most Mom and Pop small town hardware stores. They provide fasteners, gloves, keys, weld steel and all sorts of picture hanging hardware. If it's metal they basically have it. Their key machines are in pretty much every store and you most certainly seen one. The keycrafter and MinuteKey. Leave and have engraving machines and Petco and other pet stores. They're almost like an upcoming Stanley. They're basically pushing out National Hardware and Hyko.\nHardware companies are probably cheaper to buy in the colder seasons.",
+        "created_utc": 1633865970,
+        "id": "hg3d3cx",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1633894770.0
+    },
+    {
+        "author": "redtexture",
+        "body": "But they typically do not have your keys, nor your address.",
+        "created_utc": 1634065799,
+        "id": "hge10qf",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1634094599.0
+    },
+    {
+        "author": "crazyabe111",
+        "body": "Poor guy, lost his keys and had to break into his own home.",
+        "created_utc": 1634002089,
+        "id": "hgatqbo",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634030889.0
+    },
+    {
+        "author": "LowKeySalty_",
+        "body": "Boo boo keys",
+        "created_utc": 1634270747,
+        "id": "hgp73cy",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1634299547.0
+    },
+    {
+        "author": "DC-Maverick",
+        "body": "Set up a MetaMask account. NEVER give your keys phrase to anyone, EVER. Convert your fiat shit to USDC. Buy HEX token and stake it for as long as you feel comfortable. Longer is better. You\u2019re welcome.",
+        "created_utc": 1634271135,
+        "id": "hgp7slo",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634299935.0
+    },
+    {
+        "author": "WayneKrane",
+        "body": "For sure. I worked under an owner of a medium sized law firm. I handled the keys to all the condos he owned around Chicago. The front desk guy at one of his condos said in the whole building only a handful of units are occupied. The rest are 2nd, 3rd, and 4th homes used a week or two out of the year.",
+        "created_utc": 1634160734,
+        "id": "hgj9wj4",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1634189534.0
+    },
+    {
+        "author": "hullaballoonist",
+        "body": "or a nice little re-enactment of the Iraq War. We could have a little drill where Blackwater security contractors break open the doors of Goldman Sachs and throw their files everywhere and then leave abruptly, handing the keys to a group of teenage gangsters holding zippo lighters and rags",
+        "created_utc": 1634560256,
+        "id": "hh3ncx4",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634589056.0
+    },
+    {
+        "author": "sirrush7",
+        "body": "You have zero clue what you're talking about.\n\nFirstly, do you think we would have nuclear reactor control systems connected to anything outside like the internet?...  They (Iran) didn't even... Stuxnet was a world first of a 'weaponized' code, with kinetic effects... And it got into the reactors via USB keys!\n\nNothing is impermiable, but I am sure our overall security posture at a nuclear facility is insane... And lessons like what happened there were taken extremely seriously!",
+        "created_utc": 1634567725,
+        "id": "hh428m8",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1634596525.0
+    },
+    {
+        "author": "the_Kind_Advocate",
+        "body": "I\u2019m confused. Is this a keyboard with glorified macro keys? Because macro keys are usually reprogramable. Or is this some trading finance stuff I\u2019m to poor to understand.",
+        "created_utc": 1635107049,
+        "id": "hhwknwy",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635135849.0
+    },
+    {
+        "author": "DogeOnDaMoon2020",
+        "body": "But how can direct be offered when people can\u2019t own their keys?",
+        "created_utc": 1634665654,
+        "id": "hh9bk1u",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634694454.0
+    },
+    {
+        "author": "bl00_skreen",
+        "body": "&gt;If I owned I don't see how any of my money would go to the bank\n\nI am assuming you would be having a mortgage, to which you would be paying interest to your bank.\n\n\\&gt; However, the \"no trespassing\" signs on the property would now be mine, so there's no reason anyone targeting me would adhere to them\n\nI don't see how renting your home makes you more secure.  If anything it makes you less secure since your landlord has keys to your apartment.  Besides if someone is \"targeting\" you, why would they care whose property you are on.  Sounds like you need to move to a different neighbourhood my friend.\n\n&amp;#x200B;\n\n\\&gt;  Tax records aren't mine, insurance isn't mine\n\nAre you on the lam or something?  I guess if you are running away from the law, then home ownership is probably out of the question.  However if you don't have renter insurance you are making a mistake IMO.\n\n&amp;#x200B;\n\n\\&gt; no connection exists between the equity of the property and my net worth\n\nThat is a negative, unless you want to be a monk and make a poverty vow, in which case be my guess and go live with the Lord.",
+        "created_utc": 1635171334,
+        "id": "hhzkbdn",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635200134.0
+    },
+    {
+        "author": "kobe2348",
+        "body": "I had 5k in one week calls for Tesla last week.. had I done two weeks I\u2019d be up 300k today.. two week options are the keys",
+        "created_utc": 1635209252,
+        "id": "hi21ytt",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635238052.0
+    },
+    {
+        "author": "luminosite",
+        "body": "From 6/1 to 8/31, popular coin went up 30%.  We know people weren't using Robinhood, so what were they using?  $COIN!\n\nCoinbase is sunshine during a long Seattle winter.  It is the your first time at the beach.  It is the resolution at the end of a Beethoven Sonata.  You know that feeling you get after you find you missing keys?  That my friends is Coinbase!",
+        "created_utc": 1635300778,
+        "id": "hi73iqa",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635329578.0
+    },
+    {
+        "author": "sug4sh4ne",
+        "body": "Says the guy that\u2019s trying to pay for someone else\u2019s work and pass it off like it\u2019s his. You want to add skills? I think you meant to say skill, singular. Saying \u201cskills\u201d would imply you have one already. Simply due to your lack of personal accountability and lack of ability implied by your ridiculous proposal , I highly doubt you have any skill at all. You obviously have no critical thinking skills, so let me help you out and guide you through your first thinking exercise. First, we have to define what a \u201cgood market strategy\u201d is to you. Hopefully for your sake, it means it will be profitable and give you a healthy return on your $10,000 investment. So healthy in fact, that you can brag to whoever it is that gives you attention, how great your \u201cmarket skills\u201d are. Ok, let\u2019s just say for arguments sake, you find this person with this strategy you seek. This brings us to the first question- Why, I repeat, WHY would they need your $10,000? If it would give you handsome returns, enough to brag about, wouldn\u2019t they have been making those returns for themselves. Therefore making your offer not very enticing and seem quite minuscule to them. So, now you have some sound reasoning as to why that would never happen, let\u2019s take it a step further. Not only are you not going to benefit from your offer, it\u2019s probably going to damage you. All you\u2019re going to find is scammers that will offer you these \u201ctoo good to be true\u201d strategies that, to any real trader , would be obviously bogus and therefore only lose you more money. So, I\u2019ll tell you again, DO THE WORK YOURSELF. Then and only then can you take ownership of the skill you so desire. There are no shortcuts in the market. The market is unforgiving and wipe people out on a daily basis. What makes you think you can just waltz right in the front door and beat the market? Why, just because you want it? The market doesn\u2019t care about what you want or how you feel. It will smoke you because it can. The ONLY way you beat the market is with skills YOU develop over time with though hard work. This shit is not easy and you can\u2019t buy your success. This is probably the best advice your gonna get from here. I can\u2019t believe I wasted so much of my own time writing this. I could have made twice your offer in the length of time it took me to write this. I would ask for $10,000 for this advice because you wanted the keys to the castle, and I just gave you the map, however I have done the hard work and I found the keys. I don\u2019t need your money. Seriously, do yourself a favor and unless you are willingly go all in and do whatever it takes and are willing to make valuable sacrifices, don\u2019t even try the market. Stay far away. If you try to cheat, or half-ass the market, you WILL lose.  Best of luck to you.",
+        "created_utc": 1635397633,
+        "id": "hicgioc",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1635426433.0
+    },
+    {
+        "author": "hookisacrankycrook",
+        "body": "Can't wait for when Zuck passes on and leaves three keys behind to taking over Meta. It'll make a hell of a movie!",
+        "created_utc": 1635448030,
+        "id": "hif16cv",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635476830.0
+    },
+    {
+        "author": "DeFi_ance",
+        "body": "Nope, just have a lot to protect and was someone who hesitated on making the switch for years. There are other security keys out there, I just am not familiar with them",
+        "created_utc": 1633132739,
+        "id": "hf1cr1g",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633161539.0
+    },
+    {
+        "author": "DeFi_ance",
+        "body": "Well, in my case I was using Authy, right? I am also heavily involved in crypto, where there is no FDIC, no fraud prevention departments, no auto-blocking of transactions for suspected fraud, no 2-5 day processing time for me to call customer service to get my money back before it moves, etc etc. So, for me, \"being my own bank\" is a real thing, with real money, so 2FA is critical.\n\nAlright, so here's what I was doing with Authy. Authy can be used in place of Google Auth, and I was using it because it is tied to your phone number and provides the ability to do encrypted backups on Twilio's servers. I was always paranoid about what happens if I lose my phone, and I need quick access to my accounts, so that's why I used the backup option in Authy. So I had my main phone, and two backup phones that I always updated Authy in tandem with the primary phone. This way, I had quick access backups should I lose my phone. But there's another threat with Authy, since it's tied to my phone number, theoretically there's a risk of SIM swap attacks where someone steals my phone number and accesses my Authy backups through the phone number. They'd have to know the backup password, of course, but I just didn't like that theortically it's possible.\n\nFrom what I've already described, I felt pretty fucking safe. I have great password practices, so I didn't think it was very likely at all for my Authy to be compromised. And that's why I was lazy and never made the switch for years. But... technically... it *could* be remotely compromised. It's non-zero, no matter how small a chance, it's non-zero. And as someone deep in crypto where there is no protection other than my own OPSEC, that bothered me.\n\nWith the security key, there's no way to remotely get at it. None. You need the actual key, in hand. The natural question is, what if someone wrench attacks me and steals the key physically, which is a real possibility. The key also has a password on it, so they'd need to take my key, and know the PIN to unlock the key to use it. This could happen to me with my phone and Authy's PIN as well, so what's the difference? At this point we're at a very similar state of the Authy risk with the critical difference that *remote* attacks are impossible. After using it, after producing mulitple backup keys and storing them in various places (a safe, a bank box, a trusted relative, etc), I now have complete confidence in my security. That super small non-zero chance of a remote compromise is gone, and I like that it's gone. I feel way better no matter how small the chance was.\n\nEven if I'm drunk and fall for a phishing attack, say by hitting a link to coinbasi.com instead of coinbase and entering my OTP code, and then getting my account emptied by the phisher (which is the story posted to a crypto sub that prompted me to make the swithc) -- even if I derped and fucked up that bad, I'm still safe. No phisher can get my 2FA remotely, no matter how dumb I am, no matter if I got phished.\n\nIt's a small difference, but, for me, with a heavy crypto involvement, it's a big increase in peace of mind. It might not be for everyone, but I operate in an industry with no safeguards except my own diligence. And the key helps remove some of the remaining risk. It's that simple. It's an improvement, and I'll gladly take it.",
+        "created_utc": 1633135017,
+        "id": "hf1hd8l",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633163817.0
+    }
+]

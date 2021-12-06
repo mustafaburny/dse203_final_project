@@ -1,0 +1,92 @@
+[
+    {
+        "author": "Meymo",
+        "body": "This is a sensationalist post that indicates you invest one time only and never again. You would blow the SPY away if you invest while the market is going down. This is true in almost every instance, even on things like Akamai, which had a 99.75% drawdown. If you would keep investing, you end up [way ahead](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&amp;timePeriod=4&amp;startYear=1985&amp;firstMonth=1&amp;endYear=2020&amp;lastMonth=12&amp;calendarAligned=true&amp;includeYTD=false&amp;initialAmount=100000&amp;annualOperation=1&amp;annualAdjustment=1000&amp;inflationAdjusted=true&amp;annualPercentage=0.0&amp;frequency=2&amp;rebalanceType=1&amp;absoluteDeviation=5.0&amp;relativeDeviation=25.0&amp;showYield=false&amp;reinvestDividends=true&amp;portfolioNames=false&amp;portfolioName1=Portfolio+1&amp;portfolioName2=Portfolio+2&amp;portfolioName3=Portfolio+3&amp;symbol1=AKAM&amp;allocation1_1=100) in the long run. The lesson from this is to invest and keep investing. Treat your investments like bills and pay them every month. That way, you\u2019re capturing the upside and downside.",
+        "created_utc": 1606704676,
+        "id": "ge40146",
+        "score": 36,
+        "subreddit": "investing",
+        "created": 1606733476.0
+    },
+    {
+        "author": "snyder810",
+        "body": "Third rate CDN with bad management, but probably currently undervalued and likely due for some news to correct that a bit since Sony is a 10% customer. Will probably get acquired at some point, Akamai already tried a few years back.",
+        "created_utc": 1605660353,
+        "id": "gco5jh8",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1605689153.0
+    },
+    {
+        "author": "TehWhale",
+        "body": "I think pretty much all CDNs will grow but maybe not at the rate FSLY or NET has achieved. I can\u2019t really trust FSLY too much after the crater from TikTok but I still have a number of shares and options. AKAM is definitely one of the top tier CDNs but it\u2019s just so outrageously expensive and eventually any customer that\u2019s paying them that kind of money will eventually build their own just like Facebook did. NET is in a unique position where it offers many of their products for free for data and analytics and enterprise customers pay reasonable fees while they keep shitting out new products no one has ever thought of.",
+        "created_utc": 1605632849,
+        "id": "gcmkpx9",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1605661649.0
+    },
+    {
+        "author": "Mariuset",
+        "body": "I see it falling after earnings the way it did it august, where it goes up and then falls. I just think the way FSLY, LLNW and AKAM has been treated after earnings will hit NET because people will be scared of it being overvalued.\nDoesn't really matter to me though, I'm in at 40,5 in august and held through september, and I think cloudflare an amazing company with huge potential. The only way I'm selling is if it runs way too high. Then I would be looking to re-enter at some point.",
+        "created_utc": 1604247883,
+        "id": "gasyehi",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604276683.0
+    },
+    {
+        "author": "FinndBors",
+        "body": "They manage a bunch of mini-datacenters on the \"edge\" -- over 200 of them. They also have \"anycast\" capability, which allows them to route requests to the nearest edge server. This allows them to do many things.\n\nThe most simplest use case for this is a CDN, where you put your big images, videos, etc. so you don't have to use heavy bandwidth over the internet. Latency is also improved. Cloudflare is not the only player here, the one of the oldest and biggest in this space is Akamai which was one of the high flying tech stocks of the dot com boom.\n\nAnother is edge computing. Think of the capability of running some code at the edge servers to minimize the load on your central servers running on AWS or Google or your own datacenter.\n\nAnother is DDOS security. The edge servers will initially take requests to a website. If it is under attack, it will require the client to do some hard math problem before forwarding the request to the actual website. This way the actual website won't be bombarded with requests, and bots need to have a lot more computing power to be able to affect a site.\n\nThere are a number of other things such as VPN, etc. that they can run on top of this infrastructure. See https://www.cloudflare.com/ products for detail.",
+        "created_utc": 1606528121,
+        "id": "gdtoxfm",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1606556921.0
+    },
+    {
+        "author": "aske999",
+        "body": "Coming from the software side, they essentially are the highways of America. Think about how we transport goods in the context of roads. Usually there are the big highways that everyone shares and uses. However on the internet, nothing is stopping people from building their own roads except the cost, upkeep, and protection of the roads they built which can quickly spiral out of control.\n\nNow imagine that there are companies that builds and privatizes their own roads. This is where CDNs like cloudflare come in. Want to get around a traffic jam? Some people will pay an arbitrary amount use your private road to bypass the jam and clouflare will serve them. They can also provide security and other amenities along their roads. The name of the game is scalability and presence here which takes a large amount of time to build up.\n\nCDNs like cloudflare have good reputations and show little sign of stopping. You could look into Akamai to see a bigger player. Overall its an extremely safe stock considering the people behind it are really really good at their jobs.",
+        "created_utc": 1606522170,
+        "id": "gdtf6nu",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1606550970.0
+    },
+    {
+        "author": "blueteambluz",
+        "body": "Was long on AKAM and NET but got stopped out in the recent rout. Very widespread DDoS attacks are driving adoption of mitigation services at both companies and should lead to almost \u201cfree\u201d revenue and earnings. I expect an earnings beat, but not sure that means anything in this market.",
+        "created_utc": 1604401164,
+        "id": "gazsa1b",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604429964.0
+    },
+    {
+        "author": "spacebizzle",
+        "body": "Yep, AKAM blew up on earnings, much more established CDN company than NET, they have massive expectations.",
+        "created_utc": 1604241817,
+        "id": "gasnxfa",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604270617.0
+    },
+    {
+        "author": "Sloppy_JoeBK",
+        "body": "DIS is already trying to do it. FSLY more of a niche CDN anyway, if company can still leverage scale of Akamai (the commodity side) and build the smarter stuff in house it makes sense.",
+        "created_utc": 1605274868,
+        "id": "gc5gh3w",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1605303668.0
+    },
+    {
+        "author": "TacticalWolves",
+        "body": "That\u2019s dumb because I have been subscribed to ArK trade notifications. They were buying lot of Doyu for past month, they saw it not moving up, from past few days they are keep selling it. They bought lot of Fastly when it dipped from 130 to 90, now it is around 75, it even dropped to 65$. I work in the same space as Fastly, I don\u2019t think they are any special. Fastly initial sales increased because of Tik Tok. Fastly have many competitors such as Cloudfalre , Akamai, Imperva etc. Ark was dumb in buying the dip there. ARK also bought Alibaba when it dipped from 320 to 290 without actually understanding the political situation in China. Jack Ma is now an enemy to Winnie the Pooh, he will make sure Alibaba won\u2019t get the recognition it deserves. The conclusion is don\u2019t blindly trust anyone. Do your due deligence",
+        "created_utc": 1605470314,
+        "id": "gcf45qj",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1605499114.0
+    }
+]

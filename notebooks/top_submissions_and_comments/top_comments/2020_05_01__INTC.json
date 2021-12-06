@@ -1,0 +1,920 @@
+[
+    {
+        "author": "EM3music",
+        "body": "I started trading about 4 months ago with 5K, got all of my intel from this subreddit and now my portfolio is sitting at over 40K. I think you might be doing it wrong bro.",
+        "created_utc": 1588810776,
+        "id": "fppwz1z",
+        "score": 24,
+        "subreddit": "pennystocks",
+        "created": 1588839576.0
+    },
+    {
+        "author": "Casandy420",
+        "body": "Maybe, but I think it might take longer than most people think. Tech firms sell to governments. Microsoft is one of the largest military contractors around the world. Pretty much every country's military runs windows.\n\nJust listened to the q3 earnings call. Cloud demand is up like crazy right now. So, money is being shifted away from local resources into cloud computing resources. So many of AWS and Azure customers are shifting money into these tech companies. Smaller firms like NetApp, Atlassian, or Slack are seeing sales raise with this new demand.\n\n&amp;#x200B;\n\nAlso, there are entirely new markets for tech that weren't viable pre covid. Consider the NFL, NBA....I can't remember the sport, but they now use MSTeams. Companies are seeing the cost benefits of remote work. Virtual Formula 1 is another example. Things are going to be interesting. To stay competitive, you will need to piviot into this new economic situation. Red Robin is an interesting case study. They cut costs like crazy and embraced off site orders. Or look at Trupanion's 10K. They cut costs and increased cash on hand to a point where they can operate for an entire year w/o income.\n\n&amp;#x200B;\n\nYou have to remember that there are millions of dollars worth of human intelligence driving the decisions behind each of these Tickers. Boards are made up of people with way way way way more industry knowledge than anyone on reddit. Yes, Tesla exists, and a tweet can swing billions of dollars around the moon, but for the most part, companies are ran by intelligent folks trying their best to make money. That's it. Even if the world is on fire, these people will find a way to sell you insurance on credit. The economy has existed since before the old testament. Exodus 30:11-16  is just ancient hebrew tax law. Even if it's not money, people will find something to trade to create value. The wheel keeps on turning.\n\nEDIT: Totally forgot, look at MSFT 10K. B2B OEM sales are the bread and butter. So you will need to see large retailers (including amazon) collapse before companies like intel and MSFT will feel the big hits.",
+        "created_utc": 1588877300,
+        "id": "fpsp9v5",
+        "score": 21,
+        "subreddit": "StockMarket",
+        "created": 1588906100.0
+    },
+    {
+        "author": "introspective_lemon",
+        "body": "100% the main thing OP is missing is the software aspect. Nvidia isn\u2019t just a \u201cchip\u201d company anymore. I saw their latest GTC keynote and most of it was covering their various SDKs and tools for various markets (DL, robotics, autonomous vehicles, graphics).\n\nGranted, I see both Intel and AMD getting a foothold into some of these markets as well. I think it\u2019s the case that all of them can \u201cwin\u201d and compete with Nvidia by offering more open solutions at lower cost. But it\u2019s going to be a challenge for them for sure.",
+        "created_utc": 1589764652,
+        "id": "fqzcrwq",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1589793452.0
+    },
+    {
+        "author": "8PenDragon8",
+        "body": "EMAN curious what others think apparently rumors are building about intel and Apple wanting a piece makes me want a piece too",
+        "created_utc": 1589306230,
+        "id": "fqeeijy",
+        "score": 14,
+        "subreddit": "pennystocks",
+        "created": 1589335030.0
+    },
+    {
+        "author": "d0nkeypuncher18",
+        "body": "I think WSB had been infiltrated by actual market setters gathering intel to move the market in the opposite direction as the consensus. There is a fox in the hen house and he is eating up retard money.",
+        "created_utc": 1588807225,
+        "id": "fppqjw1",
+        "score": 13,
+        "subreddit": "wallstreetbets",
+        "created": 1588836025.0
+    },
+    {
+        "author": "SuchDescription",
+        "body": "I found $3000 in Intel dividends from my dad like 15 years ago",
+        "created_utc": 1590712454,
+        "id": "fs5dg5g",
+        "score": 12,
+        "subreddit": "investing",
+        "created": 1590741254.0
+    },
+    {
+        "author": "Silky69Johnson420",
+        "body": "&gt; I'm not aware of any tech company that uses it though\n\nIntel, Salesforce, Adobe, Dell, SAP all use Microsoft. You must not have tried very hard lol",
+        "created_utc": 1590528351,
+        "id": "frwvlno",
+        "score": 11,
+        "subreddit": "investing",
+        "created": 1590557151.0
+    },
+    {
+        "author": "allianc4",
+        "body": "You just compared the price per share of one stock to the price per share of other stocks with no valuation metrics...jesus.\n\nBy your logic I\u2019m going to buy puts on NVDA because it\u2019s over $300 while AMD and INTC are already so low.\n\nEdit: it appears you edited out some of your post to appear less autistic, it\u2019s okay bro.",
+        "created_utc": 1589487423,
+        "id": "fqn26zi",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1589516223.0
+    },
+    {
+        "author": "Benny303",
+        "body": "Agreed, I was an Intel till i die man for a very long time and would have never bought that \"AMD trash\" now my next processor is going to be AMD without a doubt, unless Intel can find a serious way to compete.",
+        "created_utc": 1589049201,
+        "id": "fq1tra1",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1589078001.0
+    },
+    {
+        "author": "aswinneel",
+        "body": "Intel Reports : majority of the rioters have bought Puts in March , April and riots were expression of anger against AH pumping and JPowell ..",
+        "created_utc": 1590728281,
+        "id": "fs63j0q",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1590757081.0
+    },
+    {
+        "author": "DARPA1191969v1",
+        "body": "I can give the perspective from a tech/software dev.\n\nIn my opinion, these are sort of different players. In fact, I would say that NVDA and AMD are far more analogous to each other than even AMD -&gt; AAPL, and certainly to MSFT. The  way that I see it, NVDA/AMD are fundamentally companies that are concerned with producing a *physical good* \\- literal chipsets and dies. AAPL seems to waver on the hardware side of things (they have been known to go proprietary in that arena, but have also loaned out work to INTC on more than one occasion). I most certainly see MSFT as a true software/PaaS/SaaS company - suffice to say that they are producing very little in the way of physical goods.\n\nI think the *soft/hardware* direction is important to mention, because that fundamentally plays into the way that these companies deal in the market. Developing hardware is a mind-bendingly expensive process (relatively speaking). It takes years of R&amp;D and cash on hand to fund something that is truly great. An example of this would be the move AMD made to Zen (which is based on the concept of 'chiplets'; highly-scalable many-core designs that are fundamentally different from their monolithic predecessors).\n\nIn terms of growth, I would have to say that I see two viable options here: *NVDA and MSFT*. MSFT is pretty easy to explain; they create a product that fundamentally has lower upstart costs (software development's most expensive attribute is the cost of human labor) and lower maintenance costs (I would think). There is some movement towards a more data-center driven profit scheme (which would require boots on ground hardware en masse), and Azure is certainly an AWS competitor, but I think we've yet to see them really go full throttle on that (I think it could be big if they did).\n\nNVDA is a leader from a technological perspective. GPU compute-cores are very specialized devices that are good at doing only a few things, but very, *very well.* NVDA has been hammering away at this technology for years - they know the game, and they know where the money is. Autonomous cars, drones...the computer viz recogition software for postal, for literally anything, runs on a platform that is fundamentally a GPU (very high level view here). Machine learning applications in this field at the data-center level (think machine learning on AWS) are absolutely dominated by NVDA; In fact I would go as far as to say there aren't really a lot of competitors out there that are bringing to the table what NVDA does (Honestly AMD has severely gimped even their consumer dies at this point).\n\n&amp;#x200B;\n\nI can elaborate more, but I'd go with MSFT and NVDA on this one.",
+        "created_utc": 1588630100,
+        "id": "fphydh4",
+        "score": 8,
+        "subreddit": "investing",
+        "created": 1588658900.0
+    },
+    {
+        "author": "Yojimbo4133",
+        "body": "What competition from Intel?",
+        "created_utc": 1590379547,
+        "id": "frqjaft",
+        "score": 8,
+        "subreddit": "investing",
+        "created": 1590408347.0
+    },
+    {
+        "author": "neoarchaic",
+        "body": "I bought everything on that dip Tesla, Amd, HPQ, MSFT,  NVDA, INTC, ULTA \n\nSo either tomorrow will be a great day or a terrible day\ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f\n\nScared money don\u2019t make money right",
+        "created_utc": 1590598441,
+        "id": "frzu2cm",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1590627241.0
+    },
+    {
+        "author": "LimitedNetwork",
+        "body": "I love AMD one of the few companies I actually hold a long position in fuck Intel they are ripe to be fucked on. 2021 they also come out with their data center gpus that rival the NVDA titan class gpu at 30% less wattage.",
+        "created_utc": 1588889603,
+        "id": "fpte5sd",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1588918403.0
+    },
+    {
+        "author": "scopolamine",
+        "body": "JPMORGAN: With US/China tensions \u201con the rise,\u201d .. \u201cWe recommend investors consider adding protection.\u201d Gives a list of \u201coption liquid US domiciled stocks that derive \\~15%+ revenue from China where the cost of the 95%/80% put spread costs less than 5% of spot.\u201d\n\nThe list of companies from JPMorgan: AAPL, NIKE, TXN, APO, ADI, INTC, XLNX, A, AVGO, KEYS!",
+        "created_utc": 1590870482,
+        "id": "fsckjpf",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1590899282.0
+    },
+    {
+        "author": "DrUNC83",
+        "body": "\u201cBurr Resigns As Head Of Intel Committee Over 'Insider Trading' Probe\n\n\"To obtain a search warrant, federal agents and prosecutors must persuade a judge they have probable cause to believe a crime has been committed.\"\n\u201c",
+        "created_utc": 1589502055,
+        "id": "fqnv7oa",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1589530855.0
+    },
+    {
+        "author": "CapitalC5",
+        "body": "I don't think you'll have a lot of companies left if you calculate them all this way.\n\nNvidia over Intel every day though.",
+        "created_utc": 1589756834,
+        "id": "fqyyo8v",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1589785634.0
+    },
+    {
+        "author": "shuttdown700",
+        "body": "Speculative with higher long-term growth prospects (many already priced in) = AMD. Stability with moderate to low growth along with dividends and possible buybacks = INTC. \n\nIf the AMD CEO wasn\u2019t so good, I wouldn\u2019t even consider it but she is top notch for the industry.",
+        "created_utc": 1590020086,
+        "id": "fraiz2g",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1590048886.0
+    },
+    {
+        "author": "iFistMySis",
+        "body": "I\u2019ve been getting my ass beat worse than your wife\u2019s on my INTC calls",
+        "created_utc": 1589327896,
+        "id": "fqfn3jn",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1589356696.0
+    },
+    {
+        "author": "Expect_The_Opposite",
+        "body": "look at intc and amd. they both ran up and then dumped after their earnings. probably gonna have a similar thing happen to nvda.",
+        "created_utc": 1588872196,
+        "id": "fpsenz1",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1588900996.0
+    },
+    {
+        "author": "ahsan_shah",
+        "body": "Ppl who are long NVDA just keep that in mind that for last 5 years NVDA had no competition in the high and highest end market. Just like Intel had no competition in most markets pre Ryzen era.",
+        "created_utc": 1589753741,
+        "id": "fqysbv2",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1589782541.0
+    },
+    {
+        "author": "haze070",
+        "body": "Man looking at the AMD leaks they are going to fuck intel the next few years. I can\u2019t believe the lead intel managed to squander thinking they owned the market.\n\n\nAMD will dominate desktop in the next 5 years, and will crack into the server market soon with their threadrippers",
+        "created_utc": 1589939340,
+        "id": "fr74err",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1589968140.0
+    },
+    {
+        "author": "mdh1119",
+        "body": "AMD will be quick to release better products every year and not be complacent like intel did to solidify its lead in the CPU market because NVIDIA will make life difficult for them in the GPU one.  applied AI, graphics  rendering and data centers is quickly becoming an extremely lucrative market and AMD is looking like it may not be able to compete with NVIDIA on the GPU front in the long term.\n\nI really like AMD as a company and I admire Lisa Su, but I agree with people saying it's a \"meme stock\", or a cult stock. maybe a little bit too bullish.",
+        "created_utc": 1589044691,
+        "id": "fq1dl8c",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1589073491.0
+    },
+    {
+        "author": "PepeSilviaFTW",
+        "body": "Just finished cutting the grass and trimming my doll hairs for a date with a public official tomorrow. \n\nI plan on getting as much intel about the 2nd lockdown as possible.  \nSecret agent mode.",
+        "created_utc": 1590108242,
+        "id": "frefz1i",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1590137042.0
+    },
+    {
+        "author": "CC-5576",
+        "body": "Yeah thats what happens when you get monopoly. Intel would still be selling us 4 core 8 thread CPUs today if amd hadnt forced their hand in with zen 2017.",
+        "created_utc": 1590872016,
+        "id": "fscopo8",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1590900816.0
+    },
+    {
+        "author": "Wazzupdude_1",
+        "body": "I had been +200% all time, went up more on an INTC play pre-earnings, thought it would go up post earnings, got IV crushed to hell, lost everything now I am -50%.\n\n&amp;#x200B;\n\nI am going to lay on the ground and cry for a while as my move tomorrow",
+        "created_utc": 1588548240,
+        "id": "fpeikly",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1588577040.0
+    },
+    {
+        "author": "AnonZeit",
+        "body": "CSOD 37.5 c\n\nNET 27 c\n\nCYBR 110 c\n\nADSK 192.5 c\n\nINTC 61c \n\nVEEV 220 c\n\nfollow me to andromeda",
+        "created_utc": 1589219891,
+        "id": "fqaj0pj",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1589248691.0
+    },
+    {
+        "author": "Enigma_101",
+        "body": "##### NVIDIA on track to surpass 200 Billion Market Cap next week and eventually surpass Intel to become the most valuable chip-maker in America.\n\n######Revenge of the OG Stonk",
+        "created_utc": 1589143317,
+        "id": "fq78yrj",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1589172117.0
+    },
+    {
+        "author": "AnonZeit",
+        "body": "True power play this week is Intel (INTL 61c)",
+        "created_utc": 1589159807,
+        "id": "fq871oz",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1589188607.0
+    },
+    {
+        "author": "JamesRoth949",
+        "body": "Sold credit puts on intel exp Friday and received $75 a pop then bought puts on Baba and capped them out by selling 3 deviation down and received more premium, finally I bought spy calls and Apple calls exp next week. I\u2019m I a genius or what?",
+        "created_utc": 1590024381,
+        "id": "fraqp6l",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1590053181.0
+    },
+    {
+        "author": "IwantPuppies",
+        "body": "Read the entire thing and found it interesting. Are you bullish on Intel?",
+        "created_utc": 1589755412,
+        "id": "fqyvt5b",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1589784212.0
+    },
+    {
+        "author": "Sayter",
+        "body": "haven't done DD so just guessing but concerns about recent tension with China might cause supply chain issues potentially? they fab outta Asia right? either that or look at if Intel has any new shit.",
+        "created_utc": 1589668337,
+        "id": "fqv23mk",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1589697137.0
+    },
+    {
+        "author": "_WhatchaDoin_",
+        "body": "I remember when AMD was at $2 back in 2016. All the talk in r/wsb, amazing that\u2019s a $54 stock now. Can be explained by this:\n\nINTC - PE 12x - 2% dividend\n\nAMD - PE 125x - 0% dividend\n\nNot sure of the upside on AMD to be honest. Even assuming that they grow 20% per year, it is going to take 10+ years for them to match INTC\u2019s PE. I understand that PE is not everything, but I am not sure that will be a $600 Bn stock, 3 times INTC.\n\nNVDA has cornered the GPU/AI market. INTC just need a great chipset to turn the tide on AMD.",
+        "created_utc": 1590875399,
+        "id": "fscxvlu",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1590904199.0
+    },
+    {
+        "author": "greikini",
+        "body": "As seen by the Intel CEO, who sold a lot right before the spectre and meltdown attacks got public.",
+        "created_utc": 1588364510,
+        "id": "fp75o4r",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1588393310.0
+    },
+    {
+        "author": "fanandualum",
+        "body": "Anyone looking into tsm?  With Nvidia and AMD using them for the next gen chips and a possibility of new US location, they're gonna be a big player soon.  Intel meanwhile just letting themselves get ran over for at least the next two years.  Buy shares?",
+        "created_utc": 1589761826,
+        "id": "fqz81yq",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1589790626.0
+    },
+    {
+        "author": "love2fuckbearasshoe",
+        "body": "WATCH CISCO \n\nFACEBOOK \n\nMSFT$ AND INTEL ALL BUILD MASSIVE INTERNET Infrastructure IN INDIA AND 3rd world county\u2019s so \n\nTHEY CAN GET RID OF U AND HIRE THEM TO WORK REMOTELY\n\nAnd pay then half your monies and in usd.\n\nMan it\u2019s gonna be fun.\n\n\n\nSpy 400$ calls\n\nYour not special anybody can learn what u do and do it cheaper if they get the chance",
+        "created_utc": 1589743194,
+        "id": "fqy61ql",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1589771994.0
+    },
+    {
+        "author": "MsiKing23",
+        "body": "So will Intel go up after acquisitions tomorrow? Or will it inverse",
+        "created_utc": 1590033014,
+        "id": "frb55q3",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1590061814.0
+    },
+    {
+        "author": "ragnaroksunset",
+        "body": "Putting aside that it's not clear where you're getting this intel from... why would you want to hold more USD and fewer equities if you believe USD is going to drop in value?",
+        "created_utc": 1589571995,
+        "id": "fqqu4ip",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1589600795.0
+    },
+    {
+        "author": "ApartheidClyde",
+        "body": "TRUMP, CHIP MAKERS LOOK TO DEVELOP DOMESTIC SEMICONDUCTOR PLANTS -- SOURCES\n\nINTEL SAYS IT'S READY TO BUILD FACTORY IN PARTNERSHIP WITH PENTAGON -- LETTER\n\nPENTAGON, OTHERS SAY CORONAVIRUS UNDERSCORES VULNERABILITY IN CHIP PRODUCTION",
+        "created_utc": 1589103975,
+        "id": "fq5g0go",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1589132775.0
+    },
+    {
+        "author": "mayipetyourgoodboy",
+        "body": "\u201cI love insider intel. Love to be a part of one someday.\u201d - Me - Michael Scott - Wayne Gretzky",
+        "created_utc": 1590432445,
+        "id": "frskebc",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1590461245.0
+    },
+    {
+        "author": "NotBIBOStable",
+        "body": "It's funny, I think I would be more likely to buy stock if musk weren't involved. I want to root for green energy, just can't stand musk. Also I wouldn't want to buy in at its current valuation even if we weren't in a pandemic, I'd say fair value is more in the 30-50 billion range with no looming crisis. If musk gets separated and that and corona actually turn Tesla into a fairly evaluated stock I would love to jump on board and go long on the environment. Hopefully the new leadership is more like Intel, TI, or Toyota type than a Zuckerberg or musk type.",
+        "created_utc": 1588374875,
+        "id": "fp7p1q9",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1588403675.0
+    },
+    {
+        "author": "DrHarryWeenerstein",
+        "body": "INTC calls it is!",
+        "created_utc": 1589477856,
+        "id": "fqmi6sa",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1589506656.0
+    },
+    {
+        "author": "globalcontagion",
+        "body": "Bread and butter for me.\nAMD\nAAPL\nMSFT\nNVDA\nINTC\n\nUsually 45 dte at 5-7% otm.\n\nLost some soldiers along the way, but added them back in dips. Overall it keeps me profitable every month, and creates cash flow for more spec plays. \n\nNever done the analysis on \"what if\" I just stuck to the covered call plays. Maybe I'm ashamed.",
+        "created_utc": 1590271244,
+        "id": "frl7sff",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1590300044.0
+    },
+    {
+        "author": "Grothendi3ck",
+        "body": "FB 5/22 220c\nINTC 5/22 61c\nSPY 5/22 296c",
+        "created_utc": 1589919938,
+        "id": "fr64u0i",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1589948738.0
+    },
+    {
+        "author": "scopolamine",
+        "body": "&gt;Justice Department drops insider trading investigations of three senators  \n&gt;  \n&gt;The Justice Department has closed [insider trading investigations](https://www.nbcnews.com/politics/justice-department/fbi-seizes-sen-richard-burr-s-cell-phone-probe-over-n1206726) into three senators who [sold off stocks](https://www.nbcnews.com/politics/congress/aoc-calls-senate-intel-chair-richard-burr-resign-stock-selloff-n1164401) following early briefings on the coronavirus, aides told NBC News.\n\nOh, is it okay for me to share inside information now? If SEC doesn't investigate us, then we should all share inside information.",
+        "created_utc": 1590565925,
+        "id": "fryikq2",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1590594725.0
+    },
+    {
+        "author": "cool_BUD",
+        "body": "Thoughts on Intel buying moovit?",
+        "created_utc": 1588656529,
+        "id": "fpj4p74",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1588685329.0
+    },
+    {
+        "author": "dwdsquared2",
+        "body": "Has everyone made sure to check CNBC so we know *exactly* why the market is moving the direction it is right now? \n\nJust wanted to make sure you all had accurate intel.",
+        "created_utc": 1589238726,
+        "id": "fqbkkzc",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1589267526.0
+    },
+    {
+        "author": "rovaYa",
+        "body": "If we\u2019re talking solely about the company\u2019s, AMD&gt;Intel. AMD cpu\u2019s have been more cost effective and performing just as good if not better than intel\u2019s CPU\u2019s for a decent price difference. I recall reading somewhere that a company(wish i could remember which one) was debating on switching from intel to AMD for their CPU\u2019s. \nI do slightly believe AMD is  overpriced for now. In the future if they keep up with how they\u2019ve been doing i could see them being worth close to 100 a share but that would be a long term. maybe a few years.",
+        "created_utc": 1589998126,
+        "id": "fr9ie89",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1590026926.0
+    },
+    {
+        "author": "NotLiam19",
+        "body": "I like Intel right now at its price. But when it comes down to these stocks you almost have to set aside your inner value mindset. These are all going to grow no matter what despite if they have a bad quarter they are very innovative. I think AMD will double first though.",
+        "created_utc": 1590272599,
+        "id": "frla6xy",
+        "score": 4,
+        "subreddit": "CanadianInvestor",
+        "created": 1590301399.0
+    },
+    {
+        "author": "mwani13",
+        "body": "Betting against hyper-growth stocks, even (if not especially) those that trade at crazy prices, is extremely tough and risky. These companies are often trading on a story. For better or for worse, sound financial analysis based on reasonable assumptions of future cash flows don\u2019t necessarily matter for these stock prices. \n\nI would caution anyone from shorting a successful story\u2014just look at the the TSLA bears who continue to get burned. \n\nI made money on NVDA and TSLA in the past. The toughest part is knowing when to jump off the train (if ever). I\u2019m long INTC and I think that\u2019s a great value play. It\u2019s a defensible business with great profit margins. Somehow it trades pretty cheaply.",
+        "created_utc": 1589760156,
+        "id": "fqz591x",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1589788956.0
+    },
+    {
+        "author": "WittsandGrit",
+        "body": "Nerd overlord drops Intel and goes full AMD. It has begun...\n\nhttps://www.theregister.co.uk/2020/05/24/linus_torvalds_adopts_amd_threadripper/",
+        "created_utc": 1590424727,
+        "id": "frs5d3w",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1590453527.0
+    },
+    {
+        "author": "swolking",
+        "body": "AMD is solid. $50 area is a great entry point IMO. They are rapidly taking market share from Intel and growing revenues at like 20%. \n\nGotta be careful what advice you take. Lots of people pander 100% ETF\u2019s and rag on people owning some individuals.",
+        "created_utc": 1590872547,
+        "id": "fscqauq",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1590901347.0
+    },
+    {
+        "author": "cool_BUD",
+        "body": "Anyone else here holding intel calls? Its been scaring me all day",
+        "created_utc": 1588621533,
+        "id": "fphhtlw",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1588650333.0
+    },
+    {
+        "author": "verm1c1ous_kn1d",
+        "body": "Visa, MasterCard, Disney, AMD, Intel",
+        "created_utc": 1590006789,
+        "id": "fra0q7p",
+        "score": 3,
+        "subreddit": "RobinHood",
+        "created": 1590035589.0
+    },
+    {
+        "author": "greeneggsnyams",
+        "body": "Not big into investment, just love reading this sub, but I'm big into tech. Idk how AMDs future is gonna look now that Intel has announced the specs for its new line of processors. I think they're gonna go back to playing second fiddle. Sorry if this doesn't help at all, I believe I'm what you boys refer to as \"autistic\"",
+        "created_utc": 1590006807,
+        "id": "fra0rgd",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590035607.0
+    },
+    {
+        "author": "guitmusic12",
+        "body": "Even though it seems impossible, chances are the FAANG+Microsoft stocks will not be the largest companies in 20 years. 40 Years ago it seems unthinkable the GE, GM, T and XOM would not even keep pace with inflation. 20 Year ago Cisco, Intel, Oracle and IBM were going to dominated the tech world",
+        "created_utc": 1589560835,
+        "id": "fqq7qk3",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1589589635.0
+    },
+    {
+        "author": "lloydgross24",
+        "body": "MSFT because of the cloud. There's still a ton of business to be had and so much more that can spin off that. That may be a long term thing tho. \n\nI think NVDA would be the second choice. They have more market share than AMD, a bigger moat and don't have the direct competition that AMD has with Intel. I like AMD but they don't have the best financials atm although they are getting much better. Still less cash means less potential for growth IMO.",
+        "created_utc": 1588644891,
+        "id": "fpinye3",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1588673691.0
+    },
+    {
+        "author": "EpicCakeDay1",
+        "body": "Nvidia benefits from the current advances in machine learning, a bubble that's still got a couple years in it. They also don't have much in the way of competition.\n\nIntel had AMD on life support for a decade. In the last year AMD has become competitive enough that Intel will have to compete again. That's good for consumers, and probably really bad for AMD. Since CPU prices are entirely artificial, Intel could easily drop their prices to compete in the budget computing market that AMD has recently claimed. It's really just a question of priorities and opportunity costs for Intel at this point.",
+        "created_utc": 1590206171,
+        "id": "fripned",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590234971.0
+    },
+    {
+        "author": "poznasty",
+        "body": "EMAN linked to multiple players including Apple , Intel, LG, AMD, FB/Oculus, Google\n\nhttps://twitter.com/StanTradingMan/status/1260206584409530372",
+        "created_utc": 1589315352,
+        "id": "fqexru2",
+        "score": 3,
+        "subreddit": "RobinHoodPennyStocks",
+        "created": 1589344152.0
+    },
+    {
+        "author": "scopolamine",
+        "body": "JPMORGAN: With US/China tensions \u201con the rise,\u201d .. \u201cWe recommend investors consider adding protection.\u201d  Gives a list of \u201coption liquid US domiciled stocks that derive \\~15%+ revenue from China where the cost of the 95%/80% put spread costs less than 5% of spot.\u201d\n\nThe list of companies from JPMorgan: AAPL, NIKE, TXN, APO, ADI, INTC, XLNX, A, AVGO, KEYS!",
+        "created_utc": 1590770547,
+        "id": "fs7s0wn",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590799347.0
+    },
+    {
+        "author": "GuyBelowMelsGay",
+        "body": "What I\u2019d give to see intel burn to the ground",
+        "created_utc": 1590630530,
+        "id": "fs1ld70",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590659330.0
+    },
+    {
+        "author": "be_o3",
+        "body": "Is anyone here good with computers? There's a software Intel issue with my laptop, horizontal lines show up every now and again. When I disable Intel it gets fixed but I need Intel for image quality. Know the fix?",
+        "created_utc": 1590966512,
+        "id": "fsgxjrc",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590995312.0
+    },
+    {
+        "author": "flyyoufools97",
+        "body": "Much rather have a Bezos or Gates type.  Intel and Toyota are dinosaurs in innovation right now, and Tesla's strong suit is innovation.  Maybe someone more mentally stable but with good vision.",
+        "created_utc": 1588385362,
+        "id": "fp87cc0",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1588414162.0
+    },
+    {
+        "author": "dillydilly3500",
+        "body": "Growing Market plus growing market share, idk how AMD could lose when they\u2019re consistently coming out with better value products than intel. Plus the sector they\u2019re in is just going to keep growing. The thirst for computing power and web services will only grow",
+        "created_utc": 1589061092,
+        "id": "fq2xose",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1589089892.0
+    },
+    {
+        "author": "WSBankrupt",
+        "body": "You just know INTC is going to be the gov's new bby, especially in the 5G space.  One of the most trusted names.\n\nSo glad I bought cheap stonks in these guys.  Only a matter of time before INTC shows the world what a meme AMD truly has become.",
+        "created_utc": 1589104158,
+        "id": "fq5g6kh",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1589132958.0
+    },
+    {
+        "author": "wilstreak",
+        "body": "Apple decide to start developing their own processors for Macbook.\n\nAMD starting (or it is already?) to threaten them with Ryzen series for processor.\n\nIt will be difficult for Intel just to maintain market share, much less to growth.",
+        "created_utc": 1588645246,
+        "id": "fpioj2n",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1588674046.0
+    },
+    {
+        "author": "limpchimpblimp",
+        "body": "AMD was knockin in deaths door and traded like a penny stock. It would have been difficult to predict them getting their act together and intel shitting the bed so badly.",
+        "created_utc": 1589471271,
+        "id": "fqm4b9q",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1589500071.0
+    },
+    {
+        "author": "bcr76",
+        "body": "I see far more people choosing AMD CPUs and Nvidia GPUs for home use. I\u2019m not sure about server and office use. Intel is kind of a lagging brand in the PC gaming scene these days.",
+        "created_utc": 1589762181,
+        "id": "fqz8n57",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1589790981.0
+    },
+    {
+        "author": "chibuezephoibos",
+        "body": "[AMD](https://wccftech.com/amd-ryzen-9-3900xt-ryzen-7-3800xt-ryzen-5-3600xt-matisse-refresh-desktop-cpus-confirmed/) will rise up from the ashes soon. This news kills intel",
+        "created_utc": 1590200797,
+        "id": "frihqme",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590229597.0
+    },
+    {
+        "author": "wsb-narrator",
+        "body": "i preordered a comet lake cpu. intc calls.",
+        "created_utc": 1589920721,
+        "id": "fr66f33",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1589949521.0
+    },
+    {
+        "author": "dingodoyle",
+        "body": "Intel is fucked they\u2019re not a huge threat anymore. What about nvidia don\u2019t they fab from Asia? Feel like going long NVDA too but I don\u2019t wanna buy high sell low.",
+        "created_utc": 1589668418,
+        "id": "fqv28oo",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1589697218.0
+    },
+    {
+        "author": "SDBcop",
+        "body": "Good intel bro",
+        "created_utc": 1590608279,
+        "id": "fs0ek9o",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590637079.0
+    },
+    {
+        "author": "love2fuckbearasshoe",
+        "body": "DUDE U HAVE INTEL \ud83d\ude2d\ud83d\ude2d\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nU fucken idiot get AMD$ man wtf is wrong with you \ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02",
+        "created_utc": 1590966584,
+        "id": "fsgxoez",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590995384.0
+    },
+    {
+        "author": "infinitelimits00",
+        "body": "Nah algos know they make chips at a faster rate than AMD and INTC.",
+        "created_utc": 1590369109,
+        "id": "frq38uu",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590397909.0
+    },
+    {
+        "author": "sizzlingmeatballs",
+        "body": "Didn\u2019t realize so many PDX homies on here. I\u2019m in same boat, don\u2019t think we will see that moment unless shit hits the fan this Winter and anime/Intel start layoffs.",
+        "created_utc": 1590424784,
+        "id": "frs5h4l",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590453584.0
+    },
+    {
+        "author": "abeltbuckle",
+        "body": "Stop imaging the success of AMD will cut deep into Intel prices.  AMD hardly holds any of the market share.  If your DD relies primarily on the success of AMD, just buy AMD.",
+        "created_utc": 1588364750,
+        "id": "fp764p7",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1588393550.0
+    },
+    {
+        "author": "LostThrowaway316",
+        "body": "&gt;diy market is tiny and projected to decrease in revenue by over 30 percent.\n\nAgreed. Decrease is only in the short term with possible recession and people being more money concious.\n\n&gt;Intel will catch up to AMD use on 7nm by end of 2020 and yes 7nm = 10nm. If use density metrics, Intel\u2019s 10 nm is superior to AMD\u2019s 7 nm. If you use TSMC\u2019s marketing lingo, their process will be small as an atom in 5 years, then what???\n\nIntel will not be on 7nm by the end of this year. Ice Lake JUST came out and it's only 10nm. They can't even make desktop/server 10nm yet; check out the new 10th gen desktop procs (Comet Lake is still 14nm). AMD Zen 3 is probably going to come out right ask Intel get their 10nm desktop/server chips going.\n\nRegarding TSMCs 5nm (or 7nm EVU, however you want to call it), they've been working with Apple to use it on the next iPhone since January. That tech is pretty much confirmed and good to go, unlike anything on Intel's side.\n\n&gt;AMD\u2019s margin is a lot smaller than Intel and contrary to people\u2019s belief that Intel is discounting to be competitive with AMD, their financial and especially their gross margin does not reflect that.\n\nAMD's margins are HUGE now, since they've moved everything to 7nm chiplet with a 12nm I/O die. They have a product stack that utilizes every single \"waste\" product to maximize production yield. They don't have to manufacture these huge dies with a bunch of cores anymore, since everything is based around dual, 4-core CCXs. All TSMC does is make tons of the same chip.\n\nActual yields are AMD at around 70% and Intel at around 35% (for their server stuff), and obviously not good enough to use on their consumer products.",
+        "created_utc": 1588387850,
+        "id": "fp8az5h",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1588416650.0
+    },
+    {
+        "author": "Year3030",
+        "body": "I write complicated algos. Onetime I was like this is fucked, my algo was just losing money left and right. I wrote a simple one that just did a coin flip, it randomly went long / short with a TP and no SL. It performed drastically better than the complicated algo.\n\nLesson learned. This is why the story recently about the gorilla DD picking bananas at random had a better track record than market performance over 20 years made sense. You don't need fancy DD just some basic intel.\n\nPeople are staying home? Get Dominos, Zoom, Amazon, all that shit makes sense. SDC? Ehh.. but why would they do any better now than previously? People aren't clamoring for dental treatment at home.",
+        "created_utc": 1589402815,
+        "id": "fqiz11y",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1589431615.0
+    },
+    {
+        "author": "Enigma_101",
+        "body": "###### NVIDIA on track to surpass 200 Billion in Market Cap next week and eventually surpass Intel (~250B) to become the most valuable chip-maker in America.\n\n######Revenge of the OG Stonk",
+        "created_utc": 1589164321,
+        "id": "fq8eebv",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1589193121.0
+    },
+    {
+        "author": "bigj4155",
+        "body": "From a IT stand point amd has 5-8 years of dominate business ahead of them. We are purchasing all AMD processors from student devices to servers. Intel is not even on the radar anymore. AMD has built a very versatile platform for their current ryzen line of cpus that makes longevity of a home system much better as well. I  can replace my ryzen 5 2900 with a much newer ryzen 5 CPU and not have to change out my motherboard. \n\nA good friend of mine orders servers for a large data center \"DOD centered but has a small consumer facing g side\" and would typically order 200-300k worth of servers every year all with intel cpus. As of last year he is ordering amd. The cloud sector is key because they spend money not even batting a eye at it. \n\nMy guess is amd $100 by 2023. Now keep in mind that due to virtualization hardware can be switched at a drop of a hat so when intel pulls its head out of its ass expect things to change fast.",
+        "created_utc": 1588975314,
+        "id": "fpx45qi",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1589004114.0
+    },
+    {
+        "author": "AssistRegMngr",
+        "body": "So much intel",
+        "created_utc": 1588985260,
+        "id": "fpxmapc",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1589014060.0
+    },
+    {
+        "author": "PepeSilviaFTW",
+        "body": "Have a date with a Judge Friday night. \nI already don\u2019t feel like going, but I\u2019m doing it to get gov intel for you guys. \n\nGoing to be fun role playing as a spy. Might even wear a blazer with my shorts &amp; boat shoes. \n\nKnown her a while. \n\nWhat y\u2019all want to know?\n\n\nUpdate: I\u2019ll make my own fucking list. \n\n1) What are plans for the 2nd lockdown?\n\n2) Why are police buying obscene amounts of riot gear?\n\n3) Can I see ur bobs &amp; vagene?",
+        "created_utc": 1590042179,
+        "id": "frbgrzu",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590070979.0
+    },
+    {
+        "author": "Fujit0ra",
+        "body": "Trade war ramp up: https://www.reuters.com/article/us-usa-huawei-tech-chips-analysis/u-s-strikes-at-a-huawei-prize-chip-juggernaut-hisilicon-idUSKBN22X2T3\n\nHEHEHEHEHEHEHE I hope China blocks all Intel chips for no reason. They already stole enough x86 IP to make their own shit.",
+        "created_utc": 1590101571,
+        "id": "fre4402",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590130371.0
+    },
+    {
+        "author": "thxfrthmmry",
+        "body": "How is AMD down when Linux is switching from using Intel to using AMD? AMD is waaaaay oversold",
+        "created_utc": 1590522281,
+        "id": "frwj6rr",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590551081.0
+    },
+    {
+        "author": "bigchungus2568",
+        "body": "You must be new here- AMD is always oversold. If there's one company analysts love to shit on more than TSLA, it's AMD. \n\nINTC sees to it that this happens without fail, and will continue to do so until INTC finally goes bankrupt (don't hold your breath)",
+        "created_utc": 1590522517,
+        "id": "frwjodz",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1590551317.0
+    },
+    {
+        "author": "ConfidenceFairy",
+        "body": "Intel took calculated risk in their attempt to get ahead without EUV lithography and it failed spectacularly. TSMC took EUV path and it turned out  fine. Had  EUV failed, TSMC would be now in ropes and Intel would soar. \n\nNew lithography process transition is always a risk. Intel made a misstep and Global Foundries quit the 7nm game. TSMC or Samsung might fail in their next big process. AMD is now fully reliant on TSMC.\n\nThere is no reason to expect that Intel's next major process node tech is failure but it takes several years. I fully expect Intel to be fully back within 5 years with their new process and packaging. Until it's ready, they are refining the existing process technology and losing market share. AMD has few years to gain market share and grow into a big boy that takes on Intel as equal.",
+        "created_utc": 1588361054,
+        "id": "fp6yysn",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1588389854.0
+    },
+    {
+        "author": "moldyjellybean",
+        "body": "People can spout Intel's demise all the want in the past when the only alternative was AMD's product and that was shit.  So when you don't innovate and your only other competitor makes a shit product and you do monopolistic tactics you're going to dominate. \n\n2017 brought an entirely different AMD.  So there's currently a way better alternative at the moment. And in 2021ish Apple is possibly going to drop Intel.\n\nBut don't short Intel. It's a stock is highly manipulated with tons of buybacks and other vehicles for it to be manipulated.  Instead invest in AMD.  \n\nI don't know the technical investor stuff but having worked at a datacenter.  Intel's datacenter product is shit compared to even last years AMD datacenter offerings and AMD/TSMC is progressing to better things.  Intel is basically stagnant in a field that is always changing.",
+        "created_utc": 1588355832,
+        "id": "fp6ofz6",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1588384632.0
+    },
+    {
+        "author": "raptordavis",
+        "body": "wild speculation here, but perhaps politically motivated? intel does seem to have some interest in israel given their $11 billion fab interest. Though I really don't understand why intel would want to be there...",
+        "created_utc": 1588525114,
+        "id": "fpddyzr",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1588553914.0
+    },
+    {
+        "author": "kontekisuto",
+        "body": "Intel doesn't have a decent product.",
+        "created_utc": 1588624436,
+        "id": "fphnkq6",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1588653236.0
+    },
+    {
+        "author": "1917777",
+        "body": "So the whole growth thesis on nvidia is that the cloud computing datacenters and AI will result in continuous insane growth for foreseeable future for their hardware. Meanwhile you have AMD, Intel and even Alibaba with their cloud computing chips chomping away at their competition. I don't think they have any moat, or am I taking crazy pills?",
+        "created_utc": 1589680626,
+        "id": "fqvmur3",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1589709426.0
+    },
+    {
+        "author": "Wanderers-Way",
+        "body": "I think amd has a good chance at competing with NVIDIA and intel with their cpu's and gpu's that have been getting better and cheaper over the year",
+        "created_utc": 1589745213,
+        "id": "fqya21u",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1589774013.0
+    },
+    {
+        "author": "Fujit0ra",
+        "body": "Bought shares in semiconductors ETF and some shares of INTC and AMD and put a collar on them (biased for the upside slightly). Feel like one of those boomers that wears air jordans.",
+        "created_utc": 1589997321,
+        "id": "fr9gqtj",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1590026121.0
+    },
+    {
+        "author": "JamaicaPlainian",
+        "body": "How did you do your research on AMD? Everything before 2016 was saying AMD was crap and losing to intel badly. Or did you buy in AMD after it was already 100% up?",
+        "created_utc": 1589998934,
+        "id": "fr9k3bm",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1590027734.0
+    },
+    {
+        "author": "ubernat",
+        "body": "Not OP, but I bought AMD in 2013 and sold in 2020. I also have no proper financial background and based decisions on the internet lol \n\nIt seemed like writing on the walls if you are into PC gaming. Reading forums and watching videos, people wanted AMD to be good, but it wasn't. AMD started hiring some big names too. \n\nEventually, Nvidia and Intel start getting more and more incremental upgrades, then AMD sweeps in with some big changes.",
+        "created_utc": 1590004269,
+        "id": "fr9vcji",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1590033069.0
+    },
+    {
+        "author": "labloke11",
+        "body": "First, $AMD has great marketing team. I have not heard anything positive news about Intel from either press or tech enthusiast, they are all about $AMD. This is free advertising, btw.\n\n\nAMD is overvalued. They have provided low guidance for many quarters and their earning does not support your rosy scenario. One more thing, they meet their guidance almost exactly every quarter so do not expect earning surprises.",
+        "created_utc": 1590092937,
+        "id": "frdndcw",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1590121737.0
+    },
+    {
+        "author": "chinnick967",
+        "body": "Intel is losing to AMD and is starting to fall behind, I wouldn't touch them until 2021",
+        "created_utc": 1590079482,
+        "id": "frcw405",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1590108282.0
+    },
+    {
+        "author": "Bryant570",
+        "body": "Sitting on intc and spy puts",
+        "created_utc": 1590095635,
+        "id": "frdsphm",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1590124435.0
+    },
+    {
+        "author": "GreedySpeculator",
+        "body": "BUY THE DIP IN SEMIS IT S ALL GRANDSTANDING\n\n  [https://www.wsj.com/articles/u-s-moves-to-cut-off-chip-supplies-to-huawei-11589545335](https://www.wsj.com/articles/u-s-moves-to-cut-off-chip-supplies-to-huawei-11589545335) \n\nThe senior administration official played down the impact of the rule on Huawei. \u2018This is a licensing requirement,\u201d the official said. \u201cIt doesn\u2019t necessarily mean things are denied.\u201d\n\nA year ago, Commerce Department officials put Huawei on an export blacklist of companies considered to be national-security threats. That move was designed to cut Huawei off from some U.S. semiconductor makers.\n\nOver the last year, however, Huawei\u2019s suppliers have largely [managed to get around the blacklisting ](https://www.wsj.com/articles/huawei-manages-to-make-smartphones-without-american-chips-11575196201?mod=article_inline&amp;mod=article_inline)through a technicality. American companies\u2014such as [Qualcomm](https://quotes.wsj.com/QCOM) Inc. and [Intel](https://quotes.wsj.com/INTC) Corp. \u2014could still supply Huawei with some chips that are manufactured overseas. Huawei has also greatly ramped up the use of HiSilicon-designed chips, primarily built by TSMC, thereby reducing its reliance on the U.S. supply chain.\n\nHuawei is now capable of building both 5G base-stations and advanced smartphones free of American technology, The Wall Street Journal reported in December.",
+        "created_utc": 1589560117,
+        "id": "fqq69qh",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1589588917.0
+    },
+    {
+        "author": "bkorsedal",
+        "body": "Ha ha ha, it was good until he went crypto.  I'm an engineer.  I design compture chips for Intel.  I know technology and crypto is a horrible, horrible system.",
+        "created_utc": 1588870816,
+        "id": "fpsbsmy",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1588899616.0
+    },
+    {
+        "author": "GromGrommeta",
+        "body": "QQQ would be the main one that auto-rebalances. SKYY is a hot one right now too that I do own.\n\nBut I run into the same issue as index funds except magnified. Tech funds might include a decent percentage of Twitter which I have no interest in owning. Or Intel/IBM, which might be fine for a retiree looking for yield but not a younger investor looking for growth.",
+        "created_utc": 1588966583,
+        "id": "fpwnj9j",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1588995383.0
+    },
+    {
+        "author": "No_volvere",
+        "body": "You lose your keys and cut off all your hair, another relaxing evenings at home.\n\n2 days later you get a full socket set and a 12pk of chocolate bunnies from Amazon.",
+        "created_utc": 1588359529,
+        "id": "fp6vyhm",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1588388329.0
+    },
+    {
+        "author": "Dyunder",
+        "body": "lol why doesn't he have a passcode on that that notifies his CFO so they have to turn keys at the same time",
+        "created_utc": 1588365169,
+        "id": "fp76xzl",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1588393969.0
+    }
+]

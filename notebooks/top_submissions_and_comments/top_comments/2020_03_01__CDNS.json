@@ -1,0 +1,146 @@
+[
+    {
+        "author": "gizamo",
+        "body": "Dev here. I'll pass. AWS, Azure, and GCP all offer their own CDNs for free, and if I'm going to pay for another CDN, it'd be Netlify, or if on AWS, maybe Datapath....which might be free, I don't remember. Point is, CDNs are going to be dominated by the biggies or the freebies. There is no need for intermediates, imo.",
+        "created_utc": 1583895800,
+        "id": "fk689jo",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1583924600.0
+    },
+    {
+        "author": "asapmatthew",
+        "body": "CDNs made bank today",
+        "created_utc": 1584581047,
+        "id": "fkw11vm",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1584609847.0
+    },
+    {
+        "author": "CarlSagan79",
+        "body": "&gt; It may be an annual reoccurrence like the common influenza.\n\nBut this is also what they said about SARS and Avian Flu and Swine Flu and Zika. It's this weird 5 year cadence that seems to match more appropriately with a new cycle than anything viruses are doing.\n\nIt's like sharks, but more RNA.",
+        "created_utc": 1583090890,
+        "id": "fj7fd6l",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1583119690.0
+    },
+    {
+        "author": "rikki-tikki-deadly",
+        "body": "I honestly wonder about that.  Like, when you see the people at his rallies laughing and cheering at sentences that are completely incomprehensible, are they even processing what he's saying?  Or are they just responding to keywords and cadence?",
+        "created_utc": 1583593643,
+        "id": "fjs4obn",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1583622443.0
+    },
+    {
+        "author": "gizamo",
+        "body": "Lol. [You blatantly lie](https://aws.amazon.com/cloudfront/) and then claim I don't have experience. Idiot. Then, you seeming intentionally misconstrue my meanings for Netlify and Datapath. [Netlify Edge](https://www.netlify.com/products/edge/) and Datapath's cloud-to-cloud are advancements upon CDNs. I was saying that if you're going to pay for something like Cloudflare, you should be doing something more specific or something better that ties in with AWS, GCP, and Azure CDNs. But, yes you're right there hundreds like datapath, just as there are hundreds like Cloudflare. If you're not willing to pay for AWS, GCP, or Azure, itmeans you're going the cheapest route possible, which might land you with Cloudflare, or much more likely, you'll piece together a bunch of the cheaper services and free services out there to do whatever specific thing you want. From what I can tell, Cloudflare is picking up scraps at best, and is getting squeezed in a race to the bottom.",
+        "created_utc": 1583930708,
+        "id": "fk78lj7",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1583959508.0
+    },
+    {
+        "author": "ManiGandham",
+        "body": "Cloudflare is a CDN, security (DDOS/firewall/vpn/beyondcorp access) and edge computing company that handles roughly 10% of the internet's traffic. It's also free for the vast majority of users, and one of the only CDNs that doesn't charge for bandwidth.\n\nNone of the clouds offer a CDN for free, they all charge on bandwidth and all cloud vendors are notoriously expensive for that. Netlify isn't a CDN, it's a static site hosting service that uses Fastly and other actual CDNs. Datapath isn't a CDN, it's a 3rd tier networking company amongst hundreds in that niche.\n\nYou don't seem to have much experience with space.",
+        "created_utc": 1583916851,
+        "id": "fk6ulbp",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1583945651.0
+    },
+    {
+        "author": "KennyFulgencio",
+        "body": "yeah his cadence was all fucked, like he knew how to pronounce the words but not what they meant or where to place any emphasis",
+        "created_utc": 1584000030,
+        "id": "fkab9yl",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1584028830.0
+    },
+    {
+        "author": "WhaIeBones",
+        "body": "&gt;read to the cadence of captain Barbossa",
+        "created_utc": 1584039390,
+        "id": "fkbt6kp",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1584068190.0
+    },
+    {
+        "author": "ManiGandham",
+        "body": "AWS Cloudfront isn't free, it just has a free tier enough for serving a personal website. Netlify Edge is just marketing. They host static files and run on top of the other clouds. It's nothing special, anyone can spin up some Nginx servers and host content. \n\nCDNs are global, it doesn't matter where you run your infrastructure in order to use them and not using the cloud doesn't mean you're looking for the cheapest route. Cloudflare and runner up Fastly are the next generation CDNs taking on plenty of legacy companies and growing rapidly every quarter.\n\nYour post makes it clear that you have zero experience with any of this beyond reading some marketing pages. And your focus on the Cloudfront free tier sounds like you don't have much scale or budget either.",
+        "created_utc": 1583937792,
+        "id": "fk7jl4g",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1583966592.0
+    },
+    {
+        "author": "The91stGreekToe",
+        "body": "I\u2019m not sure what the nature of your work is but there are some basic rules. I\u2019ve been on a remote project for 9 months. \n\n1.) Always log in early so your availability (Skype, Teams, etc) shows green \n2.) Reply to emails and messages quickly \n3.) If workload is low, make sure your deliverables are on fucking point \n4.) Never confide in coworkers (even friends) how little work you actually do\n5.) Ask boss if he/she needs help\n6.) Stay logged on later than your peers. Even if you\u2019re just moving your trackpad every 5 minutes it\u2019ll show that you\u2019re available - e.g. \u201cthat dedicated motherfucker is STILL online?\u201d Meanwhile you\u2019re doing blow and drinking beer while appearing productive \n7.) If your calendar is empty, create false meetings for yourself with no invitees. \n8.) If you MUST do cocaine on the job, be sure the cadence of your voice is not atypical \n\nIf you have any additional questions, check my calendar for availability (spoiler alert - it\u2019s fucking full).",
+        "created_utc": 1584423697,
+        "id": "fkpypyo",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1584452497.0
+    },
+    {
+        "author": "barneysfarm",
+        "body": "Retirement accounts, up your contributions if you can, think monthly cadence right now. \n\n\"ALL IN\"? Wait. You'll know.",
+        "created_utc": 1584766630,
+        "id": "fl32f8f",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1584795430.0
+    },
+    {
+        "author": "roundearththeory",
+        "body": "Do you think the impact of the stay at home orders and the upcoming consoles are perfectly priced in? It's an interesting scenario, content providers and CDNs are bursting at the seams and require more cheap compute. Furthermore, there is less expendable cash but more people are staying in.",
+        "created_utc": 1585452452,
+        "id": "flswaqo",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1585481252.0
+    },
+    {
+        "author": "thekingoftherodeo",
+        "body": "Not necessarily, it would give you more time to assess the actual impact of COVID in the MD&amp;A.\n\nIn the case of Companies with material trade receivables it'll also give time to properly estimate the difference between Day One CECL adoption (where you can't justify adjustment for COVID) and calculated actuals as of 3/31 which will hit the Income Statement and will most definitely generate noise.\n\nMany will keep the same cadence for fear of spooking the market though accepted.",
+        "created_utc": 1585693875,
+        "id": "fm2aya4",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1585722675.0
+    },
+    {
+        "author": "jpcode127",
+        "body": "I read this with We Didn't Start the Fire cadence and it was amazing",
+        "created_utc": 1585544549,
+        "id": "flwau54",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1585573349.0
+    },
+    {
+        "author": "superfudging",
+        "body": "Only if  you do  that regularly and at the same cadence... I was lucky I rebalanced my 401k in January and locked in those gains",
+        "created_utc": 1584047814,
+        "id": "fkc8ddc",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1584076614.0
+    },
+    {
+        "author": "iwoketoanightmare",
+        "body": "I'm on the wapo feed and it's fine.  In general some CDNs took a dive this morning.  Major issues on the eastern seaboard.",
+        "created_utc": 1585238890,
+        "id": "flkdjaa",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1585267690.0
+    }
+]

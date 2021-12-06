@@ -1,0 +1,86 @@
+[
+    {
+        "author": "JITAA",
+        "created_utc": 1580707613,
+        "id": "ey23cm",
+        "num_comments": 14,
+        "num_crossposts": 0,
+        "selftext": "They had a $12 dividend ex dividend date today",
+        "subreddit": "RobinHood",
+        "title": "Did NLOK dividends get paid yet?",
+        "url": "https://www.reddit.com/r/RobinHood/comments/ey23cm/did_nlok_dividends_get_paid_yet/",
+        "created": 1580736413.0
+    },
+    {
+        "author": "cinemabrah2069",
+        "created_utc": 1580772358,
+        "id": "eyg6qe",
+        "num_comments": 7,
+        "num_crossposts": 0,
+        "selftext": "",
+        "subreddit": "RobinHood",
+        "title": "Special Dividend on NLOK: How do I exercise this within the app? Supposedly worth $2,300 but am unsure how to close it out",
+        "url": "https://i.redd.it/z8f1tosamse41.jpg",
+        "created": 1580801158.0
+    },
+    {
+        "author": "1st_Amendment_EndRun",
+        "created_utc": 1580730332,
+        "id": "ey5zcq",
+        "num_comments": 6,
+        "num_crossposts": 0,
+        "selftext": "I'm getting different information from different source.\n\nYahoo Finance, of course, is still saying the ITM/ATM/OTM line is still at the stock price (fucking retards).\n\nMarketWatch show the strike in the -$12.50 ball park less than the current stock price (~$16).\n\nToS is showing the a ATM line of ~$19.\n\nWhat the fuck is going on?",
+        "subreddit": "wallstreetbets",
+        "title": "Are NLOK Options Strikes Getting Adjusted Downwards?",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/ey5zcq/are_nlok_options_strikes_getting_adjusted/",
+        "created": 1580759132.0
+    },
+    {
+        "author": "SP3NTt",
+        "created_utc": 1580749118,
+        "id": "eya1sc",
+        "num_comments": 5,
+        "num_crossposts": 0,
+        "selftext": "All of you idiots that refused to listen.\n\nSpecifically calling out whydoyoublock who replied to me.\nQuote:\n\"Dude, you're wrong this time. This is a special one-time dividend due to NLOK selling their enterprise assets. The stock is only going to get affected by the massive dump after ex-div. The stock isn't going to drop over 40%.\n\n\nStock stays above $20 or ban\n\nEdit: Well this account got suspended permanently.\"\n\nAnd finnpharma who repeatedly argued even after I supported my position with multiple sources.\n\nAnd all you other dumb mofos that thought you could magically create value out of thin air w/ a dividend. Even after I nicely explained how it works.\n\nNlok closed at 28.42 on friday and opened at 16.71\n\n~12 drop, exactly as I explained.\n\nAlready had someone reply to the post crying about their puts. I told you they'd restrike them.\n\nMaybe next time you Robinhood degenerates will listen in your 100 level accounting/finance lessons.",
+        "subreddit": "wallstreetbets",
+        "title": "NLOK thread idiots come admit you were stupid.",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/eya1sc/nlok_thread_idiots_come_admit_you_were_stupid/",
+        "created": 1580777918.0
+    },
+    {
+        "author": "unreliabletags",
+        "created_utc": 1580679318,
+        "id": "exvobi",
+        "num_comments": 3,
+        "num_crossposts": 0,
+        "selftext": "Assumptions: you buy index mutual funds or ETFs. You invest via payroll deduction and want it to be as automatic as possible. You use a password manager and want real 2FA, [not SMS](https://www.issms2fasecure.com/). After setting up the mobile app, you expect not to do 2FA or password manager business again, just Touch ID or PIN. You don't do much active trading, or you use a separate brokerage for that e.g. Robinhood.\n\n**Vanguard**\n\n* Reasonable if dated UI.\n* Supports Fido U2F (Yubikey) 2FA on the website.\n* Supports Touch ID on the mobile app, even with U2F enabled.\n* Really nice visualization of overall return.\n* Free trades on mutual funds, can invest 100% without worrying about divisibility by share price.\n* Couldn't automatically invest direct deposit into mutual funds, had to set up a separate automatic investment, which broke when there was slight variation in payday for weekends and holidays, so ended up always putting in my biweekly buy orders manually.\n* Mobile app wants a password even after Touch ID to make trades or really get anywhere past the home screen.\n\n**Fidelity**\n\n* Reasonable, more sophisticated but also dated UI.\n* Supports Symantec VIP (TOTP like Google Authenticator or Authy) on web and mobile.\n* Unified view with employer 401k.\n* Free trades on more things, but only ETFs not Vanguard funds. Leaves a couple hundred dollars of uninvested cash sometimes.\n* Can't automatically invest into an ETF at all. Theoretically supports automatic investment into mutual funds but the trades have steep fees.\n* Poor visibility into total return over time, data is there but you have to build the visualization yourself.\n* Mobile app supports Touch ID but also wants a VIP code every session. My phone is already the second factor! Don't make me switch apps.\n\n**Chase You Invest**\n\n* Unified view with checking and credit card.\n* Can use the balance to qualify for premium Chase service tiers (Sapphire, Private Client, etc).\n* Chase app supports touch ID and only asks for more authentication when reasonable (new outgoing transfer account, etc).\n* No 2FA available other than SMS.\n* Godawful UX, designed by a committee of children, can barely figure out how to do the most basic things.\n\n**Robinhood**\n\n* Beautiful design. Thoughtful, joyful UX. \n* Supports TOTP for initial login and Touch ID for ongoing sessions, like a sane tech company.\n* Feels like a toy / meme and not the right place for six-figure life savings unless you're planning to YOLO it all on options trades. This company literally announced a checking account and retracted it that afternoon when it learned that banking is a regulated industry.\n\n**Betterment / Wealthfront**\n\n* Haven't tried, but 25bps seems like a lot to pay for a less annoying UI.\n\nWhat are your experiences with other brokerages? Have you found the holy grail?",
+        "subreddit": "investing",
+        "title": "Brokerage tech tradeoffs",
+        "url": "https://www.reddit.com/r/investing/comments/exvobi/brokerage_tech_tradeoffs/",
+        "created": 1580708118.0
+    },
+    {
+        "author": "snakeperson123",
+        "created_utc": 1580750983,
+        "id": "eyaisq",
+        "num_comments": 3,
+        "num_crossposts": 0,
+        "selftext": "I was under the impression that the option strike prices would reduce by 12, IE the special dividend amount. Yet my 26 puts are still showing 26 strike, not 14.",
+        "subreddit": "wallstreetbets",
+        "title": "Why are my NLOK options not getting adjusted from the special dividend?",
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/eyaisq/why_are_my_nlok_options_not_getting_adjusted_from/",
+        "created": 1580779783.0
+    },
+    {
+        "author": "Mitisuit",
+        "created_utc": 1580937618,
+        "id": "ezgojs",
+        "num_comments": 0,
+        "num_crossposts": 0,
+        "selftext": "Surely some know about nortons special $12 per share dividend. Well I liquidated a small portion of my portfolio and bought 36 shares. I made  roughly 432 dollars. That i then put into a cheaper monthly paying stock. So I'll recover my initial dividend in about 5-10 less years.   But I bought some NLok at its 14.50 proce after it fell and im already gaining more profit than i started with. I have a time to go to catch up again. \n\nI bout 37shares at $14 of the other stock. It pays monthly about $.23 while nlok pays that and a tid more every quarter. Then i bought 2 shares of nlok at $14.50. \n\n*What is everyones opinions?  \nDo you feel the play was adequate? Did i actually take off so many years.*",
+        "subreddit": "investing",
+        "title": "NLOK and the play.",
+        "url": "https://www.reddit.com/r/investing/comments/ezgojs/nlok_and_the_play/",
+        "created": 1580966418.0
+    }
+]

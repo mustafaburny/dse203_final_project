@@ -1,0 +1,330 @@
+{
+    "AAPL": [
+        "apple inc",
+        "apple"
+    ],
+    "ACN": [
+        "accenture plc",
+        "accenture"
+    ],
+    "ADBE": [
+        "adobe systems inc",
+        "adobe",
+        "adobe systems"
+    ],
+    "ADI": [
+        "analog devices",
+        "analog devices"
+    ],
+    "ADP": [
+        "automatic data procs",
+        "automatic data processing",
+        "automatic data procs"
+    ],
+    "ADSK": [
+        "autodesk inc",
+        "autodesk"
+    ],
+    "AKAM": [
+        "akamai technologies",
+        "akamai"
+    ],
+    "AMAT": [
+        "applied materials",
+        "applied materials"
+    ],
+    "AMD": [
+        "adv micro devices",
+        "advanced micro devices"
+    ],
+    "ANET": [
+        "arista networks inc",
+        "arista networks",
+        "arista"
+    ],
+    "ANSS": [
+        "ansys inc",
+        "ansys"
+    ],
+    "APH": [
+        "amphenol corp",
+        "amphenol"
+    ],
+    "AVGO": [
+        "broadcom ltd",
+        "broadcom"
+    ],
+    "BR": [
+        "broadridge financial solutions llc",
+        "broadridge financial solutions",
+        "broadridge"
+    ],
+    "CDAY": [
+        "ceridian hcm holding inc",
+        "ceridian hcm holding",
+        "ceridian"
+    ],
+    "CDNS": [
+        "cadence design sys",
+        "cadence design systems",
+        "cadence design",
+        "cadence"
+    ],
+    "CDW": [
+        "cdw corp",
+        "cdw corporation",
+        "cdw corp",
+        "cdw"
+    ],
+    "CRM": [
+        "salesforce.com inc",
+        "salesforce"
+    ],
+    "CSCO": [
+        "cisco systems inc",
+        "cisco systems",
+        "cisco"
+    ],
+    "CTSH": [
+        "cognizant tech sol",
+        "cognizant tech solutions",
+        "cognizant tech",
+        "cognizant"
+    ],
+    "CTXS": [
+        "citrix systems inc",
+        "citrix systems",
+        "citrix"
+    ],
+    "DXC": [
+        "dxc technology company",
+        "dxc technology",
+        "dxc"
+    ],
+    "ENPH": [
+        "enphase energy inc",
+        "emphase energy",
+        "emphase"
+    ],
+    "FFIV": [
+        "f5 inc",
+        "f5"
+    ],
+    "FIS": [
+        "fidelity national information services",
+        "fidelity national",
+        "fidelity"
+    ],
+    "FISV": [
+        "fiserv inc",
+        "fiserv"
+    ],
+    "FLT": [
+        "fleetcor technologies",
+        "fleetcor"
+    ],
+    "FTNT": [
+        "fortinet inc",
+        "fortinet"
+    ],
+    "GLW": [
+        "corning inc",
+        "corning"
+    ],
+    "GPN": [
+        "global payments inc",
+        "global payments"
+    ],
+    "HPE": [
+        "hewlett packard enterprise comp",
+        "hewlett packard"
+    ],
+    "HPQ": [
+        "hp inc",
+        "hewlett packard"
+    ],
+    "IBM": [
+        "international business machines",
+        "international business machines"
+    ],
+    "INTC": [
+        "intel corp",
+        "intel"
+    ],
+    "INTU": [
+        "intuit inc",
+        "intuit"
+    ],
+    "IPGP": [
+        "ipg photonics corp",
+        "ipg photonics",
+        "ipg"
+    ],
+    "IT": [
+        "gartner inc",
+        "gartner"
+    ],
+    "JKHY": [
+        "jack henry & assoc",
+        "jack henry"
+    ],
+    "JNPR": [
+        "juniper networks",
+        "juniper"
+    ],
+    "KEYS": [
+        "keysight technologies inc comm",
+        "keysight technologies",
+        "keysight"
+    ],
+    "KLAC": [
+        "k l a-tencor corp",
+        "kla corp",
+        "kla"
+    ],
+    "LRCX": [
+        "lam research corp",
+        "lam research corporation",
+        "lam research"
+    ],
+    "MA": [
+        "mastercard inc",
+        "mastercard"
+    ],
+    "MCHP": [
+        "microchip technology",
+        "microchip technology",
+        "microchip"
+    ],
+    "MPWR": [
+        "monolithic power sys",
+        "monolithic power"
+    ],
+    "MSFT": [
+        "microsoft corp",
+        "microsoft"
+    ],
+    "MSI": [
+        "motorola solutions",
+        "motorola"
+    ],
+    "MU": [
+        "micron technology",
+        "micron",
+        "micron technology"
+    ],
+    "NLOK": [
+        "nortonlifelock inc",
+        "norton",
+        "symantec",
+        "nortonlifelock"
+    ],
+    "NOW": [
+        "servicenow inc",
+        "servicenow"
+    ],
+    "NTAP": [
+        "netapp inc",
+        "netapp"
+    ],
+    "NVDA": [
+        "nvidia corp",
+        "nvidia"
+    ],
+    "NXPI": [
+        "nxp semiconductors",
+        "nxp"
+    ],
+    "ORCL": [
+        "oracle corp",
+        "oracle"
+    ],
+    "PAYC": [
+        "paycom software inc",
+        "paycom",
+        "paycom software"
+    ],
+    "PAYX": [
+        "paychex inc",
+        "paychex"
+    ],
+    "PTC": [
+        "ptc inc",
+        "ptc"
+    ],
+    "PYPL": [
+        "paypal holdings",
+        "paypal"
+    ],
+    "QCOM": [
+        "qualcomm inc",
+        "qualcomm"
+    ],
+    "QRVO": [
+        "qorvo inc",
+        "qorvo"
+    ],
+    "SNPS": [
+        "synopsys inc",
+        "synopsys"
+    ],
+    "STX": [
+        "seagate technology hldgs plc",
+        "seagate",
+        "seagate technology holdings",
+        "seagate technology"
+    ],
+    "SWKS": [
+        "skyworks solutions",
+        "skyworks"
+    ],
+    "TDY": [
+        "teledyne technologies inc",
+        "teledyne"
+    ],
+    "TEL": [
+        "te connectivity ltd",
+        "te connectivity"
+    ],
+    "TER": [
+        "teradyne inc",
+        "teradyne"
+    ],
+    "TRMB": [
+        "trimble navigation",
+        "trimble",
+        "trimble navigation"
+    ],
+    "TXN": [
+        "texas instruments",
+        "texas instruments"
+    ],
+    "TYL": [
+        "tyler technologies",
+        "tyler technologies"
+    ],
+    "V": [
+        "visa inc",
+        "visa"
+    ],
+    "VRSN": [
+        "verisign inc",
+        "verisign"
+    ],
+    "WDC": [
+        "western digital cp",
+        "western digital"
+    ],
+    "WU": [
+        "western union company",
+        "western union"
+    ],
+    "XLNX": [
+        "xilinx inc",
+        "xilinx"
+    ],
+    "ZBRA": [
+        "zebra technologies",
+        "zebra"
+    ]
+}

@@ -1,0 +1,299 @@
+[
+    {
+        "author": "Wiett",
+        "body": "Mind explaining how it's cheating? We just do a quick disturbance that, sure, it's a distraction, but the TA's are instructed to watch very carefully for any students who try to take advantage of the situation. We had a meeting before the exam to go over what exactly will happen, what cadence the moves will be, etc.",
+        "created_utc": 1622936592,
+        "id": "h0qnvuk",
+        "score": 46,
+        "subreddit": "wallstreetbets",
+        "created": 1622965392.0
+    },
+    {
+        "author": "kedstar99",
+        "body": "AMD is in the process of acquiring Xilinx, a major designer of FPGAs and dedicated accelerator cards.\n\nXilinx own Solarflare which has huge market penetration in fintechs and CDNs for their low-latency NICs (think 50+%).\n\nThey own Alveo which is their AI accelerator cards.\n\nThey own smartstorage which is getting adoption.\n\nWith the acquisiton Xilinx/AMD will own the data-center with a one-stop solution for networking, storage, bespoke accelerators, x86 or GPUs.\n\nThat doesn't even take into account 5g/security/automotive.",
+        "created_utc": 1625080241,
+        "id": "h3leazw",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1625109041.0
+    },
+    {
+        "author": "rnfrcd00",
+        "body": "Mine is their revamped execution with yearly cadence,  the tsmc deal for 3nm (which was never officially confirmed) for 2023, and their IDM 2.0 (open fab) initiative. \n\nPlus they\u2019ll get a lot of subsidies to do all this, 10B eur from the EU + $50B from the US among semiconductor manufacturers.\n\nI think value won\u2019t be realized completely until 2023-2024. The industry\u2019s product roadmaps are slow to change in general due to long product development, fabs take time to build.",
+        "created_utc": 1623529210,
+        "id": "h1jtvb6",
+        "score": 6,
+        "subreddit": "ValueInvesting",
+        "created": 1623558010.0
+    },
+    {
+        "author": "hunter994",
+        "body": "Its amazing though that it bounces higher on SPCE news than big new contracts/succesful bids. \n\nIf SPCE used a liquid rocket engine, I could see the high confidence in them, but this solid/liquid hybrid thing limits their flight cadence so much that I can't help but feel they are still insanely overvalued.",
+        "created_utc": 1624641784,
+        "id": "h30lzud",
+        "score": 4,
+        "subreddit": "SPACs",
+        "created": 1624670584.0
+    },
+    {
+        "author": "Character-Noise4868",
+        "body": "This isnt news. CDNs practically have a monopoly in the space and are constantly adding in more services. Its not a secret in the technical world.",
+        "created_utc": 1623343370,
+        "id": "h1ardt2",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1623372170.0
+    },
+    {
+        "author": "Erdos_0",
+        "body": "Personally when I analyse securities, I'm doing a lot of writing, underlining and noting down things. I can't do that on video, but I can do it on a pdf or paper. \n\nIf I need to look at a dcf you've built, I'll basically have to keep pausing and playing, if I need to go over something again I have to find the right timestamp. All these actions are basically wasting a lot of time and making the process much more complicated. At times it's very easy to tell where the holes are in an investment just by glancing through the numbers or bullet points of the thesis. In this case there is 40min of video, also done by someone I don't know very well (easier to dedicate 40min to listen to Soros/Buffett speak about markets than someone I do not know). \n\nRegarding the English proficiency, I think thats another point in favor of a written thesis. In the case of video, you are making the assumption that your accent, prosody and cadence are neutral enough for everyone to understand easily. If I personally misunderstand something you mention, then I have to rewind and re-listen. If it's written down, at worst I don't understand the word and can look it up. But in my experience reading languages is generally a lot easily than listening to them.\n\nIt essentially comes down to time and ease.",
+        "created_utc": 1624293533,
+        "id": "h2jx6s4",
+        "score": 3,
+        "subreddit": "SecurityAnalysis",
+        "created": 1624322333.0
+    },
+    {
+        "author": "rygo796",
+        "body": "Computer Aided Engineering, CAE.\n\nHard to say if there's any particular standouts.  Entire industry with solid growth and \\*gasp\\* profitability.\n\nPTC, ADSK, ANSS are some of the big ones.  CDNS and SNPS for EDA.",
+        "created_utc": 1624455090,
+        "id": "h2rl01y",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1624483890.0
+    },
+    {
+        "author": "ravepeacefully",
+        "body": "&gt;\tFastly is the most advanced and has unique configuration and functions that nobody has.\n\nAndroid\n\n&gt;\tCloudflare tends to copy or adopt these later.\n\nApple\n\n&gt;\tand those ones absolutely could not \u201cswitch CDNs in 10 minutes.\u201d\n\nYes they could.\n\nI\u2019m a software engineer and have used both extensively. Fastly has no moat. They could surely both survive, I just reallllly doubt fastly survives.",
+        "created_utc": 1623346134,
+        "id": "h1ay63n",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1623374934.0
+    },
+    {
+        "author": "viburnum608",
+        "body": "They also are moving into the satellite market as well by supplying high margin tested parts for their customers. Being a launch provider with a high cadence is a huge advantage for advancing the TRL level of various parts used in spacecraft.",
+        "created_utc": 1623346187,
+        "id": "h1ayat7",
+        "score": 2,
+        "subreddit": "SPACs",
+        "created": 1623374987.0
+    },
+    {
+        "author": "ravepeacefully",
+        "body": "Fastly is one small feature of cloudflare that could be easily be replaced if azure or AWS decided that they wanted to. The only reason fastly is existing today is because they\u2019re taking a loss, so the larger providers save money by using them instead of doing it themselves. As soon as fastly tries to turn a profit, they\u2019ll price themselves out of the market. \n\nCloudflare is a suite of tools that is a lot stickier. I could switch CDNs in 10 minutes.",
+        "created_utc": 1623344996,
+        "id": "h1avdlf",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1623373796.0
+    },
+    {
+        "author": "ravepeacefully",
+        "body": "Oh no it\u2019s fine that you picked a different company. You demonstrated your lack of understanding by trying to say it\u2019s a difficult task to switch CDNs which I have done for large production applications that are probably on your phone numerous times and you have clearly never done.",
+        "created_utc": 1623348762,
+        "id": "h1b4i60",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1623377562.0
+    },
+    {
+        "author": "hunter994",
+        "body": "Really it's just something to add to the long term risk side of things. Say Axiom finished their space station as Starship gets it's human rating, and Axiom is ferrying 50 people up to an orbital hotel for 2 week stays, that's going to seriously undermine demand for VG. \n\nSet aside that, I have serious questions about the actual launch cadence for VG, because their liquid/solid hybrid engine is going to have a far longer turnaround time and less performance than a pure liquid engine, and is more complex than a pure solid engine (and probably longer turnaround too). It may fit their needs, but I truly wonder what their launch cadence will be running at operational speed.",
+        "created_utc": 1624860609,
+        "id": "h3al36r",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1624889409.0
+    },
+    {
+        "author": "Lurking_Still",
+        "body": "I was trying to make it fit the cadence and when I realized ramen fit I had myself a giggle.",
+        "created_utc": 1623859323,
+        "id": "h1zcqtp",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623888123.0
+    },
+    {
+        "author": "panckage",
+        "body": "ULA has no rockets that can launch people in to space. Their launch cadence is tiny. \"Smart reuse\" is a political term. They see what the competition is doing and yet chose not to compete with it. Tony Bruno even said (on Smarter Everyday's channel) that he doesn't even consider SpaceX competition. It seems like a joke but look at them, they are not real competition except for very specific, rare payloads. \n\nThey are surviving on past glories and nothing more. Blue Origin can potentially do well... ULA can't even make their own new engines at this point and rely on corporate socialism to be \"competitive.\" \n\nI'm not sure how you can see a future in them.",
+        "created_utc": 1623446433,
+        "id": "h1g78fa",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623475233.0
+    },
+    {
+        "author": "experiencednowhack",
+        "body": "You can perform the exercise. You really just need to hypothesize/guess at a few things\u2026.\n\n1. Have they magically fixed their tick tock cadence. I.e. will they not only come out with halfhearted late to the game 10 nm but will they then quickly proceed to 7 to 5 to 3 etc to catch up or get ahead of TSMC? If they don\u2019t get close they will have worse chips PERIOD because that\u2019s how density works.\n2. If not #1, then when do you think they will have it fixed? Perhaps the delayed date they announced today? Some other date? \n3. If not #1 again, then their chips are worse for at least another year or two. If so, they will lose some share. They will lose more share in DC than client (because consumers aren\u2019t as educated as DC folk). DC folk are conservative which has protected intel a great deal, but with high profile examples like Google as of recent, I think Intel will continue hemorrhaging market share. Or to look at another fun example, in this market of unprecedented demand, Intel DC went down last quarter. They blamed it on some unintelligible \u201cdigestion\u201d excuse. Meanwhile AMD experienced significant growth. \n\nSo if you trust 3 is the case, then the question is what % share does Intel lose? If for example Intel lost 10% of revenue, they\u2019d be worth at least 10% less but that ignores momentum (I.e. what sort of discount might the market apply to a company that isn\u2019t growing).",
+        "created_utc": 1625027869,
+        "id": "h3iy7j4",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1625056669.0
+    },
+    {
+        "author": "anonyymi",
+        "body": "Hmm, so with this cadence somewhere around 2030? Retarded reasoning, but sounds legit.",
+        "created_utc": 1625021446,
+        "id": "h3in6yc",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1625050246.0
+    },
+    {
+        "author": "NoAtmosphere2271",
+        "body": "Peak Fintech reported Q1 2021 with a 14.2M and positive EBITDA during the slowest quarter of the year (Chinese New Year) compared to 3.8M in 2020. \n\nProspectus is still being finalized (revised from 15-30/45M) after a couple errors caused refilings and subsequent quarterly reports were to be used for the prospectus. Company has been in a quiet period since 12 March! I recommend reading the form 5 monthly progress reports for both March and April prior to the recently released MD&amp;A. May monthly report will follow here shortly and will probably have additional tidbits of information.  \n\nIf you look at their news release cadence from between Jan to March and understand the partnerships and activities that are underway, you\u2019ll realize that they likely have a news release for every day for an entire month. Very bullish position 2369 at $2.79",
+        "created_utc": 1622550690,
+        "id": "h06pqr4",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1622579490.0
+    },
+    {
+        "author": "Character-Noise4868",
+        "body": "Because security features are baked into services like CDNs and even the operating systems. A huge chunk of businesses just need a decent or well supported IT team to fend off 99% of attacks. The 1% that gets through has to be a big operation or an inside job. If anything development teams would probably have the biggest risk if they push out products too fast without a devsecops team.\n\nYou could make the case for systems that need a 100% uptime such as government or utilities but that will be a very slow growth as its bureaucratic in nature. Pen testing might be a catalyst for a big boom but based on how little companies seem to care, its not likely.",
+        "created_utc": 1624340201,
+        "id": "h2mf0y2",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1624369001.0
+    },
+    {
+        "author": "sinncab6",
+        "body": "Well explain to me how electric cars arent sustainable when state and federal governments are mandating phasing out gas and diesel within the next decade.  What isnt sustainable is half the fake EV companies being thrown about here none of them other than the chinese ones are going to be in operation in 10 years time.  Tesla is the only domestic automobile manufacturer in 100 years to challenge the big three to any degree that worried them.  Hell John Delorean who was maybe the greatest auto designer in history couldn't make a go of it.  \n\nThere are plays to be made in EVs but outside of Tesla I dont think people are looking at it rationally.  Lets take away the shit companies like workhorse, Lordstown and Nikola and look at GM and Ford.  They arent the answer if youve ever owned one you know why.  Toyota and Honda is where you should be sticking your money into EV plays but thats not sexy as all since the entire principal isnt look at the short percentage but rather look at the sales numbers and reliability.  \n\nBut I think you are more looking for a get rich quick scheme and will probably throw money into workhorse and hey maybe it works out.  But chances are if you are throwing money into anything that has been the most posted about companies on here for more than a week you are going to lose. Just the cadence of WSB.  The ones who got in early strike it rich the rest hold the bags.  Or put it into UWMC and watch it go nowhere like me.  But hey least I'm not losing money.",
+        "created_utc": 1623761006,
+        "id": "h1ubncd",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623789806.0
+    },
+    {
+        "author": "skoree",
+        "body": "Stock went up as market realized how central this one company is too the current status quo.\n\nCDNs control huge swaths of net traffic but are run by companies you've never/rarely heard about",
+        "created_utc": 1623207825,
+        "id": "h13xmdt",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1623236625.0
+    },
+    {
+        "author": "samstones",
+        "body": "Lol nice cadence very natural",
+        "created_utc": 1623094393,
+        "id": "h0y1s9f",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623123193.0
+    },
+    {
+        "author": "kkInkr",
+        "body": "ZTS, CDNS, SNPS, TER",
+        "created_utc": 1624967272,
+        "id": "h3fgwg4",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1624996072.0
+    },
+    {
+        "author": "Summebride",
+        "body": "Perhaps, but I would be inclined to disagree.  Fastly is the most advanced and has unique configuration and functions that nobody has. \n\nCloudflare tends to copy or adopt these later.  That's not necessarily a bad thing, as being a second adopter can sometimes be more profitable.  \n\nI wonder if this isn't being raised as something I've seen before: the common holy war posturing that pits FSLY against NET.  I don't subscribe to that.  I've owned them both and liked them both.  \n\nAs for portraying Fastly as someone willing to give away service to anyone, their own rather low customer count disproves that.  They may not be profitable, but their customer mix is a strategic choice.  And as a recent outage shows, many of the Internet kings do rely on them exclusively, and those ones absolutely could not \"switch CDNs in 10 minutes.\"",
+        "created_utc": 1623345934,
+        "id": "h1axom5",
+        "score": -1,
+        "subreddit": "stocks",
+        "created": 1623374734.0
+    },
+    {
+        "author": "F10andTheHotKeys",
+        "body": "As good as it gets is all the other CDNs that didn't shit the bed. Guess you're not in cloud much. 5 nines.",
+        "created_utc": 1623257183,
+        "id": "h167v31",
+        "score": -1,
+        "subreddit": "stocks",
+        "created": 1623285983.0
+    },
+    {
+        "author": "notaboveme",
+        "body": "This dude's voice, accent, and cadence is just....irritating  to me.",
+        "created_utc": 1624650816,
+        "id": "h315lm3",
+        "score": -2,
+        "subreddit": "wallstreetbets",
+        "created": 1624679616.0
+    },
+    {
+        "author": "Drunkensmitty",
+        "body": "I dumped 2k in on BB this morning @$19 so i hpe your idea pays off so mine will break even..lol",
+        "created_utc": 1622765903,
+        "id": "h0i8tzw",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1622794703.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Tuesday, the  1st of June\n\n\n\n## Upcoming events for Tuesday, June  1st\n\n - Stock splits:\n\n    - REAXF @ **1:4**\n\n - Expected earnings:\n\n  AMBA, ANVS, APPS, BNS, BTX, CAN, CARV, CGC, CMRE, CTIC, CYD, GHM, HPE, ITI, KIRK, KRKR, KTCC, LITB, LIZI, LOOP, LX, MDLA, OESX, QD, QTNT, QTT, SCPE, STNE, TIMB, ZM\n\n - Ex-div:\n\n  ARD, AROW, AVY, CCS, EA, EBIX, EDUC, FAM, FCT, FDEU, FEI, FIF, FIV, FLNG, FMY, FPF, FPL, FSD, FTHY, GHL, HAL, HEES, HLI, ICL, IGD, ITUB, KRNY, MTEX, NEE, NPO, ODFL, OPOF, PAHC, PAX, PJT, RAND, RCKY, SLB, TEF, UHS, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.015%)\n    - 6-Month Bill Auction (previous: 0.030%)\n    - Construction Spending (consensus: 0.5%, previous: 0.2%)\n    - Dallas Fed Mfg Business Index (previous: 37.3)\n    - FOMC Member Brainard Speaks\n    - FOMC Member Quarles Speaks\n    - IBD/TIPP Economic Optimism (previous: 54.4)\n    - ISM Manufacturing Employment (consensus: 61.5, previous: 55.1)\n    - ISM Manufacturing New Orders Index (previous: 64.3)\n    - ISM Manufacturing PMI (consensus: 60.9, previous: 60.7)\n    - ISM Manufacturing Prices (consensus: 89.8, previous: 89.6)\n    - Manufacturing PMI (previous: 61.5)\n    - OPEC Meeting\n    - Total Vehicle Sales (previous: 18.50M)\n\n## Upcoming events for Wednesday, June  2nd\n\n - Expected earnings:\n\n  AAP, AI, AMSC, CLDR, CMTL, CRKN, DCI, DSGX, EDR, ESTC, GRIN, GWRE, HMG, HOTH, LE, LUB, MESO, MIND, NCNO, NESR, NFH, NTAP, NVIV, PAGS, PVH, PXS, RLX, SFET, SINT, SMAR, SMTC, SPLK, SPTN, SPWH, VLGEA\n\n - Ex-div:\n\n  AAON, DHIL, EBC, ESBK, GOGL, HD, LIN, MOS, MTX, NLSN, NTES, PEBK, PFG, PTEN, QCOM, RMBI, SSTK, VNT\n\n - Economic events and announcements:\n\n    - API Weekly Crude Oil Stock (previous: -0.439M)\n    - Beige Book\n    - Chicago Fed President Evans Speaks\n    - Dallas Fed Services Revenues (previous: 26.1)\n    - FOMC Member Bostic Speaks\n    - FOMC Member Brainard Speaks\n    - MBA 30-Year Mortgage Rate (previous: 3.18%)\n    - MBA 30-Year Mortgage Rate (previous: 3.18%)\n    - MBA Mortgage Applications (previous: -4.2%)\n    - MBA Purchase Index (previous: 269.8)\n    - Mortgage Market Index (previous: 693.7)\n    - Mortgage Refinance Index (previous: 3,168.8)\n    - Redbook (previous: 13.6%)\n    - Texas Services Sector Outlook (previous: 34.9)\n\n## Upcoming events for Thursday, June  3rd\n\n - Expected earnings:\n\n  ADIL, APOP, ASAN, AVGO, CCEP, CDZI, CELC, CETX, CHPT, CIEN, CIH, CKX, CMD, CONN, COO, CRWD, CSAN, CTK, DLNG, DLTH, DOCU, DOOO, DYAI, EXPR, FIVE, FRSX, GHG, GIII, GNPX, HOV, IDT, JOAN, JOBS, KEP, LBPS, LULU, MACK, MANU, MAYS, MDB, MYSZ, NAV, NICK, NPCE, NUZE, NX, PD, PHR, PLUG, SAIC, SBSW, SCWX, SEEL, SFUN, SJM, SKM, SUMO, SWIM, TDAC, TLYS, TOUR, TTC, WORK, YTRA, ZUMZ\n\n - Ex-div:\n\n  ACP, AFB, AGR, AJG, ALL, AMNB, ANAT, BAC, BAX, BBD, BBDO, BLK, BOTJ, BRKS, CASS, CBSH, CHRW, D, EPC, FFIC, FFNW, FRME, GOLF, GPC, GRFS, HWKN, ICBK, III, INT, KMB, KNX, LB, LCII, MBCN, MBWM, MLI, NAT, NAVI, NGG, OBCI, ORI, PCH, PEP, PRGO, RF, SEE, SLM, SNR, SQM, TEX, TGNA, TILE, TT, UFCS, WHG, WM, WY\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.010%)\n    - 8-Week Bill Auction (previous: 0.005%)\n    - ADP Nonfarm Employment Change (consensus: 650K, previous: 742K)\n    - Challenger Job Cuts (previous: 22.913K)\n    - Continuing Jobless Claims (consensus: 3,615K, previous: 3,642K)\n    - Crude Oil Imports (previous: -0.265M)\n    - Crude Oil Inventories (previous: -1.662M)\n    - Cushing Crude Oil Inventories (previous: -1.008M)\n    - Distillate Fuel Production (previous: 0.112M)\n    - EIA Refinery Crude Runs  (previous: 0.123M)\n    - EIA Weekly Distillates Stocks (previous: -3.013M)\n    - EIA Weekly Refinery Utilization Rates (previous: 0.7%)\n    - FOMC Member Bostic Speaks\n    - FOMC Member Quarles Speaks\n    - Gasoline Inventories (consensus: -0.614M, previous: -1.745M)\n    - Gasoline Production (previous: -0.005M)\n    - Heating Oil Stockpiles (previous: 0.355M)\n    - ISM Non-Manufacturing Business Activity (consensus: 67.2, previous: 62.7)\n    - ISM Non-Manufacturing Employment (previous: 58.8)\n    - ISM Non-Manufacturing New Orders (previous: 63.2)\n    - ISM Non-Manufacturing PMI (consensus: 63.0, previous: 62.7)\n    - ISM Non-Manufacturing Prices (previous: 76.8)\n    - Initial Jobless Claims (consensus: 390K, previous: 406K)\n    - Jobless Claims 4-Week Avg. (previous: 458.75K)\n    - Markit Composite PMI (consensus: 68.1, previous: 68.1)\n    - Natural Gas Storage (previous: 115B)\n    - Nonfarm Productivity (consensus: 5.5%, previous: 5.4%)\n    - Services PMI (consensus: 70.1, previous: 70.1)\n    - Unit Labor Costs (consensus: -0.4%, previous: -0.3%)\n\n## Upcoming events for Friday, June  4th\n\n - Stock splits:\n\n    - CAPE @ **10:1** (Payable date: 06/03/2021)\n    - GRN @ **5:1** (Payable date: 06/03/2021)\n    - JJA @ **3:1** (Payable date: 06/03/2021)\n    - JJC @ **3:1** (Payable date: 06/03/2021)\n    - JJN @ **3:1** (Payable date: 06/03/2021)\n\n - Expected earnings:\n\n  AKTX, ANAT, AZRX, BPYU, BRID, CBLI, CIG, EH, GB, GTT, GWGH, HOFT, HUSA, IRCP, KT, MARPS, MBOT, MDLY, MKGI, MLND, MTR, MYMD, OGEN, PALI, RMCF, SQBG, TRCH, XIN, XPL\n\n - Ex-div:\n\n  AIN, AMKR, CATO, CCBG, ESLT, HWC, IPG, KRO, LYB, MLR, MNRO, NL, PBIP, SQFT, ULH, VHI\n\n - Economic events and announcements:\n\n    - Average Hourly Earnings (YoY) (consensus: 1.6%, previous: 0.3%)\n    - Average Hourly Earnings (consensus: 0.2%, previous: 0.7%)\n    - Average Weekly Hours (consensus: 34.9, previous: 35.0)\n    - CFTC Aluminium speculative net positions (previous: 3.1K)\n    - CFTC Copper speculative net positions (previous: 23.7K)\n    - CFTC Corn speculative net positions (previous: 428.4K)\n    - CFTC Crude Oil speculative net positions (previous: 475.5K)\n    - CFTC Gold speculative net positions (previous: 214.6K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -13.3K)\n    - CFTC Natural Gas speculative net positions (previous: -76.0K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -18.5K)\n    - CFTC Silver speculative net positions (previous: 50.5K)\n    - CFTC Soybeans speculative net positions (previous: 221.1K)\n    - CFTC Wheat speculative net positions (previous: 18.4K)\n    - Durables Excluding Defense (previous: 0.5%)\n    - Factory Orders (consensus: -0.2%, previous: 1.1%)\n    - Factory orders ex transportation (previous: 1.7%)\n    - Fed Chair Powell Speaks\n    - Government Payrolls (previous: 48.0K)\n    - Manufacturing Payrolls (consensus: 25K, previous: -18K)\n    - Nonfarm Payrolls (consensus: 664K, previous: 266K)\n    - Participation Rate (previous: 61.7%)\n    - Private Nonfarm Payrolls (consensus: 600K, previous: 218K)\n    - U.S. Baker Hughes Oil Rig Count (previous: 356)\n    - U.S. Baker Hughes Total Rig Count (previous: 455)\n    - U6 Unemployment Rate (previous: 10.4%)\n    - Unemployment Rate (consensus: 5.9%, previous: 6.1%)\n\n^^^^2021-06-01",
+        "created_utc": 1622541643,
+        "id": "h06doxd",
+        "score": 2,
+        "subreddit": "RobinHood",
+        "created": 1622570443.0
+    },
+    {
+        "author": "iamlenovoUS",
+        "body": "HPE beats and slides...",
+        "created_utc": 1622582303,
+        "id": "h08mayo",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622611103.0
+    },
+    {
+        "author": "kfmaynard",
+        "body": "HPE! Just filed their earnings and exceeded expectations for 4th quarter in a row. \nExperiencing a slight dip aftermarket but it\u2019ll go up as soon as the news are spreading.",
+        "created_utc": 1622579040,
+        "id": "h08f7z8",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622607840.0
+    },
+    {
+        "author": "BmoreDude92",
+        "body": "Why do people care about Hewlett-Packard enterprises earnings?",
+        "created_utc": 1622656718,
+        "id": "h0c9uvj",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622685518.0
+    },
+    {
+        "author": "kfmaynard",
+        "body": "HPE after their earnings today! Let\u2019s rise \ud83d\ude80",
+        "created_utc": 1622586075,
+        "id": "h08u9m9",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1622614875.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Tuesday, the  1st of June\n\n\n\n## Upcoming events for Tuesday, June  1st\n\n - Stock splits:\n\n    - REAXF @ **1:4**\n\n - Expected earnings:\n\n  AMBA, ANVS, APPS, BNS, BTX, CAN, CARV, CGC, CMRE, CTIC, CYD, GHM, HPE, ITI, KIRK, KRKR, KTCC, LITB, LIZI, LOOP, LX, MDLA, OESX, QD, QTNT, QTT, SCPE, STNE, TIMB, ZM\n\n - Ex-div:\n\n  ARD, AROW, AVY, CCS, EA, EBIX, EDUC, FAM, FCT, FDEU, FEI, FIF, FIV, FLNG, FMY, FPF, FPL, FSD, FTHY, GHL, HAL, HEES, HLI, ICL, IGD, ITUB, KRNY, MTEX, NEE, NPO, ODFL, OPOF, PAHC, PAX, PJT, RAND, RCKY, SLB, TEF, UHS, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.015%)\n    - 6-Month Bill Auction (previous: 0.030%)\n    - Construction Spending (consensus: 0.5%, previous: 0.2%)\n    - Dallas Fed Mfg Business Index (previous: 37.3)\n    - FOMC Member Brainard Speaks\n    - FOMC Member Quarles Speaks\n    - IBD/TIPP Economic Optimism (previous: 54.4)\n    - ISM Manufacturing Employment (consensus: 61.5, previous: 55.1)\n    - ISM Manufacturing New Orders Index (previous: 64.3)\n    - ISM Manufacturing PMI (consensus: 60.9, previous: 60.7)\n    - ISM Manufacturing Prices (consensus: 89.8, previous: 89.6)\n    - Manufacturing PMI (previous: 61.5)\n    - OPEC Meeting\n    - Total Vehicle Sales (previous: 18.50M)\n\n## Upcoming events for Wednesday, June  2nd\n\n - Expected earnings:\n\n  AAP, AI, AMSC, CLDR, CMTL, CRKN, DCI, DSGX, EDR, ESTC, GRIN, GWRE, HMG, HOTH, LE, LUB, MESO, MIND, NCNO, NESR, NFH, NTAP, NVIV, PAGS, PVH, PXS, RLX, SFET, SINT, SMAR, SMTC, SPLK, SPTN, SPWH, VLGEA\n\n - Ex-div:\n\n  AAON, DHIL, EBC, ESBK, GOGL, HD, LIN, MOS, MTX, NLSN, NTES, PEBK, PFG, PTEN, QCOM, RMBI, SSTK, VNT\n\n - Economic events and announcements:\n\n    - API Weekly Crude Oil Stock (previous: -0.439M)\n    - Beige Book\n    - Chicago Fed President Evans Speaks\n    - Dallas Fed Services Revenues (previous: 26.1)\n    - FOMC Member Bostic Speaks\n    - FOMC Member Brainard Speaks\n    - MBA 30-Year Mortgage Rate (previous: 3.18%)\n    - MBA 30-Year Mortgage Rate (previous: 3.18%)\n    - MBA Mortgage Applications (previous: -4.2%)\n    - MBA Purchase Index (previous: 269.8)\n    - Mortgage Market Index (previous: 693.7)\n    - Mortgage Refinance Index (previous: 3,168.8)\n    - Redbook (previous: 13.6%)\n    - Texas Services Sector Outlook (previous: 34.9)\n\n## Upcoming events for Thursday, June  3rd\n\n - Expected earnings:\n\n  ADIL, APOP, ASAN, AVGO, CCEP, CDZI, CELC, CETX, CHPT, CIEN, CIH, CKX, CMD, CONN, COO, CRWD, CSAN, CTK, DLNG, DLTH, DOCU, DOOO, DYAI, EXPR, FIVE, FRSX, GHG, GIII, GNPX, HOV, IDT, JOAN, JOBS, KEP, LBPS, LULU, MACK, MANU, MAYS, MDB, MYSZ, NAV, NICK, NPCE, NUZE, NX, PD, PHR, PLUG, SAIC, SBSW, SCWX, SEEL, SFUN, SJM, SKM, SUMO, SWIM, TDAC, TLYS, TOUR, TTC, WORK, YTRA, ZUMZ\n\n - Ex-div:\n\n  ACP, AFB, AGR, AJG, ALL, AMNB, ANAT, BAC, BAX, BBD, BBDO, BLK, BOTJ, BRKS, CASS, CBSH, CHRW, D, EPC, FFIC, FFNW, FRME, GOLF, GPC, GRFS, HWKN, ICBK, III, INT, KMB, KNX, LB, LCII, MBCN, MBWM, MLI, NAT, NAVI, NGG, OBCI, ORI, PCH, PEP, PRGO, RF, SEE, SLM, SNR, SQM, TEX, TGNA, TILE, TT, UFCS, WHG, WM, WY\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.010%)\n    - 8-Week Bill Auction (previous: 0.005%)\n    - ADP Nonfarm Employment Change (consensus: 650K, previous: 742K)\n    - Challenger Job Cuts (previous: 22.913K)\n    - Continuing Jobless Claims (consensus: 3,615K, previous: 3,642K)\n    - Crude Oil Imports (previous: -0.265M)\n    - Crude Oil Inventories (previous: -1.662M)\n    - Cushing Crude Oil Inventories (previous: -1.008M)\n    - Distillate Fuel Production (previous: 0.112M)\n    - EIA Refinery Crude Runs  (previous: 0.123M)\n    - EIA Weekly Distillates Stocks (previous: -3.013M)\n    - EIA Weekly Refinery Utilization Rates (previous: 0.7%)\n    - FOMC Member Bostic Speaks\n    - FOMC Member Quarles Speaks\n    - Gasoline Inventories (consensus: -0.614M, previous: -1.745M)\n    - Gasoline Production (previous: -0.005M)\n    - Heating Oil Stockpiles (previous: 0.355M)\n    - ISM Non-Manufacturing Business Activity (consensus: 67.2, previous: 62.7)\n    - ISM Non-Manufacturing Employment (previous: 58.8)\n    - ISM Non-Manufacturing New Orders (previous: 63.2)\n    - ISM Non-Manufacturing PMI (consensus: 63.0, previous: 62.7)\n    - ISM Non-Manufacturing Prices (previous: 76.8)\n    - Initial Jobless Claims (consensus: 390K, previous: 406K)\n    - Jobless Claims 4-Week Avg. (previous: 458.75K)\n    - Markit Composite PMI (consensus: 68.1, previous: 68.1)\n    - Natural Gas Storage (previous: 115B)\n    - Nonfarm Productivity (consensus: 5.5%, previous: 5.4%)\n    - Services PMI (consensus: 70.1, previous: 70.1)\n    - Unit Labor Costs (consensus: -0.4%, previous: -0.3%)\n\n## Upcoming events for Friday, June  4th\n\n - Stock splits:\n\n    - CAPE @ **10:1** (Payable date: 06/03/2021)\n    - GRN @ **5:1** (Payable date: 06/03/2021)\n    - JJA @ **3:1** (Payable date: 06/03/2021)\n    - JJC @ **3:1** (Payable date: 06/03/2021)\n    - JJN @ **3:1** (Payable date: 06/03/2021)\n\n - Expected earnings:\n\n  AKTX, ANAT, AZRX, BPYU, BRID, CBLI, CIG, EH, GB, GTT, GWGH, HOFT, HUSA, IRCP, KT, MARPS, MBOT, MDLY, MKGI, MLND, MTR, MYMD, OGEN, PALI, RMCF, SQBG, TRCH, XIN, XPL\n\n - Ex-div:\n\n  AIN, AMKR, CATO, CCBG, ESLT, HWC, IPG, KRO, LYB, MLR, MNRO, NL, PBIP, SQFT, ULH, VHI\n\n - Economic events and announcements:\n\n    - Average Hourly Earnings (YoY) (consensus: 1.6%, previous: 0.3%)\n    - Average Hourly Earnings (consensus: 0.2%, previous: 0.7%)\n    - Average Weekly Hours (consensus: 34.9, previous: 35.0)\n    - CFTC Aluminium speculative net positions (previous: 3.1K)\n    - CFTC Copper speculative net positions (previous: 23.7K)\n    - CFTC Corn speculative net positions (previous: 428.4K)\n    - CFTC Crude Oil speculative net positions (previous: 475.5K)\n    - CFTC Gold speculative net positions (previous: 214.6K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -13.3K)\n    - CFTC Natural Gas speculative net positions (previous: -76.0K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -18.5K)\n    - CFTC Silver speculative net positions (previous: 50.5K)\n    - CFTC Soybeans speculative net positions (previous: 221.1K)\n    - CFTC Wheat speculative net positions (previous: 18.4K)\n    - Durables Excluding Defense (previous: 0.5%)\n    - Factory Orders (consensus: -0.2%, previous: 1.1%)\n    - Factory orders ex transportation (previous: 1.7%)\n    - Fed Chair Powell Speaks\n    - Government Payrolls (previous: 48.0K)\n    - Manufacturing Payrolls (consensus: 25K, previous: -18K)\n    - Nonfarm Payrolls (consensus: 664K, previous: 266K)\n    - Participation Rate (previous: 61.7%)\n    - Private Nonfarm Payrolls (consensus: 600K, previous: 218K)\n    - U.S. Baker Hughes Oil Rig Count (previous: 356)\n    - U.S. Baker Hughes Total Rig Count (previous: 455)\n    - U6 Unemployment Rate (previous: 10.4%)\n    - Unemployment Rate (consensus: 5.9%, previous: 6.1%)\n\n^^^^2021-06-01",
+        "created_utc": 1622541643,
+        "id": "h06doxd",
+        "score": 2,
+        "subreddit": "RobinHood",
+        "created": 1622570443.0
+    },
+    {
+        "author": "Educational-Wheel689",
+        "body": "I made 250k selling my house in Boston that I bought 4 years  Ago. Leaving liberal MA and headed to free FL.\n\nDeSantis2024",
+        "created_utc": 1622534868,
+        "id": "h066kao",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1622563668.0
+    }
+]

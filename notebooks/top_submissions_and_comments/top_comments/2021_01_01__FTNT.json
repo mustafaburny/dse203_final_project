@@ -1,0 +1,263 @@
+[
+    {
+        "author": "stoney-the-tiger",
+        "body": "After we killed the Iranian terrorist dude, Sulamani, about a year ago I went in big on a number of cloud security stocks including $NET.  I am a software and devops engineer with a lot of exp in the industry and I have seen demos/sales pitches from just about every one of these companies and used many of them (good and bad).  So I bought the stocks that I make good products I enjoy using and trust as a consumer of these products.  Full disclosure, I made these picks because their tech works and I feel that technical leadership in this area will beat out accounting, marketing, and other aspects of successful companies.  That bet has paid off with 300-400% gains in the last year for the companies I bought with every penny of available capital \\~yr ago.  Those were $NET, $CRWD, and $ZS I am still long on these.  I also was into $MSFT which is good in this respect and $ESTC (which I unfortunately sold around $100 because they were going sideways). I have since gone into $FROG, $PLTR, and $SUMO which are more recent IPOs.\n\nThere are a few categories of attack that you worry about from an IT organizational standpoint.  This list is in no particular order other than the first one because you asked about $NET.\n\n* Distributed Denial of Service (DDOS)\n   * Cloudflare ($NET) is the best protection you can have for this.  End of story.  They have many other products that make them a great company. They have introduced a new set of tools that cover everything you need for a work anywhere company.  They also have made some things that do for cloud computing what CDNs (like Akamai) did for static content.  There main competitors are Fastly, Akamai, and Limelight but $NET is best from tech standpoint.\n* ID management and access control\n   * $MSFT, $OKTA, Ping, Sailpoint from login perspective\n   * $FROG is also good from the perspective of managing access control to intellectual property\n* Malicious websites and phishing \n   * $ZS, $PANO, Fortinet, and a few others play in this space\n* Post attack cleanup\n   * $CRWD is the best here\n   * $ESTC is actually the best but it is open source and european which I think had some negative influences for me as an investor.   Splunk, $SUMO, Data Dog, and Snowflake can also be really good in this regard \n* Secure development\n   * There are a few companies but all of their stuff is hum drum",
+        "created_utc": 1610846081,
+        "id": "gjizx7f",
+        "score": 19,
+        "subreddit": "stocks",
+        "created": 1610874881.0
+    },
+    {
+        "author": "SteveSharpe",
+        "body": "Between the two, I think NET has more long-term potential than CRWD.  As a personal rule, I never invest in cybersecurity companies that primarily deliver from the endpoint.  The reason is that, while CRWD is certainly a great play today, endpoint solutions seem to come and go all the time.  It's an easier market to disrupt.\n\nOnce a company starts running their critical workloads and applications through the NET infrastructure, I suspect it would be much more difficult to pull away.  NET is more sticky for the customer.\n\nAs an alternative, I would offer up PANW or FTNT.  They have more all-encompassing portfolios of security solutions so they can cover more use cases and they can pivot much more quickly.  They also both are very acquisitive, so they are constantly shifting to where the demand is.",
+        "created_utc": 1610120138,
+        "id": "gijs7uv",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1610148938.0
+    },
+    {
+        "author": "jon-mcman",
+        "body": "CRM set to break out. Along with cyber security FTNT. Two great buys",
+        "created_utc": 1611158484,
+        "id": "gjyeiwz",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1611187284.0
+    },
+    {
+        "author": "Likes_The_Scotch",
+        "body": "Also, watch Checkpoint on Wednesday, if they do well, Fortinet will do well. I'm flat for both, but if we see something wild with CP, keep your heads up.",
+        "created_utc": 1612117832,
+        "id": "gli65uh",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1612146632.0
+    },
+    {
+        "author": "xXx_Bunga_xXx",
+        "body": "Part 2:\n\n    MTOR\t0.879\n    PFGC\t0.121\n    PZN\t0.02\n    SC\t0.96\n    SLAB\t0.463\n    SMG\t0.201\n    SNDR\t0.06\n    SPOT\t0.1\n    TGI\t0.322\n    WNC\t0.959\n    ADTN\t1\n    AFG\t0.9\n    AFL\t0.96\n    ALGN\t0.342\n    ALGT\t0.899\n    ALL\t0.939\n    ANGI\t0.06\n    APPS\t0.537\n    ASH\t0.92\n    AVB\t0\n    AVNW\t0.141\n    AVTR\t0.779\n    AXTA\t1\n    BSMX\t0\n    CCMP\t0.98\n    CHNG\t0.98\n    CSGS\t0.181\n    CSII\t0.98\n    CTSH\t0.98\n    CTVA\t0.98\n    DGII\t1\n    EBAY\t1\n    ECHO\t0.98\n    ELF\t0.859\n    EMKR\t0.101\n    FORM\t0.96\n    GEOS\t0.041\n    GRUB\t0.92\n    HI\t0.899\n    HMN\t0.859\n    IAC\t0.08\n    INOV\t0.02\n    IVAC\t0.821\n    KE\t0.081\n    KLAC\t1\n    LCI\t0.161\n    LNC\t0.06\n    MAA\t0\n    MET\t0.98\n    MUSA\t0.92\n    MWA\t0.1\n    MXL\t0.482\n    NEU\t0.04\n    NTGR\t1\n    PAHC\t0.718\n    PYPL\t1\n    QCOM\t1\n    QNST\t0.92\n    QRVO\t0.98\n    RGLD\t0.06\n    RYN\t0.458\n    SIMO\t0.622\n    SITM\t0.96\n    TBI\t0.919\n    THG\t0.98\n    TSE\t0.101\n    TTMI\t0.96\n    UGI\t0.101\n    UHAL\t0.658\n    VVV\t0.88\n    YUMC\t0.9\n    VNE\t0.539\n    ABC\t0.941\n    AGCO\t0.98\n    ALXN\t1\n    AME\t1\n    APD\t0.1\n    ARW\t0.939\n    BAX\t1\n    BCE\t0.12\n    BDX\t0.96\n    BLL\t0.879\n    BMY\t1\n    BSIG\t0.338\n    BTU\t0.602\n    BV\t0.02\n    CI\t0.94\n    CLX\t0.859\n    CMI\t0.899\n    CMS\t0.417\n    COR\t0\n    DGX\t0.96\n    DSPG\t0.881\n    DX\t0.221\n    GLT\t0.08\n    GOOS\t0.86\n    GPI\t0.96\n    HIMX\t0\n    HSY\t0.96\n    ICE\t0.94\n    IEX\t1\n    IP\t0.96\n    IRMD\t1\n    JHG\t0.94\n    LANC\t0.081\n    LEA\t0.96\n    LQDT\t0.74\n    LSPD\t0\n    MDP\t0.241\n    MDU\t0.04\n    MMS\t0.92\n    MPW\t0\n    MRK\t1\n    MSGN\t0.1\n    NJR\t0.06\n    NS\t0.039\n    NYT\t0.94\n    OCSI\t0\n    OCSL\t0.159\n    ODFL\t0.879\n    ONEW\t0.478\n    PBH\t0.98\n    PENN\t0.98\n    PH\t1\n    PIPR\t0.88\n    PM\t0.86\n    PTEN\t0.322\n    RFP\t0.101\n    RGS\t0.04\n    RL\t0.622\n    SBH\t0.242\n    SNA\t0.98\n    SPH\t0.02\n    SR\t0.218\n    SXC\t0.121\n    TKR\t0.98\n    TPR\t0.98\n    TW\t0.201\n    ULBI\t0\n    VSTO\t0.94\n    WD\t0.919\n    WEC\t0.879\n    WLMS\t0.08\n    WMS\t0.04\n    XYL\t0.9\n    YTRA\t0.1\n    YUM\t0.9\n    AINV\t0.338\n    AOSL\t0.88\n    ARWR\t0.02\n    ATVI\t1\n    BILL\t0.98\n    BRBR\t0.121\n    CCS\t0.94\n    CDR\t0\n    COLM\t0.101\n    CPT\t0\n    CSL\t0.98\n    CTHR\t0\n    CURO\t0.94\n    DECK\t0.98\n    DHX\t0.362\n    DLX\t0.343\n    DXC\t0.98\n    ENVA\t0.859\n    ESS\t0\n    EVBN\t0.98\n    EXPO\t1\n    F\t0.899\n    FARM\t0.161\n    FFG\t0\n    FLT\t1\n    FTNT\t1\n    FTV\t1\n    GHL\t0.04\n    GILD\t0.94\n    GPRO\t0.523\n    GTIM\t0.08\n    HIG\t0.96\n    HUBG\t1\n    KLIC\t0.12\n    KN\t0.08\n    LBRT\t0.02\n    LGF.A\t0.96\n    LPLA\t0.98\n    MCHP\t0.98\n    MNR\t0.02\n    MOD\t0.201\n    MPWR\t0.401\n    MSI\t1\n    MTD\t0.98\n    MTX\t1\n    NBIX\t0.02\n    NEWR\t0.362\n    NFG\t0.379\n    NGVC\t0.04\n    NLOK\t1\n    NOV\t0.504\n    OFC\t0\n    OHI\t0\n    ONTO\t1\n    OTEX\t1\n    PCTY\t1\n    PFPT\t1\n    PFSI\t0.819\n    PINS\t0.98\n    PLT\t0.98\n    PMT\t0.84\n    POST\t0.081\n    PRO\t0.98\n    PRU\t0.8\n    PTON\t0.681\n    SKX\t0.96\n    SKYW\t0.241\n    SNAP\t0.94\n    SVM\t0.06\n    SYNA\t1\n    TDC\t1\n    THST\t0\n    TMUS\t0.92\n    TWST\t0.081\n    U\t1\n    UEPS\t0.04\n    ULH\t0.04\n    UNM\t0.04\n    USAT\t0.04\n    UTI\t0.04\n    VREX\t0.1\n    WERN\t0.899\n    WWE\t1\n    YRCW\t0.1\n    ZEN\t0.98\n    ABB\t0.02\n    BSAC\t0\n    CG\t0.84\n    RDS.A\t0.24\n    SOGO\t0.02\n    SOHU\t0\n    THR\t0.501\n    ADNT\t0.9\n    AMPH\t0.9\n    AON\t0.859\n    ARA\t0.06\n    ASRT\t0.281\n    ASX\t0\n    BBU\t0\n    BERY\t0.88\n    CAH\t0.959\n    CBOE\t0.98\n    CIVB\t1\n    CNTY\t0.04\n    CSWI\t0.221\n    CXRXF\t0.081\n    EAF\t0.839\n    EL\t0.96\n    FCCY\t0.98\n    FE\t0.539\n    GAU\t0.02\n    GNE\t0.12\n    GRC\t0\n    GVA\t0\n    HCAP\t0.26\n    HMC\t0.32\n    HRC\t1\n    ITW\t1\n    JOUT\t0.02\n    KKR\t0.9\n    LAZ\t1\n    MTNB\t0\n    NOG\t0.8\n    OCGN\t0.02\n    OFS\t0.02\n    OIIM\t0.02\n    OPY\t0.181\n    PAR\t0.222\n    PFSW\t0.523\n    REGN\t0.98\n    ROAD\t0\n    SCYX\t0.641\n    SDPI\t0.04\n    SPB\t0.221\n    THM\t0\n    TMP\t0.859\n    TT\t0.98\n    UTSI\t0\n    VIVO\t0.461\n    ZBH\t0.96\n    CRNX\t0.02\n    JCS\t0.04\n    KINS\t0.4\n    LIVX\t0\n    PSTI\t0.02\n    STLY\t0.02\n    UUUU\t0\n    VHC\t0.061\n    AU\t0\n    CBFV\t0.98\n    CDZI\t0\n    CTTC\t0\n    CZNC\t0.76\n    DIIBF\t0.101\n    DPSI\t0\n    ELUXY\t0.461\n    GNUS\t0\n    KMTUY\t0.2\n    NHYDY\t0.04\n    RICOY\t0\n    SNP\t0\n    SNY\t0\n    TCFC\t0.623\n    WRN\t0\n    XBIO\t0.14\n    YORW\t0.16",
+        "created_utc": 1612124595,
+        "id": "glikwui",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1612153395.0
+    },
+    {
+        "author": "m3equals333",
+        "body": "FTNT [Fortinet target increased to $190 from $160 at Oppenheimer following checks]\n\nSeems like there are cybersecurity upgrades, guide-ups, and some type of newsflow (SolarWinds etc) like everyday.  \ud83d\udc4c\ud83d\udd25  \n\nPersonally I like pureplay cloud cybersecurity (FTNT has all that obselete physical firewall crap as well).\n\n$CRWD \ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "created_utc": 1610547867,
+        "id": "gj44glu",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1610576667.0
+    },
+    {
+        "author": "LuckyChicken29",
+        "body": ". Look at the holding rebalance. We now got Enphase, SolarEdge, FirstSolar along with all the cybersecurity plays, Fortinet/Crowdstrike. Bio plays like AstraZeneca.\n\nThe meme potential of this ETF just took the fuck off. Even with the old holdings were were still going to hit 35 in Feb but with these we could blow past 40.",
+        "created_utc": 1610117174,
+        "id": "gijmdou",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1610145974.0
+    },
+    {
+        "author": "beefstake",
+        "body": "Look at the holding rebalance. We now got Enphase, SolarEdge, FirstSolar along with all the cybersecurity plays, Fortinet/Crowdstrike. Bio plays like AstraZeneca.\n\nThe meme potential of this ETF just took the fuck off. Even with the old holdings were were still going to hit 35 in Feb but with these we could blow past 40.",
+        "created_utc": 1610031531,
+        "id": "gifhlld",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1610060331.0
+    },
+    {
+        "author": "SmallParade",
+        "body": "FTNT and CHKP are two more, Check Point may be a bit under the 5% growth but no debt whatsoever.",
+        "created_utc": 1611142372,
+        "id": "gjxo3q6",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1611171172.0
+    },
+    {
+        "author": "Robipadpoop",
+        "body": "So I bought in around July, some of my trades are up 15-20 percent, but some are down 20 percent. Unfortunately it\u2019s balanced out to trade sideways.\n\n\nI have \nAdmiral Group\nBrtivic\nBurberry Group\nDiageo\nDominoes Pizza\nFortinet\nJack Henry\nJames Fisher and Sons\nPearson\nPinterest\nRathbone Brothers\nPinterest\nRight move\nSage Group\nShoplift\nTesco\nTritax Big Box REIT\nWix",
+        "created_utc": 1610719288,
+        "id": "gjcdjh6",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1610748088.0
+    },
+    {
+        "author": "LuckyChicken29",
+        "body": "Look at the holding rebalance. We now got Enphase, SolarEdge, FirstSolar along with all the cybersecurity plays, Fortinet/Crowdstrike. Bio plays like AstraZeneca.\n\nThe meme potential of this ETF just took the fuck off. Even with the old holdings were were still going to hit 35 in Feb but with these we could blow past 40.",
+        "created_utc": 1610031910,
+        "id": "gifibyn",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1610060710.0
+    },
+    {
+        "author": "SteveSharpe",
+        "body": "Less growth than NET because they are already bigger and much more established.  But less risk with PANW and FTNT.\n\nPut it this way, NET has a market cap that is up there in size compared to PANW and FTNT, but way less revenue and no earnings.",
+        "created_utc": 1610124059,
+        "id": "gik0ljo",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1610152859.0
+    },
+    {
+        "author": "jc_couple",
+        "body": "Why Cybersecurity is gonna pop off. https://www.barrons.com/articles/cyberark-and-fortinet-stocks-rally-as-analysts-see-growth-in-security-spending-51610478465\n\n2 $42c for $IHAK in June and x30 commons",
+        "created_utc": 1610480347,
+        "id": "gj16gnr",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1610509147.0
+    },
+    {
+        "author": "radaway1",
+        "body": "https://www.barrons.com/articles/cyberark-and-fortinet-stocks-rally-as-analysts-see-growth-in-security-spending-51610478465\n\nthis too!",
+        "created_utc": 1610480661,
+        "id": "gj175b8",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1610509461.0
+    },
+    {
+        "author": "Ahhyounghokage7",
+        "body": "I would say FTNT since it is a mid cap company or BABA due to political risk.",
+        "created_utc": 1609656817,
+        "id": "ghwvohm",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1609685617.0
+    },
+    {
+        "author": "tronhoho",
+        "body": "Ai3 will double by end of year. Also if u want a cheap stock look up asana, and ntgr. Best growth cyber security is ftnt. All was said to double by end of year n triple in 18 months per shal gilani. I also did a bunch of dd. Too much to list but revenue growth is on point.",
+        "created_utc": 1610932277,
+        "id": "gjo7d5q",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1610961077.0
+    },
+    {
+        "author": "us3rnamecheck5out",
+        "body": "I am long with FTNT!!",
+        "created_utc": 1611158529,
+        "id": "gjyem9q",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611187329.0
+    },
+    {
+        "author": "gatretor",
+        "body": "IIPR, FTNT, TDOC",
+        "created_utc": 1610089411,
+        "id": "giiopdj",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1610118211.0
+    },
+    {
+        "author": "radaway1",
+        "body": "Nows a good time to get into cybersecurity\nhttps://www.barrons.com/articles/cyberark-and-fortinet-stocks-rally-as-analysts-see-growth-in-security-spending-51610478465\n\n$IHAK",
+        "created_utc": 1610550971,
+        "id": "gj4ai3a",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1610579771.0
+    },
+    {
+        "author": "radaway1",
+        "body": "get yourself $IHAK June calls before it moons. $42 strikes are cheap.\n\nhttps://www.barrons.com/articles/cyberark-and-fortinet-stocks-rally-as-analysts-see-growth-in-security-spending-51610478465",
+        "created_utc": 1610483109,
+        "id": "gj1ci1p",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1610511909.0
+    },
+    {
+        "author": "slashrshot",
+        "body": "closest I know of is fortinet at 10x.  Which is what im saying. while it is true that the cybersecurity sector is overhyped. \nthere is a reason blackberry wouldnt moon, its because its fundamentals does not show it has the potential to.  \nyou are better off placing your bets on something else that while they have a higher sales multiple, also has higher room to grow.\nfor example, having a good product(s), having good costumers.  \n\nin the vehicles sector, they are competing with msft and aapl.\nin security they are competing vs fortinet and crwd.  if u take a look at their products and offerings, they chances dont look good.",
+        "created_utc": 1611247295,
+        "id": "gk2qz8z",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611276095.0
+    },
+    {
+        "author": "androidAlarm",
+        "body": "FTNT \ud83d\ude80\ud83d\ude80\ud83d\ude80 I hope",
+        "created_utc": 1612099995,
+        "id": "glh802m",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1612128795.0
+    },
+    {
+        "author": "MVTHOLST",
+        "body": "Or go for main ones like NET, CRWD, PANW, SZ, FTNT - but yeah I agree",
+        "created_utc": 1611156270,
+        "id": "gjy9xia",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1611185070.0
+    },
+    {
+        "author": "m3equals333",
+        "body": "Ha...don't think so.  FTNT is Fortinet (cybersecurity company), not fortnite.",
+        "created_utc": 1610548109,
+        "id": "gj44whx",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1610576909.0
+    },
+    {
+        "author": "bridgeheadone",
+        "body": "Caught Palo Alto in the October dip, up 32% or something since.\n\nVery well managed company with growth coming organically and from acquisitions.\n\nEarly mover in the SaaS/Cloud security and holds something like 70% of the F100 companies.\n\nFortinet gets mentioned but I think they kissed the train a bit and are trying to catch up after focusing on small business and individuals.",
+        "created_utc": 1609957057,
+        "id": "gibtp2b",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1609985857.0
+    },
+    {
+        "author": "beefstake",
+        "body": "Look at PANW, ZS, FTNT to start. CRWD was something silly like 63 forward PE when I looked at it last.",
+        "created_utc": 1611922280,
+        "id": "gl85jx7",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1611951080.0
+    },
+    {
+        "author": "TroxX",
+        "body": "I work in Cybersecurity and BB is completely irrelevant in this Business.  In a \"sector\" of Cybersecurity it is usually that the top 2-3 companies take like 90% of the marketshare ... Let\u00b4s Look at Network Security  the Big players are, Palo Alto Networks, Fortinet and Checkpoint. ...  of those 2 PANW and Fortinet are the only ones actually growing a LOT. \n\nSo back to Blackberry, they made a good Akquisition with Cylance but the solution started lacking behind super fast after they got bought or better said, other companies just went BANANAS....\nI\u00b4m talking here about Crowd Strike, a really good solution in the EDR field ... next PANW also dips into this market with Cortex XDR,  same with Microsoft, and MANY more ... \nWhat does this mean for BB Cylance in this field ? Extrem competition that they cant win unless the innovate so extremely fast what I\u00b4m not seeing coming. \n\nIf you look at the Charts and Compare BB with PANW ... BB just moves sideways (except to recently... suprise suprise) \nso BB went from 7 to 14 ( just the meme basically)  in the last 5years and PANW from 127 to 350.\n\nIf they fail to innovate FAST they will get crushed by the competition.",
+        "created_utc": 1612126414,
+        "id": "gliotno",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1612155214.0
+    },
+    {
+        "author": "Meymo",
+        "body": "This was a fantastic read and mirrors some of my own thoughts regarding the market. I found it interesting that they're also stating that we will have a *\"likelihood of low policy rates for the rest of our lives\".* Which is the same thing that many commentators on this sub-reddit have also been saying.\n\nFor fun, [here's the historical performance](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&amp;timePeriod=4&amp;startYear=1985&amp;firstMonth=1&amp;endYear=2020&amp;lastMonth=12&amp;calendarAligned=true&amp;includeYTD=false&amp;initialAmount=10000&amp;annualOperation=0&amp;annualAdjustment=0&amp;inflationAdjusted=true&amp;annualPercentage=0.0&amp;frequency=2&amp;rebalanceType=1&amp;absoluteDeviation=5.0&amp;relativeDeviation=25.0&amp;showYield=false&amp;reinvestDividends=true&amp;benchmark=VFINX&amp;portfolioNames=false&amp;portfolioName1=Portfolio+1&amp;portfolioName2=Portfolio+2&amp;portfolioName3=Portfolio+3&amp;symbol1=TDG&amp;allocation1_1=5&amp;symbol2=ADBE&amp;allocation2_1=5&amp;symbol3=ADSK&amp;allocation3_1=5&amp;symbol4=ANSS&amp;allocation4_1=5&amp;symbol5=INTU&amp;allocation5_1=5&amp;symbol6=PAYC&amp;allocation6_1=5&amp;symbol7=VRTX&amp;allocation7_1=5&amp;symbol8=ANET&amp;allocation8_1=5&amp;symbol9=MA&amp;allocation9_1=5&amp;symbol10=PYPL&amp;allocation10_1=5&amp;symbol11=V&amp;allocation11_1=5&amp;symbol12=ABMD&amp;allocation12_1=5&amp;symbol13=ISRG&amp;allocation13_1=5&amp;symbol14=ALGN&amp;allocation14_1=5&amp;symbol15=TTWO&amp;allocation15_1=5&amp;symbol16=ETSY&amp;allocation16_1=5&amp;symbol17=XLNX&amp;allocation17_1=5&amp;symbol18=MNST&amp;allocation18_1=5&amp;symbol19=FTNT&amp;allocation19_1=5&amp;symbol20=NOW&amp;allocation20_1=5) of the \"high growth\" picks that JPM outlines on page 9 (equally weighted, thereby not optimized towards any specific metric), so we can revisit this in 2022 and see how they did. As a data point, historically, it looks like the running CAGR of this blend is around 40.64%. If someone wants to buy this allocation, they can do so quite simply via fractional shares.",
+        "created_utc": 1609694175,
+        "id": "ghyyrie",
+        "score": 0,
+        "subreddit": "investing",
+        "created": 1609722975.0
+    },
+    {
+        "author": "TinyTowel",
+        "body": "For what? A defunct phone manufacturer who has turned into ANOTHER LINE OF BUSINESS where they compete with Fortinet, Symantec, fucking McAfee and that shit? You think this market segment is going to boom? Your chart is nonsense and compares apples to oranges, you retard.\n\nI realize that you're all just gambling on other peoples' lack of knowledge and you'll likely make a tendy or three. But this graphic is bullshit.",
+        "created_utc": 1611434206,
+        "id": "gkfw9lb",
+        "score": -2,
+        "subreddit": "wallstreetbets",
+        "created": 1611463006.0
+    }
+]
