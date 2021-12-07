@@ -326,5 +326,15 @@
     "ZBRA": [
         "zebra technologies",
         "zebra"
+    ],
+    "GME": [
+        "gamestop corp",
+        "gamestop",
+        "gamestop corporation"
+    ],
+    "AMC": [
+        "amc entertainment holdings inc",
+        "amc entertainment holdings",
+        "amc entertainment"
     ]
 }
