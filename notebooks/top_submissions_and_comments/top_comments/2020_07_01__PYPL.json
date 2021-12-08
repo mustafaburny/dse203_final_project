@@ -1,155 +1,1002 @@
 [
     {
-        "author": "malloun123",
-        "body": "Anyone playing SQ? I\u2019m in on PYPL and missed the big jump for SQ this morning but do we see continued growth?",
-        "created_utc": 1593618206,
-        "id": "fwlcstj",
-        "score": 2,
+        "author": "theyellowtacomaking",
+        "body": "I started buying shares of TSLA in 2012, because I saw how successful Elon was with paypal. What I'm trying to say is I've followed the stock for a long time. Think I have a decent feel for it, although it is still wildly unpredictable at times.\n\nI'm in a discord with some guys who were chasing TSLA all day buying calls and puts, but kept getting stopped out. So I thought about the inverse.\n\nLooking for an EOD play, I decided selling OTM TSLA calls could be a way to collect premium considering how Theta would be aggressively gnawing at them.\n\nFirst sold a TSLA 7/24 1485c first time TSLA came up to 1450, with the hypothesis that TSLA wasn't going to break the high of the day, nor shoot up to 1485.\n\nWhen I saw the double top forming around 2:30 I sold a TSLA 1475c thinking bulls wouldn't be able to push it up any further. And it did stay in a downwards trend for the rest of the day. \n\nNext I sold a 1470c as the stock surged around 3:15 and actually collected larger premium. \n\nI also tack SPY closely and could see that wasn't shooting up so I sold a 1450c pretty late in the trading session because I didn't think it was likely to regain 1450 before closing considering how SPY was moving.\n\nI managed them closely as was ready to buy back the contracts if TSLA started to shoot up, which it is known to do. \n\nI just set the calls to fill at market and they would take quite awhile to fill. Like over a minute, which has never happened to me with Schwab; market orders usually fill right away. \n\nI decided to ride them out the whole way to expiration to collect the full premium. Schwab always pays either night of or next day with expired contracts.\n\nI understand that there is theoretically infinite amount of risk, but thought the chances the calls expiring OTM and collecting the premium outweighed the risk; so I sold the calls.",
+        "created_utc": 1595637925,
+        "id": "fz5fexi",
+        "permalink": "/r/options/comments/hxbmjv/started_selling_calls_when_tsla_was_bumping_up_on/fz5fexi/",
+        "score": 81,
+        "subreddit": "options",
+        "created": 1595666725.0
+    },
+    {
+        "author": "YungProdigy02",
+        "body": "Those who also send me $1000 will receive double. Here\u2019s my PayPal info",
+        "created_utc": 1595295512,
+        "id": "fyq0ck2",
+        "permalink": "/r/wallstreetbets/comments/huy16a/can_i_sue_robinhood_for_locking_my_account_full/fyq0ck2/",
+        "score": 75,
         "subreddit": "wallstreetbets",
-        "created": 1593647006.0
+        "created": 1595324312.0
+    },
+    {
+        "author": "phantomofthej",
+        "body": "I liked PYPL at $90, personally",
+        "created_utc": 1595272274,
+        "id": "fyorsc7",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyorsc7/",
+        "score": 72,
+        "subreddit": "wallstreetbets",
+        "created": 1595301074.0
+    },
+    {
+        "author": "stopthecirclejerc",
+        "body": "You buy all the PYPL calls you want.\n\nEbay pulled the plug on those cocksmokahs on July 17th.   \nGonna be a rough 3rd QTR for small pee pee pypl\n\nI'll be laughing on my yacht diamond holding EBAY.",
+        "created_utc": 1595273018,
+        "id": "fyotbec",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyotbec/",
+        "score": 69,
+        "subreddit": "wallstreetbets",
+        "created": 1595301818.0
+    },
+    {
+        "author": "chooseusernameeeeeee",
+        "body": "Lol theres a vid of young Elon after he sold PayPal making a quote along the lines of \"look at all these Benjamins\" or w/e. Stupidest line said in the fucking nerdiest way possible, dude looked like a total goober as well.\n\nThese guys are the prime examples of \"be nice to those nerds because you're going to work for them some day\".\n\nBut the world is better with them...except zuck. He creeps me the fk out.",
+        "created_utc": 1595516050,
+        "id": "fyzgv5l",
+        "permalink": "/r/wallstreetbets/comments/hwesp9/nothing_can_stop_tech_nasdaq_11k_eow/fyzgv5l/",
+        "score": 58,
+        "subreddit": "wallstreetbets",
+        "created": 1595544850.0
+    },
+    {
+        "author": "stopthecirclejerc",
+        "body": "Incorrect.\n\nSellers are forced to use their business checking accounts as the clearance of all inbound payments from customers. Paypal is no longer an option if you wish to keep 'listing' goods, ie: continue to sell on eBay.\nNotifications to all sellers went out in late June/early July, with a July 17th final date to transact your selling account via PYPL. ie: PYPL is cut off completely from their largest transactional account. EBAY profits go up +1.8% instantly.\n\nPYPL is dancing on record EBAY transaction numbers due to surge of online shopping. Fall from grace imminent.\n\nJust my .02 fellow retard.",
+        "created_utc": 1595273903,
+        "id": "fyov4df",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyov4df/",
+        "score": 41,
+        "subreddit": "wallstreetbets",
+        "created": 1595302703.0
+    },
+    {
+        "author": "CollegeBroski",
+        "body": "Venmo is owned by PayPal.",
+        "created_utc": 1595287146,
+        "id": "fyplpk0",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyplpk0/",
+        "score": 39,
+        "subreddit": "wallstreetbets",
+        "created": 1595315946.0
+    },
+    {
+        "author": "Staygangponyboy",
+        "body": "Bro\n\nYou can't get in when the stock is mooning, unless it's AMZN or TSLA.\n\nGrab PYPL and SQ for September date\n\nPick a Delta between .2 and .4\n\nAND THEN DON\"T DO ANYTHING till 2 days before the earnings in August and sell it",
+        "created_utc": 1595299969,
+        "id": "fyq7vwt",
+        "permalink": "/r/wallstreetbets/comments/huyz4v/azn_calls_were_not_the_move/fyq7vwt/",
+        "score": 37,
+        "subreddit": "wallstreetbets",
+        "created": 1595328769.0
+    },
+    {
+        "author": "WeenisWrinkle",
+        "body": "Lol \"nothing going for it?\" Seriously?\n\nPayPal has growing revenue and over a 40% gross margin in a booming electronic payments space.",
+        "created_utc": 1595852085,
+        "id": "fzeaisa",
+        "permalink": "/r/investing/comments/hyqnvd/why_do_people_invest_in_paypal_on_a_110x_pe/fzeaisa/",
+        "score": 34,
+        "subreddit": "investing",
+        "created": 1595880885.0
+    },
+    {
+        "author": "cainxala",
+        "body": "It doesnt mean that Ebay will stop using paypal though. It just means that paypal will no longer the exclusive payment option. Buyers can still use paypal to pay.",
+        "created_utc": 1595273617,
+        "id": "fyoujep",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyoujep/",
+        "score": 30,
+        "subreddit": "wallstreetbets",
+        "created": 1595302417.0
+    },
+    {
+        "author": "JawnxWick",
+        "body": "(Inb4, yes ik this a wendy's) \n\nMy weekend game plan is to doing the necessary reading, studying as if I were in college again to become a better options trader. \n\nDoing research looking up possibly good plays for august/sept with a few leaps for october or later. Going to try my best next week to not be a sheep following the herd here buying into whatever hype is being discuss and thinking more independently and only sharing my plays if I deem it to be a good one for the long term. \n\nBeing down 75% all time hurts and makes me want to quit trading but like some dude messaged me saying \"don't quit at the bottom\" so I'm not giving up. Not yet. I turned $600 to $9k in june before losing it all buying only naked calls, and then turned whatever was left ($750 to 13K between june 26th - july 10th) on pretty much Tesla, AMZN, FB, PYPL, Fastly and a couple other tech stock options. \n\ntl;dr , its been a shitty month but I'm not giving up just yet. back to the lab to come up with a solid game plan for august to make these tendies back and keep this time. 100K by December and Lambo soon. \n\nHave a good weekend everyone",
+        "created_utc": 1595624213,
+        "id": "fz4q1az",
+        "permalink": "/r/wallstreetbets/comments/hx90gx/weekend_discussion_thread_for_the_weekend_of_july/fz4q1az/",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1595653013.0
+    },
+    {
+        "author": "DJcalid",
+        "body": "Tag this faggot as paypal customer service",
+        "created_utc": 1595290032,
+        "id": "fypqw7v",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fypqw7v/",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1595318832.0
+    },
+    {
+        "author": "TruthHurts236911",
+        "body": "Paypal is for Boomers.  \nVenmo is for Zoomers.  \n\n\nPaypal profits off both so checkmate nerd.",
+        "created_utc": 1595289097,
+        "id": "fypp8ra",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fypp8ra/",
+        "score": 28,
+        "subreddit": "wallstreetbets",
+        "created": 1595317897.0
+    },
+    {
+        "author": "josiborg",
+        "body": "PayPal transactions get you 5% cashback with your discover card",
+        "created_utc": 1595277826,
+        "id": "fyp34p5",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyp34p5/",
+        "score": 27,
+        "subreddit": "wallstreetbets",
+        "created": 1595306626.0
+    },
+    {
+        "author": "LavenderAutist",
+        "body": "PayPal\n\nSend it to LavenderAutist@yahoo.com",
+        "created_utc": 1595193627,
+        "id": "fylglc1",
+        "permalink": "/r/wallstreetbets/comments/hu89bl/planning_to_yolo_5k_during_this_week_any/fylglc1/",
+        "score": 26,
+        "subreddit": "wallstreetbets",
+        "created": 1595222427.0
+    },
+    {
+        "author": "oechsph",
+        "body": "Not sure what companies you had in mind but here's my trick: don't think of many of the \"tech companies\" as part of the tech sector. Google and Facebook are communications services, Amazon and Alibaba are commercial retail companies, Square and Paypal are financial service companies. On a smaller scale, we've had trends of companies like Uber and WeWork posturing themselves as tech companies when they are in fact a taxi service and a realtor business.",
+        "created_utc": 1594723962,
+        "id": "fy0wdip",
+        "permalink": "/r/stocks/comments/hqy7ea/is_tech_high_because_its_our_future_or_is_it_high/fy0wdip/",
+        "score": 24,
+        "subreddit": "stocks",
+        "created": 1594752762.0
+    },
+    {
+        "author": "PeterMichaelPaints",
+        "body": "PayPal is such a shit show.",
+        "created_utc": 1595273075,
+        "id": "fyotfnz",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyotfnz/",
+        "score": 24,
+        "subreddit": "wallstreetbets",
+        "created": 1595301875.0
+    },
+    {
+        "author": "gogitossj3",
+        "body": "I'm from Vietnam and our money has little value, 500usd is like average monthly salary here. It's pretty hard to access US stock trading from where I'm from. I got a TDA account, they allow foreign account, then ask a friend of mine in the US to fund it and I send him money over Paypal or Transferwise. My countries doesn't even allow bank wire to fund international investing. \n\n\nI started in Feb with the SPCE crazed, missed TSLA, MSFT due to TDA handling my account creation a bit too long (was my fault at first but their handling was the main problem). Proceed to make big with SPCE in a week, I turn 2k into 6k and it was amazing, that's like a year of salary for an average person here and still being in uni that was a dream for me. I work pretty hard to make money here, part time and trying to open my own company and making 6k in such a short amount of time was crazy. \n\n\nI did spent a few years learning before I was 18 (to be allowed to create an account). Wanted to get in heavy on AMD when they were sub 2 (I study Computer Engineer and love PC so I kinda felt how big Ryzen was) but didn't have the chance. \n\n\nSo after SPCE was around Feb 20 and the market started crashing, lost a lot to sub 1k then I moved to SPY put and made back to 3k.\n\n\nThen lost a bunch on The Witching. Down to 300 and proceed to lose them with put when market shoot back up. Finally some friend decided they wanna give it a go and invest some money with me trading and he'll just watch.\n\nHaving learnt a bunch from my past experience, I managed to turn his 500 into 4000 with pennystock and I get to keep 2000 which was back to even. Took a lot of good risk management and making multiple small smart play.\n\n\nThat was a month ago, now I'm down to 800 but I'm feeling like I'm getting a lot better compares to when I start.\n\n\nMost of the lost was due to lack of day trading with penny stock and some momentum options play gone wrong.\n\n\nMy biggest mistake and biggest gainer was both due to going too big on a position. I'm learning to control that.\n\n\nAnw, that was a long rant, I never really share these things since there's no one around me that I can talk about this. All I hear people say is that I'm gambling, which might seems like it looking at my history but I kinda think it's justified right now due to never before seen volatility.\n\n\nI learnt a lot and feel excited for my trading future but man the losses take their tolls. Probably gonna finish uni next year and try to get my company of the ground while doing small investing. Learning about the market, news and general financial, business helped me a lot with my career I feel.\n\n\nHope this somehow answer your question and good luck to us all. At the end of the day I just want everyone to live more comfortably with their side income and seeing the loss porn might be hilarious but there's always a person behind those loss as well as their family. It's fine if you lose 100k while sitting on millions but man some adults just scares me and I'm grateful to learn from their mistakes.\n\n\nI want to make 25k before the end of next year so I can day trade. Just making 100 usd a day would allow me to fund my company and let my parents retire soon especially during this harsh Covid time. \n\n\nVietnam was free of covid for a month or two but just yesterday we have emergency news that a case popped up and spread.\n\n\nSorry for my long rant, hope you all enjoy your weekend and get those tendies next week. Sorry for my bad English :)",
+        "created_utc": 1595707102,
+        "id": "fz881jd",
+        "permalink": "/r/wallstreetbets/comments/hxo91u/14k_159k_4_this_is_what_happens_when_you_never/fz881jd/",
+        "score": 21,
+        "subreddit": "wallstreetbets",
+        "created": 1595735902.0
+    },
+    {
+        "author": "gambler_no_1",
+        "body": "So a guy born in South Africa, gets to America, cofounds PayPal, creates most valuable car company in the world, shoots up humans in a rocket which can land itself. Smokes weed on tv and becomes a meme, tweets to troll SEC, Sells thousands of flamethrowers(Seriously who the fuck bought them an what do you with it ? cook food ?) \n\nAND LAST BUT NOT LEAST\n\nCreates a rap song \"harambe\" \n\nThe american dream ladies and gents",
+        "created_utc": 1593637846,
+        "id": "fwmjyuq",
+        "permalink": "/r/wallstreetbets/comments/hjhy1t/what_are_your_moves_tomorrow_july_02_2020/fwmjyuq/",
+        "score": 20,
+        "subreddit": "wallstreetbets",
+        "created": 1593666646.0
+    },
+    {
+        "author": "DogeHodlr",
+        "body": "And it's about damned time.  PayPal is the worst.  Banned my account and couldn't tell me why or reverse it.  Talked to multiple reps and they said they couldn't even tell what was wrong, just \"the way it is\" permaban.",
+        "created_utc": 1595282132,
+        "id": "fypbvzk",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fypbvzk/",
+        "score": 20,
+        "subreddit": "wallstreetbets",
+        "created": 1595310932.0
+    },
+    {
+        "author": "antiproton",
+        "body": "&gt; I don't even understand who uses paypal\n\nEveryone who wants to make a transaction but doesn't want to give their credit card number to some random website? Come on, it's not rocket science.",
+        "created_utc": 1595851755,
+        "id": "fzea3po",
+        "permalink": "/r/investing/comments/hyqnvd/why_do_people_invest_in_paypal_on_a_110x_pe/fzea3po/",
+        "score": 17,
+        "subreddit": "investing",
+        "created": 1595880555.0
+    },
+    {
+        "author": "karanrucks",
+        "body": "SPY thinks everyone drives a Tesla wearing lululemon eating chipotle on zoom through their iphone which was all paid for using paypal",
+        "created_utc": 1594053672,
+        "id": "fx43mkf",
+        "permalink": "/r/wallstreetbets/comments/hm51pm/daily_discussion_thread_for_july_06_2020/fx43mkf/",
+        "score": 17,
+        "subreddit": "wallstreetbets",
+        "created": 1594082472.0
+    },
+    {
+        "author": "CountingCrush",
+        "body": "Some of you guys are alright...\n\ndon\u2019t buy puts on PYPL tomorrow.",
+        "created_utc": 1593662246,
+        "id": "fwnsj6c",
+        "permalink": "/r/wallstreetbets/comments/hjhy1t/what_are_your_moves_tomorrow_july_02_2020/fwnsj6c/",
+        "score": 16,
+        "subreddit": "wallstreetbets",
+        "created": 1593691046.0
     },
     {
         "author": "Sea_Seaworthiness",
-        "body": "Why is spy mooning but amd and pypl sucking cock",
-        "created_utc": 1593611541,
-        "id": "fwl028c",
-        "score": 1,
+        "body": "If paypal hits 185 today I will suck a homeless persons dick",
+        "created_utc": 1595335228,
+        "id": "fyrdaqr",
+        "permalink": "/r/wallstreetbets/comments/hv4ux9/daily_discussion_thread_for_july_21_2020/fyrdaqr/",
+        "score": 16,
         "subreddit": "wallstreetbets",
-        "created": 1593640341.0
+        "created": 1595364028.0
     },
     {
-        "author": "Jusgivechees",
-        "body": "PYPL is killing me.",
-        "created_utc": 1593611851,
-        "id": "fwl0lt0",
-        "score": 1,
+        "author": "SpreadSuprise",
+        "body": "MRNA is correcting. Assuming its pulling AZN down with it before people read the report. Just sold all my paypal calls to and am YOLOing it all on AZN calls rn. Wish me luck boys",
+        "created_utc": 1595254092,
+        "id": "fynrg4i",
+        "permalink": "/r/wallstreetbets/comments/hulkca/lancet_azn_report/fynrg4i/",
+        "score": 15,
         "subreddit": "wallstreetbets",
-        "created": 1593640651.0
+        "created": 1595282892.0
     },
     {
-        "author": "626reppin",
-        "body": "PYPL and that stairway to heaven",
-        "created_utc": 1593621300,
-        "id": "fwlj98f",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1593650100.0
+        "author": "ornery_panfish",
+        "body": "&gt;  I get it's growing but the likes of Square are growing faster and are more profitable.\n\nMore profitable in what way? SQ's PE is 263...\n\nWhy is SQ a better investment with a PE of 263 than PYPL at 110?",
+        "created_utc": 1595853628,
+        "id": "fzecm7z",
+        "permalink": "/r/investing/comments/hyqnvd/why_do_people_invest_in_paypal_on_a_110x_pe/fzecm7z/",
+        "score": 15,
+        "subreddit": "investing",
+        "created": 1595882428.0
     },
     {
-        "author": "giacomoerre",
-        "body": "Do you accept paypal?",
-        "created_utc": 1593601797,
-        "id": "fwkmbsk",
-        "score": 1,
-        "subreddit": "SPACs",
-        "created": 1593630597.0
+        "author": "RayCashIsTrashDalio",
+        "body": "all the NKLA tards are just retards who missed buying TSLA at $20 or even $300 and thinks NKLA is the next TSLA without realizing trevor is an absolute pig brained donkey fucker compared to elon. at least elon was successful early on with paypal and whatever else he worked on. trevor is legit an actual tard, just like NKLA investors",
+        "created_utc": 1595498381,
+        "id": "fyys47o",
+        "permalink": "/r/wallstreetbets/comments/hw11bf/what_are_your_moves_tomorrow_july_23_2020/fyys47o/",
+        "score": 14,
+        "subreddit": "wallstreetbets",
+        "created": 1595527181.0
     },
     {
-        "author": "Blind-Yolo",
-        "body": "I\u2019ve been flipping DDOG and FSLY calls on dips and swings recently. Was thinking about PYPL, I\u2019ll check out SQ and put some price alerts on that as well. Trying to get some non tech related calls after we get some pullback. Was considering JPM and BYND, but looks like I may have missed my chance at with BYND. Was hoping they would wait another day or two to rocket up",
-        "created_utc": 1593602817,
-        "id": "fwknh36",
-        "score": 1,
+        "author": "Kysiz",
+        "body": "Upvote if you checked out using Paypal in the last 3 months",
+        "created_utc": 1595349572,
+        "id": "fys3h5o",
+        "permalink": "/r/wallstreetbets/comments/hv4ux9/daily_discussion_thread_for_july_21_2020/fys3h5o/",
+        "score": 14,
         "subreddit": "wallstreetbets",
-        "created": 1593631617.0
+        "created": 1595378372.0
     },
     {
-        "author": "ReyTheFox12",
-        "body": "PayPal and eBay dips is free money.",
-        "created_utc": 1593619952,
-        "id": "fwlge0h",
-        "score": 1,
+        "author": "johnny-hopscotch",
+        "body": "I mean that\u2019s debatable. He hasn\u2019t invented anything, which I think is a big misconception with the general public. Not Tesla, not even PayPal. He\u2019s definitely business savvy, but the turnaround with the higher ups when he first took Tesla public was insane and very telling. He\u2019s kind of a real douchebag, who acts like a high school kid rather than an almost 50 year old billionaire. If that satisfies him so be it. His success admittedly can\u2019t be denied at this juncture. The next 3-4 years will be really interesting.",
+        "created_utc": 1593723001,
+        "id": "fwqkckg",
+        "permalink": "/r/wallstreetbets/comments/hk4gt0/elon_the/fwqkckg/",
+        "score": 13,
         "subreddit": "wallstreetbets",
-        "created": 1593648752.0
+        "created": 1593751801.0
     },
     {
-        "author": "RamboWarFace",
-        "body": "PYPL 200 EOM?",
-        "created_utc": 1593618915,
-        "id": "fwle8p8",
-        "score": 1,
+        "author": "bonejohnson8",
+        "body": "Send yourself an invoice via paypal and pay it with the cards.",
+        "created_utc": 1594843971,
+        "id": "fy6i1mv",
+        "permalink": "/r/wallstreetbets/comments/hrkzcb/daily_discussion_thread_for_july_15_2020/fy6i1mv/",
+        "score": 12,
         "subreddit": "wallstreetbets",
-        "created": 1593647715.0
+        "created": 1594872771.0
+    },
+    {
+        "author": "Staygangponyboy",
+        "body": "TOO ALL YOU NEW GUYS\n\nIF THEY SAY IT\"S UP, YO'RE TOO LATE.\n\nIF YOU BUY A CALL WHEN IT'S @ A 90 DEGREE ANGLE GREEN YOU'RE TOO LATE.\n\nIF YOU BUY WEEK OF EARNINGS AND HOLD CAUSE GOOD NEWS YOU'RE GETTING FUCKED\n\nIF YOU BUY OPTIONS BECAUSE IT'S CHEAP YOU'RE GETTING FUCKED\n\nDON'T KNOW GREEK YOU'RE FUCKED\n\nIF YOU PISSED THE MARKET IS NOT REACTING TO YOUR PERCEPTION OF REALITY YOU'RE WAY TOO EMOTIONAL BRO AND YOU NEED HELP\n\nMARKETS MOVE ON MONEY IN AND MONEY OUT, YOU'RE ALL BETTING ON BIG FISH ENTERING AND TAKING PROFITS.\n\n&amp;#x200B;\n\nMSFT IS A GREAT LONG TERM BET(SAFE SLOW RETURN) BUT ANYONE WAITING FOR MSFT TO MOON ALL THE SUDDEN HAS LOST ALL THE MARBLES THEY HAD.\n\nCREDABILITY: SAW THE MSFT 200 CRASH LEAVE PEOPLE IN SHAMBLES IN MARCH, IT TOOK 4 MONTHS ALMOST TO GET BACK TO 200, IT'S COUNTER PARTS ALREADY TOOK OFF PAST MARCH.\n\n&amp;#x200B;\n\nTDLR: TSLA AMAZON APPLE CASHAPP(SQUARE) PAYPAL DOCUSIGN FASTLY PTON FB VISA BABA\n\nJUMP ON IT",
+        "created_utc": 1595000063,
+        "id": "fyd9trt",
+        "permalink": "/r/wallstreetbets/comments/hst6nm/daily_discussion_thread_for_july_17_2020/fyd9trt/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1595028863.0
+    },
+    {
+        "author": "ImaginaryFly1",
+        "body": "Is Venmo owned by PayPal?",
+        "created_utc": 1595854378,
+        "id": "fzedpt0",
+        "permalink": "/r/investing/comments/hyqnvd/why_do_people_invest_in_paypal_on_a_110x_pe/fzedpt0/",
+        "score": 12,
+        "subreddit": "investing",
+        "created": 1595883178.0
+    },
+    {
+        "author": "Nuclear_BigMac",
+        "body": "Just pissed a consistent double stream of  yuengling and jack d. Volatility ensured for tomorrow.  \n\nPositions: \n\nPayPal 200c 7/24 \nJnj 150c 8/14 \n\nPuts on Dave and busters though, went there tonight, place was dead. Breeding grounds for Kung flu &amp; Masks mandatory. Also, puts on my liver.",
+        "created_utc": 1594092671,
+        "id": "fx6566a",
+        "permalink": "/r/wallstreetbets/comments/hmfeen/what_are_your_moves_tomorrow_july_07_2020/fx6566a/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1594121471.0
+    },
+    {
+        "author": "lPolythenePaml",
+        "body": "So many questions. Adyen is worth about 40 bln right now, I don\u2019t think they\u2019ll be acquired by either PYPL or V/MA. Adyen is supposedly cheaper and easier to use, as costumers don\u2019t need an account to use interact with the interface. \n\nAs for non-cash payment in EU. I live in the Netherlands and haven\u2019t touched a coin in years, we\u2019re moving to a cashless society as well. It\u2019ll probably take a little longer than the US, especially in countries with older populations or generally poorer countries. But This is not a matter of If rather when imo.",
+        "created_utc": 1595123742,
+        "id": "fyiq0l0",
+        "permalink": "/r/investing/comments/htrt8t/ayden_vs_paypal/fyiq0l0/",
+        "score": 12,
+        "subreddit": "investing",
+        "created": 1595152542.0
+    },
+    {
+        "author": "pwned-",
+        "body": "This move actually called my attention:\n\nBuy 5000 PYPL shares on 6/12\n\nThen 50 calls PYPL on 6/24\n\nWhat's the point?",
+        "created_utc": 1595720486,
+        "id": "fz91saq",
+        "permalink": "/r/wallstreetbets/comments/hxq6w2/us_senator_pat_roberts_has_been_buying_up_airline/fz91saq/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1595749286.0
+    },
+    {
+        "author": "bewbs_and_stuff",
+        "body": "We all know everyone was online shopping all through quarantine. PayPal is the largest and most well established online payment processor ipso facto PayPal stands to benefit massively from the huge uptick of online shopping. My bet is that  PayPal will have the best earnings report they\u2019ve ever had. I\u2019m holding two 8/7 $180c and they are printing.",
+        "created_utc": 1595281205,
+        "id": "fyp9zvh",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyp9zvh/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1595310005.0
+    },
+    {
+        "author": "PortfolioAIDS",
+        "body": "I expect that Paypal will blow the roof off of its earnings estimates, but I didn't bother trying to anticipate the decisions being made by the feds. I might get fucked even if Paypal does well.  \n\n\nPYPL 08/21 200c",
+        "created_utc": 1595679495,
+        "id": "fz6v3io",
+        "permalink": "/r/wallstreetbets/comments/hxlla7/upcoming_week_727731/fz6v3io/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1595708295.0
+    },
+    {
+        "author": "trustnobody01",
+        "body": "Current call positions:   \nPYPL 7/24 $180 ($20,000)   \nBYND 7/24 $135 ($15,000)   \nBIDU 7/24 $130 ($10,000)   \nDOCU 7/24 $215 ($7,000)   \nNIO 7/24 $15 ($5,000)   \nPTON 7/24 $67 ($4,000) \n\nSafe or Fucked?",
+        "created_utc": 1594692592,
+        "id": "fxzulkl",
+        "permalink": "/r/wallstreetbets/comments/hqmoth/what_are_your_moves_tomorrow_july_14_2020/fxzulkl/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1594721392.0
+    },
+    {
+        "author": "GourmetFilet",
+        "body": "Gonna have to drink myself to sleep tonight boiiis. Pretty jacked to the tits about these AMZN and PYPL calls.",
+        "created_utc": 1594595633,
+        "id": "fxvjw8p",
+        "permalink": "/r/wallstreetbets/comments/hq11ao/what_are_your_moves_tomorrow_july_13_2020/fxvjw8p/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1594624433.0
+    },
+    {
+        "author": "minru",
+        "body": "Sick you can hedge your PYPL calls with that 5% cash back",
+        "created_utc": 1594719647,
+        "id": "fy0s59u",
+        "permalink": "/r/wallstreetbets/comments/hqmoth/what_are_your_moves_tomorrow_july_14_2020/fy0s59u/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1594748447.0
+    },
+    {
+        "author": "PeacefulDiscussion",
+        "body": "@Mods these posts get upvoted, can you stop being gay boomers and unban it wtf? There\u2019s futures, companies like r1ot, grayscale, square involved, PayPal 7-11, all the banks can now hold it.",
+        "created_utc": 1595758359,
+        "id": "fzafebo",
+        "permalink": "/r/wallstreetbets/comments/hx90gx/weekend_discussion_thread_for_the_weekend_of_july/fzafebo/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1595787159.0
+    },
+    {
+        "author": "xRiotZx",
+        "body": "Bagholders convention:\n\nPYPL, EBAY, UDN, UPS, SQ, ATVI, TSLA, IVR.",
+        "created_utc": 1595277234,
+        "id": "fyp1xkc",
+        "permalink": "/r/wallstreetbets/comments/husn8s/what_are_your_moves_tomorrow_july_21_2020/fyp1xkc/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1595306034.0
+    },
+    {
+        "author": "dan_coyle",
+        "body": "EBAY 7/31 - 8/28 calls \n\nPYPL 7/31 - 8/28 calls\n\nUPS 7/31 calls\n\nGDX calls 30-45 dte\n\nVXX hedges ~$45, 45-60 dte",
+        "created_utc": 1594605768,
+        "id": "fxw0klq",
+        "permalink": "/r/wallstreetbets/comments/hq11ao/what_are_your_moves_tomorrow_july_13_2020/fxw0klq/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1594634568.0
+    },
+    {
+        "author": "The-Hyrax",
+        "body": "What's with the doomsday talk all of a sudden?\n\nMy AMZN AAPL PYPL NIO QQQ FB MSFT will print... right...\n\n...right?",
+        "created_utc": 1594333256,
+        "id": "fxgydb7",
+        "permalink": "/r/wallstreetbets/comments/hoa9dp/what_are_your_moves_tomorrow_july_10_2020/fxgydb7/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1594362056.0
+    },
+    {
+        "author": "souptrades",
+        "body": "Tech is such a big broad umbrella term that i dont see the point in trying to diversify away from it. Walmart is 'retail' but they have a new service coming to try and compete with prime, for example. Square and Paypal are considered tech but their competition is mainly banking institutions. Caterpillar is heavy machinery and working in robotics and autonomous tech. A lot of car companies are moving toward EV or self driving. amazon started as a pure commerce play and its now one of the leading \"tech\" companies. \n\nDiversify your holdings with stuff you believe in, dont be afraid of \"tech\" - they're going to be the biggest growth stocks &amp; a lot of them are very safe bets.",
+        "created_utc": 1595881381,
+        "id": "fzfvvc7",
+        "permalink": "/r/stocks/comments/hytnr0/good_nontech_stocks/fzfvvc7/",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1595910181.0
+    },
+    {
+        "author": "leoeln",
+        "body": "If you\u2019re right I will ducking PayPal you 5$",
+        "created_utc": 1595301333,
+        "id": "fyqa3vc",
+        "permalink": "/r/wallstreetbets/comments/huyz4v/azn_calls_were_not_the_move/fyqa3vc/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1595330133.0
+    },
+    {
+        "author": "illegaltaco420",
+        "body": "I was today years old when I learned Elon helped start PayPal",
+        "created_utc": 1594770285,
+        "id": "fy3amj1",
+        "permalink": "/r/wallstreetbets/comments/hr8uhb/what_are_your_moves_tomorrow_july_15_2020/fy3amj1/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1594799085.0
+    },
+    {
+        "author": "rbriggs4",
+        "body": "I like this idea. JetBlue has earnings this week or maybe even PayPal?",
+        "created_utc": 1595794279,
+        "id": "fzc1mf4",
+        "permalink": "/r/wallstreetbets/comments/hydmis/i_want_to_yolo_bullish_on_shopify_but_need_help/fzc1mf4/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1595823079.0
+    },
+    {
+        "author": "xblackrainbow",
+        "body": "Personally, I find a lot of the alt coins to be quite scammy and doesn't really solve a hair on fire issue (yet). \n\nHowever, bitcoin and to some small extent ethereum to me do serve a purpose. In a world where everything is built on credit and money is being printed like crazy, it shouldn't be considered crazy to invest in btc as an insurance.\n\nI get a lot of people mention gold. I love and hold quite a bit of precious metals as well, however seeing how the future generations are much more in tune with technology, they may be more inclined to stick with digital currencies instead of gold. My biggest paranoid with gold sometimes is buying fakes.... This issue doesn't really occur with bitcoin as long as you're not buying bitcoin gold or something stupid.\n\nAnother reason why bitcoin may be worthwhile to consider is the market cap at where it's at right now. Currently bitcoins market cap is almost half the size of Tesla. Sure it looks expensive at 13k CAD each but in the grand scheme of things, it could actually be extremely undervalued.\n\nThere are around 44 million millionaires in the world right now and there will only be a fixed cap of 21 million bitcoins. So in reality there isn't enough bitcoins to go around for every millionaire there is. Not to mention much of the original bitcoins have been lost in the early days. \n\nAnother thing I look at is the direction of how governments are treating crypto. PayPal, Goldman Sachs and visa are all looking to hire ethereum developers. The US federal reserve is endorsing an eth-backed alternative to LIBOR. I think these news are a positive tailwind for this asset class.\n\nEdit: corrected number of millionaires",
+        "created_utc": 1595254063,
+        "id": "fynreaa",
+        "permalink": "/r/CanadianInvestor/comments/huczi2/do_you_have_any_investments_in_crypto_currency/fynreaa/",
+        "score": 10,
+        "subreddit": "CanadianInvestor",
+        "created": 1595282863.0
+    },
+    {
+        "author": "Trumpowell",
+        "body": "$PYPL will print and should get a nice run up to earnings which are next week",
+        "created_utc": 1595461566,
+        "id": "fyxe83r",
+        "permalink": "/r/wallstreetbets/comments/hw11bf/what_are_your_moves_tomorrow_july_23_2020/fyxe83r/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1595490366.0
+    },
+    {
+        "author": "BaxterFax",
+        "body": "CHGG, PYPL, APPL, MSFT, and FB calls, Let\u2019s see tech rip through even farther!",
+        "created_utc": 1594592889,
+        "id": "fxvf4l5",
+        "permalink": "/r/wallstreetbets/comments/hq11ao/what_are_your_moves_tomorrow_july_13_2020/fxvf4l5/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1594621689.0
+    },
+    {
+        "author": "mingling4502",
+        "body": "Bullish on tech this week. Bearish on mrna and travel/entertainment. Feel like it's probably a coin flip. Tech ran up so much even with this recent pull back. Hedged with VXX hoping it doesn't continue it's downward trend.\n\nMSFT, FB, APPL, PYPL, VXX calls. \n\nMRNA and RCL puts",
+        "created_utc": 1595164274,
+        "id": "fyk03rw",
+        "permalink": "/r/wallstreetbets/comments/ht2v2k/weekend_discussion_thread_for_the_weekend_of_july/fyk03rw/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1595193074.0
+    },
+    {
+        "author": "Philly19111",
+        "body": "I wouldnt risk it with EITHER of those. My whole tele group is just buying more on every dip. This is gonna touch $3.25-$4\n\n&amp;#x200B;\n\nNFLX 100M to black businesses\n\nPaypal 500m to black businesses\n\nBIGGEST and OLDEST black bank on the west coast",
+        "created_utc": 1593703789,
+        "id": "fwpfh6l",
+        "permalink": "/r/pennystocks/comments/hjz180/if_you_missed_byfc_go_for_carv_and_uonek/fwpfh6l/",
+        "score": 9,
+        "subreddit": "pennystocks",
+        "created": 1593732589.0
+    },
+    {
+        "author": "virtual-marxism",
+        "body": "just letting you guys know i went all-in on calls and square and paypal took huge shits i also bought spy calls end of day so just a heads up you guys are all fucked.",
+        "created_utc": 1594082768,
+        "id": "fx5oqr7",
+        "permalink": "/r/wallstreetbets/comments/hmfeen/what_are_your_moves_tomorrow_july_07_2020/fx5oqr7/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1594111568.0
+    },
+    {
+        "author": "tuckastheruckas",
+        "body": "Most excited for SHOP, PYPL, and AMZN.",
+        "created_utc": 1595690470,
+        "id": "fz7b4u8",
+        "permalink": "/r/StockMarket/comments/hxmlj5/most_anticipated_earnings_releases_for_the_week/fz7b4u8/",
+        "score": 9,
+        "subreddit": "StockMarket",
+        "created": 1595719270.0
+    },
+    {
+        "author": "namsilat",
+        "body": "19 trades today.  Calls, converting to spreads, puts, I was all over the fucking place in VXX, BA, RTX, AAPL, SPSX, PYPL.\n\nStarted the day out up 14% - Mid day down 4%.\n\nEnd of day?\n\nUp. 4. Dollars.",
+        "created_utc": 1594869292,
+        "id": "fy7suft",
+        "permalink": "/r/wallstreetbets/comments/hruzcj/what_are_your_moves_tomorrow_july_16_2020/fy7suft/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1594898092.0
     },
     {
         "author": "iam1whoknocks",
-        "body": "PYPL calls at open. Your welcome",
-        "created_utc": 1593605939,
-        "id": "fwkrcj0",
-        "score": 1,
+        "body": "Nice it's 5% back on PYPL purchases month on my Discover card.\n\nCalls on PYPL",
+        "created_utc": 1594719544,
+        "id": "fy0s1qy",
+        "permalink": "/r/wallstreetbets/comments/hqmoth/what_are_your_moves_tomorrow_july_14_2020/fy0s1qy/",
+        "score": 9,
         "subreddit": "wallstreetbets",
-        "created": 1593634739.0
+        "created": 1594748344.0
     },
     {
-        "author": "tundrawookyAK",
-        "body": "Pypl $200c 9/18",
-        "created_utc": 1593615580,
-        "id": "fwl7l0q",
-        "score": 1,
+        "author": "bewbs_and_stuff",
+        "body": "That hit will not be reported this quarter retard. eBay used to be ~50% of $PYPL revenue stream back in 2014 but last FY eBay represented only 11%. Everyone knew this deadline was approaching and I think PayPal prepared itself for the divorce well by investing heavily in Venmo and new payment verification innovation (the backbone of the coin markets that shall not be named). Venmo is also a huge component of paypal\u2019s portfolio. People are getting hard-on\u2019s for $SQ but I think SQ is in a worse position than PayPal. Venmo has 54 million users to Cash App\u2019s 22 million. SQ has a phenomenal POS system but physical storefronts took a big hit in Q2 which generates that revenue for them. I\u2019m long SQ and PayPal but I\u2019m way more confident in $PYPL. \nEdit: added everything after the first sentence cuz I couldn\u2019t stop thinking about how this guy doesn\u2019t seem to realize that Q2 earnings don\u2019t reflect the immediately prior months.",
+        "created_utc": 1595281884,
+        "id": "fypbdqu",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fypbdqu/",
+        "score": 9,
         "subreddit": "wallstreetbets",
-        "created": 1593644380.0
+        "created": 1595310684.0
     },
     {
-        "author": "chrisvictors",
-        "body": "hope everyone bought $PYPL dip cuz it\u2019s gon sky rocket now!!! cya",
-        "created_utc": 1593613291,
-        "id": "fwl373e",
-        "score": 1,
+        "author": "Zigxy",
+        "body": "Yeah, these guys are acting like nobody expects PYPL would make a killing:\n\nUp 44% from pre-covid ATH\n\nUp 110% from March \n\nPYPL Jul 31st 200c are $1.5, thats not terrible though. If they truly blow away expectations could print.",
+        "created_utc": 1595304138,
+        "id": "fyqef2r",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyqef2r/",
+        "score": 9,
         "subreddit": "wallstreetbets",
-        "created": 1593642091.0
+        "created": 1595332938.0
     },
     {
-        "author": "KelbySmith",
-        "body": "wtf PayPal",
-        "created_utc": 1593611242,
-        "id": "fwkzjp1",
-        "score": 1,
+        "author": "y2Krocks",
+        "body": "Bought PayPal calls when it was down 1.2% today. I\u2019m a genius boys\ud83e\udd29\ud83e\udd29\ud83e\udd29",
+        "created_utc": 1594077472,
+        "id": "fx5fgy7",
+        "permalink": "/r/wallstreetbets/comments/hmfeen/what_are_your_moves_tomorrow_july_07_2020/fx5fgy7/",
+        "score": 8,
         "subreddit": "wallstreetbets",
-        "created": 1593640042.0
+        "created": 1594106272.0
     },
     {
-        "author": "TheRahulParmar",
-        "body": "Paypal rejected that 175 top hard",
-        "created_utc": 1593611797,
-        "id": "fwl0ig2",
-        "score": 1,
+        "author": "Staygangponyboy",
+        "body": "* PYPL \n* AAPL\n* SPY\n* SQ\n* FB\n\nCALLS BABY CALLS upppppppp",
+        "created_utc": 1595247385,
+        "id": "fynhe8f",
+        "permalink": "/r/wallstreetbets/comments/hu74gf/what_are_your_moves_tomorrow_july_20_2020/fynhe8f/",
+        "score": 8,
         "subreddit": "wallstreetbets",
-        "created": 1593640597.0
+        "created": 1595276185.0
+    },
+    {
+        "author": "MurciSV",
+        "body": "FB SQ PTON PYPL SPY gonna be a great month..I may upgrade to extra large fries at whataburger tonight",
+        "created_utc": 1594082375,
+        "id": "fx5o2tg",
+        "permalink": "/r/wallstreetbets/comments/hmfeen/what_are_your_moves_tomorrow_july_07_2020/fx5o2tg/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594111175.0
+    },
+    {
+        "author": "eyerollingsex",
+        "body": "PYPL hasn\u2019t had 3 red daily candles in 3 months. The last 2 days have been red candles.\n\nPYPL 190 by eow\n\nThank you for coming to my Ted Talk.",
+        "created_utc": 1594069213,
+        "id": "fx4za98",
+        "permalink": "/r/wallstreetbets/comments/hmfeen/what_are_your_moves_tomorrow_july_07_2020/fx4za98/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594098013.0
+    },
+    {
+        "author": "Bluemoonclay",
+        "body": "Fully leveraged in PayPal and square calls after the mild setback on Friday. Let\u2019s ride boys",
+        "created_utc": 1594577856,
+        "id": "fxun8kj",
+        "permalink": "/r/wallstreetbets/comments/how5ir/weekend_discussion_thread_for_the_weekend_of_july/fxun8kj/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594606656.0
+    },
+    {
+        "author": "ScottyStellar",
+        "body": "Safe play, buy V/MA and hold forever.\n\nAdd some SQ for higher risk higher reward.\n\nNot A fan of PayPal personally",
+        "created_utc": 1595164804,
+        "id": "fyk0t5b",
+        "permalink": "/r/stocks/comments/htz7w9/visa_square_mastercard_paypal_thoughts/fyk0t5b/",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1595193604.0
+    },
+    {
+        "author": "LamboBy22",
+        "body": "PayPal definitely has some insider shit going on. It\u2019s up 100% since it bottomed out in March. Like get the fuck out of here, someone knows something we don\u2019t.",
+        "created_utc": 1595282024,
+        "id": "fypbo1p",
+        "permalink": "/r/wallstreetbets/comments/husn8s/what_are_your_moves_tomorrow_july_21_2020/fypbo1p/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1595310824.0
+    },
+    {
+        "author": "pandahugly",
+        "body": "When you realize that AAPL could drop 25% and still have PE of 25, PYPL could fall 50% and still have PE of 60...   Elevator down won't be fun when it finally arrives.",
+        "created_utc": 1595533506,
+        "id": "fz0hzua",
+        "permalink": "/r/wallstreetbets/comments/hwd4xj/daily_discussion_thread_for_july_23_2020/fz0hzua/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1595562306.0
+    },
+    {
+        "author": "abled",
+        "body": "Greetings, from across the pond!\n\nMoves for today?   \n\\- Long on Silver &amp; Gold.  \n\\- Long on MSFT   \n\\- Long on PYPL (buy the rumour sell the news)  \n\\- Long on WMT (buy the rumour sell the news)  \n\\- Fetal position in the shower",
+        "created_utc": 1595496957,
+        "id": "fyyqpfv",
+        "permalink": "/r/wallstreetbets/comments/hw11bf/what_are_your_moves_tomorrow_july_23_2020/fyyqpfv/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1595525757.0
+    },
+    {
+        "author": "Tendiebendie",
+        "body": "Next weeks ER \ud83d\udd25 list:\n\n\nBA SBUX PFE SPOT AAPL V MA KHC GOOG GOOGL CAT MMM CL GM XOM ABBV APHA GM QCOM GE PG QCOM PYPL UAA FB AMZN",
+        "created_utc": 1595498663,
+        "id": "fyyseiu",
+        "permalink": "/r/wallstreetbets/comments/hw11bf/what_are_your_moves_tomorrow_july_23_2020/fyyseiu/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1595527463.0
+    },
+    {
+        "author": "OverallPriority",
+        "body": "PYPL IS NO LONGER A PAL. PAYPAL HAS TURNED FOE",
+        "created_utc": 1594055836,
+        "id": "fx4823e",
+        "permalink": "/r/wallstreetbets/comments/hm51pm/daily_discussion_thread_for_july_06_2020/fx4823e/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594084636.0
+    },
+    {
+        "author": "NervousTumbleweed",
+        "body": "Please for fuck's sake PayPal just announce that Venmo is expected to be profitable in 2021 who gives a fuck if it's true or not.",
+        "created_utc": 1594153690,
+        "id": "fx8q68e",
+        "permalink": "/r/wallstreetbets/comments/hn1zzv/what_are_your_moves_tomorrow_july_08_2020/fx8q68e/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594182490.0
+    },
+    {
+        "author": "newbuildddd",
+        "body": "All in on PayPal amazon and Walmart \ud83c\udf89",
+        "created_utc": 1594569960,
+        "id": "fxu818i",
+        "permalink": "/r/wallstreetbets/comments/how5ir/weekend_discussion_thread_for_the_weekend_of_july/fxu818i/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594598760.0
+    },
+    {
+        "author": "TallDig0",
+        "body": "We all know becky stocks, but how about some love for the simps? \namazon, paypal, tencent, amd, nvidia",
+        "created_utc": 1594872761,
+        "id": "fy7y7i6",
+        "permalink": "/r/wallstreetbets/comments/hruzcj/what_are_your_moves_tomorrow_july_16_2020/fy7y7i6/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594901561.0
+    },
+    {
+        "author": "BrighttLightt",
+        "body": "Literally all my calls are ITM. Mostly PayPal, Microsoft, and square. Can't wait for the overnight gap up.",
+        "created_utc": 1594319598,
+        "id": "fxg63qb",
+        "permalink": "/r/wallstreetbets/comments/ho0krw/daily_discussion_thread_for_july_09_2020/fxg63qb/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594348398.0
+    },
+    {
+        "author": "Life_of_Gary",
+        "body": "holy shit, she bought 50 PYPL 100C for 2022",
+        "created_utc": 1595718312,
+        "id": "fz8xwm4",
+        "permalink": "/r/wallstreetbets/comments/hxq6w2/us_senator_pat_roberts_has_been_buying_up_airline/fz8xwm4/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1595747112.0
+    },
+    {
+        "author": "theyellowbandana",
+        "body": "Not too worried about my Amazon weekly. More worried about my Paypal 7/24\u2019s I bought at the top today. Might just have to light that 1k on fire and let it ride.",
+        "created_utc": 1594672575,
+        "id": "fxytdbz",
+        "permalink": "/r/wallstreetbets/comments/hqmoth/what_are_your_moves_tomorrow_july_14_2020/fxytdbz/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1594701375.0
+    },
+    {
+        "author": "leonessa123",
+        "body": "Ok, hear me out. Putting 20% into my PayPal account, it'll net you a guaranteed loss of only 20%! Instead of risking 50%!!! :) Do it, pay for my last 2 years of school! :)",
+        "created_utc": 1594923129,
+        "id": "fy9z17p",
+        "permalink": "/r/pennystocks/comments/hsep56/any_recommended_tickers_for_tomorrow_and_next/fy9z17p/",
+        "score": 8,
+        "subreddit": "pennystocks",
+        "created": 1594951929.0
+    },
+    {
+        "author": "abogado-de-aves",
+        "body": "UPDATE: positions I\u2019m holding over the weekend\n\nAZN 7/24 70c\nTSLA 7/24 2100c (lol)\nPYPL 7/31 190c\nGOOGL 7/31 1700c\nAMZN 7/31 3600c\n\nAll of these except AMZN were bought eod, hoping for a quick flip, will cut any losers quickly at open\n\nFor the memes guys. LETS GET THIS PUMP. THEY CANT KEEP US CHAD BULLS DOWN \ud83d\ude0e\ud83c\uddfa\ud83c\uddf8\ud83e\udd85\ud83d\ude80\ud83d\ude80",
+        "created_utc": 1595016964,
+        "id": "fye8m7b",
+        "permalink": "/r/wallstreetbets/comments/ht0pmi/rough_week_fuk_u_bezos_fuk_u_theta_gang_fuk_u_bers/fye8m7b/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1595045764.0
+    },
+    {
+        "author": "Trumpowell",
+        "body": "$PYPL gang represent",
+        "created_utc": 1595881142,
+        "id": "fzfvdid",
+        "permalink": "/r/wallstreetbets/comments/hyzs0g/what_are_your_moves_tomorrow_july_28_2020/fzfvdid/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1595909942.0
+    },
+    {
+        "author": "ixamnis",
+        "body": "Risky: Tesla, DAL\n\nLess Risky:  AMZN, DELL, PYPL\n\nPretty Safe: MSFT, TGT, WMT, TMUS, V, MA",
+        "created_utc": 1595249233,
+        "id": "fynjuso",
+        "permalink": "/r/stocks/comments/hui0jn/1_year_stocks/fynjuso/",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1595278033.0
+    },
+    {
+        "author": "RunYoJewelsBruh",
+        "body": "I have no idea what I want to do with myself now. Too many good looking plays out there. Almost feels...wrong for some reason.   \n  \nMay just let my WMT, NIO, FSLY, and PYPL play out and keep some dry powder in case I need to average down.   \n \nTSLA and AMZN tempting though.",
+        "created_utc": 1594615076,
+        "id": "fxwefyr",
+        "permalink": "/r/wallstreetbets/comments/hq11ao/what_are_your_moves_tomorrow_july_13_2020/fxwefyr/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1594643876.0
+    },
+    {
+        "author": "hollosteve68",
+        "body": "Waiting on my PayPal calls to come around",
+        "created_utc": 1594766454,
+        "id": "fy33s1l",
+        "permalink": "/r/wallstreetbets/comments/hr8uhb/what_are_your_moves_tomorrow_july_15_2020/fy33s1l/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1594795254.0
+    },
+    {
+        "author": "NervousTumbleweed",
+        "body": "Options have helped me fully pay off my massive PayPal credit debt, and now I\u2019m about to blow my account on PayPal 187.5c 7/17s. \n\nWay she goes boys.",
+        "created_utc": 1593735766,
+        "id": "fwr8881",
+        "permalink": "/r/wallstreetbets/comments/hk4c9t/what_are_your_moves_tomorrow_july_03_2020/fwr8881/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1593764566.0
+    },
+    {
+        "author": "UpperSpinach",
+        "body": "Wasn't he always rich since PayPal? and isn't his family super-loaded from gems?",
+        "created_utc": 1595693571,
+        "id": "fz7glr4",
+        "permalink": "/r/wallstreetbets/comments/hx90gx/weekend_discussion_thread_for_the_weekend_of_july/fz7glr4/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1595722371.0
+    },
+    {
+        "author": "ErikBart23",
+        "body": "Wow all the upgrades for PayPal today....join the rocket before earnings!",
+        "created_utc": 1595419189,
+        "id": "fyv49ca",
+        "permalink": "/r/wallstreetbets/comments/hvr7i6/daily_discussion_thread_for_july_22_2020/fyv49ca/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1595447989.0
+    },
+    {
+        "author": "RelativeChance",
+        "body": "I don't know where you are getting your info from but I can still sell with PayPal on ebay",
+        "created_utc": 1595293878,
+        "id": "fypxj6t",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fypxj6t/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1595322678.0
+    },
+    {
+        "author": "canadianformalwear",
+        "body": "Ok seriously what are your plays tomorrow?\n\nI\u2019m treading lightly but eying calls:\n\nLVGO       TDOC      TSLA     PAYPAL (earnings)     UPS (earnings)",
+        "created_utc": 1594093165,
+        "id": "fx65xhf",
+        "permalink": "/r/wallstreetbets/comments/hmfeen/what_are_your_moves_tomorrow_july_07_2020/fx65xhf/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1594121965.0
+    },
+    {
+        "author": "black_and_shredded",
+        "body": "**All hail tech. King of gains**\n\nCurrently in TSLA NIO NVDA BYND AMZN PYPL WMT SQ SE BABA NET AMD and LYFT call debit spreads. Calls range from weekly (TSLA, NVDA, AMZN) to monthlies (SQ SE NET) to yearlies (LYFT AMD)",
+        "created_utc": 1594251628,
+        "id": "fxd9xqq",
+        "permalink": "/r/wallstreetbets/comments/hnofn2/what_are_your_moves_tomorrow_july_09_2020/fxd9xqq/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1594280428.0
+    },
+    {
+        "author": "rbc8",
+        "body": "I got back into PayPal for earnings and was looking back at my history....    I would have had deep in the money calls if I had held out.   I have to fucking learn to be patient.",
+        "created_utc": 1594249458,
+        "id": "fxd5yh2",
+        "permalink": "/r/wallstreetbets/comments/hnofn2/what_are_your_moves_tomorrow_july_09_2020/fxd5yh2/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1594278258.0
+    },
+    {
+        "author": "shan_eh_dor",
+        "body": "Paypal closes at 190 friday",
+        "created_utc": 1595181216,
+        "id": "fykteb7",
+        "permalink": "/r/wallstreetbets/comments/ht2v2k/weekend_discussion_thread_for_the_weekend_of_july/fykteb7/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1595210016.0
+    },
+    {
+        "author": "rpmusictv",
+        "body": "I sell online using PayPal a little insider information they waived transaction fees refund fees and transfer fees since the beginning of the pandemic and they jist turned them back on good luck on your calls",
+        "created_utc": 1595297928,
+        "id": "fyq4h2d",
+        "permalink": "/r/wallstreetbets/comments/hurh39/paypal_insider/fyq4h2d/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1595326728.0
+    },
+    {
+        "author": "154hpc",
+        "body": "I have a theory that Daddy Elon has found a crack in the system in order to pump the stock and make the haters pay out the ass, literally and figuratively. \n\nI mean not for nothing the guy is a computer wizard - founded PayPal, builds rocket ships and through a software upgrade can make your Tesla go 0-60 in 2 seconds (ludicrous mode). So how difficult would it be to develop an algo to pump his stock and fuck the shorts who doubt him. Sick, sinister but fucking brilliant.",
+        "created_utc": 1594429793,
+        "id": "fxla50m",
+        "permalink": "/r/wallstreetbets/comments/how5ir/weekend_discussion_thread_for_the_weekend_of_july/fxla50m/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1594458593.0
+    },
+    {
+        "author": "Staygangponyboy",
+        "body": "FB SQ PYPL and SPY need to rise this week",
+        "created_utc": 1595095700,
+        "id": "fyhdxcb",
+        "permalink": "/r/wallstreetbets/comments/ht2v2k/weekend_discussion_thread_for_the_weekend_of_july/fyhdxcb/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1595124500.0
+    },
+    {
+        "author": "SunriseSurprise",
+        "body": "I find it extremely bullish that they offloaded StubHub (at exactly the right time I might add) and their classifieds biz and shifted to their own payments handling away from PayPal to basically go full bore with good ol' Ebay. They wouldn't be doing that if it wasn't showing good reason for it, and if OSTK and W have been rising like fucking crazy, why not Ebay? How would W and OSTK fundamentally be better than Ebay post-covid?",
+        "created_utc": 1595814466,
+        "id": "fzd1by5",
+        "permalink": "/r/wallstreetbets/comments/hyhvi0/ebay_earnings_tuesday_ah/fzd1by5/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1595843266.0
+    },
+    {
+        "author": "Scrumtrelescentness",
+        "body": "Does anybody else just quick scan the thread for comments on tickers you\u2019re interested in?\n\nThat being said...PFE, TSLA, AMZN, PYPL",
+        "created_utc": 1595882641,
+        "id": "fzfyi83",
+        "permalink": "/r/wallstreetbets/comments/hyzs0g/what_are_your_moves_tomorrow_july_28_2020/fzfyi83/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1595911441.0
     },
     {
         "author": "Sea_Seaworthiness",
-        "body": "pypl stop being a retard",
-        "created_utc": 1593612718,
-        "id": "fwl257m",
-        "score": 1,
+        "body": "Trump make an announcement that next round of stimulus will only be available through Paypal plez",
+        "created_utc": 1594842909,
+        "id": "fy6fsmx",
+        "permalink": "/r/wallstreetbets/comments/hrkzcb/daily_discussion_thread_for_july_15_2020/fy6fsmx/",
+        "score": 7,
         "subreddit": "wallstreetbets",
-        "created": 1593641518.0
+        "created": 1594871709.0
     },
     {
-        "author": "KelbySmith",
-        "body": "PayPal might beat",
-        "created_utc": 1593618490,
-        "id": "fwlddig",
-        "score": 0,
+        "author": "pickbot",
+        "body": "**I am a bot and identified and tracked the following options picks within this post:**\n\n|**Ticker**|**Strike**|**Type**|**Exp**|**Recorded Premium**|**Recorded Stock Price**|**OI**|**Volume**|\n|:-|:-|:-|:-|:-|:-|:-|:-|\n|**AAPL**|**$400**|**BUY CALL**|**2021-01-15**|**$27.33**|**$383.68**|**14195**|**473**\n|**BABA**|**$270**|**BUY CALL**|**2020-07-24**|**$6.18**|**$261.01**|**1098**|**1316**\n|**DDOG**|**$100**|**BUY CALL**|**2020-07-24**|**$3.54**|**$96.41**|**574**|**160**\n|**DIS**|**$170**|**BUY CALL**|**2020-10-16**|**$0.45**|**$119.34**|**10975**|**1707**\n|**FSLY**|**$110**|**BUY CALL**|**2020-07-31**|**$5.92**|**$94.91**|**194**|**98**\n|**JPM**|**$115**|**BUY CALL**|**2020-09-18**|**$1.6**|**$96.27**|**42839**|**3985**\n|**MSFT**|**$220**|**BUY CALL**|**2020-07-31**|**$5.13**|**$213.67**|**9017**|**2003**\n|**NFLX**|**$600**|**BUY CALL**|**2020-07-17**|**$9.77**|**$548.73**|**1291**|**16674**\n|**NIO**|**$16**|**BUY CALL**|**2020-07-17**|**$1.19**|**$14.98**|**10751**|**13009**\n|**NVDA**|**$420**|**BUY CALL**|**2020-07-17**|**$9.73**|**$419.17**|**5252**|**5441**\n|**PYPL**|**$200**|**BUY CALL**|**2020-07-31**|**$2.53**|**$178.4**|**493**|**284**\n|**SPOT**|**$282.5**|**BUY CALL**|**2020-07-17**|**$7.57**|**$278.24**|**216**|**49**\n|**TSLA**|**$2000**|**BUY CALL**|**2020-07-17**|**$11.82**|**$1544.65**|**3011**|**9770**\n|**WMT**|**$131**|**BUY CALL**|**2020-07-17**|**$2.06**|**$130.68**|**507**|**11840**\n|**ZM**|**$280**|**BUY CALL**|**2020-07-17**|**$5.25**|**$275.87**|**3439**|**2368**\n\n[Realtime ROI](https://www.pickmojo.com/pick/ckcgz1x98pwy00789oyzntw5e) | [Track Record](https://www.pickmojo.com/user/BigDickDarrow/) | [Bot Info](https://www.reddit.com/r/pickmojo/comments/he9ghu/options_picks_tracking_bot_information/) | Leaderboard: [Week](https://www.pickmojo.com/stocks/best-this-week-reddit), [Month](https://www.pickmojo.com/stocks/best-this-month-reddit), [All](https://www.pickmojo.com/stocks/top-reddit) | [Exit this position](https://www.pickmojo.com/reddit_redirect)\n\n**^(*Recorded after market close, will be recorded at the next market open if the premium is within 10% margin. My owner is monitoring these posts, reply with feedback! You can now track comments by mentioning me!)**",
+        "created_utc": 1594431005,
+        "id": "fxlc5ay",
+        "permalink": "/r/wallstreetbets/comments/hp1fhe/15k_gains_in_july/fxlc5ay/",
+        "score": 7,
         "subreddit": "wallstreetbets",
-        "created": 1593647290.0
+        "created": 1594459805.0
     },
     {
-        "author": "KelbySmith",
-        "body": "PYPL $200C 7/24 Cheap Potential 10 bagger up to earnings. Get in",
-        "created_utc": 1593618449,
-        "id": "fwldagf",
-        "score": 0,
+        "author": "Bluemoonclay",
+        "body": "Gonna buy some shit on alibaba using PayPal to bolster my positions",
+        "created_utc": 1594395985,
+        "id": "fxjh543",
+        "permalink": "/r/wallstreetbets/comments/homfbk/daily_discussion_thread_for_july_10_2020/fxjh543/",
+        "score": 7,
         "subreddit": "wallstreetbets",
-        "created": 1593647249.0
+        "created": 1594424785.0
     },
     {
-        "author": "KelbySmith",
-        "body": "PayPal to the moonnn",
-        "created_utc": 1593618741,
-        "id": "fwldvy4",
-        "score": 0,
+        "author": "bigworm32218",
+        "body": "I\u2019ll sell you mine. PM for PayPal info \ud83d\ude02",
+        "created_utc": 1595463305,
+        "id": "fyxhcrr",
+        "permalink": "/r/pennystocks/comments/hw35iy/finally_a_possible_ktov_catalyst/fyxhcrr/",
+        "score": 7,
+        "subreddit": "pennystocks",
+        "created": 1595492105.0
+    },
+    {
+        "author": "Jessper",
+        "body": "bruh i squeezed money from my paypal, revolut, bank account, grandma's life savings and my secret stash",
+        "created_utc": 1594758492,
+        "id": "fy2npun",
+        "permalink": "/r/wallstreetbets/comments/hr8uhb/what_are_your_moves_tomorrow_july_15_2020/fy2npun/",
+        "score": 6,
         "subreddit": "wallstreetbets",
-        "created": 1593647541.0
+        "created": 1594787292.0
     }
 ]

@@ -1,216 +1,40 @@
 [
     {
-        "author": "the91fwy",
-        "body": "On pure performance Intel held over a decade where there was no competition.\n\nToday there is AMD\u2019s new Ryzen architecture which gives Intel a very good run for the money.  This chip is x86 compatible and can run software for Intel CPUs.  For simplicity let\u2019s call this \u201cspeaking English\u201d.\n\nAnd then we have ARM, which Apple and Qualcomm are the largest firms producing those chips.  For our simplistic explication let\u2019s say they speak Spanish.\n\nSoftware for x86 (English) won\u2019t work as is on ARM (Spanish) even if developed against the same operating system.  So it either needs to be recompiled (rewritten in Spanish) or needs to be on the fly translated (which is really slow).\n\nApple has twice now switched CPU architectures that are incompatible with one another and this move to ARM will be switch #3.  It takes a lot of effort to pull off such a major switch and not anger or confuse users in the process.\n\nOnce Apple moves to ARM the only real big use left for Intel is Windows PCs and the data center.  Windows 10 was ported to ARM as well and AMD has a very competitive chip for the data center.\n\nI don\u2019t see Intel having much relevance a few years from now.",
-        "created_utc": 1591715164,
-        "id": "fthdhyi",
-        "score": 27,
-        "subreddit": "investing",
-        "created": 1591743964.0
-    },
-    {
-        "author": "Count_Jebula",
-        "body": "I recently lost money on exactly this analysis of Qualcomm. The market is on edge rn and it's probably not a good time to buy hardly any calls tbh.",
-        "created_utc": 1593466652,
-        "id": "fwesf3y",
-        "score": 9,
-        "subreddit": "smallstreetbets",
-        "created": 1593495452.0
-    },
-    {
-        "author": "GadnukBreakerOfWrlds",
-        "body": "WHITE HOUSE CONSIDERS BROAD FEDERAL INTERVENTION TO SECURE 5G FUTURE - WSJ   \n   \nBought some QCOM, MRVL and XLNX calls",
-        "created_utc": 1593099759,
-        "id": "fvypkce",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1593128559.0
-    },
-    {
-        "author": "GadnukBreakerOfWrlds",
-        "body": "lol @ QCOM after hours price:  \n  \n88.88 -0.08 (-0.08%)",
-        "created_utc": 1593123154,
-        "id": "fw01w4j",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1593151954.0
-    },
-    {
-        "author": "FreeSpiritRunning",
-        "body": "I see it more as a Qualcomm.\n\nIt's going to survive...it just going to take 2 decades to recover its position.",
-        "created_utc": 1591667115,
-        "id": "ftfl6ag",
-        "score": 7,
-        "subreddit": "investing",
-        "created": 1591695915.0
-    },
-    {
-        "author": "JasonColin",
-        "body": "Intel made a large mistake back when they were pushing mobile phone processors.\n\nThey could have forced Apple into a contract to use those Intel phone processors causing other companies to use them and they would be competing with qualcomm in the phone chip market.\n\nBecause let's face it, Mediatek is trash and hasnt improved significantly in years.",
-        "created_utc": 1591711990,
-        "id": "fth7fnn",
+        "author": "brownbrandon",
+        "body": "my positions are red but I'm choosing to close the app and not be a weak handed bitch this afternoon.\n\nDKNG 45c 6/5  \nBAC 25.5c 6/5  \nQCOM 85c 6/12  \nTAK 20c 6/19",
+        "created_utc": 1591121172,
+        "id": "fsnqdcz",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnqdcz/",
         "score": 6,
         "subreddit": "wallstreetbets",
-        "created": 1591740790.0
-    },
-    {
-        "author": "Cryonyx",
-        "body": "BA calls, QCOM calls, 1 spy put.",
-        "created_utc": 1592424893,
-        "id": "fv5qucl",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1592453693.0
-    },
-    {
-        "author": "DowninDowntown",
-        "body": "QUALCOMM. Only 5g provider based in US. Some cheap calls on 7/17. Trump\u2019s infrastructure bill being developed now that included 5g money",
-        "created_utc": 1592423429,
-        "id": "fv5njoq",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1592452229.0
+        "created": 1591149972.0
     },
     {
         "author": "WSBankrupt",
         "body": "5G is going to be pushed hard.  I've done a fair bit of research on tickers that are worthwhile if it blows up as much as I think it will.  The implementation of these mesh networks could be huge for many companies.\n\nNetwork Implementation - NOK and ERIC (Would grab NOK asap)\n\nBase Station Chipsets - MRVL\n\nPhone Semis - QCOM\n\nIndustrial + Vehicle Semis - NXPI\n\nShared Comms Infrastructure - AMT\n\nMulti Discipline - INTC\n\n&amp;#x200B;\n\nI hold positions (leaps or stonks in almost all of the above)",
         "created_utc": 1591055320,
         "id": "fskwp03",
+        "permalink": "/r/wallstreetbets/comments/gurxgt/what_are_your_moves_tomorrow_june_02_2020/fskwp03/",
         "score": 5,
         "subreddit": "wallstreetbets",
         "created": 1591084120.0
-    },
-    {
-        "author": "dreammanalishi",
-        "body": "I usually wait til the morning to decide, but Friday morning's list was...\n\nAYX\n\nBAH\n\nBLK\n\nBLL\n\nCAT\n\nCERN\n\nCL\n\nCMCSA\n\nCNSL\n\nCPB\n\nCSCO\n\nCTVA\n\nCVNA\n\nCZR\n\nDB\n\nDE\n\nDIS\n\nELF\n\nERIC\n\nGGG\n\nHD\n\nHLF\n\nHMC\n\nHUBB\n\nIEC\n\nINTC\n\nJNPR\n\nKDP\n\nKWR\n\nLANC\n\nLMT\n\nLOW\n\nLRCX\n\nMA\n\nMJCO\n\nMMM\n\nMORN\n\nMS\n\nMU\n\nMWA\n\nOOMA\n\nPAYC\n\nPCAR\n\nPCTY\n\nPSTG\n\nQCOM\n\nRACE\n\nSMTC\n\nSNE\n\nSPY\n\nSSSS\n\nSTN\n\nTCX\n\nTQQQ\n\nTSLA\n\nUBS\n\nULTA\n\nV\n\nVMW\n\nWCN\n\nWDAY\n\nWGO\n\nWIRE\n\nZEN\n\nZNGA\n\nI'm sure some will carry over to Monday.\n\nI move fast in the morning, but if I have time, maybe I'll try to remember to post before the market opens.",
-        "created_utc": 1591462839,
-        "id": "ft5c6bv",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1591491639.0
-    },
-    {
-        "author": "kavaman68",
-        "body": "After getting burned during the March reversal, I've been sitting on $17k cash (CDN so that's like $2 USD) for the last two months staring in disbelief at this nonsensical rally.\n\nTime to start dipping my toes in and making small bets.\n\nPicked up one QCOM 07/02 95C on impulse.  No research. Fed printing money tech stonks go up.  5G is the future and shit.",
-        "created_utc": 1591820150,
-        "id": "ftmcxz2",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1591848950.0
-    },
-    {
-        "author": "Gradieus",
-        "body": "MSFT went up 49.59%, qcom went up 18.69%, and tmus went up 50.86%.\n\nSo somewhere in the past 1 year you were a moron.",
-        "created_utc": 1593132331,
-        "id": "fw0ico9",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1593161131.0
-    },
-    {
-        "author": "t33po",
-        "body": "\ud83c\udf89\ud83c\udf89INFRASTRUCTURE WEEK \ud83c\udf89\ud83c\udf89\n\nDarkhorse beneficiaries could be QCOM, CSCO, MRVL, and other 5G stocks as 5G expansion gets rolled into infrastracture spending. Also a nice proxy front in the Huawei/tech war.\n\nThoughts?",
-        "created_utc": 1592360876,
-        "id": "fv2yw9b",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1592389676.0
-    },
-    {
-        "author": "OblivionXBA",
-        "body": "Someone here commented about Qualcomm this morning. WHAT DID YOU KNOW",
-        "created_utc": 1591129192,
-        "id": "fso7kmf",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1591157992.0
-    },
-    {
-        "author": "West-Train-Invest",
-        "body": "Intc will see pressure from amd, Qualcomm and Amazon going in house on arm Not just aapl. All these chips need to be fabricated TSM may also be a play.",
-        "created_utc": 1591730075,
-        "id": "fti8nns",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1591758875.0
-    },
-    {
-        "author": "Krusher4Lyfe",
-        "body": "I can\u2019t fucking pick anything right. \n\nSold my BABA calls yesterday for a loss, day traded a QCOM call for ten bucks\n\nBought SFIX and T calls instead.\n\nReally those or UAL to pay off so I can continue to finance my newfound passion for losing money.",
-        "created_utc": 1591139210,
-        "id": "fsorzv8",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1591168010.0
-    },
-    {
-        "author": "MrBdstn",
-        "body": "my biggest issue is listening to some of you tards.  \n\nI bought freaking Qualcomm calls because some autist said to. . .now here I am watching it all go down the drain.   \n\nHere's a recommendation: dump 100's of dollars down the toilet. . .",
-        "created_utc": 1592587996,
-        "id": "fvcvljz",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1592616796.0
     },
     {
         "author": "Jetisfly420",
         "body": "QCOM don\u2019t stop I\u2019m so hard",
         "created_utc": 1591125664,
         "id": "fsnzy81",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnzy81/",
         "score": 4,
         "subreddit": "wallstreetbets",
         "created": 1591154464.0
-    },
-    {
-        "author": "t_baum88",
-        "body": "not gonna lie my QCOM calls were super erect at 3:50 when we spiked from 88 to 89.50\n\nwas a tease",
-        "created_utc": 1592605750,
-        "id": "fvdu9t7",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1592634550.0
-    },
-    {
-        "author": "grumpkin17",
-        "body": "Qualcomm and Nokia. Don\u2019t forget Apple will also need to refresh the iPhones to 5G.",
-        "created_utc": 1592857538,
-        "id": "fvo88ox",
-        "score": 4,
-        "subreddit": "stocks",
-        "created": 1592886338.0
-    },
-    {
-        "author": "Irrelevant_Scientist",
-        "body": "NOVS\n\nShell company that just went public a couple weeks ago. CEO is a former VP for Qualcomm and their target company will be a 5G merger.\n\nToo fresh to be a meme but just putting it on a few people\u2019s radar.",
-        "created_utc": 1592424816,
-        "id": "fv5qok2",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1592453616.0
-    },
-    {
-        "author": "LiveNDiiirect",
-        "body": "Should go in on Qualcomm too for 5G announcement",
-        "created_utc": 1592441626,
-        "id": "fv6nrr6",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1592470426.0
-    },
-    {
-        "author": "ScroogeMcThrowaway",
-        "body": "Tuition indeed. I'm too retarded to get into Wharton, nor would I want to. I've paid a huge price with losses, but stuff is definitely turning around. Been at this for 7 years. This shit is still fun and never gets old.\n\nTo the newbies. There will always be another NKLA, ZM or what have you. Literally, buyouts everyday. I still remember the days before the dotcom bust. QCOM was the hottest shit there was then. Oh the days. Nothing has changed. So just keep on trucking cause what else you gonna do. Take the L and embrace it.",
-        "created_utc": 1591834457,
-        "id": "ftn5lyo",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1591863257.0
     },
     {
         "author": "donny1231992",
         "body": "QCOM ftw",
         "created_utc": 1591125383,
         "id": "fsnzcym",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnzcym/",
         "score": 3,
         "subreddit": "wallstreetbets",
         "created": 1591154183.0
@@ -220,6 +44,7 @@
         "body": "QCOM HITTING 85 EOD GET THE FUCK IN WHILE YOU CAN",
         "created_utc": 1591127237,
         "id": "fso3bhk",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso3bhk/",
         "score": 3,
         "subreddit": "wallstreetbets",
         "created": 1591156037.0
@@ -229,330 +54,117 @@
         "body": "In no particular order\n\nCCI (cell site properties)\n\nCOMM (panel antennas)\n\nAMT (cell site properties)\n\nFIVG (5G ETF)\n\nSBAC (cell site properties)\n\nQCOM (its Qualcomm, need you know more?)\n\nNXPI (semiconductors)",
         "created_utc": 1591061617,
         "id": "fsl81js",
+        "permalink": "/r/RobinHoodPennyStocks/comments/guq3ce/nok_will_be_leaving_the_station/fsl81js/",
         "score": 3,
         "subreddit": "RobinHoodPennyStocks",
         "created": 1591090417.0
-    },
-    {
-        "author": "1monster90",
-        "body": "You shouldn't invest money you can't afford to lose. Personally, money in the stock market is money I am considering nonexistent until 2045.   \nDon't be greedy but don't be cynical either. I think you could really benefit from making a list of interesting stocks. And from that list try to pick at least 10 stocks that you find promising and buy. Even if it's just 1 share (that way you will be focused on these companies, it's not so much to make a profit than making yourself focus and research these companies. I find it easier to focus on stocks I have at least one share with that stocks I don't own at all).  \n\n\nHere is my list of shares I'm watching carefully, feel free to research it.  \nMSFT, V, MA, NKE, NTDOY, LOGI, SPXL, TQQQ, DOCU,  TRIP, ALGN, F, GME, APPL, NFLX, SBUX, LUV, HS, AMZN, AAL, TMUS, PG,  INTC, QCOM, PYPL, T, ATVI, RSG, FDM, AXP, CSCO, TGT, PLSE, TROW, ORCL,  FDX, CUBE, BABA, CTAS, ALK, JNJ, LLY, CB, NEE, FANG, GAMR, TWLO, TNA,  LABU, FAS, CTRE, PEP, EBAY, DFS, GE, SNQP, MS, RF, AMG, HIG, BR, BEN,  ZNGA, COR, WWE, WYNN, VT, VTI, ELY, ADBE, SQ, TWTR, CVS, CRSP, QQ, NDLS,  WU, MTRX, PUTW, TECL, GM, NYMT, MU and NDAQ .",
-        "created_utc": 1591285099,
-        "id": "fsvbk0t",
-        "score": 3,
-        "subreddit": "StockMarket",
-        "created": 1591313899.0
-    },
-    {
-        "author": "uninfinity",
-        "body": "***China's Global Times tweets China may restrict use of Qualcomm (QCOM) chips in government bodies and key sectors related to national security, while it may also hold anti-monopoly investigations and impose tariffs on US firms***",
-        "created_utc": 1591752476,
-        "id": "ftjfwqy",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1591781276.0
-    },
-    {
-        "author": "HMSS-Overkill",
-        "body": "Alternatively qualcomm will supply most semiconductors for 5G in the US",
-        "created_utc": 1591199704,
-        "id": "fsrb1z9",
-        "score": 3,
-        "subreddit": "CanadianInvestor",
-        "created": 1591228504.0
-    },
-    {
-        "author": "Cryonyx",
-        "body": "QCOM hit 90 let's fuckin go. 100 before July",
-        "created_utc": 1591639116,
-        "id": "fte3fdy",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1591667916.0
-    },
-    {
-        "author": "Hallowed_Weasel",
-        "body": "Yeah, but what are your positions?\n\nQCOM $92.5c 7/17",
-        "created_utc": 1593558199,
-        "id": "fwizxfp",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1593586999.0
     },
     {
         "author": "Jetisfly420",
         "body": "QCOM calls $85 6/12",
         "created_utc": 1591064193,
         "id": "fslcl59",
+        "permalink": "/r/wallstreetbets/comments/gurxgt/what_are_your_moves_tomorrow_june_02_2020/fslcl59/",
         "score": 3,
         "subreddit": "wallstreetbets",
         "created": 1591092993.0
     },
     {
-        "author": "Cryonyx",
-        "body": "Bought VXX calls to hedge but just realized that there is a very real chance that BA, QCOM, and SPG could all go down with it. Can't fuckin wait",
-        "created_utc": 1591745486,
-        "id": "ftj3m8w",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1591774286.0
+        "author": "wrodrigues2008",
+        "body": "NOK just got upgraded, 5G is just around the corner. And stocks like ERIK and QCOM tend to follow the hype and are set up for when 5G kicks off this summer. I\u2019ve got leaps on all of them and they are printing. QCOM is still good to get in.",
+        "created_utc": 1591058202,
+        "id": "fsl1xar",
+        "permalink": "/r/options/comments/gus2no/qcom_whats_happening/fsl1xar/",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1591087002.0
     },
     {
-        "author": "joyful-",
-        "body": "https://www.cnbc.com/2020/06/04/tech-is-the-new-safe-haven-and-the-semi-trade-is-on-paul-meeks.html\n\nthis dude ran the largest tech fund during the dot com bubble and is now bullish on semi conductors... amd/intc/qcom are fuk",
-        "created_utc": 1591338588,
-        "id": "fsy403o",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1591367388.0
-    },
-    {
-        "author": "iamemperor86",
-        "body": "I heard Ericson, Qualcomm, and Nokia are good YOLOs due to the infrastructure announcement",
-        "created_utc": 1592442916,
-        "id": "fv6pzru",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1592471716.0
-    },
-    {
-        "author": "CantonGooner",
-        "body": "Anyone have a feeling QCOM is about to blast off?",
-        "created_utc": 1592270042,
-        "id": "fuyr0i9",
+        "author": "high4days420",
+        "body": "Yes. Qcom saving my account in the last hour. Jumping with joy",
+        "created_utc": 1591127298,
+        "id": "fso3g9i",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso3g9i/",
         "score": 2,
         "subreddit": "wallstreetbets",
-        "created": 1592298842.0
+        "created": 1591156098.0
     },
     {
-        "author": "kavaman68",
-        "body": "\\-50% my one QCOM call I bought yesterday with zero DD... good thing I didn't go all in.  Maybe that marketopacalypse breach guy was right he said another downtrend would start between June 11th-19th",
-        "created_utc": 1591885978,
-        "id": "ftp6efo",
+        "author": "tinderdrunkman101",
+        "body": "Alright stupid question time, Im holding QCOM calls right now, but they have dividends payout tmmrw, the stock is ripping for the day and I am debating whenever to close out and take profits end of day, do dividends usually impact the stock price negatively?",
+        "created_utc": 1591124379,
+        "id": "fsnx8cx",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnx8cx/",
         "score": 2,
         "subreddit": "wallstreetbets",
-        "created": 1591914778.0
+        "created": 1591153179.0
     },
     {
-        "author": "ReyesA1991",
-        "body": "I wouldn't touch any of these smalls but Draft Kings, Eldorado, and Tesla.\n\nVerizon, Ericsson and Qualcomm are OK, but I think there are better plays.\n\nNo issues with your index funds.",
-        "created_utc": 1591907687,
-        "id": "ftqf5ox",
+        "author": "WhoWasBlowjob",
+        "body": "Alright, last question, CRWD, WORK, or QCOM, for a 6/5 expiry yolo, I need your help, please, I'm just a poor man trying to make it.",
+        "created_utc": 1591125135,
+        "id": "fsnyu9c",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnyu9c/",
         "score": 2,
-        "subreddit": "stocks",
-        "created": 1591936487.0
+        "subreddit": "wallstreetbets",
+        "created": 1591153935.0
+    },
+    {
+        "author": "TummyAcheJake",
+        "body": "My QCOM 85c 6/12\u2019s started rocketing out of nowhere.",
+        "created_utc": 1591126833,
+        "id": "fso2gdq",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso2gdq/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1591155633.0
     },
     {
         "author": "Krusher4Lyfe",
         "body": "Not OP, but I\u2019ve never gotten a payout from such low IV. ORCL and CRWD (I think) got me in the past for decent losses. \n\nI bought one of the QCOM options immediately and then sold it like ten minutes later for ten bucks more. \n\n5.00 in two weeks is a huge move for that stock.\n\nIMO you\u2019d do better selling credit spreads if you want to take advantage of that 85c",
         "created_utc": 1591052491,
         "id": "fskrg45",
+        "permalink": "/r/options/comments/gutfzh/unusual_option_activity_for_60120/fskrg45/",
         "score": 2,
         "subreddit": "options",
         "created": 1591081291.0
-    },
-    {
-        "author": "catarahbpus",
-        "body": "MSFT, QCOM, MU are my top 3",
-        "created_utc": 1591396867,
-        "id": "ft0tt88",
-        "score": 2,
-        "subreddit": "RobinHood",
-        "created": 1591425667.0
-    },
-    {
-        "author": "karamka0",
-        "body": "Qualcomm?",
-        "created_utc": 1591513387,
-        "id": "ft8wxou",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591542187.0
     },
     {
         "author": "sylphvanas",
         "body": "Fml, why did I sell my QCOM calls???",
         "created_utc": 1591126625,
         "id": "fso20bq",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso20bq/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1591155425.0
-    },
-    {
-        "author": "JohnnyBGoodeZSS",
-        "body": "QCOM is going to have another huge run up tomorrow, get in while you can",
-        "created_utc": 1591153763,
-        "id": "fsphoqi",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591182563.0
-    },
-    {
-        "author": "JohnnyBGoodeZSS",
-        "body": "I made back everything threefold on QCOM though. Got really lucky on that",
-        "created_utc": 1591153291,
-        "id": "fspgvuw",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591182091.0
-    },
-    {
-        "author": "Staffordv15",
-        "body": "Bought qcom calls at 2 yesterday for an easy flip but I shouldve held them lowkey",
-        "created_utc": 1591164591,
-        "id": "fspxl7v",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591193391.0
-    },
-    {
-        "author": "60-Sixty",
-        "body": "Anything with QCOM calls? Wondering if I should sell",
-        "created_utc": 1591206524,
-        "id": "fsrpn5o",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591235324.0
-    },
-    {
-        "author": "BuyMyPuts",
-        "body": "You probably should have closed 5 minutes before close but maybe QCOM rockets tomorrow and also has high IV, resulting in you making even more money.  I'll discuss my trade and perhaps my thought process will help you, but keep in mind what I did may not yield the highest profit (i.e., you might make more by holding).\n\nI bought 1 QCOM 12 JUN 20 85c at 0.52 at 11:40 am ET ([proof](https://imgur.com/a/voVXNSz), the times in the trade here are Pacific but I use Eastern in the post so people don't get confused) and closed at 3:55 pm ET at 1.87.  In light of the other activity in the option chain, I was confident that this unusual option activity (UOA) was not an arbitrage play (e.g., conversion or reverse conversion).  That said, the UOA volume on calls doesn't tell you if the \"smart\" money was short or long in the position (i.e., in the 22,000 that resulted from the 35,000 volume yesterday, how many of those 22,000 contracts is the smart money long or short on, it's one or the other).  I did not look at the history to see the skew between calls and puts, but perhaps selling calls might have netted more premium in the event of a decline in QCOM (e.g., instead of buying puts at a higher premium and profiting when the stock declines, maybe they were looking to sell a call at, say, 0.50 and with a market decline, buy to close their calls at, say, 0.25).  But I ultimately concluded that the smart money being short on the calls was highly unlikely in light the QCOM's presence in the 5G arena and then some; and, therefore, I was fairly confident that the smart money was bullish on QCOM and therefore long on all of these calls.  How confident?  1 contract worth, lol...but this more or less stems from me selecting--in a testing type way--UOA to participate in and gauge my analysis of the UOA.  I want to see if I am analyzing things correctly before I go to 5 or 10 contracts.\n\nWith such large activity on the call side, the market maker who is short all of these calls is in a risky situation since they are short \\~22,000 calls at this strike price alone (remember, other UOA was present on calls at other strike prices).  That means the market maker may, but not necessarily, start buying stock to hedge its position against these short calls.  Why does this matter?  If the market maker chooses to hedge, this can cause a rally because the market maker is buying TONS of stock.  Perhaps that's what happened today, or maybe the market maker didn't hedge and the rally is attributable to something else.  To me, it seems like the market maker hedged by buying shares because of the absolutely staggering increase in volume on the stock (not the option) starting at around 2:40 pm.  Who knows, maybe this volume wasn't the market maker.  I welcome any thoughts on my analysis.\n\nNow, why did I close at 3:55 pm?  I looked at one thing (because the position was already doing very well):  The volume on the 12 JUN 20 85c at the time.  It was around 20,000-21,000 (I don't remember exactly).  I interpreted this to mean that the smart money had closed most, if not all, of their long calls.  We'll find out tomorrow morning when we look at OI.  [Here](https://imgur.com/a/Pkd9wly) is a picture of the option chain after close (it shows OI and volume).  I'm guessing the OI will be around 5,000 or less.  If the smart money is closing, I wanted to follow suit and so I did.  Why does it matter?  If the rally was indeed a result of the market maker hedging its position on all of the short calls it held, then after it's need for the hedge disappears, so too does its need for the shares and a sell off by the market maker can (but not necessarily) occur.  [Here](https://imgur.com/a/viVMkyu) is a picture of the afternoon rally.  I got one of the highest prices when I closed.  Within the last 5 minutes after I closed my position, the premium dropped to around 1.70.  You can see the last trade in the option chain picture is 1.71.\n\nHope all of this helps.  Again, I welcome anyone's feedback on my analysis!  And who knows, maybe I missed out on profits by closing at 3:55pm.  Time will tell.  Regardless, I am very happy with this trade.  Good luck to you all!\n\nEdit:  Another possible scenario I thought of is the smart money wanting to enter a large position in the underlying in a short period of time and so to offset the increased cost of the shares they buy in a vast quantity, they buy calls beforehand to reduce their basis in the stock by selling the calls after their entry causes a rally.",
-        "created_utc": 1591139483,
-        "id": "fsosgvb",
-        "score": 2,
-        "subreddit": "options",
-        "created": 1591168283.0
     },
     {
         "author": "aptway",
         "body": "QCOM run baby run",
         "created_utc": 1591127098,
         "id": "fso30wp",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso30wp/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1591155898.0
-    },
-    {
-        "author": "HairyNMarried",
-        "body": "Apple, Google, Microsoft, Intel, Sony, Qualcomm, Facebook, Snap... they all have their hands in the cookie jar.",
-        "created_utc": 1592871319,
-        "id": "fvoy2ys",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1592900119.0
-    },
-    {
-        "author": "Brown_Sandals",
-        "body": "Qualcomm is a good long term bet as well imo, but NOK is securing contracts left and right and is one of the only competitors (ERIC being another) directly against Huawei.",
-        "created_utc": 1593140735,
-        "id": "fw0w7uq",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1593169535.0
-    },
-    {
-        "author": "Leaky_Buns",
-        "body": "Anyone else get in on that QCOM dip? Was kinda weird how it was still dipping while Nokia and Ericsson were mooning due to 5G news. Turned out good in the end but was kinda weird how it actually ended red from open.",
-        "created_utc": 1593122100,
-        "id": "fvzzutt",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1593150900.0
-    },
-    {
-        "author": "joekerjr",
-        "body": "Qcom was flat today. So why did my call jump 130%? $125c 8/21",
-        "created_utc": 1592525204,
-        "id": "fvac5w2",
-        "score": 2,
-        "subreddit": "smallstreetbets",
-        "created": 1592554004.0
-    },
-    {
-        "author": "savi9876",
-        "body": "It is ABSOLUTELY TSMC making the chips for them.\n\nApple won\u2019t buy TSMC. The whole point is to custom design yourself but have someone else do the fab. The fab business is not a business Apple wants to be in.\n\nApple already designs its own chips and has TSMC make them for the iPhone. That\u2019s what made TSMC into what they are. They\u2019ve been doing this for many years now. \n\nThe new info is that Apple is now also doing that for their Mac lineup too, laptops &amp; desktops. So they\u2019re moving away from intel basically. \n\nMacs make up like 5% global market share in pcs\u2019s so it\u2019s not a big market. The risk is for the other pc oems. Maybe they look at what Apple does and wanna do something similar or push Qualcomm to get into same thing. \n\nBack to mobile part. So for mobile everyone else uses Qualcomm. Samsung experimented with making their own mobile chips too. Their international models use the Samsung exynos chips but the North American models use Qualcomm.\n\nAndroid phone makers can\u2019t buy from TSMC. TSMC doesn\u2019t make its own chips. It makes chips you\u2019ve already designed. Android phone companies buy Qualcomm chips.",
-        "created_utc": 1593476529,
-        "id": "fwfb7ja",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1593505329.0
-    },
-    {
-        "author": "KingVelox",
-        "body": "What are you buying? \n\nIve made $ with T, LULU, POWW, OOMA, SMHB, FDD, ELF, LMT, NOC, MGM, SNE, QCOM, INTC\n\nI've lost $ on CVNA (I could have made $ but misplaced it) &amp; VXRT",
-        "created_utc": 1591821121,
-        "id": "ftmeymg",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591849921.0
-    },
-    {
-        "author": "TrantMerris",
-        "body": "I get Nokia, but why not Qualcomm over Ericsson?",
-        "created_utc": 1592441818,
-        "id": "fv6o3ud",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1592470618.0
-    },
-    {
-        "author": "catchingchi",
-        "body": "GOOGL owns 10% of SpaceX \n\n5G has nothing to do with Starlink. Starlink is designed to serve communities with no internet access. 5G is built to provide fast mobile internet access in densely populated areas.\n\nIf you want to invest in 5G, consider Samsung, Qualcomm or Broadcom",
-        "created_utc": 1592509939,
-        "id": "fv9ixcg",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1592538739.0
     },
     {
         "author": "Hehirn",
         "body": "Qualcomm I feel will explode. Even more so. Just out of my realm right now",
         "created_utc": 1591064852,
         "id": "fsldq0b",
+        "permalink": "/r/RobinHoodPennyStocks/comments/guq3ce/nok_will_be_leaving_the_station/fsldq0b/",
         "score": 2,
         "subreddit": "RobinHoodPennyStocks",
         "created": 1591093652.0
-    },
-    {
-        "author": "Steezy12",
-        "body": "why do i never buy qcom. am i retarded?",
-        "created_utc": 1591278566,
-        "id": "fsuyjp7",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591307366.0
-    },
-    {
-        "author": "bshaman1993",
-        "body": "Roku tgt amd Qcom zs crwd dkng",
-        "created_utc": 1591334416,
-        "id": "fsxyhhr",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591363216.0
-    },
-    {
-        "author": "PM_YOUR_VOLVO_TO_ME",
-        "body": "The list is pretty long so let me see what I can remember.\n\n* $AAL\n* $AKAM\n* $AMAT\n* $AMD\n* AVGO\n* $BA\n* $CAR\n* $CARR\n* $CLX\n* $DOW\n* $DRI\n* $DIN\n* $DPZ\n* $HON\n* $INTC\n* $JBLU\n* $LUV\n* $MSFT\n* $NOK\n* $NVDA\n* $PFE\n* $PLAY\n* $QCOM\n* $RTX (whatever raytheons new ticker is.)\n* $SAVE\n* $SLB\n* $TSMC\n* $UAL\n\nIm pretty sure I'm missing some symbols but that's the majority of them.\n\nThe balance on this account at the February peak was about $130,000 in vanguard ETFs, after the first major slide I decided to move $80,000 to cash and the total value was $99k ish? Currently it just crossed back over the $100k mark\n\nOnce I found out the fed was going to pump the market I started dipping my toes into value/growth stocks that took a beating like amd, Pfizer, SLB, nvda, avgo and msft. I want to say around mid April is when I bought almost everything else with some exceptions which I think CAR was the last addition.\n\nAs for my tastyworks account, I've just been selling put spreads on most of the stocks on that list above the down days, cashing out on the up days and riding the volatility waves. I'm averaging a 50-65% return which is roughly netting me about 2-5% per week. \n\nIf you have any other questions feel free to ask.",
-        "created_utc": 1591340538,
-        "id": "fsy6dul",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1591369338.0
-    },
-    {
-        "author": "BakedForskin",
-        "body": "If Qualcomm doesn\u2019t drop in the morning I\u2019m fucked with my puts and I\u2019ll probably have to apply for a job. Ew",
-        "created_utc": 1591139153,
-        "id": "fsorw9m",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591167953.0
     },
     {
         "author": "JohnnyBGoodeZSS",
         "body": "QCOM baby",
         "created_utc": 1591125698,
         "id": "fso00pq",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso00pq/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1591154498.0
@@ -562,33 +174,17 @@
         "body": "QCOM! Unusual options activity paying off again",
         "created_utc": 1591127451,
         "id": "fso3ryw",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso3ryw/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1591156251.0
-    },
-    {
-        "author": "oughmoment",
-        "body": "QCOM 87 tomorrow pls",
-        "created_utc": 1591129649,
-        "id": "fso8jmz",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591158449.0
-    },
-    {
-        "author": "FinndBors",
-        "body": "Even the fruit company licenses or includes chips from the likes of Qualcomm for the radio for the end devices.\n\nBut what the tech discussed here is the tech that goes into radio towers and their supporting hardware.",
-        "created_utc": 1593117652,
-        "id": "fvzqmac",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1593146452.0
     },
     {
         "author": "GrandArchitect",
         "body": "&gt;QCOM\n\nWell, this is a solid tech company.  Looks like the action lately has been a lot of consolidation. Its trading at 54 RSI.  \n\nEarnings are July 24th.\n\nIt seems like a great play tbh",
         "created_utc": 1591055637,
         "id": "fskx9u4",
+        "permalink": "/r/options/comments/gus2no/qcom_whats_happening/fskx9u4/",
         "score": 2,
         "subreddit": "options",
         "created": 1591084437.0
@@ -598,6 +194,7 @@
         "body": "Guys look at QCOM",
         "created_utc": 1591124987,
         "id": "fsnyj0n",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnyj0n/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1591153787.0
@@ -607,476 +204,449 @@
         "body": "If yall can meme QCOM back into the 90s for me I would make back like 4k that I lost",
         "created_utc": 1591127065,
         "id": "fso2ybj",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso2ybj/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1591155865.0
     },
     {
+        "author": "LinkFrost",
+        "body": "Came here to say this. \n\nI don\u2019t think GLW is going to be replacing windows broken from riots. \n\nI do think smartphone components are undervalued though. Looking at QCOM and other Apple suppliers lagging behind Apple\u2019s recovery, might be able to do the same with GLW. \n\nGLW seems to have buyers at 22.50, I\u2019d definitely buy if GLW dropped to somewhere between $20-22, within the next week, and ride the pre earnings surge for a maybe 5-10% profit, but it seems to be closely linked to consumer discretionary so keep an eye out for that",
+        "created_utc": 1591026100,
+        "id": "fsj9xwg",
+        "permalink": "/r/wallstreetbets/comments/guhwdr/looks_like_i_wasnt_the_first_retard/fsj9xwg/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591054900.0
+    },
+    {
+        "author": "cranial_pudding",
+        "body": "Did they talk about QCOM on Cramer or some shit\n\nWhats up with the ridiculous volume on 85c 6/12, I can't find any news and have been waiting all morning",
+        "created_utc": 1591026270,
+        "id": "fsja9q3",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsja9q3/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591055070.0
+    },
+    {
+        "author": "brownbrandon",
+        "body": "Anyone else playing QCOM?",
+        "created_utc": 1591040211,
+        "id": "fsk2vrv",
+        "permalink": "/r/wallstreetbets/comments/guoxyq/daily_discussion_thread_for_june_1_2020/fsk2vrv/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591069011.0
+    },
+    {
+        "author": "light5577",
+        "body": "OP what do you think about QCOM (showed up on unusual options activity with high ratio of open interest / volume)",
+        "created_utc": 1591051121,
+        "id": "fskoutd",
+        "permalink": "/r/options/comments/gutfzh/unusual_option_activity_for_60120/fskoutd/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1591079921.0
+    },
+    {
+        "author": "solidmussel",
+        "body": "So when that happens,  doesnt that just make premiums go up for the same position?\n\nSeems safer to just buy shares or sell the option\n\nInteresting nonetheless. Qcom hasnt seemed too volatile lately",
+        "created_utc": 1591069405,
+        "id": "fsllcaa",
+        "permalink": "/r/options/comments/gus2no/qcom_whats_happening/fsllcaa/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1591098205.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Tuesday, the  2nd of June\n\n\n\n## Upcoming events for Tuesday, June  2nd\n\n - Stock splits:\n\n    - LPI @ **1:20**\n    - VHI @ **1:12**\n\n - Expected earnings:\n\n  AMBA, AMSC, APPS, BBW, BZUN, CBRL, CRDF, CRWD, DCI, DKS, ENT, EVRI, GRPN, HCR, HQY, HUD, IOTS, JT, LEJU, MDLA, PKX, RGS, RLMD, ROSE, TIF, TISI, TUES, WEI, WUBA, ZM\n\n - Ex-div:\n\n  AAON, AROW, AVT, AVY, BBD, BBDO, GHL, HAL, KRNY, LIN, NNA, NPO, ODFL, OPOF, OTTW, PAHC, PEBK, PJT, SLB, UG\n\n - Economic events and announcements:\n\n    - API Weekly Crude Oil Stock (previous: 8.700M)\n    - ISM NY Business Conditions (previous: 4.3%)\n    - ISM-New York Index (previous: 826.5)\n    - Redbook (previous: -1.5%)\n    - Redbook (previous: -5.5%)\n    - Total Vehicle Sales (previous: 8.60M)\n\n## Upcoming events for Wednesday, June  3rd\n\n - Expected earnings:\n\n  AEO, AFMD, ALOT, BWAY, CHNG, CLDR, CMTL, CNK, CORR, CPB, CPRI, CTXR, CZZ, DLPN, ESTC, EXPR, EYES, FOSL, GEF, GOOS, GWRE, HALL, HEPA, HTHT, JAX, LMB, MBOT, MCF, MOGO, PBIO, PXS, QMCO, SBSW, SMAR, TENX, TLYS, UNFI, VOLT, VRA, VRNT, WTI, YJ, ZUO\n\n - Ex-div:\n\n  CEO, FRO, HD, HVT, HVT.A, MBCN, MOS, NEM, NLSN, PTEN, QCOM, RMBI, SSTK, SU\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: -9,000K, previous: -20,236K)\n    - Crude Oil Imports (previous: 2.066M)\n    - Crude Oil Inventories (consensus: 3.300M, previous: 7.928M)\n    - Cushing Crude Oil Inventories (previous: -3.395M)\n    - Distillate Fuel Production (previous: -0.024M)\n    - Durables Excluding Defense (previous: -16.2%)\n    - EIA Refinery Crude Runs  (previous: 0.088M)\n    - EIA Weekly Distillates Stocks (consensus: 3.025M, previous: 5.494M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.9%, previous: 1.9%)\n    - Factory Orders (consensus: -14.0%, previous: -10.4%)\n    - Factory orders ex transportation (previous: -3.7%)\n    - Gasoline Inventories (consensus: 1.350M, previous: -0.724M)\n    - Gasoline Production (previous: 0.005M)\n    - Heating Oil Stockpiles (previous: 0.107M)\n    - ISM Non-Manufacturing Business Activity (consensus: 34.0, previous: 26.0)\n    - ISM Non-Manufacturing Employment (previous: 30.0)\n    - ISM Non-Manufacturing New Orders (previous: 32.9)\n    - ISM Non-Manufacturing PMI (consensus: 44.0, previous: 41.8)\n    - ISM Non-Manufacturing Prices (previous: 55.1)\n    - MBA 30-Year Mortgage Rate (previous: 3.42%)\n    - MBA Mortgage Applications (previous: 2.7%)\n    - Markit Composite PMI (consensus: 36.4, previous: 27.0)\n    - Mortgage Market Index (previous: 746.5)\n    - Seevol Cushing Storage Report (previous: -4.261M)\n    - Services PMI (consensus: 36.9, previous: 26.7)\n\n## Upcoming events for Thursday, June  4th\n\n - Expected earnings:\n\n  AINC, AMC, AVGO, BAK, BITA, BMA, BVXV, CAAS, CAL, CARE, CCEP, CIEN, CLUB, CMD, COO, CRC, CVIA, DBI, DLNG, DLTH, DOCU, DOMO, FLR, FUV, GES, GGAL, GHG, GIII, GPS, HBB, HOME, INWK, IRCP, JILL, KLXE, LLEX, LX, MARK, MDB, MIK, MMYT, MOV, MTN, NAV, NGG, NX, OESX, PD, PRTY, RRGB, RTIX, SAIC, SCWX, SFUN, SJM, SPWH, TNP, TTC, UFAB, VJET, WORK, WPRT, XBIT, XELA, YEXT, ZUMZ\n\n - Ex-div:\n\n  AFB, AIN, AJG, AL, AMNB, ANAT, BAC, BAX, BLK, BOTJ, BRKS, CASS, CBFV, CBSH, CDK, CERN, CHRW, CTXS, D, ESBK, FFNW, FLO, FRME, GARS, GOLF, GPC, HLI, HWC, HWKN, ICBK, INT, KFRC, KMB, KNX, LCII, MANT, MBWM, MLI, NAVI, NVDA, ORI, PBIP, PCH, PEP, PII, RF, SEE, SLM, SNR, SQM, TGNA, TILE, TRST, TT, UFCS, WM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.130%)\n    - 8-Week Bill Auction (previous: 0.135%)\n    - Challenger Job Cuts (previous: 1,576.9%)\n    - Challenger Job Cuts (previous: 671.129K)\n    - Continuing Jobless Claims (consensus: 20,100K, previous: 21,052K)\n    - Exports (previous: 187.80B)\n    - Imports (previous: 232.20B)\n    - Initial Jobless Claims (consensus: 1,800K, previous: 2,123K)\n    - Jobless Claims 4-Week Avg. (previous: 2,608.00K)\n    - Natural Gas Storage (consensus: 107B, previous: 109B)\n    - Nonfarm Productivity (consensus: -2.6%, previous: -2.5%)\n    - Trade Balance (consensus: -49.00B, previous: -44.40B)\n    - Unit Labor Costs (consensus: 5.0%, previous: 4.8%)\n\n## Upcoming events for Friday, June  5th\n\n - Expected earnings:\n\n  ATNM, CONN, GVA, IMVT, TPCO, TRCH, UBA, UTSI\n\n - Ex-div:\n\n  AFIN, BF.A, BF.B, CCBG, FAF, GAIN, INSW, KSU, MLR, MNRO, NSP, ORAN, SVBI, UNF, WRI\n\n - Economic events and announcements:\n\n    - Average Hourly Earnings (YoY) (consensus: 8.6%, previous: 7.9%)\n    - Average Hourly Earnings (consensus: 1.0%, previous: 4.7%)\n    - Average Weekly Hours (consensus: 34.3, previous: 34.2)\n    - CFTC Aluminium speculative net positions (previous: 72.6K)\n    - CFTC Copper speculative net positions (previous: -13.4K)\n    - CFTC Corn speculative net positions (previous: -199.0K)\n    - CFTC Crude Oil speculative net positions (previous: 543.6K)\n    - CFTC Gold speculative net positions (previous: 251.8K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -5.0K)\n    - CFTC Natural Gas speculative net positions (previous: -61.1K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -236.3K)\n    - CFTC Silver speculative net positions (previous: 30.9K)\n    - CFTC Soybeans speculative net positions (previous: 87.6K)\n    - CFTC Wheat speculative net positions (previous: -9.9K)\n    - Consumer Credit (consensus: -20.00B, previous: -12.04B)\n    - Government Payrolls (previous: -980.0K)\n    - Manufacturing Payrolls (consensus: -400K, previous: -1,330K)\n    - Nonfarm Payrolls (consensus: -8,000K, previous: -20,500K)\n    - Participation Rate (previous: 60.2%)\n    - Private Nonfarm Payrolls (consensus: -7,750K, previous: -19,520K)\n    - U.S. Baker Hughes Oil Rig Count (previous: 222)\n    - U.S. Baker Hughes Total Rig Count (previous: 301)\n    - U6 Unemployment Rate (previous: 22.8%)\n    - Unemployment Rate (consensus: 19.7%, previous: 14.7%)\n\n^^^^2020-06-02",
+        "created_utc": 1591092019,
+        "id": "fsmdah9",
+        "permalink": "/r/RobinHood/comments/gv4ib3/daily_discussion_thread_june_2nd_2020/fsmdah9/",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1591120819.0
+    },
+    {
+        "author": "cranial_pudding",
+        "body": "The only play I made today was QCOM 85c 6/12 because of the stupid retarded volume and I felt like I could ride some kind of wave \n\nShits fucked up yo, I'm too scared to plan my plays a day in advance\n\nedit: I lied I also bought PEP 136c 6/12 and 6/19 too",
+        "created_utc": 1591047485,
+        "id": "fskhrxk",
+        "permalink": "/r/wallstreetbets/comments/gurxgt/what_are_your_moves_tomorrow_june_02_2020/fskhrxk/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591076285.0
+    },
+    {
+        "author": "cranial_pudding",
+        "body": "Volume on QCOM 85c 6/12 just went from 16k to 22k in less than 10 minutes lmao",
+        "created_utc": 1591023962,
+        "id": "fsj64h0",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsj64h0/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591052762.0
+    },
+    {
+        "author": "Rhaximus",
+        "body": "QCOM has a dividend tomorrow. Holding overnight is insanely risky.",
+        "created_utc": 1591127110,
+        "id": "fso31ru",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso31ru/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591155910.0
+    },
+    {
+        "author": "terpythrowaway",
+        "body": "qualcomm 85c",
+        "created_utc": 1591125846,
+        "id": "fso0c2t",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso0c2t/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591154646.0
+    },
+    {
+        "author": "bbq-ribs",
+        "body": "&gt; QCOM\n\n\n\n5G hype!!!",
+        "created_utc": 1591125149,
+        "id": "fsnyvd0",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnyvd0/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591153949.0
+    },
+    {
+        "author": "Exeggutemoon",
+        "body": "Up 66% on QCOM calls - you guys holding or going cash?",
+        "created_utc": 1591125546,
+        "id": "fsnzpdo",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnzpdo/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591154346.0
+    },
+    {
+        "author": "terpythrowaway",
+        "body": "GET IN QUALCOMM QUICK",
+        "created_utc": 1591127049,
+        "id": "fso2x1p",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso2x1p/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591155849.0
+    },
+    {
+        "author": "brownbrandon",
+        "body": "Lots of red smh\n\nDKNG 45c 6/5\n\nQCOM 85c 6/5\n\nTAK 20c 6/19",
+        "created_utc": 1591108071,
+        "id": "fsmzcz8",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsmzcz8/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591136871.0
+    },
+    {
+        "author": "Jetisfly420",
+        "body": "Anyone know why QCOM is mooning",
+        "created_utc": 1591125039,
+        "id": "fsnymxc",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnymxc/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591153839.0
+    },
+    {
         "author": "JohnnyBGoodeZSS",
-        "body": "I made so much on QCOM today holy shit",
-        "created_utc": 1591128122,
-        "id": "fso59ik",
-        "score": 2,
+        "body": "Do 6/12 QCOM",
+        "created_utc": 1591125173,
+        "id": "fsnyx6a",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnyx6a/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1591156922.0
+        "created": 1591153973.0
     },
     {
-        "author": "Xbsnguy",
-        "body": "QCOM is basically an auto buy when it bounces between 78-79.",
-        "created_utc": 1591129477,
-        "id": "fso86kr",
-        "score": 2,
+        "author": "Equivalent_Mongoose",
+        "body": "Thank god I got into QCOM this morning",
+        "created_utc": 1591125056,
+        "id": "fsnyo6t",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnyo6t/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1591158277.0
+        "created": 1591153856.0
     },
     {
-        "author": "oughmoment",
-        "body": "What do y\u2019all think about QCOM tomorrow",
-        "created_utc": 1591167147,
-        "id": "fsq0rgp",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591195947.0
+        "author": "money_kat",
+        "body": "I bought a call but it's a gamble. And from what I've been reading that tends to be the case for all UOA moves.\n\nAnyway found this https://www.barrons.com/articles/qualcomm-likely-to-sell-smartphone-chips-to-huawei-analyst-says-51590681654\n\n&gt; The government recently issued new rules that will make it difficult for Huawei\u2019s chip manufacturing arm, HiSilicon, to get access to U.S. semiconductor manufacturing hardware.\n\n&gt; Vinh argues that as a result, Huawei won\u2019t be able to use HiSilicon to source chipsets for its cutting-edge smartphones in 2021\u2014and that the company will instead use Qualcomm\u2019s Snapdragon chipset in its flagship phones, the Mate 50 and P50.\n\n&gt; Qualcomm would need to apply for a license from the Commerce Department\u2019s Bureau of Industry and Security to sell those chips to Huawei. Vinh thinks the request would be granted, and that it would be accompanied by a patent license agreement between Qualcomm and Huawei. Qualcomm for months has been trying to secure a 5G technology license agreement with Huawei, but to no avail.",
+        "created_utc": 1591093740,
+        "id": "fsmf2h9",
+        "permalink": "/r/options/comments/gutfzh/unusual_option_activity_for_60120/fsmf2h9/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1591122540.0
     },
     {
-        "author": "high4days420",
-        "body": "So many i can\u2019t even really name em all. Facebook square earnings. PayPal earnings. Activision earnings. AAXN. Spy 310c. MVRL. CSOD. INO. Qcom. Bud. List goes on",
-        "created_utc": 1591203400,
-        "id": "fsriv6t",
-        "score": 2,
+        "author": "isospeedrix",
+        "body": "what happened to QCOM?\n\nalll i know is that it was on Unusual options activity last week so i picked a few up and paid out",
+        "created_utc": 1591127397,
+        "id": "fso3nul",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso3nul/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1591232200.0
+        "created": 1591156197.0
     },
     {
-        "author": "high4days420",
-        "body": "Qcom 90 6/12. MVRL. Disney. Penn. Work. Cldr. Ko bud. Lvgo. Luv. Orcl. Chef. Eri activision. Mgm. Fedex. Csod. Think i got em all.",
-        "created_utc": 1591204020,
-        "id": "fsrk6x7",
-        "score": 2,
+        "author": "timboSlice490",
+        "body": "Why is Qualcomm mooning all of a sudden?",
+        "created_utc": 1591126989,
+        "id": "fso2sh5",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso2sh5/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1591232820.0
+        "created": 1591155789.0
     },
     {
-        "author": "somanychins",
-        "body": "I think you have your dates wrong. Shareholders as of June 4 are eligible to receive the divident on June 25. On June 25 you should expect it to dump by $0.65. This was announced in April, so I don't think it would cause a run up in share price now.\n\n[https://investor.qualcomm.com/news-events/press-releases/detail/1276/qualcomm-announces-quarterly-cash-dividend](https://investor.qualcomm.com/news-events/press-releases/detail/1276/qualcomm-announces-quarterly-cash-dividend)",
-        "created_utc": 1591138490,
-        "id": "fsoqmrj",
-        "score": 2,
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the  1st of June\n\n\n\n## Upcoming events for Monday, June  1st\n\n - Stock splits:\n\n    - EW @ **3:1** (Payable date: 05/29/2020)\n\n - Expected earnings:\n\n  ATEX, ATHM, AXAS, CANF, CSWC, ENS, ERJ, GSM, HHR, IDXG, IRS, LONE, MLAB, NAOV, NGL, OGEN, PIXY, PLX, PRCP, PSTI, PUMP, QTT, RMBL, SBT, STAF, THR, TTM, XYF\n\n - Ex-div:\n\n  AGR, BPOP, CATY, CRD.A, CRD.B, EBIX, EDUC, ESNT, FAM, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, IGD, IID, ITUB, KEY, KNSL, LHX, NEE, QIWI, RCKY, SNP, SOI, SWK, UVSP, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.130%)\n    - 6-Month Bill Auction (previous: 0.160%)\n    - Construction Spending (consensus: -6.0%, previous: 0.9%)\n    - ISM Manufacturing Employment (consensus: 35.0, previous: 27.5)\n    - ISM Manufacturing New Orders Index (previous: 27.1)\n    - ISM Manufacturing PMI (consensus: 43.0, previous: 41.5)\n    - ISM Manufacturing Prices (consensus: 37.0, previous: 35.3)\n    - Investing.com Gold Index (actual: 52.4%, previous: 56.9%)\n    - Investing.com S&amp;P 500 Index (actual: 23.9%, previous: 22.3%)\n    - Manufacturing PMI (consensus: 39.8, previous: 36.1)\n\n## Upcoming events for Tuesday, June  2nd\n\n - Stock splits:\n\n    - LPI @ **1:20**\n\n - Expected earnings:\n\n  AMBA, APPS, BBW, BZUN, CBRL, CRDF, CRWD, DCI, DKS, ENT, EVRI, GME, GRPN, HCR, HQY, HUD, IOTS, JT, LEJU, MDLA, MOGO, NEXT, PKX, PXS, RGS, RLMD, ROSE, SB, SOHO, TIF, TISI, TUES, WEI, WUBA, ZM\n\n - Ex-div:\n\n  AAON, AROW, AVT, AVY, BBD, BBDO, GHL, HAL, KRNY, LIN, NNA, NPO, ODFL, OPOF, OTTW, PAHC, PEBK, PJT, SLB, UG\n\n - Economic events and announcements:\n\n    - API Weekly Crude Oil Stock (previous: 8.700M)\n    - ISM NY Business Conditions (previous: 4.3%)\n    - ISM-New York Index (previous: 826.5)\n    - Redbook (previous: -1.5%)\n    - Redbook (previous: -5.5%)\n    - Total Vehicle Sales (previous: 8.60M)\n\n## Upcoming events for Wednesday, June  3rd\n\n - Expected earnings:\n\n  ABM, AEO, AKTX, ALOT, AMSC, BWAY, CHNG, CLDR, CMTL, CNK, CORR, CPB, CPRI, CTXR, CZZ, DLPN, ESTC, EXPR, EYES, FOSL, GEF, GOOS, GWRE, HALL, HEPA, JAX, LMB, MBOT, MCF, NOVN, PBIO, PVH, QES, QMCO, SBSW, SMAR, SRNE, TENX, TLYS, UNFI, VOLT, VRA, VRNT, WTI, YJ, ZUO\n\n - Ex-div:\n\n  CEO, FRO, HD, HVT, HVT.A, MBCN, MOS, NEM, NLSN, PTEN, QCOM, RMBI, SSTK, SU\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: -9,000K, previous: -20,236K)\n    - Crude Oil Imports (previous: 2.066M)\n    - Crude Oil Inventories (consensus: -1.944M, previous: 7.928M)\n    - Cushing Crude Oil Inventories (previous: -3.395M)\n    - Distillate Fuel Production (previous: -0.024M)\n    - Durables Excluding Defense (previous: -16.2%)\n    - EIA Refinery Crude Runs  (previous: 0.088M)\n    - EIA Weekly Distillates Stocks (consensus: 1.771M, previous: 5.494M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 1.0%, previous: 1.9%)\n    - Factory Orders (consensus: -12.5%, previous: -10.4%)\n    - Factory orders ex transportation (previous: -3.7%)\n    - Gasoline Inventories (consensus: 0.100M, previous: -0.724M)\n    - Gasoline Production (previous: 0.005M)\n    - Heating Oil Stockpiles (previous: 0.107M)\n    - ISM Non-Manufacturing Business Activity (previous: 26.0)\n    - ISM Non-Manufacturing Employment (previous: 30.0)\n    - ISM Non-Manufacturing New Orders (previous: 32.9)\n    - ISM Non-Manufacturing PMI (consensus: 44.0, previous: 41.8)\n    - ISM Non-Manufacturing Prices (previous: 55.1)\n    - MBA 30-Year Mortgage Rate (previous: 3.42%)\n    - MBA Mortgage Applications (previous: 2.7%)\n    - Markit Composite PMI (consensus: 36.4, previous: 27.0)\n    - Mortgage Market Index (previous: 746.5)\n    - Seevol Cushing Storage Report (previous: -4.261M)\n    - Services PMI (consensus: 36.9, previous: 26.7)\n\n## Upcoming events for Thursday, June  4th\n\n - Expected earnings:\n\n  AINC, AMC, AVGO, BAK, BITA, BMA, BVXV, CAAS, CAL, CARE, CCEP, CIEN, CLUB, CMD, COO, CRC, CVIA, DBI, DLNG, DLTH, DOCU, DOMO, FLR, FUV, GES, GGAL, GHG, GIII, GPS, HBB, HOME, INWK, IRCP, JILL, KLXE, LLEX, MARK, MDB, MIK, MMYT, MOV, MTN, NAV, NGG, NX, OESX, PD, PRTY, RRGB, RTIX, SAIC, SCWX, SEAC, SENS, SJM, SPWH, TNP, TTC, UFAB, VJET, WORK, WPRT, XBIT, XELA, YEXT, ZUMZ\n\n - Ex-div:\n\n  AFB, AIN, AJG, AL, AMNB, ANAT, BAC, BAX, BLK, BOTJ, BRKS, CASS, CBFV, CBSH, CDK, CERN, CHRW, CTXS, D, ESBK, FFNW, FLO, FRME, GARS, GOLF, GPC, HLI, HWC, HWKN, ICBK, INT, KFRC, KMB, KNX, LCII, MANT, MBWM, MLI, NAVI, NVDA, ORI, PBIP, PCH, PEP, PII, RF, SEE, SLM, SNR, SQM, TGNA, TILE, TRST, TT, UFCS, WM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.130%)\n    - 8-Week Bill Auction (previous: 0.135%)\n    - Challenger Job Cuts (previous: 1,576.9%)\n    - Challenger Job Cuts (previous: 671.129K)\n    - Continuing Jobless Claims (consensus: 25,750K, previous: 21,052K)\n    - Exports (previous: 187.80B)\n    - Imports (previous: 232.20B)\n    - Initial Jobless Claims (consensus: 1,800K, previous: 2,123K)\n    - Jobless Claims 4-Week Avg. (previous: 2,608.00K)\n    - Natural Gas Storage (consensus: 107B, previous: 109B)\n    - Nonfarm Productivity (consensus: -2.5%, previous: -2.5%)\n    - Trade Balance (consensus: -44.30B, previous: -44.40B)\n    - Unit Labor Costs (consensus: 4.8%, previous: 4.8%)\n\n^^^^2020-06-01",
+        "created_utc": 1591005619,
+        "id": "fsigvgq",
+        "permalink": "/r/RobinHood/comments/guhudl/daily_discussion_thread_june_1st_2020/fsigvgq/",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1591034419.0
+    },
+    {
+        "author": "wdmx",
+        "body": "QCOM",
+        "created_utc": 1591022197,
+        "id": "fsj2xff",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsj2xff/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1591167290.0
+        "created": 1591050997.0
+    },
+    {
+        "author": "cranial_pudding",
+        "body": "18k volume and less than 100 OI on QCOM 85c 6/12",
+        "created_utc": 1591023529,
+        "id": "fsj5bpl",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsj5bpl/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591052329.0
+    },
+    {
+        "author": "jabathehut6900",
+        "body": "Anyone see the volume of QCOM options for 6/12?",
+        "created_utc": 1591023873,
+        "id": "fsj5ykg",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsj5ykg/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591052673.0
+    },
+    {
+        "author": "slothtastic24",
+        "body": "QCOM 6/12 85 has 25k volume",
+        "created_utc": 1591027709,
+        "id": "fsjd590",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsjd590/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591056509.0
+    },
+    {
+        "author": "cranial_pudding",
+        "body": "I think there's money to be made on INTC short term, there's some weird call activity all the way up to 70, I just wouldn't expect it to meme out like some of these other tech stocks\n\nIf you're playing in this sector right now, QCOM has some wild activity on 85c 6/12",
+        "created_utc": 1591028595,
+        "id": "fsjewrx",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsjewrx/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591057395.0
+    },
+    {
+        "author": "EAH5515",
+        "body": "I'm investing in 5g stocks like qualcomm and version and I'm also picking up some sony and amd because sony is coming out with the ps5. AMD because they are making the processors for the PS5 and the Xbox those are most of my speculative plays but I'm also buying some dividend aristocrats like colgate palmolive because they're so stable no matter what.",
+        "created_utc": 1591065478,
+        "id": "fslesnl",
+        "permalink": "/r/stocks/comments/gu3q71/people_who_invested_in_stocks_during_the_2008/fslesnl/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1591094278.0
+    },
+    {
+        "author": "omart008",
+        "body": "Anyone getting in QCOM?",
+        "created_utc": 1591031013,
+        "id": "fsjjsyv",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsjjsyv/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591059813.0
+    },
+    {
+        "author": "Jetisfly420",
+        "body": "QCOM chill daddy",
+        "created_utc": 1591124448,
+        "id": "fsnxdrh",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnxdrh/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1591153248.0
     },
     {
         "author": "JohnnyBGoodeZSS",
-        "body": "ERI and QCOM are making me so happy today",
-        "created_utc": 1591197459,
-        "id": "fsr6a0f",
-        "score": 2,
+        "body": "Made back everything I lost with DKNG and then some with QCOM",
+        "created_utc": 1591125124,
+        "id": "fsnyth1",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnyth1/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1591226259.0
-    },
-    {
-        "author": "Steezy12",
-        "body": "QCOM DADDY LETS HIT 92 TODAY",
-        "created_utc": 1591621784,
-        "id": "ftd6nnn",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591650584.0
-    },
-    {
-        "author": "thenewredditguy99",
-        "body": "Qualcomm",
-        "created_utc": 1591749687,
-        "id": "ftjb2a3",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1591778487.0
-    },
-    {
-        "author": "bshaman1993",
-        "body": "Qcom amd yes others not really",
-        "created_utc": 1591334583,
-        "id": "fsxypvo",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591363383.0
-    },
-    {
-        "author": "martymcflyskateboard",
-        "body": "QCOM definitely got P&amp;D'd",
-        "created_utc": 1592504100,
-        "id": "fv98nvu",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1592532900.0
-    },
-    {
-        "author": "pajumajo",
-        "body": "7/17 $QCOM 100c 5G either gonna give me tendies or covid.",
-        "created_utc": 1592499292,
-        "id": "fv8yoc1",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1592528092.0
-    },
-    {
-        "author": "amandahuggs",
-        "body": "Man, I'm torn over this. QCOM has massive exposure to Huawei.  Our whole 5G plan assumes that we will not use Huawei to build out 5g (IMO, the right call).  If CCP retaliates, QCOM can take a pretty big hit.",
-        "created_utc": 1592438348,
-        "id": "fv6hgmt",
-        "score": 2,
-        "subreddit": "smallstreetbets",
-        "created": 1592467148.0
-    },
-    {
-        "author": "amandahuggs",
-        "body": "oh i meant that CCP can apply a tariff on QCOM in retaliation for us dropping Huawei.  but i guess my concern applies to many companies including most of retail because they rely heavily on CCP-controlled supply chains.",
-        "created_utc": 1592452187,
-        "id": "fv75a0x",
-        "score": 2,
-        "subreddit": "smallstreetbets",
-        "created": 1592480987.0
-    },
-    {
-        "author": "ZeroPt99",
-        "body": "Grabbed Qualcomm, Dycom, and Ericsson.  Hopefully you're right.  Even if you're not, this stuff has been steadily climbing for the month so I don't think I'll lose my ass on it.",
-        "created_utc": 1592417031,
-        "id": "fv5986t",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1592445831.0
-    },
-    {
-        "author": "MFxL0C0",
-        "body": "SMH it\u2019s a really great tech etf that has like amd intel Qualcomm so like semiconductors production. I think with 5g rolling out more this will be a great buy.",
-        "created_utc": 1592372546,
-        "id": "fv3gawz",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1592401346.0
-    },
-    {
-        "author": "MavFan1812",
-        "body": "Also, while their mobile SoCs may not be at Apple's level recently, they're positioned better than anyone else to get there. If ARM starts to fully crowd X86 out of the consumer space, Qualcomm is likely to play a big role.",
-        "created_utc": 1593025672,
-        "id": "fvvpof7",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1593054472.0
-    },
-    {
-        "author": "WittsandGrit",
-        "body": "NOK ERIC QCOM AMT CCI",
-        "created_utc": 1592958446,
-        "id": "fvsv182",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1592987246.0
+        "created": 1591153924.0
     },
     {
         "author": "high4days420",
-        "body": "Holy shit. Qualcomm with the nasty after hours movement. Wish i bought yesterday \ud83d\ude29\ud83d\ude29\ud83d\ude29\ud83d\ude29\ud83d\ude29\ud83d\ude29",
-        "created_utc": 1592309643,
-        "id": "fv05mbz",
+        "body": "Qcom can\u2019t stop won\u2019t stop",
+        "created_utc": 1591127306,
+        "id": "fso3gx6",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso3gx6/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592338443.0
+        "created": 1591156106.0
     },
     {
-        "author": "t_baum88",
-        "body": "god fucking dammit qcom i could cry",
-        "created_utc": 1592294613,
-        "id": "fuzpjbr",
+        "author": "brownbrandon",
+        "body": "QCOM printing",
+        "created_utc": 1591127459,
+        "id": "fso3slk",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso3slk/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592323413.0
+        "created": 1591156259.0
     },
     {
-        "author": "giant_g2",
-        "body": "I think Apple's computers are going to ARM. Are they using QCOM or developing/manufacturing their own?",
-        "created_utc": 1592313877,
-        "id": "fv0c0wc",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1592342677.0
-    },
-    {
-        "author": "QPMKE",
-        "body": "&amp;#x200B;\n\n|BABA|Alibaba|16.25%|Long|\n|:-|:-|:-|:-|\n|BACHY|Bank of China|1.38%|Long|\n|CAN|Canaan|0.30%|Long|\n|CCH|Collier Creek Holdings|1.05%|Short|\n|CCL|Carnival Cruise Lines|2.80%|Long|\n|CNHI|CNH Industrial|1.00%|Long|\n|DGLY|Digital Ally|0.75%|Short|\n|ERIC|Ericsson|0.67%|Long|\n|EURN|Euronav|2.71%|Long|\n|FMCI|Forum Merger|4.25%|Short|\n|HCCH|HL Acquisitions|1.63%|Short|\n|HERO|GlobalX Video Games &amp; eSports ETF|3.21%|Long|\n|KR|Kroger|2.40%|Long|\n|NCLH|Norwegian Cruise Lines|1.42%|Long|\n|NERD|Roundhill eSports &amp; Digital Entertainment ETF|2.85%|Long|\n|OPES|Opes Acquisitions|0.96%|Short|\n|RTX|Raytheon Technologies|9.64%|Long|\n|SKM|SK Telecom|2.72%|Long|\n|STNG|Scorpio Tankers|1.19%|Long|\n|TAOP|Taoping|1.26%|Long|\n|TTNP|Titan Pharmaceuticals|0.92%|Long|\n|UXIN|Uxin|1.10%|Short|\n|WB|Weibo|4.95%|Long|\n||Cash|34.58%||\n\nLooking to exit positions in $SKM, $UXIN, and $WB. Looking to pick up positions in $BILI, $BP, and $QCOM. Would like to increase positions in $BABA and $RTX.",
-        "created_utc": 1592231104,
-        "id": "fuwjsb1",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1592259904.0
-    },
-    {
-        "author": "SparkPlug310",
-        "body": "Im riding this out with you, i'm 24 and a pussy when it comes to WSB autist level calls. New to this. Bought a call for qualcomm, same as you. And bought 4 calls for Nokia, same as you. If i get fucked, you owe me your first born hahahahaha",
-        "created_utc": 1592413405,
-        "id": "fv51jw2",
+        "author": "scuddlebud",
+        "body": "that would be good for my qualcomm put which is -50% right now.",
+        "created_utc": 1591112997,
+        "id": "fsn9850",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsn9850/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592442205.0
+        "created": 1591141797.0
     },
     {
-        "author": "varrock_dark_wizard",
-        "body": "Qualcomm fds for Friday got it",
-        "created_utc": 1592413193,
-        "id": "fv514dc",
+        "author": "cranial_pudding",
+        "body": "That makes sense, INTC has some unusual call activity too but nothing like QCOM",
+        "created_utc": 1591026364,
+        "id": "fsjagae",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsjagae/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592441993.0
+        "created": 1591055164.0
     },
     {
-        "author": "loudsynthetic",
-        "body": "Honestly, cheaper stock. I'm sure they'll get at least a few contracts. Even if it's not as many as Qualcomm, I think they have more potential for gains. I'm picking up a few Qualcomm shares too, since I just confirmed they are also making chips for the new iPhone",
-        "created_utc": 1592442001,
-        "id": "fv6of50",
+        "author": "sushishart",
+        "body": "Based on current events I imagine it is because QCOM is expected to increase sales in regions that will ban Huawei.",
+        "created_utc": 1591082715,
+        "id": "fsm3ir2",
+        "permalink": "/r/options/comments/gus2no/qcom_whats_happening/fsm3ir2/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1591111515.0
+    },
+    {
+        "author": "MRTNK505",
+        "body": "I got some 5G players in my watchlist I noticed NOK got some upward activity today, QCOM is there along with MU, MU got recently upgraded too and its trading way below its value. Just gotta watch out for that China-US semiconductor cold war, kinda risky.",
+        "created_utc": 1591061013,
+        "id": "fsl6yaz",
+        "permalink": "/r/options/comments/gus2no/qcom_whats_happening/fsl6yaz/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1591089813.0
+    },
+    {
+        "author": "Jetisfly420",
+        "body": "I hope you listened to by QCOM call",
+        "created_utc": 1591125845,
+        "id": "fso0bzu",
+        "permalink": "/r/wallstreetbets/comments/gurxgt/what_are_your_moves_tomorrow_june_02_2020/fso0bzu/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592470801.0
+        "created": 1591154645.0
     },
     {
-        "author": "michaelchij",
-        "body": "21 in university. I started abit over a month ago. Very heavy on tech as that\u2019s my field of study so it\u2019s easier for me to understand companies and trends. Let me know what y\u2019all think and any other suggestions\n\n\u2014- Account1 \u2014-\n\nXIT.TO - 7.1%\n\nGIB.A.TO- 5.51%\n\nSNE- 17.51%\n\nTRP.TO - 3.24%\n\nRCI.A.TO - 7.98%\n\nQCOM - 12.1%\n\nERIC- 12.24% \n\nBMO.TO - 8.25% \n\n\u2014-Account 2 \u2014-\n\nAC.TO- 11.21%\n\nAP.UN.TO - 28.94%\n\nCAR.UN.TO- 14.68%\n\nSRU.UN.TO- 43.99%\n\nMost of account1 I\u2019m looking to trade within 2-3years. Keeping XIT and GIB. Maybe QCOM. \n\nAlso considering Apple, MSFT, T-Mobile",
-        "created_utc": 1592432799,
-        "id": "fv66s9d",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1592461599.0
-    },
-    {
-        "author": "mmrrbbee",
-        "body": "Qcom also doesn\u2019t move much",
-        "created_utc": 1592447244,
-        "id": "fv6xbg6",
-        "score": 1,
-        "subreddit": "smallstreetbets",
-        "created": 1592476044.0
-    },
-    {
-        "author": "digganickrick",
-        "body": "I've had some 5G calls in anticipation of this. MRVL, NOK, VZ, QCOM,and ERIC. Hope it goes well.",
-        "created_utc": 1592434805,
-        "id": "fv6ajlw",
+        "author": "JohnnyBGoodeZSS",
+        "body": "Anybody else riding this crazy QCOM wave??",
+        "created_utc": 1591124928,
+        "id": "fsnyee9",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsnyee9/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592463605.0
+        "created": 1591153728.0
     },
     {
-        "author": "cake_aholic",
-        "body": "Look at what company the CEO works for...[Qualcomm](https://www.qualcomm.com/).\n\nThey will probably target like companies.",
-        "created_utc": 1592450600,
-        "id": "fv72rst",
-        "score": 1,
-        "subreddit": "SPACs",
-        "created": 1592479400.0
-    },
-    {
-        "author": "fancykevin00",
-        "body": "Love the DD- I feel the odds are in your favor\n\nThe simple fact that MOST of the tards on here are calling this the dumbest idea ever...\n\nWell... I'm sold even more now.\n\nTomorrow morning I will add Qcom to my current NOK position: [https://i.imgur.com/ZOPKqT9.png](https://i.imgur.com/ZOPKqT9.png)\n\nI also played Ford really well and I bounced my trade idea on here like you are just doing....\n\n I was called an idiot and I'll be wasting my money, i'll get theta banged...lmao\n\nHere is the Position I took: [https://i.imgur.com/ZfxZ0Ve.png](https://i.imgur.com/ZfxZ0Ve.png)\n\nThis was the result: [https://i.imgur.com/ahUK6Ot.png](https://i.imgur.com/ahUK6Ot.png)\n\nMay it rain massive tendies on us both\n\nThank you for the DD, Kudos &amp; Good Luck",
-        "created_utc": 1592460381,
-        "id": "fv7ghpn",
+        "author": "slothtastic24",
+        "body": "Qualcomm fuckin RIPPING holy shit why didn\u2019t I buy more",
+        "created_utc": 1591127259,
+        "id": "fso3d9x",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso3d9x/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592489181.0
+        "created": 1591156059.0
     },
     {
-        "author": "protos32",
-        "body": "Well christ. How are you playing this? NOK is good but isn't QCOM more attractive being an american company?",
-        "created_utc": 1592486050,
-        "id": "fv89jjj",
+        "author": "tinderdrunkman101",
+        "body": "Got in at 79 on QCOM, big ol rip today",
+        "created_utc": 1591127142,
+        "id": "fso349n",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso349n/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592514850.0
+        "created": 1591155942.0
     },
     {
-        "author": "Supersecretsauceboss",
-        "body": "Yes. I am saying that. But that\u2019s also why Qualcomm is expensive. \n\nNokia and Ericsson are super cheap and also great plays.",
-        "created_utc": 1592404451,
-        "id": "fv4jkm8",
+        "author": "JohnnyBGoodeZSS",
+        "body": "Not too late for QCOM this shit is blasting off",
+        "created_utc": 1591126296,
+        "id": "fso1ao1",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fso1ao1/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1592433251.0
+        "created": 1591155096.0
     },
     {
-        "author": "AlexValleDoesCocaine",
-        "body": "MSFT, AAPL, AMZN, GOOG, CRM, MA, V, CCI.\n\nDOCU, AYX, SQ, PYPL, CDNS, XLNX, TER.\n\nTDOC, CRNC, ALRM, LITE.\n\nFree reveal of one \"top\" stocks: https://imgur.com/a/FKAPgzc. \n\n[Shh.](https://imgur.com/a/nhAfyA2) Don't Tekashi 6ix9ine this thread.",
-        "created_utc": 1591320595,
-        "id": "fsxc5a8",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1591349395.0
-    },
-    {
-        "author": "Rhetorik3",
-        "body": "I've been killing it on semiconductor longs the past 2 weeks. Should be more big gains if congress approves $37B for more semi infrastructure.  [https://www.wsj.com/articles/semiconductor-industry-to-lobby-for-billions-to-boost-u-s-manufacturing-11590919201](https://www.wsj.com/articles/semiconductor-industry-to-lobby-for-billions-to-boost-u-s-manufacturing-11590919201)  \n\n\nSemi Positions: AMAT, AMD, ASML, AVGO, LCRX, TER, &amp; TSM   \n\n\nAlso financials looking poised for a rally, holding C and FAS. Unrelated long positions: ABBV, NOC, LMT, MMM, MRK, SNE, &amp; TMUS",
-        "created_utc": 1591281620,
-        "id": "fsv4e9p",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1591310420.0
-    },
-    {
-        "author": "jakekap5",
-        "body": "Definitely the top 5 IMO. $TER seems to be the unsung hero here. Look out for them in NJ and PA",
-        "created_utc": 1592144091,
-        "id": "fusvk7c",
-        "score": 1,
-        "subreddit": "weedstocks",
-        "created": 1592172891.0
-    },
-    {
-        "author": "Trisolaran_arbitrage",
-        "body": "Hi all,\n\nI have been following the subreddit for a while now and I have to say I am a big fan of reading some of the in-depth analysis provided here. Some of the old links to letters are fascinating and I have learned a ton just following along. \n\nAnyways, one of the company's I have been researching over the past almost year is Teradyne. While reading their latest 10Q, I come across the below paragraph under their revenue section which describes them selling their accounts receivables to third-parties. I am unfamiliar with the mechanics of this and how the below works, if someone could point me in the right direction for a resource or provide a quick explainer that would be great.\n\nFrom 10Q:\n\n *Accounts Receivable*\n\n*Teradyne sells certain trade accounts receivables on a non-recourse basis to third-party financial institutions pursuant to factoring agreements. Teradyne accounts for these transactions as sales of receivables and presents cash proceeds as a cash provided by operating activities in the consolidated statements of cash flows. Total trade accounts receivable sold under the factoring agreements were $46.8\u00a0million and $41.7\u00a0million for the three months ended March\u00a029, 2020 and March\u00a031, 2019, respectively. Factoring fees for the sales of receivables were recorded in interest expense and were not material.*\n\nI am looking for a possible reason that they might sell their accounts receivables and if this is possibly any type of red flag? When I peruse Google, it seems that a typical reason that a company would sell accounts receivables is to raise cash, but TER typically has a good amount of cash on hand. \n\nI appreciate any help,",
-        "created_utc": 1592059352,
-        "id": "fupfarj",
-        "score": 1,
-        "subreddit": "SecurityAnalysis",
-        "created": 1592088152.0
-    },
-    {
-        "author": "thabishop",
-        "body": "My parents own LU0179866438, \"advised\" by their banker a long time ago.  \nI know the TER is too much for the stocks part of the Funds and I would defnitely advise them other ETF's. I would like to understand the bonds piece.  \n30% of the funds is in bonds. Is there any article about mixed funds and how to understand bond performance?  \n I dont understand how the yield etc works in such a funds. but I would think paying 1.45% TER for this is rediculous?   \nHow do they justify this TER for bonds if bonds return less in general? Or would they be good at buying bonds at a low price and sell them high before maturity?  \nThanks!",
-        "created_utc": 1592243944,
-        "id": "fuxais6",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1592272744.0
-    },
-    {
-        "author": "aforass",
-        "body": "Last I checked, NFLX fell in March alongside the market. ZM fell in April (although ZM didn't really follow the market and fell for other reasons). \n\nIf you're convinced this stock won't follow the market and it'll do well in the near ter, go for it. However, consider the fact that there might be a better opportunity to get into it later on.",
-        "created_utc": 1591069784,
-        "id": "fsllyle",
-        "score": 1,
-        "subreddit": "pennystocks",
-        "created": 1591098584.0
-    },
-    {
-        "author": "bikelanejane",
-        "body": "There's a couple impatient noobs trying to make plays on TER. Low volume and what feels like a low float seems to make it move fairly easily.  Just look at that drop eod Friday. I want to catch this stock in the 2.30's again. I think it's going to fly like ACB did when it was dancing in the $2's for ages and then shot to $8+ in Oct 2017 before the top during the 2017 holidays",
-        "created_utc": 1591480268,
-        "id": "ft71u29",
-        "score": 1,
-        "subreddit": "weedstocks",
-        "created": 1591509068.0
-    },
-    {
-        "author": "lincoln929",
-        "body": "Anybody has any recommendation on TER?",
-        "created_utc": 1591641591,
-        "id": "fte8g97",
+        "author": "OneMoreHappyDay",
+        "body": "QCOM",
+        "created_utc": 1591113356,
+        "id": "fsn9yvf",
+        "permalink": "/r/wallstreetbets/comments/gv4nuh/daily_discussion_thread_for_june_02_2020/fsn9yvf/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1591670391.0
+        "created": 1591142156.0
     },
     {
-        "author": "bikelanejane",
-        "body": "Patience. It'll come again. Pot stocks still do not have everyone's attention. Let alone TER",
-        "created_utc": 1591664415,
-        "id": "ftfghvm",
-        "score": 1,
-        "subreddit": "weedstocks",
-        "created": 1591693215.0
-    },
-    {
-        "author": "FerrariBenz",
-        "body": "TER looking coiled and ready to go",
-        "created_utc": 1591816443,
-        "id": "ftm53it",
-        "score": 1,
-        "subreddit": "weedstocks",
-        "created": 1591845243.0
-    },
-    {
-        "author": "Hypn0sh",
-        "body": "What are you talking about? Long ter. Trend up / midterm up. 2 day trend ( not even saying lower timeframe) down so open your autist eyes",
-        "created_utc": 1592175784,
-        "id": "fuughc1",
-        "score": 1,
+        "author": "CantonGooner",
+        "body": "a lot of people buying QCOM calls, anything going on with them?",
+        "created_utc": 1591039808,
+        "id": "fsk221q",
+        "permalink": "/r/wallstreetbets/comments/gu5xww/what_are_your_moves_tomorrow_june_01_2020/fsk221q/",
+        "score": 0,
         "subreddit": "wallstreetbets",
-        "created": 1592204584.0
+        "created": 1591068608.0
     },
     {
-        "author": "OG-sippingthatlean-O",
-        "body": "Who do you think major LPs will be?  My guess is \nCGC, if constellation doesn\u2019t go bk and Klein isn\u2019t a fraud, Hexo if their drinks with molson are a killer. Fire; If premium weed is actually favoured over price, VFF EMH (PSF). TER. IMO APHA already made it. many other companies are too sketchy and a fraud. \nweedmd medically if union deal goes great. \n5/6 major LPs is logical, and no where close to excessive.",
-        "created_utc": 1591861321,
-        "id": "ftoad40",
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the  1st of June\n\n\n\n## Upcoming events for Monday, June  1st\n\n - Stock splits:\n\n    - EW @ **3:1** (Payable date: 05/29/2020)\n\n - Expected earnings:\n\n  ATEX, ATHM, AXAS, CANF, CSWC, ENS, ERJ, GSM, HHR, IDXG, IRS, LONE, MLAB, NAOV, NGL, OGEN, PIXY, PLX, PRCP, PSTI, PUMP, QTT, RMBL, SBT, STAF, THR, TTM, XYF\n\n - Ex-div:\n\n  AGR, BPOP, CATY, CRD.A, CRD.B, EBIX, EDUC, ESNT, FAM, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, IGD, IID, ITUB, KEY, KNSL, LHX, NEE, QIWI, RCKY, SNP, SOI, SWK, UVSP, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.130%)\n    - 6-Month Bill Auction (previous: 0.160%)\n    - Construction Spending (consensus: -6.0%, previous: 0.9%)\n    - ISM Manufacturing Employment (consensus: 35.0, previous: 27.5)\n    - ISM Manufacturing New Orders Index (previous: 27.1)\n    - ISM Manufacturing PMI (consensus: 43.0, previous: 41.5)\n    - ISM Manufacturing Prices (consensus: 37.0, previous: 35.3)\n    - Investing.com Gold Index (actual: 52.4%, previous: 56.9%)\n    - Investing.com S&amp;P 500 Index (actual: 23.9%, previous: 22.3%)\n    - Manufacturing PMI (consensus: 39.8, previous: 36.1)\n\n## Upcoming events for Tuesday, June  2nd\n\n - Stock splits:\n\n    - LPI @ **1:20**\n\n - Expected earnings:\n\n  AMBA, APPS, BBW, BZUN, CBRL, CRDF, CRWD, DCI, DKS, ENT, EVRI, GME, GRPN, HCR, HQY, HUD, IOTS, JT, LEJU, MDLA, MOGO, NEXT, PKX, PXS, RGS, RLMD, ROSE, SB, SOHO, TIF, TISI, TUES, WEI, WUBA, ZM\n\n - Ex-div:\n\n  AAON, AROW, AVT, AVY, BBD, BBDO, GHL, HAL, KRNY, LIN, NNA, NPO, ODFL, OPOF, OTTW, PAHC, PEBK, PJT, SLB, UG\n\n - Economic events and announcements:\n\n    - API Weekly Crude Oil Stock (previous: 8.700M)\n    - ISM NY Business Conditions (previous: 4.3%)\n    - ISM-New York Index (previous: 826.5)\n    - Redbook (previous: -1.5%)\n    - Redbook (previous: -5.5%)\n    - Total Vehicle Sales (previous: 8.60M)\n\n## Upcoming events for Wednesday, June  3rd\n\n - Expected earnings:\n\n  ABM, AEO, AKTX, ALOT, AMSC, BWAY, CHNG, CLDR, CMTL, CNK, CORR, CPB, CPRI, CTXR, CZZ, DLPN, ESTC, EXPR, EYES, FOSL, GEF, GOOS, GWRE, HALL, HEPA, JAX, LMB, MBOT, MCF, NOVN, PBIO, PVH, QES, QMCO, SBSW, SMAR, SRNE, TENX, TLYS, UNFI, VOLT, VRA, VRNT, WTI, YJ, ZUO\n\n - Ex-div:\n\n  CEO, FRO, HD, HVT, HVT.A, MBCN, MOS, NEM, NLSN, PTEN, QCOM, RMBI, SSTK, SU\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: -9,000K, previous: -20,236K)\n    - Crude Oil Imports (previous: 2.066M)\n    - Crude Oil Inventories (consensus: -1.944M, previous: 7.928M)\n    - Cushing Crude Oil Inventories (previous: -3.395M)\n    - Distillate Fuel Production (previous: -0.024M)\n    - Durables Excluding Defense (previous: -16.2%)\n    - EIA Refinery Crude Runs  (previous: 0.088M)\n    - EIA Weekly Distillates Stocks (consensus: 1.771M, previous: 5.494M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 1.0%, previous: 1.9%)\n    - Factory Orders (consensus: -12.5%, previous: -10.4%)\n    - Factory orders ex transportation (previous: -3.7%)\n    - Gasoline Inventories (consensus: 0.100M, previous: -0.724M)\n    - Gasoline Production (previous: 0.005M)\n    - Heating Oil Stockpiles (previous: 0.107M)\n    - ISM Non-Manufacturing Business Activity (previous: 26.0)\n    - ISM Non-Manufacturing Employment (previous: 30.0)\n    - ISM Non-Manufacturing New Orders (previous: 32.9)\n    - ISM Non-Manufacturing PMI (consensus: 44.0, previous: 41.8)\n    - ISM Non-Manufacturing Prices (previous: 55.1)\n    - MBA 30-Year Mortgage Rate (previous: 3.42%)\n    - MBA Mortgage Applications (previous: 2.7%)\n    - Markit Composite PMI (consensus: 36.4, previous: 27.0)\n    - Mortgage Market Index (previous: 746.5)\n    - Seevol Cushing Storage Report (previous: -4.261M)\n    - Services PMI (consensus: 36.9, previous: 26.7)\n\n## Upcoming events for Thursday, June  4th\n\n - Expected earnings:\n\n  AINC, AMC, AVGO, BAK, BITA, BMA, BVXV, CAAS, CAL, CARE, CCEP, CIEN, CLUB, CMD, COO, CRC, CVIA, DBI, DLNG, DLTH, DOCU, DOMO, FLR, FUV, GES, GGAL, GHG, GIII, GPS, HBB, HOME, INWK, IRCP, JILL, KLXE, LLEX, MARK, MDB, MIK, MMYT, MOV, MTN, NAV, NGG, NX, OESX, PD, PRTY, RRGB, RTIX, SAIC, SCWX, SEAC, SENS, SJM, SPWH, TNP, TTC, UFAB, VJET, WORK, WPRT, XBIT, XELA, YEXT, ZUMZ\n\n - Ex-div:\n\n  AFB, AIN, AJG, AL, AMNB, ANAT, BAC, BAX, BLK, BOTJ, BRKS, CASS, CBFV, CBSH, CDK, CERN, CHRW, CTXS, D, ESBK, FFNW, FLO, FRME, GARS, GOLF, GPC, HLI, HWC, HWKN, ICBK, INT, KFRC, KMB, KNX, LCII, MANT, MBWM, MLI, NAVI, NVDA, ORI, PBIP, PCH, PEP, PII, RF, SEE, SLM, SNR, SQM, TGNA, TILE, TRST, TT, UFCS, WM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.130%)\n    - 8-Week Bill Auction (previous: 0.135%)\n    - Challenger Job Cuts (previous: 1,576.9%)\n    - Challenger Job Cuts (previous: 671.129K)\n    - Continuing Jobless Claims (consensus: 25,750K, previous: 21,052K)\n    - Exports (previous: 187.80B)\n    - Imports (previous: 232.20B)\n    - Initial Jobless Claims (consensus: 1,800K, previous: 2,123K)\n    - Jobless Claims 4-Week Avg. (previous: 2,608.00K)\n    - Natural Gas Storage (consensus: 107B, previous: 109B)\n    - Nonfarm Productivity (consensus: -2.5%, previous: -2.5%)\n    - Trade Balance (consensus: -44.30B, previous: -44.40B)\n    - Unit Labor Costs (consensus: 4.8%, previous: 4.8%)\n\n^^^^2020-06-01",
+        "created_utc": 1591005619,
+        "id": "fsigvgq",
+        "permalink": "/r/RobinHood/comments/guhudl/daily_discussion_thread_june_1st_2020/fsigvgq/",
         "score": 1,
-        "subreddit": "weedstocks",
-        "created": 1591890121.0
-    },
-    {
-        "author": "Greatkesh",
-        "body": "I agree, I think it\u2019s the same idea as many trades.  Buy the dips and sell the highs.   This one just recently dipped HARD.   So hopefully news will wake this up.    I\u2019m watching for entry this morning.   \n\nAlso, the President of the company\u2019s last AGV company was bought out recently for $165,000,000 buy Teradyne ($TER) which is trading in the $65-$70 range.    It\u2019s an interesting play here.  https://roboticsandautomationnews.com/2019/10/23/teradyne-doubles-down-on-mobile-robots-with-autoguide-acquisition/26423/",
-        "created_utc": 1591016691,
-        "id": "fsitult",
-        "score": 1,
-        "subreddit": "pennystocks",
-        "created": 1591045491.0
-    },
-    {
-        "author": "monkey_prick",
-        "body": "* Unconventional Oil &amp; Gas\n* 0.54% TER\n* &lt;10M AUM\n* 35 holdings\n* Barely any volume\n\nHow many red flags do you need? Cause you got them all",
-        "created_utc": 1591198233,
-        "id": "fsr7wj1",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1591227033.0
-    },
-    {
-        "author": "learningis1st",
-        "body": "FXAIX - 24%\n\nCSIQ - 23%\n\nTSM - 6%\n\nGILD - 6%\n\nINTC - 4%\n\nCTXS - 2%\n\nSTX - 2%\n\nTER - 2%\n\nLOGM - 2%\n\nDBX - 2%\n\nABBV - 1%\n\n...",
-        "created_utc": 1591081909,
-        "id": "fsm2l4k",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1591110709.0
-    },
-    {
-        "author": "BxlVie",
-        "body": "Since I am from Europe, I use this one for s&amp;p500: https://www.trackingdifferences.com/ETF/ISIN/IE00B5BMR087 But I know in US u can buy vanguard ETF's witch lower costs (TER). U can go for s&amp;p500, higher risk higher reward because you are still young. Later I would recommend an ETF covering whole world (Dev markets and emerging markets). Also here, in europe we have diff ETF's to pick from.",
-        "created_utc": 1591623575,
-        "id": "ftd9h3e",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1591652375.0
-    },
-    {
-        "author": "FerrariBenz",
-        "body": "TER, GTII, CURA",
-        "created_utc": 1591662218,
-        "id": "ftfcmcp",
-        "score": 1,
-        "subreddit": "weedstocks",
-        "created": 1591691018.0
-    },
-    {
-        "author": "OG-sippingthatlean-O",
-        "body": "TER is huge",
-        "created_utc": 1591509354,
-        "id": "ft8sfd2",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1591538154.0
-    },
-    {
-        "author": "Doydoy123",
-        "body": "my bank offered that generous active fund product of them. 1.6% TER, 1% buy commission. about 1.5% growth/year.\n\nI am so happy that I have a lot of other options now.",
-        "created_utc": 1592237698,
-        "id": "fuwx75r",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1592266498.0
-    },
-    {
-        "author": "Haveabagel246",
-        "body": "Another reason to factor accounts receivables is to pass on risk of customers not paying to the third party. This would mean the company (TER) would lock in cash flow at a certain rate instead of risking a certain percentage of customers not paying. \n\nSo whether it\u2019s a good idea or not depends on who the customers are.",
-        "created_utc": 1592058082,
-        "id": "fupdakq",
-        "score": 1,
-        "subreddit": "SecurityAnalysis",
-        "created": 1592086882.0
+        "subreddit": "RobinHood",
+        "created": 1591034419.0
     }
 ]

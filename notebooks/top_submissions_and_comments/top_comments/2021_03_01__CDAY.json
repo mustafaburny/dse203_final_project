@@ -1,1 +1,662 @@
-[]
+[
+    {
+        "author": "greensymbiote",
+        "body": "Good points. Partnerships: Draftkings, Roblox, Spotify, eToro,  Fortnight, Coinbase, Amazon,  Twitch, EA, 888, ApplePay, Youtube, Visa, Microsoft, Xbox, Amelco,  William Hill, Ceasar's, Betfair, Pokerstars, PayLease, ESL Gaming,  Luckbox, bet365, Lotto etc. etc.\n\nPaysafe's newly announced Board of Directors includes a former Morgan  Stanley CEO, a former Chairman of the American Gaming Association and  CEO of MGM Resorts International, a legal and regulatory expert in the  multi-jurisdictional online and retail gambling industries, two senior  Managing Directors from Blackstone, two from CVC, the CEO of Dun &amp;  Bradstreet and CEO of Black Knight, and the Chairman of the Board of  Fidelity, Bill Foley, who, in just the last five years, grew Ceridian  3.3X ($4.2B to $14B), Dun &amp; Bradstreet 5.6X ($2B to $11.3B), Black  Knight 8.7X ($1.6B to $14B) etc. etc.",
+        "created_utc": 1617228601,
+        "id": "gsyq94j",
+        "permalink": "/r/stocks/comments/mhgcil/psfe_paysafe_the_most_undervalued_fintech_play_on/gsyq94j/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1617257401.0
+    },
+    {
+        "author": "allthespreadsheets",
+        "body": "    \u279c  stonks python3 valuation.py -t mdla\n    Fetching industries data ...\n    Processing MDLA\n    Software Application (US): ['CRM', 'IBM', 'UBER', 'INTU', 'NOW', 'WDAY', 'ADSK', 'SNOW', 'DOCU', 'CDNS', 'TTD', 'RHT', 'MB', 'RNG', 'ANSS', 'DDOG', 'PAYC', 'WORK', 'TSS', 'LYFT', 'HUBS', 'COUP', 'ZI', 'CA', 'SSNC', 'TYL', 'CTXS', 'DVMT', 'PTC', 'ZEN', 'DT', 'FICO', 'CDAY', 'SYMC', 'BILL', 'NUAN', 'AVLR', 'ULTI', 'PCTY', 'AZPN', 'DATA', 'PEGA', 'GWRE', 'RP', 'FSLY', 'SMAR', 'MANH', 'APPS', 'MSTR', 'CSRA', 'CDK', 'QTWO', 'AYX', 'NATI', 'MDSO', 'EVBG', 'DST', 'APPF', 'MULE', 'WK', 'MDLA', 'ALRM', 'RIOT', 'COTV', 'CRNC', 'LOGM', 'PVTL', 'RPD', 'LPSN', 'ACXM', 'ENV', 'CLDR', 'EGHT', 'BLKB', 'ELLI', 'STMP', 'PD', 'SYNT', 'ATHN', 'MANT', 'PS', 'SPT', 'CVLT', 'CSOD', 'CALX', 'SVMK', 'AVYA', 'SEND', 'EB', 'CALD', 'EGOV', 'CARB', 'PRO', 'PRGS', 'LXFT', 'DOMO', 'IMPV', 'INST', 'PAR', 'UPLD', 'PLUS', 'FSCT', 'SLP', 'QSII', 'PSDO', 'AGYS', 'MODN', 'EIGI', 'DBD', 'QADA', 'QADB', 'IDEX', 'EBIX', 'OSPN', 'CHUBA', 'CHUBK', 'BCOV', 'MLARI.PA', 'VDSI', 'MOBL', 'TIVO', 'USAT', 'RST', 'RUBI', 'ECOM', 'RMNI', 'MJCO', 'AMSWA', 'PDFS', 'MITK', 'TYPE', 'CYOU', 'KEYW', 'USATP', 'ATTU', 'BNFT', 'SSTI', 'APTI', 'GTYH', 'AMBR', 'INS', 'WTRH', 'IMMR', 'EGAN', 'AEYE', 'TLRA', 'SMSI', 'COGT', 'SHSP', 'RDVT', 'HDP', 'TNAV', 'IDN', 'SNCR', 'XSPA', 'XELA', 'GSB', 'SREV', 'DWCH', 'ASUR', 'PHUN', 'ZDGE', 'QUMU', 'YAYO', 'PCYG', 'ALHVS.PA', 'INPX', 'FTEO', 'OBLG', 'MAMS', 'VERB', 'AWRE', 'JTPY', 'BSQR', 'EDGW', 'MATR', 'CNIT', 'NTWK', 'BSTI', 'SEAC', 'EVOL', 'GVP', 'SPRT']\n    Fetching data for MDLA\n    Starting DCF calculation for MDLA\n    \n    Equity %: 86%\n    Cost / equity = riskfree rate + beta * country ERP\n    Cost / equity = 2% + 0 * 0.05\n    Cost / equity = 2%\n    \n    Debt %: 14%\n    Cost / debt = synthetic cost / debt * (1 - effective tax rate)\n    Cost / debt = 19% * (1 - 1%)\n    Cost / debt = 19%\n    \n    Cost / capital: 4%\n    \n    Industry Growth Rate: 41%\n    Industry Margin Rate: -138%\n    \n    Industry Growth Rate (Peer Group / Small): 47%\n    Industry Margin Rate (Peer Group / Small): -336%\n    \n    Industry Growth Rate (Mature): 36%\n    Industry Margin Rate (Mature): -62%\n    \n    Target margin: -29% (reason: average margin (mid-life until now))\n    Margins: ['-29%']\n    \n                               Base          Year 1          Year 2          Year 3          Year 4          Year 5          Year 6          Year 7          Year 8          Year 9         Year 10  Terminal Value\n         Rev Growth                              3%             17%             20%             17%             19%             19%             15%             12%              9%              5%              2%\n            Revenue         459.27M         474.87M         557.62M         667.08M         778.98M         923.31M           1.09B           1.26B           1.41B           1.53B           1.61B           1.65B\n          Op Margin            -28%            -29%            -29%            -29%            -29%            -29%            -28%            -28%            -28%            -28%            -29%            -29%\n    Op Income / EBIT        -129.59M        -135.47M        -158.96M        -190.28M        -223.27M        -267.78M        -310.67M         -358.4M        -401.59M        -436.69M        -460.42M        -470.19M\n           Tax Rate              1%              1%              1%              1%              1%              1%              6%             11%             16%             22%             27%             27%\n     After-tax EBIT        -128.81M        -134.65M         -158.0M        -189.13M        -221.92M        -266.17M         -292.4M        -318.39M        -335.56M        -341.84M         -336.1M        -343.24M\n     - Reinvestment                            1.4M           7.41M            9.8M          10.02M          12.93M          15.32M          14.92M          13.46M          10.88M           7.28M        -102.15M\n               FCFF         -14.32M        -136.05M        -165.41M        -198.93M        -231.94M        -279.09M        -307.72M        -333.31M        -349.02M        -352.72M        -343.39M        -241.08M\n     Cost / Capital                              4%              4%              4%              4%              4%              5%              5%              6%              6%              7%              7%\n    Discount Factors                             96%             92%             89%             86%             82%             79%             75%             71%             67%             63%             59%\n           PV(FCFF)                        -130.84M        -152.99M        -176.96M        -198.43M        -229.62M        -242.21M        -249.68M        -247.53M        -235.62M        -214.94M\n    \n    Sales / Capital              9%              9%              9%              9%              9%              9%              9%              9%              9%              9%              9%              9%\n    Invested Capital           5.13B           5.13B           5.14B           5.15B           5.16B           5.17B           5.19B            5.2B           5.21B           5.22B           5.23B           5.13B\n    \n    Terminal value = terminal cash flow * (perpetual cost / capital - future riskfree rate)\n    Terminal value = -241.08M * (7% - 2%)\n    Terminal value = -11.38M\n    \n    PV(terminal value) = terminal value * last discount factor\n    PV(terminal value) = -11.38M * 59%\n    PV(terminal value) = -6.67M\n    \n    Total PV = PV(sum of cash flows) + PV(terminal value)\n    Total PV = -2.08B + -6.67M\n    Total PV = -2.09B\n    \n    Operating assets value = P(failure) * proceeds / failure + P(success) * total PV\n    Operating assets value = 10% * 1.24B + 90% * -2.09B\n    Operating assets value = -1.75B\n    \n    Equity value = operating assets value - debt + net cash\n    Equity value = -1.75B - 702.12M + 1.75B\n    Equity value = -702.78M\n    \n    MDLA DCF valuation: -702.78M\n    Current market cap: 4.43B (-729.81% over valuation)\n    \n    MDLA fair value price: -4.67\n    Current price: 29.42 (-729.98% over fair value)\n\nHere ya go!",
+        "created_utc": 1615881196,
+        "id": "gr3nqwn",
+        "permalink": "/r/ValueInvesting/comments/m5fbn1/indepth_dcf_valuation_python_script/gr3nqwn/",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1615909996.0
+    },
+    {
+        "author": "HamsterAlive4552",
+        "body": "That should be on a hospital intake form, do you wear masks? Do you make sure you are social distancing? Is there a microchip in the vaccine? If you answer yes to any of these questions pls gtfo. Doctors and nurses have been grinding for a year risking their lives, and people still think it\u2019s not real. FUCK THAT.",
+        "created_utc": 1614720442,
+        "id": "gpgmgnn",
+        "permalink": "/r/wallstreetbets/comments/lwcneo/movie_time_on_the_moon/gpgmgnn/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1614749242.0
+    },
+    {
+        "author": "519416",
+        "body": "These are the big 4 suppliers to the auto sector  Renesas (51%), NXP (47%), Infineon (46%), ON **Semiconductor** (32%), and STMicroelectronics 30%",
+        "created_utc": 1614709011,
+        "id": "gpfvmst",
+        "permalink": "/r/CanadianInvestor/comments/lvzh8n/daily_discussion_thread_for_march_02_2021/gpfvmst/",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1614737811.0
+    },
+    {
+        "author": "OGColorado",
+        "body": "I knew an oracle would appear\ud83d\ude1c",
+        "created_utc": 1614736886,
+        "id": "gphjsbm",
+        "permalink": "/r/wallstreetbets/comments/lwceqz/small_gains_compared_to_some_but_my_first_big_win/gphjsbm/",
+        "score": 71,
+        "subreddit": "wallstreetbets",
+        "created": 1614765686.0
+    },
+    {
+        "author": "jsntx",
+        "body": "A few things to consider: the lockup expired on the 18th, but that meant that the shares could be made available for distribution at the investors' accounts. It would have taken 5-7 days (according to another DD) for the shares to be sellable. \n\nSoros promised to divest their 18.5M shares (as of Jan) on principle. Those should be hitting the market by now. \n\nThe tech selloff has also contributed to keeping PLTR depressed. Cathie, however, has been gobbling up the shares at every dip. \n\nFinally, unless you are an insider and know more than the rest of us, Palantir's software claims are pretty standard for enterprise software. Microsoft, Salesforce, SAP, Oracle, Siemens, etc., make those claims regularly. I don't think Palantir is special but they do have momentum and high profile clients. \n\nOverall I think PLTR is getting ready to take off, but they might find some resistance along the way. I'm in.",
+        "created_utc": 1614820606,
+        "id": "gploiwe",
+        "permalink": "/r/wallstreetbets/comments/lx7i43/palantir_is_undervalued_and_is_time_for_it_to/gploiwe/",
+        "score": 45,
+        "subreddit": "wallstreetbets",
+        "created": 1614849406.0
+    },
+    {
+        "author": "bjt777",
+        "body": "I have experience in setting up Snowflake in a Fortune 100 company. And I have also worked on Google Bigquery, AWS Redshift, and Azure DWH in the past. Here are my thoughts on its potentials.\n\n1. Snowflake is a way better product than Bigquery, Redshift, or Azure DWH. It automatically handles all legal database SQL syntax(Oracle, SQL Server, etc.). So data migration from the legacy database is less complex with a minimum learning curve. This is true not just for developers but for all the end-users like Analysts.   \n\n2. Multi-Cloud: It can be hosted in AWS, GCP, or  Azure. This might sound irrelevant. Here is why it's important. Let's say a company started using Bigquery because Google is the preferred partner. After a couple of years, things have changed, and the company decided to make Azure the company's preferred Cloud vendor. Now it's not that easy to migrate your Data warehouse from Bigquery to Azure DHW. With Snowflake, you are not tied up to a particular vendor. The point here is Snowflake gives flexibility, and enterprise companies love this flexibility. \n\n3. Snowflake integration is pretty neat. It integrates with GCS, AWS S3, etc., and with other APIs natively.  Sample use case. Running an ML model(API) on top of Snowflake data using SQL. You don't need to be an ML expert to run a model. Anyone with basic SQL can do this.  This is one example, Applications are endless.\n\n4. Data sharing and Data marketplace. They are building a data catalog complemented by the data sharing feature\u2014essentially data as a service. More data demand -&gt; More data listed in catalog -&gt;  Network effect growth through sharing-&gt; Customer exponential growth-&gt;More money. I believe this will be huge, which is the main reason I'm bullish on Snowflake. Because snowflake supports multi-cloud,  it's not easy for other companies like Google/AWS to replicate this.\n\n5. Snowflake Customer retention is really high, and I strongly believe this will continue to remain so. Most of Snowflake's customers are Enterprises.  In my experience, companies switch or change databases for 3 main reasons. 1. Scaling or maintenance issue 2. License or hardware end of life or no longer supports 3\u2014cost savings. Snowflake is highly scalable and utilizes cloud infrastructure with zero maintenance. So issues 1 and 2 do not exist. For the cost, it is charged per usage. It's way cheaper than any other legacy database like Oracle, HANA, etc. Basically, once an enterprise adopts Snowflake as their data warehouse, I don't see any reason for switching unless something terrible goes wrong.  Many companies still bear Oracle because of the complexity and cost of migration even though they really want to.\n\n6. They have some unique features. One that stands out for me is the feature called Time travel. ( Read about it https://docs.snowflake.com/en/user-guide/data-time-travel.html. This is mind-blowing. They also have the ability to create, schedule, run data pipelines without the need for any ELT/ETL tools. ( Including setting up dependencies). For enterprise companies, this may not be valid but definitely useful for startups.",
+        "created_utc": 1614822314,
+        "id": "gplrumx",
+        "permalink": "/r/investing/comments/lx4ian/snowflake_eps_misses_by_026_beats_on_revenue/gplrumx/",
+        "score": 37,
+        "subreddit": "investing",
+        "created": 1614851114.0
+    },
+    {
+        "author": "God_BBS",
+        "body": "I went to take a nap yesterday before it started rising... I'm taking a nap now. Buy if you want to. If this works I'm gonna feel like a fucking oracle.",
+        "created_utc": 1614790962,
+        "id": "gpjwb7k",
+        "permalink": "/r/wallstreetbets/comments/lwtgh5/rkt_megathread_for_march_3rd_2021/gpjwb7k/",
+        "score": 29,
+        "subreddit": "wallstreetbets",
+        "created": 1614819762.0
+    },
+    {
+        "author": "whatwhatj",
+        "body": "let me ask the fucking oracle",
+        "created_utc": 1614720412,
+        "id": "gpgme6q",
+        "permalink": "/r/wallstreetbets/comments/lw6hoh/rkt_megathread_for_march_2nd_2021/gpgme6q/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1614749212.0
+    },
+    {
+        "author": "StartFast1",
+        "body": "in the words of the Oracle from Omaha, trading is money changing hands from the impatient to the patient ones. To all my fella apps, come back to GME, be patient!!! Together we strong!",
+        "created_utc": 1614786098,
+        "id": "gpjkzxs",
+        "permalink": "/r/wallstreetbets/comments/lwtejk/gme_megathread_for_march_3rd_2021/gpjkzxs/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1614814898.0
+    },
+    {
+        "author": "PorkchopSquats",
+        "body": "I just farted and it smelled like chicken nuggets.  Taking it as a sign that we about to start shitting tendies today friends, the oracle has spoken.",
+        "created_utc": 1614861803,
+        "id": "gpnasmq",
+        "permalink": "/r/wallstreetbets/comments/lxi05e/daily_discussion_thread_for_march_04_2021/gpnasmq/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1614890603.0
+    },
+    {
+        "author": "SagaDoto",
+        "body": "Well, you are right in some way, that none of us is oracle and you should make decisions for yourself. Thats just my point of view and as I learned from Matrix and Transformers 2, Matrix is real and you produce your reality, so 40 by the end of the week! ![gif](emote|free_emotes_pack|table_flip)",
+        "created_utc": 1614852917,
+        "id": "gpn04jy",
+        "permalink": "/r/wallstreetbets/comments/lxgry2/rkt_current_dd/gpn04jy/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1614881717.0
+    },
+    {
+        "author": "Strongest-There-Is",
+        "body": "Goddamnit! How the fuck do you guys keep doing this? GME, AMC, now RKT... is there an Oracle somewhere dropping prophecy to a select few Apes via Reddit DMs?",
+        "created_utc": 1614721358,
+        "id": "gpgok29",
+        "permalink": "/r/wallstreetbets/comments/lwd3b0/rkt/gpgok29/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1614750158.0
+    },
+    {
+        "author": "Hard_on_Collider",
+        "body": "Lol which ones, you're like a reverse oracle",
+        "created_utc": 1614860974,
+        "id": "gpn9lph",
+        "permalink": "/r/wallstreetbets/comments/lxi05e/daily_discussion_thread_for_march_04_2021/gpn9lph/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1614889774.0
+    },
+    {
+        "author": "Mr-turtlefucker",
+        "body": "y u no predict 2k wise oracle ape",
+        "created_utc": 1614710142,
+        "id": "gpfy9n6",
+        "permalink": "/r/wallstreetbets/comments/lw4qgi/fuck_it_heres_your_daily_gme_threadmegathread_3221/gpfy9n6/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1614738942.0
+    },
+    {
+        "author": "Illenaz",
+        "body": "Short Cathy, long the Oracle of Omaha",
+        "created_utc": 1614881760,
+        "id": "gpoh1wj",
+        "permalink": "/r/wallstreetbets/comments/lxi05e/daily_discussion_thread_for_march_04_2021/gpoh1wj/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1614910560.0
+    },
+    {
+        "author": "duTemplar",
+        "body": "I asked the great oracle.\n\n[It said \u201cwithout a doubt\u201d](https://magic-8ball.com/)",
+        "created_utc": 1614847571,
+        "id": "gpmunl6",
+        "permalink": "/r/wallstreetbets/comments/lxg2ag/what_are_your_predictions_for_nio/gpmunl6/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1614876371.0
+    },
+    {
+        "author": "El-cid-98",
+        "body": "The only thing I own that's green today is ORCL.  Taking a 5% hit in one day sucks.",
+        "created_utc": 1614799159,
+        "id": "gpkfdif",
+        "permalink": "/r/stocks/comments/lwqqa4/rstocks_daily_discussion_wednesday_mar_03_2021/gpkfdif/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1614827959.0
+    },
+    {
+        "author": "bigtimetimmyjim22",
+        "body": "What percent are you up this week oracle?",
+        "created_utc": 1614813218,
+        "id": "gplb0g8",
+        "permalink": "/r/SPACs/comments/lx4w0s/what_are_your_moves_tomorrow_mar042021/gplb0g8/",
+        "score": 3,
+        "subreddit": "SPACs",
+        "created": 1614842018.0
+    },
+    {
+        "author": "SmackEh",
+        "body": "NIO $45c 3/5\n\nThe Oracle made the prophecy, this is the One",
+        "created_utc": 1614769617,
+        "id": "gpit5ml",
+        "permalink": "/r/wallstreetbets/comments/lwr7oo/daily_discussion_thread_for_march_03_2021/gpit5ml/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1614798417.0
+    },
+    {
+        "author": "Wrappa_",
+        "body": "So you say $ORCL will be next weeks fud dildo that \u2018all the retail investors that lost interest in GME are now buying up instead\u2019. \ud83d\ude02",
+        "created_utc": 1614812806,
+        "id": "gpla6h5",
+        "permalink": "/r/Wallstreetbetsnew/comments/lwt7bo/_/gpla6h5/",
+        "score": 2,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614841606.0
+    },
+    {
+        "author": "Zoro11031",
+        "body": "I have no idea, I'm not an oracle. I'm loading myself to the tits on SPY and TSLA puts tho",
+        "created_utc": 1614812542,
+        "id": "gpl9n4o",
+        "permalink": "/r/Wallstreetbetsnew/comments/lwt7bo/_/gpl9n4o/",
+        "score": 2,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614841342.0
+    },
+    {
+        "author": "GeckoRocket",
+        "body": "Ah nice!  Yeah I did neglect to mention - those staying in longer, like before this was all done, that really was tough.  I am honestly glad they are getting their day though, finally.  Their tech is amazing, they deserve the credit and monies for what they accomplished.  There are very few things that can top some of the storage performance I work with, but that ability to run an oracle database in memory was untouchable.  The results speak for themselves, and Google stole all of it.",
+        "created_utc": 1614813313,
+        "id": "gplb7d3",
+        "permalink": "/r/pennystocks/comments/lx22pm/netlist_nlst_dd_requesting_input_catalysts_coming/gplb7d3/",
+        "score": 2,
+        "subreddit": "pennystocks",
+        "created": 1614842113.0
+    },
+    {
+        "author": "bdavid21wnec",
+        "body": "Only thing keeping me even right now after this bloodbath. $ORCL, $GE, $XLE",
+        "created_utc": 1614830410,
+        "id": "gpm7nxn",
+        "permalink": "/r/wallstreetbets/comments/lx47v2/what_are_your_moves_tomorrow_march_04_2021/gpm7nxn/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1614859210.0
+    },
+    {
+        "author": "Alepman",
+        "body": "From now on I\u2019m buying what Burry\u2019s buying the man is an oracle",
+        "created_utc": 1614857559,
+        "id": "gpn55ag",
+        "permalink": "/r/wallstreetbets/comments/lxi05e/daily_discussion_thread_for_march_04_2021/gpn55ag/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1614886359.0
+    },
+    {
+        "author": "Flam3Shot_",
+        "body": "With all due respect, I do not agree with your statement about there being direct competitors for most companies between the NASDAQ and NYSE. Strong, long lasting companies like Apple, Microsoft, Nvidia, Qualcomm, etc. hardly have any competition whatsoever in reference to the companies listed in the NYSE (unless you count stagnant/dying firms like Oracle or Nokia, but that\u2019s really stretching it). Only thing I can really think of is Facebook v Twitter and some e-commerce stuff like Alibaba v Amazon. Either way, the examples are seldom. \n\nThat said, I appreciate your advice immensely. Thank you :)",
+        "created_utc": 1614747255,
+        "id": "gpi2xv4",
+        "permalink": "/r/investing/comments/lvyk2i/daily_advice_thread_all_basic_help_or_advice/gpi2xv4/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1614776055.0
+    },
+    {
+        "author": "Kingace__",
+        "body": "Honestly oracle is immortal",
+        "created_utc": 1614724086,
+        "id": "gpgujwc",
+        "permalink": "/r/wallstreetbets/comments/lwce20/what_are_your_moves_tomorrow_march_03_2021/gpgujwc/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614752886.0
+    },
+    {
+        "author": "YeshuaSaves7",
+        "body": "$24.12? Pssshhh, the Oracle was on RKT waaayyyy before this.",
+        "created_utc": 1614756689,
+        "id": "gpifkva",
+        "permalink": "/r/wallstreetbets/comments/lwcghb/rkt_yolo_update_mar_2_2021_this_aged_well/gpifkva/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614785489.0
+    },
+    {
+        "author": "Green_Lantern_4vr",
+        "body": "Oracle of course",
+        "created_utc": 1614801487,
+        "id": "gpkktaj",
+        "permalink": "/r/wallstreetbets/comments/lwuak0/watching_my_rkt_shares_in_premarket/gpkktaj/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614830287.0
+    },
+    {
+        "author": "beelo50",
+        "body": "My wife works for ORCL and her stock fully vests in 4 years. What do you guys think ORCL will be worth by then?",
+        "created_utc": 1614706857,
+        "id": "gpfqod6",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfqod6/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614735657.0
+    },
+    {
+        "author": "engr_rahman13",
+        "body": "Mogulproductions to launch on mainnet with Chainlink oracle integration, providing transparent profit sharing with future film financing investors. Mogul will integrate Chainlink, the market-leading blockchain oracle network, to bring more transparency and accessibility to film production and financing.",
+        "created_utc": 1614704622,
+        "id": "gpflkhk",
+        "permalink": "/r/CanadianInvestor/comments/lvs0t4/an_etf_is_being_launched_that_will_track/gpflkhk/",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1614733422.0
+    },
+    {
+        "author": "Hot-Attention4887",
+        "body": "ORCL",
+        "created_utc": 1614786023,
+        "id": "gpjktyg",
+        "permalink": "/r/wallstreetbets/comments/lwr7oo/daily_discussion_thread_for_march_03_2021/gpjktyg/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614814823.0
+    },
+    {
+        "author": "OGColorado",
+        "body": "I am the oracle\ud83e\udd13 wtf",
+        "created_utc": 1614700952,
+        "id": "gpfd8b6",
+        "permalink": "/r/wallstreetbets/comments/lw15gf/a_few_lines_about_gme_please_read/gpfd8b6/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614729752.0
+    },
+    {
+        "author": "FelixJuggl3r",
+        "body": "Ok so is ORCL having a breakout upward or am I just imagining things like a proper retard?",
+        "created_utc": 1614720257,
+        "id": "gpgm1eb",
+        "permalink": "/r/wallstreetbets/comments/lwce20/what_are_your_moves_tomorrow_march_03_2021/gpgm1eb/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614749057.0
+    },
+    {
+        "author": "sunlisun",
+        "body": "got there today, my oracle friend",
+        "created_utc": 1614710552,
+        "id": "gpfz8ec",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfz8ec/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614739352.0
+    },
+    {
+        "author": "Kingace__",
+        "body": "All aboard the oracle train",
+        "created_utc": 1614707040,
+        "id": "gpfr3k9",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfr3k9/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614735840.0
+    },
+    {
+        "author": "JPowsBestie",
+        "body": "I use Oracle and snowflake at work...Oracle is dog shit snow is pretty good but def overvalued",
+        "created_utc": 1614869126,
+        "id": "gpno0me",
+        "permalink": "/r/wallstreetbets/comments/lxi05e/daily_discussion_thread_for_march_04_2021/gpno0me/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614897926.0
+    },
+    {
+        "author": "Repulsive-Owl9605",
+        "body": "It's not about picking which will go up or down.   People fail because of so many reasons, regardless of what they pick.  You can be right about 8 of 10 picks and lose all your money within a year.   A consistently profitable trader is usually wrong on more than half their picks.   Strategy is not about predictions.  Nobody is an oracle.",
+        "created_utc": 1614736584,
+        "id": "gphj7ld",
+        "permalink": "/r/stocks/comments/lw5fn3/serious_question_if_99_of_firsttime_day_traders/gphj7ld/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1614765384.0
+    },
+    {
+        "author": "SirPounder",
+        "body": "The oracle has spoken.",
+        "created_utc": 1614737949,
+        "id": "gphlur9",
+        "permalink": "/r/wallstreetbets/comments/lwdrr9/shillsbots_beware_the_new_accounts/gphlur9/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614766749.0
+    },
+    {
+        "author": "gagawithoutLady",
+        "body": "Market oracle lol, what a name",
+        "created_utc": 1614883664,
+        "id": "gpollsg",
+        "permalink": "/r/wallstreetbets/comments/lxi05e/daily_discussion_thread_for_march_04_2021/gpollsg/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614912464.0
+    },
+    {
+        "author": "TuhaoGene",
+        "body": "Dude should change his name. Nobody gets a ride on the coattails of The Oracle of Margaritaville.",
+        "created_utc": 1614881924,
+        "id": "gpohfz4",
+        "permalink": "/r/SPACs/comments/lxgszv/announcements_x_daily_discussion_for_mar042021/gpohfz4/",
+        "score": 1,
+        "subreddit": "SPACs",
+        "created": 1614910724.0
+    },
+    {
+        "author": "justbemenooneelse",
+        "body": "Pls help ORCL.",
+        "created_utc": 1614813195,
+        "id": "gplayuc",
+        "permalink": "/r/investing/comments/lwyzf7/theory_for_market_outlook_in_back_half_of_2021/gplayuc/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1614841995.0
+    },
+    {
+        "author": "Apart-Profession4968",
+        "body": "Sorry, but I don\u2019t buy it. \n\nI have done a lot more research on PLTR than this. It\u2019s not just a data management platform. Gotham and Foundry are not just some Oracle database.",
+        "created_utc": 1614862187,
+        "id": "gpnbd8z",
+        "permalink": "/r/wallstreetbets/comments/lx7i43/palantir_is_undervalued_and_is_time_for_it_to/gpnbd8z/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614890987.0
+    },
+    {
+        "author": "dwdsquared2",
+        "body": "After 8,815 trading days and a range starting at $0.04, ORCL made a new ATH today at a appropriate $66.66.",
+        "created_utc": 1614727372,
+        "id": "gph1an1",
+        "permalink": "/r/wallstreetbets/comments/lwce20/what_are_your_moves_tomorrow_march_03_2021/gph1an1/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614756172.0
+    },
+    {
+        "author": "Kingace__",
+        "body": "ORACLE",
+        "created_utc": 1614710240,
+        "id": "gpfyhu6",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfyhu6/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1614739040.0
+    },
+    {
+        "author": "Abject-Mixture-8926",
+        "body": "But ofcourse, I must be a bot, because there are absolutely 0 people joining reddit daily. Omg you're like, an oracle bro. I've lurked on reddit for years, never gave a shit to actually make an account. Now I see some people need fucking help (ahem, talking about you), so I joined.\n\nBut it's ok little man, I'm sure your tiny little portfolio is composed solely of AMC , GME, and TSLA because you are so fucking original and have years of experience doing analytics...wait...you don't!? Omg...bro...what do I know...just a bot I suppose.",
+        "created_utc": 1614811337,
+        "id": "gpl744z",
+        "permalink": "/r/Wallstreetbetsnew/comments/lwuxyp/dont_let_hedgefunds_use_wsb_against_you/gpl744z/",
+        "score": 0,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1614840137.0
+    },
+    {
+        "author": "BillyBilnaad",
+        "body": "We\u2019ll see mister oracle.",
+        "created_utc": 1614716968,
+        "id": "gpge8br",
+        "permalink": "/r/wallstreetbets/comments/lwbj2f/yoloed_41k_on_rkt_fly_me_to_the_moon/gpge8br/",
+        "score": -4,
+        "subreddit": "wallstreetbets",
+        "created": 1614745768.0
+    },
+    {
+        "author": "Mr-turtlefucker",
+        "body": "y u no predict 2k wise oracle ape",
+        "created_utc": 1614710142,
+        "id": "gpfy9n6",
+        "permalink": "/r/wallstreetbets/comments/lw4qgi/fuck_it_heres_your_daily_gme_threadmegathread_3221/gpfy9n6/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1614738942.0
+    },
+    {
+        "author": "beelo50",
+        "body": "My wife works for ORCL and her stock fully vests in 4 years. What do you guys think ORCL will be worth by then?",
+        "created_utc": 1614706857,
+        "id": "gpfqod6",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfqod6/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614735657.0
+    },
+    {
+        "author": "engr_rahman13",
+        "body": "Mogulproductions to launch on mainnet with Chainlink oracle integration, providing transparent profit sharing with future film financing investors. Mogul will integrate Chainlink, the market-leading blockchain oracle network, to bring more transparency and accessibility to film production and financing.",
+        "created_utc": 1614704622,
+        "id": "gpflkhk",
+        "permalink": "/r/CanadianInvestor/comments/lvs0t4/an_etf_is_being_launched_that_will_track/gpflkhk/",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1614733422.0
+    },
+    {
+        "author": "OGColorado",
+        "body": "I am the oracle\ud83e\udd13 wtf",
+        "created_utc": 1614700952,
+        "id": "gpfd8b6",
+        "permalink": "/r/wallstreetbets/comments/lw15gf/a_few_lines_about_gme_please_read/gpfd8b6/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614729752.0
+    },
+    {
+        "author": "sunlisun",
+        "body": "got there today, my oracle friend",
+        "created_utc": 1614710552,
+        "id": "gpfz8ec",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfz8ec/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614739352.0
+    },
+    {
+        "author": "Kingace__",
+        "body": "All aboard the oracle train",
+        "created_utc": 1614707040,
+        "id": "gpfr3k9",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfr3k9/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1614735840.0
+    },
+    {
+        "author": "Kingace__",
+        "body": "ORACLE",
+        "created_utc": 1614710240,
+        "id": "gpfyhu6",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfyhu6/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1614739040.0
+    },
+    {
+        "author": "FallenZulu",
+        "body": "Sell lion, buy more SEEL, hold on Zebra.",
+        "created_utc": 1617654373,
+        "id": "gthrdvv",
+        "permalink": "/r/wallstreetbets/comments/mktg0s/what_are_your_moves_tomorrow_april_06_2021/gthrdvv/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1617683173.0
+    },
+    {
+        "author": "aka_michael_collins",
+        "body": "QQQJ is going be an interesting one over the year. Regardless of your view on the future correlation being yields and tech/growth, QQQJ actually has a strong and increasing proportion (by market cap) of recovery stocks. With VIAC\u2019s crash, ODFL is the fourth largest holding. GRMN and EXPE are up there too. Biggest risk is from ROKU, CRWD and TTD, but there\u2019s an argument to made that FTNT, ZBRA and even ETSY are actually well positioned for recovery as far as tech stocks go. We will see, should be interesting!",
+        "created_utc": 1617392240,
+        "id": "gt67pxo",
+        "permalink": "/r/stocks/comments/migse3/rstocks_daily_discussion_fundamentals_friday_apr/gt67pxo/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1617421040.0
+    },
+    {
+        "author": "stevejobswasmurdered",
+        "body": "That's exactly what i'm saying. The chairman is just a board member, and a vote can be made with or without that one board member as long as they have a majority. You can LITERALLY have a zebra as chairman and the business will go on as usual. The only importance is that the CEO knows what he's doing. If RC thinks George Sherman is not good, then he can replace him. Until then, RC being chairman is a nothing burger.",
+        "created_utc": 1617892163,
+        "id": "gttbabo",
+        "permalink": "/r/wallstreetbets/comments/mmpqrw/gme_megathread_for_april_08_2021/gttbabo/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617920963.0
+    },
+    {
+        "author": "TheAmericanStone",
+        "body": "Zero Extrinsic Back Ratio (ZEBRA)",
+        "created_utc": 1617856997,
+        "id": "gtrwf1i",
+        "permalink": "/r/options/comments/mmi47z/palantir_buying_some_25_calls_12023_or_just_buy/gtrwf1i/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1617885797.0
+    },
+    {
+        "author": "Butterscotch-Apart",
+        "body": "MasterCard \nBroadcom\nApple\nBerkshire Hathaway \nShopify\nVisa\nEnphase Energy\nNvidia\nTeradyne\nQORVO\nZebra \nEtsy\nAmazon \nGoogle\nCitigroup \nREGI \n\n\nNot in any particular order, MasterCard, Apple and Nvidia are the largest positions each around 10%",
+        "created_utc": 1617769309,
+        "id": "gtnjbpg",
+        "permalink": "/r/stocks/comments/lv5dlb/rate_my_portfolio_rstocks_quarterly_thread_march/gtnjbpg/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1617798109.0
+    },
+    {
+        "author": "mjr2015",
+        "body": "Why in the world would you buy a strangle like a leap\n\n\nIf you want to get long the stock (~100 deltas) just look up  synethic stock positions.\n\nI'd probably just tell you to go with a zebra, zero extrinsicvalue back ratio. Gives you access to ~100 deltas but near 0 extrinsic value decay.",
+        "created_utc": 1617754803,
+        "id": "gtmszyv",
+        "permalink": "/r/options/comments/mle26t/best_way_to_hedge_a_leaps_call/gtmszyv/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1617783603.0
+    },
+    {
+        "author": "OlyBomaye",
+        "body": "Yeah those things are pretty cool.  Mine are botia loaches.  YoYo and Zebra loaches, a shoal of each.\n\nThey're like dogs.  Always zipping around the tank and wrestling with each other.  So much fun to watch, easily my favorite fish in the hobby.",
+        "created_utc": 1617516940,
+        "id": "gtbncdi",
+        "permalink": "/r/wallstreetbets/comments/mi3t1v/weekend_discussion_thread_for_the_weekend_of/gtbncdi/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617545740.0
+    },
+    {
+        "author": "mjr2015",
+        "body": "I bought a zebra spread against it through earnings as just a gamble.\n\n\nApha still isn't trading at the merger ratio and I think it will go up to meet tilray",
+        "created_utc": 1617324532,
+        "id": "gt3edlr",
+        "permalink": "/r/smallstreetbets/comments/mhuxf6/most_anticipated_earnings_releases_for_the_month/gt3edlr/",
+        "score": 1,
+        "subreddit": "smallstreetbets",
+        "created": 1617353332.0
+    },
+    {
+        "author": "Darkbyte",
+        "body": "She's got zebra legs \ud83d\ude0d they all look wildly different it's like pokemon",
+        "created_utc": 1617375796,
+        "id": "gt5ana1",
+        "permalink": "/r/wallstreetbets/comments/mhs01t/unpinned_daily_discussion_thread_for_april_01_2021/gt5ana1/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617404596.0
+    },
+    {
+        "author": "merlinsbeers",
+        "body": "I get that. I've explained it to others several times.\n\nThere's also a class B that doesn't trade, gets 10 votes per share, holds more than half the total voting power, and is owned by just a handful of people.\n\nI just don't get why Google of all companies gets away with that confusion.\n\n[They almost didn't.](https://economix.blogs.nytimes.com/2014/04/02/the-many-classes-of-google-stock/)\n\nThe mosquitos have a right to know which zebra they're aiming at.",
+        "created_utc": 1617309087,
+        "id": "gt2khkv",
+        "permalink": "/r/stocks/comments/mhvteb/i_tried_to_predict_the_stock_market_every_day_in/gt2khkv/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1617337887.0
+    },
+    {
+        "author": "steadyachiever",
+        "body": "Holy Moly! It was a zebra attack all along! Holy Moly!",
+        "created_utc": 1617722961,
+        "id": "gtkv4m0",
+        "permalink": "/r/wallstreetbets/comments/ml86d3/daily_discussion_thread_for_april_06_2021/gtkv4m0/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617751761.0
+    },
+    {
+        "author": "Lagaru",
+        "body": "I like.\n\n$HUBS\n$FRPT\n$LOGI\n$CARR\n$SHOP\n$ZBRA\n$OKTA\n$EXAS\n\nThoughts?",
+        "created_utc": 1617688575,
+        "id": "gtji0s6",
+        "permalink": "/r/wallstreetbets/comments/mktg0s/what_are_your_moves_tomorrow_april_06_2021/gtji0s6/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617717375.0
+    }
+]

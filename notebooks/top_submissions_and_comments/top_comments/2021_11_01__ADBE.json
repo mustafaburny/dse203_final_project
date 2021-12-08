@@ -1,1 +1,1002 @@
-[]
+[
+    {
+        "author": "high_roller_dude",
+        "body": "winners will keep winning. \n\nNVDA, SE, NET, CRWD, MSFT, ADBE, CRM, NOW are absolute studs. \n\nI personally hold large positions in all of above except NVDA. Been watching NVDA for several yrs but never got in and the stock has run away from me.\n\nReally hated and dumped on stocks that have decent upside potential once sentiment turns around: PINS, TDOC. I am a bagholder in these 2 lol",
+        "created_utc": 1637802312,
+        "id": "hlz4rbz",
+        "permalink": "/r/stocks/comments/r1jtzh/top_plays_for_the_next_10_years/hlz4rbz/",
+        "score": 82,
+        "subreddit": "stocks",
+        "created": 1637831112.0
+    },
+    {
+        "author": "ueasyhoe",
+        "body": "Already pretty big, but imo Adobe will outperform the market for the next few years and has still a lot of room to grow even further. Also one of the safest big tech stocks because there is almost no competition so their moat is gigantic.\n\nAdobe should be a core stock in every growth portfolio.",
+        "created_utc": 1637403398,
+        "id": "hlddaaq",
+        "permalink": "/r/stocks/comments/qxyjzz/what_is_the_next_great_tech_stock/hlddaaq/",
+        "score": 44,
+        "subreddit": "stocks",
+        "created": 1637432198.0
+    },
+    {
+        "author": "marc-etienne",
+        "body": "I investigated a bit and it seems \\`zeronaught.com\\` is part of a service from F5 known as Device ID+ (see [https://f5cloudservices.zendesk.com/hc/en-us/articles/360060301673-Getting-Started-with-F5-Device-ID-#h\\_01EW8BH6C9TRHE5RTEG4E29D8S](https://f5cloudservices.zendesk.com/hc/en-us/articles/360060301673-Getting-Started-with-F5-Device-ID-#h_01EW8BH6C9TRHE5RTEG4E29D8S)). F5 suggest reverse-proxying related requests to their server but it seems the CRA decided to link to their backend directly.\n\nSo in short, it doesn't look compromised. However, I'd say the amount of external JavaScript loaded from external domains is concerning (hCaptcha, Device ID+, Adobe Dynamic Tag Manager) and posses a risk. But it's a risk the CRA has decided to take and isn't a vulnerability on its own.",
+        "created_utc": 1636398673,
+        "id": "hju71yd",
+        "permalink": "/r/CanadianInvestor/comments/qpi31j/cra_login_goes_through_zeronaughtcom_is_it_some/hju71yd/",
+        "score": 43,
+        "subreddit": "CanadianInvestor",
+        "created": 1636427473.0
+    },
+    {
+        "author": "TonyGabaghoul",
+        "body": "Love Etsy and adbe",
+        "created_utc": 1637845779,
+        "id": "hm13ufb",
+        "permalink": "/r/StockMarket/comments/r1utw6/companies_with_70_gross_margin_20_net_profit_15/hm13ufb/",
+        "score": 32,
+        "subreddit": "StockMarket",
+        "created": 1637874579.0
+    },
+    {
+        "author": "FullTackle9375",
+        "body": "He made up the name FAANG and always shilled them, NVDIA, Adobe, CRM, AMD etc for years.    \nHe also said buy Tesla during the fall 2019.     \nI would take his advice over the novices that started last year.",
+        "created_utc": 1637801477,
+        "id": "hlz2x2p",
+        "permalink": "/r/stocks/comments/r1ilb2/beating_sp_500_with_jim_cramers_mad_money/hlz2x2p/",
+        "score": 31,
+        "subreddit": "stocks",
+        "created": 1637830277.0
+    },
+    {
+        "author": "Global-Dimension507",
+        "body": "our portfolio is quite similar so it might be headed to the same direction  \nPYPL  \nATVI\n\nAAPL  \nMSFT  \nAMZN  \nADBE  \nNVDA  \nAMD  \nMU  \n\n\nYou don't need QQQ as it's overlapping with AAPL/MSFT/NVDA pretty much \n\nHonestly I'd stay away from DIS and SBUX given the possibility of lockdowns in the short term and perhaps buy them in a later stage (accepting that they might go up in value meanwhile)  \n\n\nPrepare for a bumpy ride for at least 2 weeks",
+        "created_utc": 1638088616,
+        "id": "hmdp5ih",
+        "permalink": "/r/stocks/comments/r3woxa/am_i_crazy_for_buying_the_following_stocks_at_the/hmdp5ih/",
+        "score": 22,
+        "subreddit": "stocks",
+        "created": 1638117416.0
+    },
+    {
+        "author": "OneDollar1-",
+        "body": "Adobe is very widely used across many industries.",
+        "created_utc": 1636599013,
+        "id": "hk5lc7o",
+        "permalink": "/r/stocks/comments/qraz86/do_you_use_adobe/hk5lc7o/",
+        "score": 19,
+        "subreddit": "stocks",
+        "created": 1636627813.0
+    },
+    {
+        "author": "fahadfreid",
+        "body": "Yep. Anecdotally, I know myself and plenty of other IT admins who have sworn to cut off Adobe from our respective enterprises because of their shitty pricing practices and my girlfriend, who is a graphic designer, is trying her best to use alternatives (and succeeding at it) because of their bait and switch subscription for Creative Cloud.",
+        "created_utc": 1637428405,
+        "id": "hlel5bi",
+        "permalink": "/r/stocks/comments/qxyjzz/what_is_the_next_great_tech_stock/hlel5bi/",
+        "score": 17,
+        "subreddit": "stocks",
+        "created": 1637457205.0
+    },
+    {
+        "author": "KevlarAbs",
+        "body": "Yeaa this is bullish. Look how MSFT, GOOGL, ADBE took off after Indian CEO",
+        "created_utc": 1638211967,
+        "id": "hmka3yr",
+        "permalink": "/r/wallstreetbets/comments/r4ykc5/twitter_cto_parag_agrawal_will_replace_jack/hmka3yr/",
+        "score": 15,
+        "subreddit": "wallstreetbets",
+        "created": 1638240767.0
+    },
+    {
+        "author": "VotedOut",
+        "body": "In the last 6 trading days Tesla has added roughly 300B market cap to its 900B high (900B to 1.2T).\n\nThis 300B market cap added in 6 days is more than the entire value of:\n\nToyota (249B)\n\nVolkswagen (149B)\n\nGM + Ford (80B + 71B)\n\nCisco (236B)\n\nIntel (200B)\n\nAdobe (almost) (304B)\n\nalmost 2x AMD (151B x2)",
+        "created_utc": 1635801030,
+        "id": "hixjrgm",
+        "permalink": "/r/wallstreetbets/comments/qkmd3z/what_are_your_moves_tomorrow_november_02_2021/hixjrgm/",
+        "score": 14,
+        "subreddit": "wallstreetbets",
+        "created": 1635829830.0
+    },
+    {
+        "author": "wearahat03",
+        "body": "If it were me, GOOG, FB and ADBE\n\nSE - they increased 500% since pre-covid and lost 500mil last quarter. 170bn+ market cap. I got no problems with the growth, just the valuation and profit.\n\nSHOP - they increased over 200% since pre-covid and made 50mil op income last quarter. Over 200bn market cap. Again no problem with growth but valuation and profit. \n\nPeople call NVDA overvalued at over 800bn and they 'only' made 3bn last quarter.\n\nWell you'll find many supporters for SE and SHOP which are 1/4 of NVDA's size yet don't make a profit at all, I repeat - almost 200bn company that loses 500mil last quarter.\n\nPYPL growth was just 13% last quarter, for a company above 200bn and over 40PE. With competitors everywhere they turn.\n\nPLTR only grew 35%. You might think 35% is fine, except when you see they've more than doubled since IPO 1 year ago, for a paltry 35% growth. Not to mention they lose bucketloads of cash and their employees are happy to sell you their shares.\n\nSQ barely has any profits as well. Company is worth over 100bn. Revenue growth earlier in the year was inflated by bitcoin revenue (with associated costs just as much as revenue) so really isn't comparable growth. Only 27% growth last quarter.\n\nWhy FB, GOOG and ADBE are the safest picks and highest quality on the list?\n\nMaybe FB and GOOG have anti-trust issues.\n\nBut their financials are A-grade. The best financials relative to PE you can find on the US market.\n\nFB trading at 23PE for a company that grew revenue by 35%. Always buyback shares and virtually zero debt. \n\nGOOG had a staggering 41% growth and 65bn in revenues (HUGE)  and almost 19bn in profits, healthy balance sheet and also buying back shares. All for 28PE.\n\nADBE will announce their results next month. They are on the expensive side too, PE fluctuates in the 50s-60s. But it's one of the few highly profitable software companies that's growing. Their growth was just 22% but INTU results of higher growth has people hoping ADBE will also have higher growth. \n\nMarket probably thinks companies like SE, SHOP, SQ can turn on huge profits after their growth. I don't think it's that easy. GOOG and FB grew while being extremely profitable. TSLA doesn't spend a cent on marketing whereas these current companies need to spend 20%-50% of revenues on marketing.  Disgusting amounts to gain revenue. \n\nPeople are bored of GOOG and FB but they're extremely profitable and at the top for a reason. They grow at 20%+ consistently without having to aggressively spend to achieve it.",
+        "created_utc": 1637580970,
+        "id": "hlmmaid",
+        "permalink": "/r/stocks/comments/qzij09/rstocks_daily_discussion_monday_nov_22_2021/hlmmaid/",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1637609770.0
+    },
+    {
+        "author": "coolcomfort123",
+        "body": "nvda, msft, adbe, googl, crm and amzn.",
+        "created_utc": 1637613641,
+        "id": "hlom0qf",
+        "permalink": "/r/stocks/comments/qzp6g2/what_is_your_moat_stock/hlom0qf/",
+        "score": 14,
+        "subreddit": "stocks",
+        "created": 1637642441.0
+    },
+    {
+        "author": "ZhangtheGreat",
+        "body": "ADBE. It\u2019s my one \u201cregret.\u201d When I started investing, I had no idea how wide of a moat the company had in digital creativity. Had I gotten in then, the stock would be up over $200 per share for me.",
+        "created_utc": 1636331866,
+        "id": "hjqupwq",
+        "permalink": "/r/ValueInvesting/comments/qp1065/if_all_companies_were_equally_undervalued_what/hjqupwq/",
+        "score": 12,
+        "subreddit": "ValueInvesting",
+        "created": 1636360666.0
+    },
+    {
+        "author": "Anth916",
+        "body": "One strategy that I've been **experimenting** with, is daytrading and very short swing trading, in gigantic tech megacaps. (GOOG, MSFT, NVDA, ADBE, AMD, INTU, FB)\n\nFor example, I would take your $33,014, and I'd buy 100 shares of MSFT for $336.00 (ok, so technically 98 shares). Let it go up to $339.00, then sell it. $300 profit, pre tax. Rinse and repeat. Hopefully do two of these per day, maybe 3 if you get lucky.\n\nNow, there's two major risks with this strategy. You buy a dip, but it keeps dipping. In this case, you just convert from a daytrading/swing trading mindset, to a long-term \"I'm going to hold this stock for 10 years\" mindset. This is why I would only mess with my 7 Golden Tickers (GOOG, MSFT, FB, ADBE, AMD, NVDA &amp; INTU). I'm completely comfortable with bagholding any of those companies for several years. Especially GOOG and MSFT. In fact, I'd be perfectly comfortable having my ENTIRE net worth in GOOG or MSFT. \n\nRight now, half of my NW is in those two, so I've put my $$$ where my pie hole is.\n\nNow, the other worry, besides being stuck in a downtrending stock, is that you sell MSFT for $339, but it doesn't have another intraday dip, allowing you to get back in and repeat the process. Instead, you sell at $339 and it goes to $340, then $341, then $342, then closes the day at $345.\n\nNow what? Do you buy it again the next day anyways, but get less shares? Normally what I do, is look at the Golden 7 again. Usually at least one of the Golden 7 might be on a nice intraday dip. So, you gotta be flexible. If MSFT, GOOG, AMD, NVDA are all hitting ATH's, but ADOBE is down 3 percent for whatever reason, time to hop into ADBE. \n\nNow, what if all of my Golden 7 Tickers are all running away from me? Take the day off and go do something else. Don't look at my portfolio at all. Patience is a mofo virtue.\n\nAlso, you could potentially consider other stocks that happen to be dipping considerably, but the difference with these is that you need to set a tight stop loss, and be willing to cut. But, I've done this before while waiting for one of my Golden 7 to present a nice opportunity.\n\nAlso, the key to this strategy, is to hopefully have a lot of success early on, and make some nice profits, just playing the intraday gyrations of these megacaps. Because, let's say you're in NVDA, but the stock has corrected to the downside, and you're down 3k. If you did well early on with this strategy, maybe you can consider taking a 1.5k loss on it, just to get out of it ahead of schedule. So, you let it rally back to a 1.5k loss from a 3k loss and you jump out, sacrificing some of your earlier gains.\n\nI only do this, if one of my other 7 Golden Tickers happens to be cracking back right at that time, making it almost an irresistible move to make.\n\nYes, this strategy definitely has downsides, but it does mitigate risk quite a bit. I'm never fucking around with shit like DKNG, WISH, CLOV, PLTR and stuff of that ilk. I'm only messing around with the absolute cream of the crop. If the entire market tanks 50 percent, and I'm stuck in Google and Microsoft, gee.... I wonder how I will sleep at night? Like a fricken baby, that's how, lol.\n\nAlso, long-term investors will absolutely HATE a strategy like this, because they know deep down inside that they should probably be doing the same exact thing, but oh my God... the taxes, the taxes. Very comfortable excuse imo.\n\nWe all saw what Amazon did for about a year. It went basically nowhere for a full calendar year. Now imagine instead of holding AMZN for that full calendar year with it doing absolutely nothing, instead you were buying at $3100 and selling it at $3300. Over and over and over and over and over again.\n\nYou just take the money made, and you buy additional shares. Just keep putting the money back in, and getting more shares. All you're concerned with is growing the number shares. Everything else is noise.",
+        "created_utc": 1637870370,
+        "id": "hm2lpys",
+        "permalink": "/r/stocks/comments/r24bqb/investing_vs_trading_what_is_the_easiest_way_to/hm2lpys/",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1637899170.0
+    },
+    {
+        "author": "TheJoker516",
+        "body": "ADBE.. along with Google, not many companies can say their product is used as a verb..",
+        "created_utc": 1637599509,
+        "id": "hlnmm2e",
+        "permalink": "/r/stocks/comments/qzp6g2/what_is_your_moat_stock/hlnmm2e/",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1637628309.0
+    },
+    {
+        "author": "chuck_portis",
+        "body": "How can you compare Tulips to the dotcom bubble?  The dotcom bubble was correctly predicting that there would be massive growth in online commerce.  It was just a decade early.  Still, there are numerous companies from that era which are around today.\n\nMSFT, AMZN, AAPL, ADBE, ORCL... plenty of companies are still around today at much higher prices than even the peak of the dotcom bubble.  Obviously it would have been hard to pick out AMZN or even AAPL back then from the herd, but even buying the NASDAQ at the 90's peak has worked out through time.  \n\nTulips on the other hand were pure speculatory mania.  No inherent value or utility, no real scarcity, nothing.  Just a weird moment in history more comparable to the Beanie Baby bubble than EV's or tech stocks.",
+        "created_utc": 1636498152,
+        "id": "hjzv6im",
+        "permalink": "/r/wallstreetbets/comments/qq7cle/i_watched_all_martin_shkreli_videos_on_investing/hjzv6im/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1636526952.0
+    },
+    {
+        "author": "PlutoTheGod",
+        "body": "A few corrections and companies being erased in the EV world would have no major effects the way things are at this point in time. The thing to be concerned about is when EVs pop it\u2019s very possible so will everything else. It\u2019s not the same economy it was when the dotcom fiasco was going on. We\u2019ve had plenty of MASSIVE losers this year. My point being, right now one emerging industry being purged that most people are gambling on who will survive is not going to wipe us out, but when that purge happens, we have to worry about how MANY industries get purged. Rivian, Lucid and some others get fucked you\u2019re not gonna see much change. It\u2019ll happen just like Nikola is currently. You\u2019ll have dips in TSLA &amp; some of the charging companies etc but they\u2019ll survive the same way you saw greats like Amazon, EBay, Adobe etc. you don\u2019t need to worry about the clear leader of the pack which is Tesla because it\u2019s simply not going to disappear the same way you didn\u2019t need to worry about Amazon in dotcom.",
+        "created_utc": 1637471908,
+        "id": "hlh53g2",
+        "permalink": "/r/wallstreetbets/comments/qylzeq/not_evergrand_will_collapse_the_global_economy/hlh53g2/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1637500708.0
+    },
+    {
+        "author": "UrbanOutfisters",
+        "body": "My ex works for Adobe so I'll only ever buy puts on it",
+        "created_utc": 1637539574,
+        "id": "hlkrago",
+        "permalink": "/r/wallstreetbets/comments/qywt23/market_perspective_recent_trends_thoughts_for_the/hlkrago/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1637568374.0
+    },
+    {
+        "author": "TODO_getLife",
+        "body": "They do have competition? Loads of new companies have popped up specifically because of the lock in Adobe once had.",
+        "created_utc": 1637421919,
+        "id": "hle643s",
+        "permalink": "/r/stocks/comments/qxyjzz/what_is_the_next_great_tech_stock/hle643s/",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1637450719.0
+    },
+    {
+        "author": "Tec68",
+        "body": "A very large majority of my investments are in funds or major companies like MSFT, DIS, GOOG, AMZN, TGT, AAPL, and ADBE. The small amount that isn\u2019t in any of that is my play money. Honestly I do pretty well with it and the extra I make goes into one of those I mentioned. \n\nHere\u2019s the kicker, I haven\u2019t been investing in anything other than a Bull Market.",
+        "created_utc": 1636989702,
+        "id": "hkq7xxo",
+        "permalink": "/r/stocks/comments/quh9ag/reasons_to_pick_individual_stocks/hkq7xxo/",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1637018502.0
+    },
+    {
+        "author": "BF5lagsssss",
+        "body": "Them and Adobe will work wonders with each other. I got Adobe heavy since last year. With metaverse you better have Adobe since I forsee a partnership.",
+        "created_utc": 1636560936,
+        "id": "hk305yj",
+        "permalink": "/r/stocks/comments/qqvgpu/nvidia_seeks_to_lead_gold_rush_into_the_metaverse/hk305yj/",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1636589736.0
+    },
+    {
+        "author": "The_Folkhero",
+        "body": "Meta Platforms, Adobe and Inuit are 3 of my biggest positions.",
+        "created_utc": 1637863271,
+        "id": "hm253g3",
+        "permalink": "/r/StockMarket/comments/r1utw6/companies_with_70_gross_margin_20_net_profit_15/hm253g3/",
+        "score": 7,
+        "subreddit": "StockMarket",
+        "created": 1637892071.0
+    },
+    {
+        "author": "fantomdelucifer",
+        "body": "31 years old, investing from Japan. I played it slow and safe because bank saving here is literally at 0.001% rate\n\n13.5% AAPL\n\n5% V\n\n22% AMZN\n\n5% AXP\n\n7.2% ADBE\n\n3% AMD\n\n4% COST\n\n15% NVDA\n\n10% PLTR\n\n1.2% BMBL\n\n0.5% OTLY ( Used to be 6% but I cut the loss)\n\n10% MSFT\n\n6% GOOGL",
+        "created_utc": 1635953877,
+        "id": "hj5rox2",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hj5rox2/",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1635982677.0
+    },
+    {
+        "author": "nerdabe",
+        "body": "Designer here, I use adobe software pretty much every day. To land a job as a graphic designer or motion designer you need to know their software. They teach photoshop, illustrator, etc in every design school. That\u2019s one of their best advantage. Other companies are creating some competition but I can tell you it\u2019s hard to compete with their ecosystem because adobe strongest advantage is how well their tools communicate with each other and is not easy for design agencies to change their software and train their employees",
+        "created_utc": 1636601336,
+        "id": "hk5qcjr",
+        "permalink": "/r/stocks/comments/qraz86/do_you_use_adobe/hk5qcjr/",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1636630136.0
+    },
+    {
+        "author": "jbjbjb55555",
+        "body": "Don\u2019t do options. Don\u2019t listen to business/finance sites. Watch the volume and study the company. Invest in something you know about. I\u2019m a web designer. Thus, Adobe and Net for me.",
+        "created_utc": 1636728117,
+        "id": "hkc52kp",
+        "permalink": "/r/stocks/comments/qsavil/what_do_you_wish_someone_told_you_before_you/hkc52kp/",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1636756917.0
+    },
+    {
+        "author": "ZhangtheGreat",
+        "body": "If I\u2019m 100% cash? I\u2019d be licking my chops at how many strong moat companies I\u2019d grab at a discount. AMZN at a significantly undervalued price is a no-brainer. It would also be my chance to add ADBE, the one company I regret not buying when I started investing earlier this year.",
+        "created_utc": 1637427167,
+        "id": "hlei5h1",
+        "permalink": "/r/ValueInvesting/comments/qy1l6f/if_market_crashes_like_dotcom_bubble_what_would/hlei5h1/",
+        "score": 7,
+        "subreddit": "ValueInvesting",
+        "created": 1637455967.0
+    },
+    {
+        "author": "option-trader",
+        "body": "Alright, so we're all heavy in tech right? Aapl, Amd, Nvda, Adbe, and Tsla calls. Nothing else.",
+        "created_utc": 1637590153,
+        "id": "hln15j5",
+        "permalink": "/r/wallstreetbets/comments/qziyji/daily_discussion_thread_for_november_22_2021/hln15j5/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1637618953.0
+    },
+    {
+        "author": "RLBreakout",
+        "body": "Same model as Adobe for SaaS and no one is moving from them anytime soon.",
+        "created_utc": 1637790320,
+        "id": "hlyd0aq",
+        "permalink": "/r/stocks/comments/r19bnt/autodesk_plunges_20_on_earnings_time_to_buy_in/hlyd0aq/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1637819120.0
+    },
+    {
+        "author": "general010",
+        "body": "Yes I use it. Look around at every sign, packaging, website, TV graphics, video special effects, font, logos, brand design,  social media posts... mostly all adobe.\n\nWhat else am I going to use?",
+        "created_utc": 1636599800,
+        "id": "hk5n36r",
+        "permalink": "/r/stocks/comments/qraz86/do_you_use_adobe/hk5n36r/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1636628600.0
+    },
+    {
+        "author": "Patagooch",
+        "body": "I dunno but may have to do with seemingly everyone in a desk/office job having to use Adobe products.  In every professional field I can think of PDF is the gold standard.",
+        "created_utc": 1637445693,
+        "id": "hlfou47",
+        "permalink": "/r/wallstreetbets/comments/qxpg75/weekend_discussion_thread_for_the_weekend_of/hlfou47/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1637474493.0
+    },
+    {
+        "author": "Psychic_Wars",
+        "body": "Pfizer over MRK? Historically Pfizer looks volitile.\n\nI go GOOGL, COKE, NVDA, and ADBE. I have MRK, too.",
+        "created_utc": 1638000526,
+        "id": "hm94r1q",
+        "permalink": "/r/stocks/comments/r36gk8/what_stocks_are_strong_plays_with_or_without_covid/hm94r1q/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1638029326.0
+    },
+    {
+        "author": "Engineerxd",
+        "body": "fb, googl, amzn, adbe,",
+        "created_utc": 1637335596,
+        "id": "hl9iiyz",
+        "permalink": "/r/stocks/comments/qxdgeh/rstocks_daily_discussion_fundamentals_friday_nov/hl9iiyz/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1637364396.0
+    },
+    {
+        "author": "joeyeats",
+        "body": "same could be said of Adobe\u2026 good as the companies are high PE names are getting slaughtered in this climate",
+        "created_utc": 1637757620,
+        "id": "hlw77ba",
+        "permalink": "/r/stocks/comments/r1273f/rstocks_daily_discussion_wednesday_nov_24_2021/hlw77ba/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1637786420.0
+    },
+    {
+        "author": "Brainfart777",
+        "body": "I have the most generic tech portfolio you can imagine. GOOGL, MSFT, AAPL, AMZN, NVDA, AMD and ADBE. I guess ADBE is the only odd one out, but I believe they have potential to become one of the next giants.",
+        "created_utc": 1637752447,
+        "id": "hlvzsap",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hlvzsap/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1637781247.0
+    },
+    {
+        "author": "jesperbj",
+        "body": "I plan on investing 100K in the following stocks. How should I spread that out? 2-3 year timeframe. Possibly longer. It's for a special type account where I cannot invest in ETFs. \r  \n\r  \nI don't need alternatives. Chances are I already own them in my other account. I just need to know if you there's some I shouldn't buy at all and where to prioritize my funds.\r  \n\r  \nGOOG (Alphabet)\r  \n\r  \nFB (Meta)\r  \n\r  \nSE (Sea)\r  \n\r  \nSQ (Square)\r  \n\r  \nSHOP (Shopify)\r  \n\r  \nADBE (Adobe)\r  \n\r  \nPLTR (Palantir)\r  \n\r  \nPYLP (PayPal)",
+        "created_utc": 1637578185,
+        "id": "hlmivkd",
+        "permalink": "/r/stocks/comments/qzij09/rstocks_daily_discussion_monday_nov_22_2021/hlmivkd/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1637606985.0
+    },
+    {
+        "author": "rainbow_orca",
+        "body": "ADBE - Adobe Systems",
+        "created_utc": 1637874849,
+        "id": "hm2vm0b",
+        "permalink": "/r/stocks/comments/r21tcj/next_promising_tech_stock/hm2vm0b/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1637903649.0
+    },
+    {
+        "author": "SetzerWithFixedDice",
+        "body": "ADBE, you are the true unloved tech darling. Non-stop MSFT- like chart, so much cash you don\u2019t even know what to do with it all. God bless you, Adobe, you overpriced piece of shit, you",
+        "created_utc": 1638240990,
+        "id": "hmm63iz",
+        "permalink": "/r/wallstreetbets/comments/r55j9p/what_are_your_moves_tomorrow_november_30_2021/hmm63iz/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1638269790.0
+    },
+    {
+        "author": "high_roller_dude",
+        "body": "I wouldnt. but if u feel that DIS is the best investment u can make today, go ahead. \n\npersonally id rather keep buying dips in adbe, crm, msft, etc than to touch disney.",
+        "created_utc": 1636741852,
+        "id": "hkd2giq",
+        "permalink": "/r/stocks/comments/qsgldu/about_disney_stocks/hkd2giq/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1636770652.0
+    },
+    {
+        "author": "Interesting_Fall_514",
+        "body": "ASML, ADBE, MSFT, AMZN, GOOG",
+        "created_utc": 1636991726,
+        "id": "hkqcq0q",
+        "permalink": "/r/stocks/comments/qudtl3/stocks_with_competitive_advantage_name_your_top_3/hkqcq0q/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1637020526.0
+    },
+    {
+        "author": "RoamingRacoon",
+        "body": "They likely get bought just like appnexus (now Xandr) or various others like tubemogul (now under Adobe) did and whatever corp it is they will manage it to the ground (like Xandr got). TTD had a nice run but their platform isn't special compared to what other DSPs offer and they are just demand side, no own supply or exchange. With the cookieless future coming, corps who don't own or manage own supply will suffer badly. They just benefit still from that googles DV360 platform is shit and hated by users both for bad customer support and bad system design. Verizon's DSP is a rising Star and superior in lots of ways, they just missed doing good (or any) marketing for it. With Verizon Media gone &amp; now being yahoo again under Apollo this would be my pick from a tech perspective but i don't think there will be yahoo ticker again soon or ever. \n\nBit yes you are on the right path, ad tech is huge business with lots of niche corp investment potential still",
+        "created_utc": 1636895677,
+        "id": "hkl1j8i",
+        "permalink": "/r/stocks/comments/qthgfr/what_is_your_hottest_take_about_a_single_stock/hkl1j8i/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1636924477.0
+    },
+    {
+        "author": "BespokeUnderwood",
+        "body": "Adobe is for artists. From what I know, they have no data management system for mechanical engineering files, no connections to any electrical engineering software, no advanced simulation, no software emulation. So all in all, extremely well suited for designing images and videos, but not for producing physical machines, cars etc.",
+        "created_utc": 1637795121,
+        "id": "hlyoq73",
+        "permalink": "/r/stocks/comments/r19bnt/autodesk_plunges_20_on_earnings_time_to_buy_in/hlyoq73/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1637823921.0
+    },
+    {
+        "author": "churchofnobody",
+        "body": "Designer here. Avid user of adobe illustrator, photoshop, premier, after effects, XD, and Lightroom for some personal photography.",
+        "created_utc": 1636608046,
+        "id": "hk6345l",
+        "permalink": "/r/stocks/comments/qraz86/do_you_use_adobe/hk6345l/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1636636846.0
+    },
+    {
+        "author": "IAMHideoKojimaAMA",
+        "body": "I never see adobe of autodesk talked about here. Why is that?",
+        "created_utc": 1637373184,
+        "id": "hlc3ml6",
+        "permalink": "/r/stocks/comments/qxdgeh/rstocks_daily_discussion_fundamentals_friday_nov/hlc3ml6/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1637401984.0
+    },
+    {
+        "author": "stiveooo",
+        "body": "What about Adobe?. So China slowing down with construction really affected adsk?",
+        "created_utc": 1637792675,
+        "id": "hlyizas",
+        "permalink": "/r/stocks/comments/r19bnt/autodesk_plunges_20_on_earnings_time_to_buy_in/hlyizas/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1637821475.0
+    },
+    {
+        "author": "SheriffVA",
+        "body": "Here you go man. I added some MS paint to it cant afford Adobe photoshop.",
+        "created_utc": 1637716118,
+        "id": "hlucjqo",
+        "permalink": "/r/wallstreetbets/comments/r0r1ta/dug_up_some_old_walmart_wmt_partnerships_and_used/hlucjqo/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1637744918.0
+    },
+    {
+        "author": "jondubb",
+        "body": "MongoDB\n\nStubborn senior back-end engineers will never assimilate to newer and hip databases. \n\nAdobe\n\nMonolithic software company with ZERO competitors\n\nSalesforce\n\nNeed I say more?",
+        "created_utc": 1637443181,
+        "id": "hlfj8qb",
+        "permalink": "/r/stocks/comments/qxyjzz/what_is_the_next_great_tech_stock/hlfj8qb/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1637471981.0
+    },
+    {
+        "author": "MattieShoes",
+        "body": "You could go with some narrower funds, like XLC (22% FB) and VGT (20% AAPL, 17% MSFT).\n\nThat gives you significant exposure to all 3 along with lesser exposure to stuff like Visa, Adobe, Google, Netflix, Disney, etc.",
+        "created_utc": 1635830710,
+        "id": "hiz9a7o",
+        "permalink": "/r/stocks/comments/qkmmmq/if_you_could_put_3k_into_aapl_msft_or_fb_which/hiz9a7o/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1635859510.0
+    },
+    {
+        "author": "notbrokemexican",
+        "body": "They will certainly use it if they're working with Roblox and Epic Games that use the Vulkan API for low level graphics processing....... It's lead by Nvidia and AMD. Other companies like Adobe, Autodesk, and Unity are also affected by this.",
+        "created_utc": 1636058111,
+        "id": "hjbuuw8",
+        "permalink": "/r/stocks/comments/qmogyk/nvidia_is_going_to_break_300_today_currently_it/hjbuuw8/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1636086911.0
+    },
+    {
+        "author": "glassjoe92",
+        "body": "I know AMD is being put in all the Apple devices and all, but as a PC user and designer and video editor, I can't wait for the day that they have something that performs on par with Nvidia's CUDA GPU processing with Adobe. That'll be a big value add in my book. Until then, doesn't really make sense for me to go with AMD GPU.",
+        "created_utc": 1636399152,
+        "id": "hju88k2",
+        "permalink": "/r/wallstreetbets/comments/qpb8yh/daily_discussion_thread_for_november_08_2021/hju88k2/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1636427952.0
+    },
+    {
+        "author": "wearahat03",
+        "body": "\"Great\" \"Tech\"\n\nFirst - Great.\n\nI will define that as profit over 50bn. Market cap involves valuation which is subjective. There could be a 2T company with 1000PE, that will never make over 50bn profit.\n\nSecond - Tech.\n\nI will define that as a company that sells a product or service that enables companies or people produce their product.\n\nGreat Tech stocks today.\n\nAAPL and MSFT pass the profit check and they sell products/services that enable people\n\nGOOGL sort of qualifies - profit check and they have products and services that enables people but they primarily make their profits by being a 21st century advertising billboard which may disqualify the profit \n\nGreat tech stocks in 5-10 years\n\nAMZN - people would consider this already a great tech stock but profits not passed yet, it is only a matter of time though\n\nCompanies that will likely achieve over 50bn profit (great) and they sell service/product that enables people (tech)\n\nNVDA, TSM, Samsung\n\nCompanies that are arguable\n\nTSLA - is it a tech company? Or are they just selling a product? Cars don't enable people to produce things, it's a product with a function. Unlike macbooks, MS office, semiconductors that are tools for people to create things. If we consider cars tech, then every company becomes a tech company because they all sell a useful product/service. But cars don't help create anything. \n\nORCL, INTC, CRM, ADBE are the companies in the 200-400bn range but probably won't get there. ADBE at 5bn profit, 50bn in 5-10 years is just unlikely. CRM profits are 500mil, unlikely. INTC and ORCL profits are not increasing.\n\nV, MA, PYPL - unlikely profits over 50bn and also not really tech companies. Their products/service don't enable people/businesses to produce things, it helps people do one thing - transfer funds which is what all financial companies do.\n\nAll the other tech companies are so far off the 50bn profit hurdle that it is unlikely they'll meet it in the next 5-10 years, or ever. \n\nMaybe you don't agree with my definition of great or tech but if we have an environment of negative interest rates then market cap will be meaningless as everything would be inflated. Also, had to use a narrow definition of \"great tech\" otherwise there would be too many companies in a loose definition",
+        "created_utc": 1637411000,
+        "id": "hldmn56",
+        "permalink": "/r/stocks/comments/qxyjzz/what_is_the_next_great_tech_stock/hldmn56/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1637439800.0
+    },
+    {
+        "author": "Lbreak",
+        "body": "I am in the architecture industry and Autodesk is certain one, if not the only one, of the biggest player. With BIM360, the entire ecosystem is coming together, not to mention that BIM is still in a growth stage in Asia, the user population will grow. To sweeten the deal, I have to say a lot of third party software (Unreal engine, for example) have direct software connection to Revit, making it an even more comprehensive system.\n\nHonestly I think Autodesk's market position should be taken similarly to that of Adobe, not that of Zoom",
+        "created_utc": 1637681515,
+        "id": "hlrzta4",
+        "permalink": "/r/wallstreetbets/comments/r0d66z/autodesk_shorts_earnings_eod_and_software_weakness/hlrzta4/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1637710315.0
+    },
+    {
+        "author": "carotenemoon",
+        "body": "Why do people need Adobe? There are other simliar software?",
+        "created_utc": 1636578727,
+        "id": "hk4a2cw",
+        "permalink": "/r/stocks/comments/qqvgpu/nvidia_seeks_to_lead_gold_rush_into_the_metaverse/hk4a2cw/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1636607527.0
+    },
+    {
+        "author": "knecaise",
+        "body": "Pro photog here, I use photoshop., bridge, indesign, and premier. The high standard you expect in  magazines, movies and great photography would suffer greatly without Adobe.",
+        "created_utc": 1636599661,
+        "id": "hk5ms3f",
+        "permalink": "/r/stocks/comments/qraz86/do_you_use_adobe/hk5ms3f/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1636628461.0
+    },
+    {
+        "author": "jesperbj",
+        "body": "I plan on investing 100K in the following stocks. How should I spread that out? 2-3 year timeframe. Possibly longer.\n\nI don't need alternatives. I just need to know if you there's some I shouldn't buy at all and where to prioritize my funds.\n\n- GOOG (Alphabet)\n- FB (Meta)\n- SE (Sea)\n- SQ (Square)\n- SHOP (Shopify)\n- ADBE (Adobe)\n- PLTR (Palantir)\n- PYLP (PayPal)",
+        "created_utc": 1637503478,
+        "id": "hlidg6a",
+        "permalink": "/r/stocks/comments/qxdgeh/rstocks_daily_discussion_fundamentals_friday_nov/hlidg6a/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1637532278.0
+    },
+    {
+        "author": "BearyAnal",
+        "body": "My Adobe calls died today so I switched to net and sq calls during the afternoon. Someone please tell me that I\u2019m going to be ok",
+        "created_utc": 1637639551,
+        "id": "hlq7gb5",
+        "permalink": "/r/wallstreetbets/comments/qzvoy4/what_are_your_moves_tomorrow_november_23_2021/hlq7gb5/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1637668351.0
+    },
+    {
+        "author": "PCB4lyfe",
+        "body": "Bluebeam4lyfe\n\nI wouldn't bet against Adobe though.",
+        "created_utc": 1637794587,
+        "id": "hlynhtt",
+        "permalink": "/r/stocks/comments/r19bnt/autodesk_plunges_20_on_earnings_time_to_buy_in/hlynhtt/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1637823387.0
+    },
+    {
+        "author": "Anth916",
+        "body": "&gt;(I am 100% cash right now)\n\nSo, you're in a wonderful position to take full and total advantage of a MAJOR DIP likely to happen right around the next fed meeting on December 15th/16th. This Fed meeting will include the \"dot plot\". Do some Google searches on \"Fed Dot Plot Interest Rates\" and you'll see that it's often the reaction to the dot plot that really moves the markets. Especially to the downside. \n\nIf you're 100 percent cash, just bide your time till December 17th, and then make a decision on when to jump in. It's going to be a sea of red for probably a few weeks. Think of it similar to the dip in late September, except likely about twice as strong of a dip as that one.\n\nIf you really want BABA then, you could probably buy it for $109 per share, or somewhere in that neighborhood, but why buy that when you can buy Google, Microsoft, Nvidia, AMD, AAPL, AMZN, ADBE, INTU, ASML, etc, etc at amazingly low prices comparatively speaking.\n\nWhen everything is on sale, buy the absolute cream of the crop.\n\nAlso, if you really want to buy a Chinese stock.... why BABA?  The CCP dislikes BABA more than any other company. Why invest in their most hated mega corp?  I'd much rather put my money in JD.com or Pinduoduo. Same upside opportunity with less downside risk, because last time I checked, JD.com and Pinduoduo's CEO's haven't been forced into exile.",
+        "created_utc": 1638300130,
+        "id": "hmp68j6",
+        "permalink": "/r/stocks/comments/r5pvq2/what_do_you_guys_think_of_baba_right_now/hmp68j6/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1638328930.0
+    },
+    {
+        "author": "elgrosven",
+        "body": "Solid take. I have a decent bet on $KPLT over 20,000 shares. There is a lot of worry priced into the stock. They have some major governance issues, but I think they are in the right business. They are making strides with good partners.\n\n$AFRM waterfall deal is not yet in place with $AMZN, $WMT and $TGT. That would be amazing, but even without that, this is a decent trade. Looking at their site, they have increased customer count over 40% since the last quarter's print (not big customers). They have announced a deal with $CRM and $ADBE. There is good stuff happening. \n\n$W had some issues with rev growth which may weigh on $KPLT but idk, it could be really good. This is a nice Risk/Reward.",
+        "created_utc": 1636397344,
+        "id": "hju3qk9",
+        "permalink": "/r/smallstreetbets/comments/qotomu/could_it_be_time_to_catapult_into_kplt_katapult/hju3qk9/",
+        "score": 3,
+        "subreddit": "smallstreetbets",
+        "created": 1636426144.0
+    },
+    {
+        "author": "carotenemoon",
+        "body": "make sense. Adobe is good and maybe not the top1 in this area. But I feel Nvdia is kind of unique in its space.",
+        "created_utc": 1636581368,
+        "id": "hk4grn9",
+        "permalink": "/r/stocks/comments/qqvgpu/nvidia_seeks_to_lead_gold_rush_into_the_metaverse/hk4grn9/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1636610168.0
+    },
+    {
+        "author": "Rico_Stonks",
+        "body": "Adobe had a lot of expertise at AI generated visuals/augmenting images. Not sure if they\u2019re working on meta verse apps though.",
+        "created_utc": 1636581300,
+        "id": "hk4glhl",
+        "permalink": "/r/stocks/comments/qqvgpu/nvidia_seeks_to_lead_gold_rush_into_the_metaverse/hk4glhl/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1636610100.0
+    },
+    {
+        "author": "radio_yyz",
+        "body": "Yes, my pihole had blocked all three externals including adobe zero and one more - i posted as a reply below or above (somewhere here).",
+        "created_utc": 1636414946,
+        "id": "hjvatik",
+        "permalink": "/r/CanadianInvestor/comments/qpi31j/cra_login_goes_through_zeronaughtcom_is_it_some/hjvatik/",
+        "score": 3,
+        "subreddit": "CanadianInvestor",
+        "created": 1636443746.0
+    },
+    {
+        "author": "chinqyyy",
+        "body": "Why is Adobe stock price so high?",
+        "created_utc": 1637445540,
+        "id": "hlfoi0j",
+        "permalink": "/r/wallstreetbets/comments/qxpg75/weekend_discussion_thread_for_the_weekend_of/hlfoi0j/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1637474340.0
+    },
+    {
+        "author": "acegarrettjuan",
+        "body": "MPW for me. Surprised they made the cut tbh but hopefully will be good things to come. I own INTUIT and ADBE in an etf.",
+        "created_utc": 1637860178,
+        "id": "hm1xn93",
+        "permalink": "/r/StockMarket/comments/r1utw6/companies_with_70_gross_margin_20_net_profit_15/hm1xn93/",
+        "score": 3,
+        "subreddit": "StockMarket",
+        "created": 1637888978.0
+    },
+    {
+        "author": "AcademicParticular69",
+        "body": "i dont mean to seem like i care about material things, like my social status. i just want four walls and $ADBE slats for my girls.",
+        "created_utc": 1638213984,
+        "id": "hmkf4p6",
+        "permalink": "/r/wallstreetbets/comments/r4tfha/daily_discussion_thread_for_november_29_2021/hmkf4p6/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1638242784.0
+    },
+    {
+        "author": "hecmtz96",
+        "body": "Completely agree with you dude. I started a few years back and I always thought that ADBE was overvalued. It also helped them a lot that now with instagram and TikTok being as big as they are content creation has skyrocketed which obviously Adobe benefits from it.",
+        "created_utc": 1636345724,
+        "id": "hjrmyhm",
+        "permalink": "/r/ValueInvesting/comments/qp1065/if_all_companies_were_equally_undervalued_what/hjrmyhm/",
+        "score": 3,
+        "subreddit": "ValueInvesting",
+        "created": 1636374524.0
+    },
+    {
+        "author": "EthLaw",
+        "body": "Lots of people use their student loan money to buy an Adobe Creative Cloud student license, but if you're truly poor you can use GIMP",
+        "created_utc": 1636521361,
+        "id": "hk18j4d",
+        "permalink": "/r/wallstreetbets/comments/qqd61v/what_are_your_moves_tomorrow_november_10_2021/hk18j4d/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1636550161.0
+    },
+    {
+        "author": "knorc",
+        "body": "I'd buy the fast-growing cashflow machines: FB, ADBE, ETSY, CRM, BABA, FTNT, Tencent, ...  \n\n\nSome of the criterias:\n\n* \\&gt; 20% FCF CAGR\n* \\&gt; 20% Sales CAGR\n* \\&gt; 20 FCF / Sales\n* \\&gt; 10B market cap",
+        "created_utc": 1637776840,
+        "id": "hlxeuky",
+        "permalink": "/r/ValueInvesting/comments/qy1l6f/if_market_crashes_like_dotcom_bubble_what_would/hlxeuky/",
+        "score": 3,
+        "subreddit": "ValueInvesting",
+        "created": 1637805640.0
+    },
+    {
+        "author": "RumHam1",
+        "body": "I agree with pretty much everything that wearahat said - it's really up to you to balance your own risk/reward profile.  It is your 100k after all.\n\nFB, Google and Adobe are probably going to be the ones that have more limited downside because they're generating significant profits.  SE, Shop, pltr, sq are smaller market cap and have a lot more room for growth, but if the time comes in the next few years that the market starts to dislike unprofitable companies - then you could see a real sudden collapse of the valuations on those.",
+        "created_utc": 1637583270,
+        "id": "hlmpef7",
+        "permalink": "/r/stocks/comments/qzij09/rstocks_daily_discussion_monday_nov_22_2021/hlmpef7/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1637612070.0
+    },
+    {
+        "author": "redd-it-help",
+        "body": "$ADBE was green and outperforming the market today. Hope it goes to $550 so we can buy. :-)",
+        "created_utc": 1637966701,
+        "id": "hm7geoi",
+        "permalink": "/r/stocks/comments/r2ivb9/what_are_you_buying_when_the_market_opens/hm7geoi/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1637995501.0
+    },
+    {
+        "author": "DarthSimian",
+        "body": "It's right there in the article\n\n\"Meanwhile, online retailers registered $8.9 billion in sales on Black Friday, down from the record set in 2020 of about $9 billion, according to data from Adobe Analytics.\"",
+        "created_utc": 1638125961,
+        "id": "hmfkm8f",
+        "permalink": "/r/stocks/comments/r44f75/big_drop_in_black_friday_retails_store_traffic/hmfkm8f/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1638154761.0
+    },
+    {
+        "author": "Global-Dimension507",
+        "body": "Msft\nAapl\nNvidia\nAdbe\nMvrs\nAlphabet (googl)\nNflx\nAmzn",
+        "created_utc": 1638244349,
+        "id": "hmmdg0c",
+        "permalink": "/r/wallstreetbets/comments/r55j9p/what_are_your_moves_tomorrow_november_30_2021/hmmdg0c/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1638273149.0
+    },
+    {
+        "author": "1stGerard",
+        "body": "MANAMANA\n\nMicrosoft\n\nAlphabet\n\nNetflix\n\nAmazon\n\nMeta\n\nAdobe\n\nNVIDIA\n\nApple",
+        "created_utc": 1636220226,
+        "id": "hjkovat",
+        "permalink": "/r/stocks/comments/qntthk/manta_the_new_faang/hjkovat/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1636249026.0
+    },
+    {
+        "author": "Guy_PCS",
+        "body": "QQQ Invesco is an exchange-traded fund that tracks the Nasdaq-100 Index. The Index includes the 100 largest non-financial companies listed on the Nasdaq.\n\nTop Holdings\n\nName\tSymbol\t% Assets\n\nApple Inc\tAAPL\t11.27%\n\nMicrosoft Corp\tMSFT\t10.11%\n\nAmazon.com Inc\tAMZN\t7.79%\n\nAlphabet Inc Class C\tGOOG\t4.19%\n\nFacebook Inc Class A\tFB\t4.04%\n\nTesla Inc\tTSLA\t3.90%\n\nAlphabet Inc Class A\tGOOGL\t3.87%\n\nNVIDIA Corp\tNVDA\t3.78%\n\nPayPal Holdings Inc\tPYPL\t2.30%\n\nAdobe Inc\tADBE\t2.15%",
+        "created_utc": 1636429147,
+        "id": "hjw63qd",
+        "permalink": "/r/stocks/comments/qpsh3w/for_a_redditless_friend/hjw63qd/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1636457947.0
+    },
+    {
+        "author": "Brainfart777",
+        "body": "I want to get into Adobe, because I like the company, but it's trading at its ATH. Then again, many stocks are. Is there any room left to grow?",
+        "created_utc": 1637414560,
+        "id": "hlds099",
+        "permalink": "/r/stocks/comments/qxdgeh/rstocks_daily_discussion_fundamentals_friday_nov/hlds099/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1637443360.0
+    },
+    {
+        "author": "datcommentator",
+        "body": "AAPL, MSFT, NVDA, AMD, LRCX, WM, HD, COST, GOOG, ADBE, VTI, QQQ, some might say, would be a good start.",
+        "created_utc": 1638213507,
+        "id": "hmkdxpq",
+        "permalink": "/r/stocks/comments/r50pvr/investing_15k_first_time_in_taxable_account_need/hmkdxpq/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1638242307.0
+    },
+    {
+        "author": "TheRealSerialys",
+        "body": "Adobe is a great company. I doubt about V and PYPL",
+        "created_utc": 1636045998,
+        "id": "hjazxj6",
+        "permalink": "/r/StockMarket/comments/qmgv1i/need_advice_for_investing_5000/hjazxj6/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1636074798.0
+    },
+    {
+        "author": "NPRjunkieDC",
+        "body": "Adobe Scan on my Android",
+        "created_utc": 1636599106,
+        "id": "hk5ljq7",
+        "permalink": "/r/stocks/comments/qraz86/do_you_use_adobe/hk5ljq7/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1636627906.0
+    },
+    {
+        "author": "mana-addict4652",
+        "body": "Almost every company. I can literally just go by market cap:\n\n1. Apple - anti-competitive, aggressive tax avoidance, collaborating with surveillance programs, labor exploitation, vendor lock-in, \n\n2. Microsoft - privacy issues, collaboration with certain US agencies, robot journalists, tax evasion, kickstarting multiplayer subscriptions, hostile to Linux and open-source community\n\n3. Alphabet Inc. - antitrust, tax avoidance, rampant privacy issues, lobbying, literally any problem on YouTube\n\n4. Amazon - rampant tax avoidance, union-busting, poor working conditions, collaborating with certain US agencies like the CIA, promoting shitty/dangerous products, lobbying, \n\n5. Tesla - union-busting, toxic CEO, violating open-source licensing agreements, quality-control issues, labor issues, fraudulent marketing\n\n6. Meta/Facebook - rampant privacy issues, tax avoidance, toxic dumb platform,\n\n7. Nvidia - anti-competitive, traditionally hostile to open-source communities, overly proprietary and expensive\n\n8. Berkshire Hathaway - may invest in companies I find ethically-challenged\n\n9. JP Morgan Chase - illegally aided dictatorships, misleading investors, fraudulent trades...a history of being dodgy\n\n10. Visa - anti-trust, anti-competitive, allegations of excessive fees and cutting off orgs without cause\n\n11. Home Depot - lead paint and labor violations\n\n12. Johnson &amp; Johnson - illegal marketing and consumer fraud, lobbying, bribes, products causing harm without warning and responsibility for opioid epidemic\n\n13. United Health - lobbying and constant legal issues\n\n14. Walmart - anti-union, myriad of abysmal labor practices and wages, foreign labor issues and bribery, animal welfare concerns\n\n15. Bank of America - mortgage fraud, anti-consumer practices, discrimination lawsuits, misleading customers, \n\n16. Procter &amp; Gamble - price fixing, lawsuits involving harmful products, misleading marketing and shitty ads, using suppliers that exploited people with child labor, forced labor, poor wages and many of which were injured and extorted.\n\n17. Mastercard - various anti-trust suits, anti-competitive, screwing merchants and high fees, fought for corporate branding on Nigerian ID cards\n\n18. Adobe Inc. - abysmal pricing practices and fees, history of terrible security, promotion of PUPs, data breaches showing unencrypted customer data, anti-competitive practices, shitty DRM spyware\n\n19. Netflix - censoring mild content but cool with pseudoscientific 'documentaries', handed out customer data in a competition that wasn't anonymized well, tax avoidance, history of 'DVD throttling', shitty DRM implementation on multiple platforms, shitty adaptations etc",
+        "created_utc": 1637468239,
+        "id": "hlgyxrc",
+        "permalink": "/r/stocks/comments/qy3pz7/are_there_any_companies_too_evil_to_invest_in/hlgyxrc/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1637497039.0
+    },
+    {
+        "author": "nattygirl8111",
+        "body": "Does anyone care about $ADBE? I'm trying to see something",
+        "created_utc": 1637502836,
+        "id": "hlic9wj",
+        "permalink": "/r/wallstreetbets/comments/qxpg75/weekend_discussion_thread_for_the_weekend_of/hlic9wj/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1637531636.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "&gt;$ADBE: Atlantic Equities upgrades to Overweight from Neutral - PT $820 (from $600)\n\n^\\*Walter ^Bloomberg ^[@DeItaone](http://twitter.com/DeItaone) ^at ^2021-11-22 ^06:33:24 ^EST-0500",
+        "created_utc": 1637580814,
+        "id": "hlmm31j",
+        "permalink": "/r/wallstreetbets/comments/qziyji/daily_discussion_thread_for_november_22_2021/hlmm31j/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1637609614.0
+    },
+    {
+        "author": "ChipsDipChainsWhips",
+        "body": "Adbe",
+        "created_utc": 1637866034,
+        "id": "hm2blz6",
+        "permalink": "/r/StockMarket/comments/r1utw6/companies_with_70_gross_margin_20_net_profit_15/hm2blz6/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1637894834.0
+    },
+    {
+        "author": "ConditionPrudent1648",
+        "body": "I currently holding Adobe, FB and ttd",
+        "created_utc": 1637846773,
+        "id": "hm15g34",
+        "permalink": "/r/StockMarket/comments/r1utw6/companies_with_70_gross_margin_20_net_profit_15/hm15g34/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1637875573.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "&gt;ADOBE DIGITAL ECONOMY INDEX - CONSUMERS SPENT A TOTAL OF $10.7B ON CYBER MONDAY, WHICH IS DOWN 1.4% YOY\n\n^\\*Walter ^Bloomberg ^[@DeItaone](http://twitter.com/DeItaone) ^at ^2021-11-30 ^08:39:05 ^EST-0500",
+        "created_utc": 1638279557,
+        "id": "hmnsrmo",
+        "permalink": "/r/wallstreetbets/comments/r5kuzn/daily_discussion_thread_for_november_30_2021/hmnsrmo/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1638308357.0
+    },
+    {
+        "author": "ShazSnow",
+        "body": "Looking for feedback and honest opinions:\n\n24 Y/O\n\nTSLA (sold for 100% profit recently)\n\nAMD 12.03% -&gt; Bullish Long Term \n\nNSDQ100 12.49%\n\nAAPL 7.76%\n\nNVDA 4.46%\n\nDAI.DE 4.40%\n\nARKW 4.14%\n\nADBE 3.85%\n\nLHA.DE 3.7% (will always get a helping hand from papa germany, I consider it a huge discount).\n\nGME 3.62 &gt; meme stock\n\nU 3.62 (Bullish Long Term)\n\n0700.HK 3.23%\n\nGOOG 3.1%\n\nINTC 3.1%\n\nAMC 3.1% (meme stock)\n\nBMW 2.23%\n\nFB 2.07%\n\nGM 2.07%\n\nZAL.DE 1.94%\n\nVOW3.DE 1.68%\n\nADSK 1.29%\n\nBABA 1.29%\n\nAAL 1.16%\n\nSQ 1.03%\n\nRest is divided into KO, ARKG, PEP, ATVI,\nCRM, NINTENDO, V, MA and some other stock. \n\nI am going for automobile long term, airlines fairly short term and main focus are tech I think will stay for the next coming decades.\n\nLooking to pick up ETSY and Ford tomorrow.",
+        "created_utc": 1636068421,
+        "id": "hjck2jw",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hjck2jw/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1636097221.0
+    },
+    {
+        "author": "stibbles1000",
+        "body": "Actively moving business away from Adobe to Affinity software. Had to deal with Adobe customer support and I almost shot myself. It took 6 phone calls, and three months to resolve a simple billing issue (they double charged me for a one year subscription).",
+        "created_utc": 1636599559,
+        "id": "hk5mjpu",
+        "permalink": "/r/stocks/comments/qraz86/do_you_use_adobe/hk5mjpu/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1636628359.0
+    },
+    {
+        "author": "daedreamr",
+        "body": "I dont think you know what Autodesk does. A better comparison than zoom would be Adobe. They are both heavily entrenched niche software developers.",
+        "created_utc": 1637677969,
+        "id": "hlrrp1o",
+        "permalink": "/r/wallstreetbets/comments/r0d66z/autodesk_shorts_earnings_eod_and_software_weakness/hlrrp1o/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1637706769.0
+    },
+    {
+        "author": "Vast_Cricket",
+        "body": "If you learn about some bigger education stocks like edu, kaplan etc, one wonders if they live on government, grants or private students?  When schools are back online tutoring revenue tapers off so is the stock price.  I just do not see the same opportunity as another Covid and suggest you move on to other stocks.  I unloaded my Chegg taking a small gain before the market fell and put into Adbe. Can not be happier.",
+        "created_utc": 1637209866,
+        "id": "hl2yy9w",
+        "permalink": "/r/options/comments/qwfooj/is_converting_shares_into_leaps_a_common_strategy/hl2yy9w/",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1637238666.0
+    },
+    {
+        "author": "jesperbj",
+        "body": "I plan on investing 100K in the following stocks. How should I spread that out? 2-3 year timeframe. Possibly longer.\n\nI don't need alternatives. I just need to know if you there's some I shouldn't buy at all and where to prioritize my funds.\n\n- GOOG (Alphabet)\n- FB (Meta)\n- SE (Sea)\n- SQ (Square)\n- SHOP (Shopify)\n- ADBE (Adobe)\n- PLTR (Palantir)\n- PYLP (PayPal)",
+        "created_utc": 1637504193,
+        "id": "hliesjz",
+        "permalink": "/r/investing/comments/qyrx2b/daily_general_discussion_and_spitballin_thread/hliesjz/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1637532993.0
+    },
+    {
+        "author": "ElectricalGene6146",
+        "body": "$ADSK core to infrastructure and metaverse, very much a compliment to Adobe in a portfolio",
+        "created_utc": 1637420538,
+        "id": "hle35d2",
+        "permalink": "/r/stocks/comments/qxyjzz/what_is_the_next_great_tech_stock/hle35d2/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1637449338.0
+    },
+    {
+        "author": "cobaltstock",
+        "body": "realty income, biontech, apple, allianz, adobe",
+        "created_utc": 1637565833,
+        "id": "hlm4flp",
+        "permalink": "/r/ValueInvesting/comments/qzafok/you_can_only_build_a_portfolio_of_5_value_stocks/hlm4flp/",
+        "score": 2,
+        "subreddit": "ValueInvesting",
+        "created": 1637594633.0
+    },
+    {
+        "author": "velcrolips",
+        "body": "Dude- dump it.  Buy Autodesk,Adobe, Xilinx, ddog anything else",
+        "created_utc": 1637589432,
+        "id": "hlmzqfc",
+        "permalink": "/r/stocks/comments/qzij09/rstocks_daily_discussion_monday_nov_22_2021/hlmzqfc/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1637618232.0
+    },
+    {
+        "author": "DiamondBullResearch",
+        "body": "Etsy, Intu, Adbe are all great picks. \n\nStill thinking about if facebooks switch to metaverse will work out.",
+        "created_utc": 1637864978,
+        "id": "hm293zs",
+        "permalink": "/r/StockMarket/comments/r1utw6/companies_with_70_gross_margin_20_net_profit_15/hm293zs/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1637893778.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "&gt;ADOBE DIGITAL ECONOMY INDEX - SMARTPHONES ACCOUNTED FOR JUST 39.7% OF ONLINE SALES (VS DESKTOP), UP 8.4% YOY\n\n^\\*Walter ^Bloomberg ^[@DeItaone](http://twitter.com/DeItaone) ^at ^2021-11-30 ^08:39:54 ^EST-0500",
+        "created_utc": 1638279601,
+        "id": "hmnsuna",
+        "permalink": "/r/wallstreetbets/comments/r5kuzn/daily_discussion_thread_for_november_30_2021/hmnsuna/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1638308401.0
+    },
+    {
+        "author": "jessejerkoff",
+        "body": "Really you can't go too wrong with either of them. suggestions from other like tsla or shop are also valid, or even SaaS companies like adobe. Really it's personal preference. Just hold it looong time \n\nWell done on starting early - time in the market is where compound interest really comes in",
+        "created_utc": 1638274889,
+        "id": "hmnkq6b",
+        "permalink": "/r/stocks/comments/r5jnrh/got_1k_to_invest/hmnkq6b/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1638303689.0
+    },
+    {
+        "author": "Ok_Yogurtcloset44",
+        "body": "New Investor here, didn\u2019t take it serious during the crash but started just in August 2021\n\nI am aiming for a Growth more but if im over-diversified then lmk! My broker is M1 b/c i want to hold for a long time then i\u2019ll start doing options &amp; leaps in maybe a E-trade acc.\n\nSorry if th\u00e9 % aren\u2019t correct im just multiply by the percent x % allocation \n\n44% : My Highest Conviction split between \n\nAAPL 8%\nGoogl - 7.4%\nTSLA - 7.5%\nMSFT - 7.4%\nCOIN - 4.84%\nDIS - 4.84% \nAMZN - 3.5%\n\nETFs - 25% Allocated Total:\n\nSPY - 3.75%\nQQQ - 3.75%\nJEPI - 3.5% - Will be moving to a Dividend Portfolio when I make it \nSCHD - 3.5% - Will make up 20% of the Dividend Portfolio\nARKK - 3.5%\nVXUS - 3.5%\nIXN - 3.5% \n\nGrowth Focused  - 20%:\n\nABNB - 4%\nSHOP - 4%\nCRM - 4% \n(haven\u2019t open these positions yet) but they will be \n(SQ 2%)\n(PCOR 3%)\n(TWLO 3%)\n\nLong time Horizon is 11% - Aiming to capture the MetaVerse without FB/MVRS b/c of its controversial past &amp; cant see that changing but i do see the vision &amp; my \" Growth Speculative \" that I DCA into weekly \n\nAMD 1.87%\nU - 1.87%\nADSK - 1.87%\nNFLX - .9% - Boomer \nPYPL - 1.87% - Just a beaten down stock which i believe will bounce back \nADBE - 1.87% - Huge Growth Giant \nUPWK - .9% - I believe that contract freelancers + remote work is a huge market that it does better than SaaP FVRR \n\nAny thoughts and criticism is wanted I am happy to learn",
+        "created_utc": 1638268450,
+        "id": "hmncac4",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hmncac4/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1638297250.0
+    },
+    {
+        "author": "oqueenoz",
+        "body": "I have been doing this for 4+ years now. Here are my learnings as I too don't want to be called as I have capital gains.\n\n\\- I first look at the market direction. Some will say best to sell calls when your stock is going down if you want the call to expire OTM and you keep the premium.\n\n\\- I look at the IV of the stock. I have now learned to stay away from stocks with 30%+ IV as the roll to repair is costly. These stocks have a higher chance of being called away as my call will ITM. \n\n\\- I sell 1-2 weeks until expiration and sell a strike that has a 20 Delta. This means in theory that there is an 80% chance the call will expire OTM. Or another way to think about it, is there is a 20% chance my strike will be hit...which I do not want to happen.\n\n\\- If my stock is in an IRA or another tax advantaged account and the call is ITM, I will let my shares be called. There is not capital gains tax to worry about. I can always buy the stock again. And, to repair/roll would cost me money.\n\n\\- I had a costly experience with Adobe end of Oct going into Nov. At the time of trade, ADBE had an IV of 25.3%. I sold a call with 20 Delta and received $330 in premium. My strike was 585. Rather than be assigned, I then rolled/repaired the trade to a 630 strike, this cost me $2,275. I had to roll again to a 670 stike at a cost $1,464. So I lost $3308 due to my rolls. But, I avoided capital gains tax which would have been more and I have the gain in the underlying stock. ADBE is at $687 as I write this.\n\n\\- You can set alerts as the underlying price gets close to strike price and roll before the call is ITM. This will be less costly. Unless earnings is approaching, I roll by selling a OTM call and buy to close the call I have. This will cost me but I do make some premium by selling another OTM call. \n\n\\- One last thing, I avoid earnings. I will sell a call to expire before earnings. Or, wait a day or two post earnings then sell a call.",
+        "created_utc": 1638269649,
+        "id": "hmndojz",
+        "permalink": "/r/options/comments/r5bjry/using_an_underlying_stock_that_im_very_long_on/hmndojz/",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1638298449.0
+    },
+    {
+        "author": "kidicaru59",
+        "body": "Cramer is a salesman on TV now for Adobe, AWS?",
+        "created_utc": 1636119871,
+        "id": "hjewyqc",
+        "permalink": "/r/wallstreetbets/comments/qn7rh0/daily_discussion_thread_for_november_05_2021/hjewyqc/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636148671.0
+    },
+    {
+        "author": "bjguuc",
+        "body": "When did you start investing? Also I think the guys that started Adobe originally worked at Xerox and left to start Adobe because Xerox wouldn\u2019t bring the technology they invented to market. Think about how much regret Xerox must feel!",
+        "created_utc": 1636334567,
+        "id": "hjr0f8a",
+        "permalink": "/r/ValueInvesting/comments/qp1065/if_all_companies_were_equally_undervalued_what/hjr0f8a/",
+        "score": 2,
+        "subreddit": "ValueInvesting",
+        "created": 1636363367.0
+    },
+    {
+        "author": "WorkingCorrect1062",
+        "body": "Same GOOG, FB, ADBE my favorites, along with MSFT. ADBE is on the expensive side but it is a premium quality SaaS business.",
+        "created_utc": 1637582382,
+        "id": "hlmo5v7",
+        "permalink": "/r/stocks/comments/qzij09/rstocks_daily_discussion_monday_nov_22_2021/hlmo5v7/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1637611182.0
+    },
+    {
+        "author": "EmenezTech",
+        "body": "Calls on ADBE are expensive, but free money",
+        "created_utc": 1637940958,
+        "id": "hm5w85n",
+        "permalink": "/r/wallstreetbets/comments/r2kpzy/daily_discussion_thread_for_november_26_2021/hm5w85n/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1637969758.0
+    }
+]

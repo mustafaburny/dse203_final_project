@@ -4,8 +4,29 @@
         "body": "#Ban Bet Won\n---\n\n/u/Glittering-Zebra-892 (1/0) made a bet that BABA would go to 120.0 when it was 140.34 and it did, congrats autist.",
         "created_utc": 1638535911,
         "id": "hn28713",
+        "permalink": "/r/wallstreetbets/comments/r7wo5m/daily_discussion_thread_for_december_03_2021/hn28713/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1638564711.0
+    },
+    {
+        "author": "Educational_Big_4900",
+        "body": "Thanks for the comment.  I'm going to have to check in the margin.  I'm with Fidelity as well and I thought I could use margin when I ran it through the calculator.  Unfortunately, I get an error saying they are down atm and cant check.  I do like the idea of buyting the further OTM put to redcue the capital if it is 100% cash.\n\nAs for the ZEBRA, I'll have to look in to that.  I havent used or even know what one is and will have to do some research.  Love getting in to this but have a lot to learn.  If you have any good resources, i'd appreciate it.  If not, google works too!",
+        "created_utc": 1638674540,
+        "id": "hna2vtx",
+        "permalink": "/r/options/comments/r94pl6/covered_strangle_strategyquestions/hna2vtx/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1638703340.0
+    },
+    {
+        "author": "GimmeAllDaTendiesNow",
+        "body": "It seems like you understand the risks. Keep in mind that the covered strangle is a long position. You stand to lose a lot if the stock drops. Additionally, it seems like you\u2019re selling a cash-covered put and not a leveraged put. That\u2019s a VERY capital-intensive position. The airlines might not be margined with your broker. I know Fidelity isn\u2019t margining AAL, which I found out when they took $1,700 for a 17P. Very annoying. \n\nYou might consider buying a further OTM put to cap the capital requirement and give yourself some efficiency. \n\nYou can achieve the same results on an un-leveraged covered strangle with a lot less and less risk. For example, if you own 100 shares of DAL and you sell a 20 delta strangle, you are net long 100 deltas. However, if you\u2019re selling a CSP, you are synthetically long the second lot at your break even, so from a capital standpoint, it\u2019s actually more like 180 long deltas. Ignoring that, you can buy a ZEBRA, which will give you 100 long deltas for probably 1/4 the amount of capital as the cash-covered strangle. You could sell 2 ATM puts, or buy 2 ATM calls both of which will give you 100 deltas. If you wanted 180 long deltas, you could sell (3) 60 delta puts or buy (3) 60 delta calls.",
+        "created_utc": 1638673450,
+        "id": "hna0iyg",
+        "permalink": "/r/options/comments/r94pl6/covered_strangle_strategyquestions/hna0iyg/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1638702250.0
     }
 ]

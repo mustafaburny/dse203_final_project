@@ -4,15 +4,27 @@
         "body": "This is a sensationalist post that indicates you invest one time only and never again. You would blow the SPY away if you invest while the market is going down. This is true in almost every instance, even on things like Akamai, which had a 99.75% drawdown. If you would keep investing, you end up [way ahead](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&amp;timePeriod=4&amp;startYear=1985&amp;firstMonth=1&amp;endYear=2020&amp;lastMonth=12&amp;calendarAligned=true&amp;includeYTD=false&amp;initialAmount=100000&amp;annualOperation=1&amp;annualAdjustment=1000&amp;inflationAdjusted=true&amp;annualPercentage=0.0&amp;frequency=2&amp;rebalanceType=1&amp;absoluteDeviation=5.0&amp;relativeDeviation=25.0&amp;showYield=false&amp;reinvestDividends=true&amp;portfolioNames=false&amp;portfolioName1=Portfolio+1&amp;portfolioName2=Portfolio+2&amp;portfolioName3=Portfolio+3&amp;symbol1=AKAM&amp;allocation1_1=100) in the long run. The lesson from this is to invest and keep investing. Treat your investments like bills and pay them every month. That way, you\u2019re capturing the upside and downside.",
         "created_utc": 1606704676,
         "id": "ge40146",
+        "permalink": "/r/investing/comments/k3ixv6/if_you_bought_qqq_right_at_the_peak_of_the_dotcom/ge40146/",
         "score": 36,
         "subreddit": "investing",
         "created": 1606733476.0
+    },
+    {
+        "author": "JimBobIsOnIt",
+        "body": "Sector is getting pummeled despite good to strong earnings. I am long NET and AKAM.",
+        "created_utc": 1604371472,
+        "id": "gays6zk",
+        "permalink": "/r/investing/comments/jmxr01/cloudflare_net_releasing_earnings_on_115_thoughts/gays6zk/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1604400272.0
     },
     {
         "author": "snyder810",
         "body": "Third rate CDN with bad management, but probably currently undervalued and likely due for some news to correct that a bit since Sony is a 10% customer. Will probably get acquired at some point, Akamai already tried a few years back.",
         "created_utc": 1605660353,
         "id": "gco5jh8",
+        "permalink": "/r/stocks/comments/jvw0w5/if_you_could_pick_three_stocks_to_buy_and_hold/gco5jh8/",
         "score": 2,
         "subreddit": "stocks",
         "created": 1605689153.0
@@ -22,6 +34,7 @@
         "body": "I think pretty much all CDNs will grow but maybe not at the rate FSLY or NET has achieved. I can\u2019t really trust FSLY too much after the crater from TikTok but I still have a number of shares and options. AKAM is definitely one of the top tier CDNs but it\u2019s just so outrageously expensive and eventually any customer that\u2019s paying them that kind of money will eventually build their own just like Facebook did. NET is in a unique position where it offers many of their products for free for data and analytics and enterprise customers pay reasonable fees while they keep shitting out new products no one has ever thought of.",
         "created_utc": 1605632849,
         "id": "gcmkpx9",
+        "permalink": "/r/wallstreetbets/comments/jvr81t/daily_discussion_thread_for_november_17_2020/gcmkpx9/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1605661649.0
@@ -31,6 +44,7 @@
         "body": "I see it falling after earnings the way it did it august, where it goes up and then falls. I just think the way FSLY, LLNW and AKAM has been treated after earnings will hit NET because people will be scared of it being overvalued.\nDoesn't really matter to me though, I'm in at 40,5 in august and held through september, and I think cloudflare an amazing company with huge potential. The only way I'm selling is if it runs way too high. Then I would be looking to re-enter at some point.",
         "created_utc": 1604247883,
         "id": "gasyehi",
+        "permalink": "/r/stocks/comments/jm25yt/important_earnings_this_week_alibaba_paypal_and/gasyehi/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1604276683.0
@@ -40,6 +54,7 @@
         "body": "They manage a bunch of mini-datacenters on the \"edge\" -- over 200 of them. They also have \"anycast\" capability, which allows them to route requests to the nearest edge server. This allows them to do many things.\n\nThe most simplest use case for this is a CDN, where you put your big images, videos, etc. so you don't have to use heavy bandwidth over the internet. Latency is also improved. Cloudflare is not the only player here, the one of the oldest and biggest in this space is Akamai which was one of the high flying tech stocks of the dot com boom.\n\nAnother is edge computing. Think of the capability of running some code at the edge servers to minimize the load on your central servers running on AWS or Google or your own datacenter.\n\nAnother is DDOS security. The edge servers will initially take requests to a website. If it is under attack, it will require the client to do some hard math problem before forwarding the request to the actual website. This way the actual website won't be bombarded with requests, and bots need to have a lot more computing power to be able to affect a site.\n\nThere are a number of other things such as VPN, etc. that they can run on top of this infrastructure. See https://www.cloudflare.com/ products for detail.",
         "created_utc": 1606528121,
         "id": "gdtoxfm",
+        "permalink": "/r/stocks/comments/k2afox/can_someone_explain_to_me_the_hype_around/gdtoxfm/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1606556921.0
@@ -49,6 +64,7 @@
         "body": "Coming from the software side, they essentially are the highways of America. Think about how we transport goods in the context of roads. Usually there are the big highways that everyone shares and uses. However on the internet, nothing is stopping people from building their own roads except the cost, upkeep, and protection of the roads they built which can quickly spiral out of control.\n\nNow imagine that there are companies that builds and privatizes their own roads. This is where CDNs like cloudflare come in. Want to get around a traffic jam? Some people will pay an arbitrary amount use your private road to bypass the jam and clouflare will serve them. They can also provide security and other amenities along their roads. The name of the game is scalability and presence here which takes a large amount of time to build up.\n\nCDNs like cloudflare have good reputations and show little sign of stopping. You could look into Akamai to see a bigger player. Overall its an extremely safe stock considering the people behind it are really really good at their jobs.",
         "created_utc": 1606522170,
         "id": "gdtf6nu",
+        "permalink": "/r/stocks/comments/k2afox/can_someone_explain_to_me_the_hype_around/gdtf6nu/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1606550970.0
@@ -58,15 +74,57 @@
         "body": "Was long on AKAM and NET but got stopped out in the recent rout. Very widespread DDoS attacks are driving adoption of mitigation services at both companies and should lead to almost \u201cfree\u201d revenue and earnings. I expect an earnings beat, but not sure that means anything in this market.",
         "created_utc": 1604401164,
         "id": "gazsa1b",
+        "permalink": "/r/investing/comments/jmxr01/cloudflare_net_releasing_earnings_on_115_thoughts/gazsa1b/",
         "score": 1,
         "subreddit": "investing",
         "created": 1604429964.0
+    },
+    {
+        "author": "IwantmyMTZ",
+        "body": "I am looking to unload fsly that was another purchase I didn\u2019t quite think through. I also know verizon does CDN and Akamai. I don\u2019t know much about them other than that so maybe something makes them special or maybe it\u2019s just marketing.",
+        "created_utc": 1605224037,
+        "id": "gc3lsly",
+        "permalink": "/r/wallstreetbets/comments/jt38hy/what_are_your_moves_tomorrow_november_13_2020/gc3lsly/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1605252837.0
+    },
+    {
+        "author": "PaFko",
+        "body": "&gt;s to buy GOOGL.\n\n82 @ $36 avg NET here. I'm a software engineer and I don't understand why FSLY is valued higher than NET. My opinion is Cloudflare seemingly aim to innovate the field way more than Fastly and are pushing better products recently. The only ones trailing their footsteps seem to be Akamai and AWS.",
+        "created_utc": 1605076377,
+        "id": "gbwvjy3",
+        "permalink": "/r/wallstreetbets/comments/jrvquj/me_doubling_down_on_tech_calls_cause_apparently/gbwvjy3/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1605105177.0
+    },
+    {
+        "author": "reaven3958",
+        "body": "Do you own your home? Depending on where you are, you may (probably) want to look into purchasing a place. Even ignoring appreciation, the fact you're building equity instead of giving money away to a landlord will likely save you more than what you can make on the market most years (unless you win some crazy WSB yolo), and the monthly difference (it's not unusual for a mortgage to be cheaper than rent) can always be invested. Mortgage DP is usually 20%, which should be more than doable in most places with 200k, with plenty of surplus to throw into stocks or whatever.\n\nOther than that, if you want strong, steady growth, big tech has been where its at lately. Aim to split your money among those at about 5% of the total each--rn I'd go for FB, AMZN, GOOG, MSFT, AAPL for sure. Grab others in the category that suit you, TSLA is a popular one, ZM, AKAM, HYLN, NET, FSLY, NFLX, SPOT, NVDA, AMD are a few  I like to watch. I've noticed some of the traditional dividend stocks being an unexpectedly safe haven when the tech stocks dip, made some decent cash selling tech high then jumping into T, TD, SCM, BNS, KO, CAH, etc., for a few days until the dip bottoms out and it's time to cash out and buy tech back at the discount. Long term when market isn't as crazy you maybe aren't trading as much, a good policy is as one of your stocks exceeds 5% of your portfolio, look at selling it off to where its back down below 5% (when ready, not a super strict rule), then reinvest the gains elsewhere.",
+        "created_utc": 1604826286,
+        "id": "gbl2uzh",
+        "permalink": "/r/investing/comments/jq7mju/if_you_had_200k_to_invest_how_would_you/gbl2uzh/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604855086.0
+    },
+    {
+        "author": "Justino12",
+        "body": "Bullishness is on CDN broadly? Most of the commentary I\u2019ve read is pretty vanilla on CDN due to AMZN pricing pressure. FSLY bullishness surrounds edge compute capabilities and stickiness due to dev-friendly practices. NET is due to long tail customer exposure. Seems like AKAM is screwed LT though. Thoughts?",
+        "created_utc": 1605632649,
+        "id": "gcmka95",
+        "permalink": "/r/wallstreetbets/comments/jvr81t/daily_discussion_thread_for_november_17_2020/gcmka95/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1605661449.0
     },
     {
         "author": "spacebizzle",
         "body": "Yep, AKAM blew up on earnings, much more established CDN company than NET, they have massive expectations.",
         "created_utc": 1604241817,
         "id": "gasnxfa",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gasnxfa/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1604270617.0
@@ -76,6 +134,7 @@
         "body": "DIS is already trying to do it. FSLY more of a niche CDN anyway, if company can still leverage scale of Akamai (the commodity side) and build the smarter stuff in house it makes sense.",
         "created_utc": 1605274868,
         "id": "gc5gh3w",
+        "permalink": "/r/wallstreetbets/comments/jtf81v/daily_discussion_thread_for_november_13_2020/gc5gh3w/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1605303668.0
@@ -85,8 +144,1639 @@
         "body": "That\u2019s dumb because I have been subscribed to ArK trade notifications. They were buying lot of Doyu for past month, they saw it not moving up, from past few days they are keep selling it. They bought lot of Fastly when it dipped from 130 to 90, now it is around 75, it even dropped to 65$. I work in the same space as Fastly, I don\u2019t think they are any special. Fastly initial sales increased because of Tik Tok. Fastly have many competitors such as Cloudfalre , Akamai, Imperva etc. Ark was dumb in buying the dip there. ARK also bought Alibaba when it dipped from 320 to 290 without actually understanding the political situation in China. Jack Ma is now an enemy to Winnie the Pooh, he will make sure Alibaba won\u2019t get the recognition it deserves. The conclusion is don\u2019t blindly trust anyone. Do your due deligence",
         "created_utc": 1605470314,
         "id": "gcf45qj",
+        "permalink": "/r/wallstreetbets/comments/jtohy5/weekend_discussion_thread_for_the_weekend_of/gcf45qj/",
         "score": 0,
         "subreddit": "wallstreetbets",
         "created": 1605499114.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the  2nd of November\n\n\n\n## Upcoming events for Monday, November  2nd\n\n - Stock splits:\n\n    - MDLY @ **1:10**\n\n - Expected earnings:\n\n  ADTN, ADUS, AGRX, AIZ, AKTX, ALUS, ALX, AMC, AMCX, AMRC, ANET, ANH, APPF, ARGO, ARVN, ATXI, AWR, BCC, BKH, BRKR, BSM, BTE, BWXT, BYFC, CBFV, CCLP, CCXI, CDEV, CDK, CDLX, CDW, CINR, CLCT, CLX, CNA, CNO, CNTY, CORR, CPAC, CPE, CPLP, CRD.A, CRD.B, CRNT, CRUS, CTIC, CVI, CWH, DEA, DEI, DOOR, DRIO, DRRX, DSPG, EC, ECPG, EEX, EGRX, EL, ELVT, ENIA, ESPR, EVER, EVRI, EXTN, FANG, FBM, FE, FICO, FMC, FN, FNCB, FRPT, FTSI, FUNC, FUSB, G, GAIN, GHL, GIFI, HALO, HCKT, HGEN, HLIO, HMN, HNRG, HRTG, HSIC, HUD, HURN, HZNP, IAA, ICCH, ICHR, IHT, INGR, INSP, IOVA, IPI, IR, IRET, ISEE, ITIC, ITRI, ITUB, JAKK, JAZZ, JCOM, JLL, KFRC, KMPR, KMT, KNSA, KPTI, KRYS, L, LCII, LDOS, LEG, LITE, LL, LNT, LPG, MATX, MDLZ, MEC, MED, MG, MGP, MIME, MITT, MOS, MPC, MPLX, MRTX, MSGN, MVBF, MYGN, MYOK, NC, NCMI, NERV, NI, NNN, NPTN, NSP, NSSC, NTP, NTR, NWHM, NXE, O, OGS, OMI, ON, ONCS, ONTO, OSPN, OTTR, OXBR, OXLC, PAA, PACB, PAGP, PARR, PBR, PBR.A, PEAK, PINC, PMBC, PUMP, PYPL, QTNT, RGS, RIG, RMBS, RPAI, RVNC, RYAAY, SAMA, SANM, SBAC, SEDG, SIBN, SIMO, SNDX, SOGO, SOHU, SRC, SRRA, STE, STIM, STRL, SUP, SWKS, SYN, TCMD, TEN, TLGT, TMBR, TPTX, TREX, TRVG, TRVN, TYME, UAN, UROV, USFD, VCTR, VCYT, VEON, VNO, VNOM, WBK, WING, WLFC, WM, WMB, WMK, XENT, YRCW\n\n - Ex-div:\n\n  ASGI, ASML, BANR, BKEP, CAPL, ETRN, FAM, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, FTHY, HIHO, IGD, IID, ITUB, KEN, LBAI, LMRK, MET, SHLX, SPH, SRCE, USDP, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.100%)\n    - 6-Month Bill Auction (previous: 0.110%)\n    - Construction Spending (consensus: 0.9%, previous: 1.4%)\n    - Core PCE Price Index (previous: 0.3%)\n    - Core PCE Price Index (previous: 1.6%)\n    - ISM Manufacturing Employment (previous: 49.6)\n    - ISM Manufacturing New Orders Index (previous: 60.2)\n    - ISM Manufacturing PMI (consensus: 55.8, previous: 55.4)\n    - ISM Manufacturing Prices (consensus: 58.6, previous: 62.8)\n    - Investing.com Gold Index (actual: 56.5%, previous: 58.5%)\n    - Investing.com S&amp;P 500 Index (actual: 65.9%, previous: 58.7%)\n    - Loan Officer Survey\n    - Manufacturing PMI (previous: 53.3)\n    - PCE Price index (previous: 1.4)\n    - PCE price index (previous: 0.3%)\n    - Total Vehicle Sales (previous: 15.70M)\n\n## Upcoming events for Tuesday, November  3rd\n\n - Expected earnings:\n\n  ACET, ACOR, AGCO, AJX, AKR, ANAT, ANDE, APLS, AQB, ARA, ARCB, ARNC, AROC, ATH, ATHM, AUBN, AVD, AVNS, AVNT, BBGI, BBU, BCTX, BHC, BLD, BMCH, BRY, BTG, BTU, CARA, CARG, CBAY, CBD, CC, CGBD, CHCT, CHFS, CHSCP, CLSK, CLW, COHR, COKE, CORT, CPTA, CRIS, CRVL, CTLT, EAF, EMR, ES, ETN, ETRN, EURN, EXC, EXK, EXPD, FATE, FI, FOX, FOXA, FSP, GBLI, GCI, GLDD, GORO, GRFS, GSH, GTE, GTES, GWPH, HBM, HRZN, HSC, HTA, HUM, HY, HYRE, ICD, ICPT, INN, INS, IOSP, IPAR, IT, ITCI, JBGS, JCI, JELD, KAR, KE, KOPN, KRMD, LFC, LFVN, LGIH, LPX, LUNA, MBI, MCK, MCRB, MCS, MCY, MDNA, MDRR, METC, MOR, MRCY, MYL, NBR, NES, NEX, NEXT, NHC, NK, NP, NPO, NR, NRC, NSIT, OCFT, OCN, OMP, OPCH, ORA, OTEL, OXFD, PACD, PAYS, PEI, PFHD, PFIS, PKOH, PMD, PRU, PTRS, PTVCA, PTVCB, QUAD, RACE, RCM, RCUS, RHP, RNWK, RVI, SAVA, SCOR, SHIP, SIM, SMCI, SMIT, SPKE, SPR, STAR, SUPN, SYY, TCFC, TCON, TEF, TIMB, TISI, TREC, TRHC, TRI, TRMT, TTI, TX, UEC, UFPT, USAC, VIST, VIV, VPG, VSH, VSTM, W, WBT, WEC, WEYS, WLK, WLKP, WMG, WTRG, WTTR, XENE, XNCR, XOMA, Y, ZBRA, ZYME\n\n - Ex-div:\n\n  AIV, AMRB, BRO, CLX, EIG, FMX, HFWA, MCBS, PCB, VSEC\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.140%)\n    - API Weekly Crude Oil Stock (previous: 4.577M)\n    - Durables Excluding Defense (previous: 3.4%)\n    - Factory Orders (consensus: 1.0%, previous: 0.7%)\n    - Factory orders ex transportation (previous: 0.7%)\n    - IBD/TIPP Economic Optimism (previous: 55.2)\n    - ISM NY Business Conditions (previous: 56.1%)\n    - ISM-New York Index (previous: 807.3)\n    - Redbook (previous: 0.8%)\n    - Redbook (previous: 1.2%)\n    - U.S. Presidential Election\n\n## Upcoming events for Wednesday, November  4th\n\n - Expected earnings:\n\n  AAMC, ABIO, ACAD, ACIA, AE, AEE, AFIN, AGLE, AGM, AHCO, ALB, ALBO, ALL, ALLO, ALLT, ALSK, ALTM, AMEH, AMOT, AMSC, ANIK, ANSS, ANVS, APA, APEN, AQST, ARC, ARDX, ARTNA, ASC, ASTE, ATAX, ATEX, ATLO, AVA, AWK, AXNX, AZPN, BBD, BBDO, BBSI, BCH, BEP, BIDU, BIOL, BKCC, BKD, BKEP, BKTI, BLCM, BLPH, BRX, BSBR, BSGM, BWEN, CAPL, CBMG, CCAP, CCJ, CCRN, CCU, CDXC, CEA, CECE, CF, CFMS, CHEK, CHNG, CIA, CIB, CIM, CIX, CLFD, CLH, CLI, CMP, COHN, CPK, CRK, CRY, CSGS, CSII, CSTE, CTSO, CTVA, CUTR, CVU, CWBR, CXW, CYTK, DAR, DCP, DFIN, DHX, DK, DKL, DMAC, DNLI, DNOW, DRTT, DXPE, EGY, ELF, ELY, ENBL, ENLC, EPM, EPR, EPRT, EQH, ESSA, ET, EXPE, EXPI, EXR, FCRD, FIT, FLMN, FLXN, FNF, FNHC, FNV, FOE, FRG, FRGI, FROG, FRPH, FSTR, FTDR, FUN, GDDY, GDOT, GFL, GHC, GIB, GLMD, GLRE, GMAB, GMRE, GNK, GNW, GOL, GOOD, GPL, GPP, GPRE, GPRK, GRNQ, GRP.U, GTHX, H, HAE, HARP, HBB, HEP, HLNE, HLT, HNGR, HOFV, HOLX, HR, HST, IAG, IBOC, IDN, IGC, IIPR, IMXI, INFI, INGN, INPX, IO, IONS, IQ, ITI, JCAP, JKHY, KAMN, KBAL, KGC, KIDS, KLDO, KRUS, KW, KZR, LANC, LAND, LAZY, LBTYA, LBTYB, LBTYK, LC, LCI, LCTX, LHCG, LILA, LILAK, LMRK, LNC, LND, LPI, LPL, LRMR, LTBR, LTRPA, LTRPB, LUMN, LYRA, MCEP, MCHX, MDGL, MDU, MELI, MET, MFA, MGEE, MGNX, MIRM, MLAB, MLP, MLR, MLVF, MNKD, MOSY, MRCC, MRO, MRSN, MTCH, MTG, MTRX, MTW, NEWT, NGD, NHTC, NMFC, NODK, NTN, NUS, NWPX, OESX, OLN, ORCC, ORIC, ORTX, OSUR, OTIC, OUT, PAAS, PAHC, PATI, PAYC, PDCE, PDLB, PEBK, PFBI, PFGC, PING, PIRS, PLUS, PLYA, PODD, PRAH, PRGO, PRI, PRQR, PRTA, PSA, PSEC, PSN, PTGX, PXD, QCOM, QLYS, QRTEA, QRTEB, QRVO, QTWO, QUIK, RC, RCMT, RDN, RDWR, REI, RESI, REXN, RGLD, RGNX, RKDA, RLJ, RPD, RPT, RTLR, RYAM, SAFT, SBGI, SBOW, SENEA, SENEB, SG, SGA, SGMO, SGMS, SGRY, SITM, SJI, SJW, SLF, SMG, SMSI, SMTX, SPPI, SRDX, SRT, STAA, STN, SUN, SUZ, SWM, SWX, SYKE, SYNC, TA, TAC, TACT, TALO, TBIO, TELL, TG, TGA, TISI, TLK, TMDX, TPC, TPCO, TRC, TRMB, TRNO, TRTX, TS, TSLX, TTEC, TTGT, TTOO, TWO, TYL, UBX, UFCS, UHAL, UMH, UNVR, UPWK, USDP, USWS, VAC, VAPO, VBIV, VMD, VOYA, VRCA, VRSK, VRT, VST, VTOL, VTVT, VVNT, VYGR, WEN, WHD, WHLR, WK, WRN, WSTG, WTI, WTM, WTS, WYNN, XAN, XEC, ZAGG, ZNGA, ZNH, ZYNE\n\n - Ex-div:\n\n  AMG, AWI, BBD, BBDO, CATC, CFBK, FELE, HESM, IBCP, IDA, LSBK, MTRN, NEP, NWBI, OFED, PVBC, STBA, VBTX, WSFS, XYL\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 650K, previous: 749K)\n    - All Car Sales (previous: 3.75M)\n    - All Truck Sales (previous: 12.59M)\n    - Crude Oil Imports (previous: 0.122M)\n    - Crude Oil Inventories (previous: 4.320M)\n    - Cushing Crude Oil Inventories (previous: -0.422M)\n    - Distillate Fuel Production (previous: -0.005M)\n    - EIA Refinery Crude Runs  (previous: 0.362M)\n    - EIA Weekly Distillates Stocks (previous: -4.491M)\n    - EIA Weekly Refinery Utilization Rates (previous: 1.7%)\n    - Exports (previous: 171.90B)\n    - Gasoline Inventories (previous: -0.892M)\n    - Gasoline Production (previous: 0.162M)\n    - Heating Oil Stockpiles (previous: -0.299M)\n    - ISM Non-Manufacturing Business Activity (previous: 63.0)\n    - ISM Non-Manufacturing Employment (previous: 51.8)\n    - ISM Non-Manufacturing New Orders (previous: 61.5)\n    - ISM Non-Manufacturing PMI (consensus: 57.5, previous: 57.8)\n    - ISM Non-Manufacturing Prices (previous: 59.0)\n    - Imports (previous: 239.00B)\n    - MBA 30-Year Mortgage Rate (previous: 3.00%)\n    - MBA Mortgage Applications (previous: 1.7%)\n    - MBA Purchase Index (previous: 305.2)\n    - Markit Composite PMI (consensus: 55.5, previous: 54.3)\n    - Mortgage Market Index (previous: 807.8)\n    - Mortgage Refinance Index (previous: 3,711.6)\n    - Seevol Cushing Storage Report (previous: -2.538M)\n    - Services PMI (consensus: 56.0, previous: 54.6)\n    - Trade Balance (consensus: -64.00B, previous: -67.10B)\n\n^^^^2020-11-02",
+        "created_utc": 1604314822,
+        "id": "gavwe93",
+        "permalink": "/r/RobinHood/comments/jmlg7k/daily_discussion_thread_november_2nd_2020/gavwe93/",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1604343622.0
+    },
+    {
+        "author": "throughthevalley77",
+        "body": "Mango doing the same thing I do... repeatedly spam something on a social media platform for it to come true. Please tank CRM so I can buy in cheaper.",
+        "created_utc": 1604351599,
+        "id": "gaxquzf",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxquzf/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604380399.0
+    },
+    {
+        "author": "t777m",
+        "body": "I\u2019m 18, a student, getting money by saving parts of my student loan. My objectives are to simply get an understanding of investment and then work towards targets (a quick way of getting money would be nice but i understand that in my position its not faesible). As I\u2019m starting off with a weak source of money i\u2019d prefer a safer strategy, for now. I managed to get hold of 0.02 ETH and a share of SDC.\n\nI have recently picked up an interest in investing and am thinking about starting in the coming days, on trading 212. Ive selected the FAANG companies, Microsoft, Tesla, Shopify, Salesforce, Nvidia, Adobe and Vanguard emerging markets etf. I\u2019m not sure about the percentages.\n\nis this a good pie and what percentages should i use?",
+        "created_utc": 1604276240,
+        "id": "gauijhz",
+        "permalink": "/r/investing/comments/jm1ab1/daily_advice_thread_all_basic_help_or_advice/gauijhz/",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1604305040.0
+    },
+    {
+        "author": "throughthevalley77",
+        "body": "Buying shares of $VZ, $CRM, $V, $BAC this week",
+        "created_utc": 1604287712,
+        "id": "gav2pqu",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gav2pqu/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604316512.0
+    },
+    {
+        "author": "throughthevalley77",
+        "body": "CRM is a steal RN",
+        "created_utc": 1604342866,
+        "id": "gax8khs",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax8khs/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604371666.0
+    },
+    {
+        "author": "Monkeycash",
+        "body": "Yep. I live near Salesforce Dick Tower, many shops have boarded up too. And Costco is running out of toilet paper again.",
+        "created_utc": 1604294024,
+        "id": "gavbzob",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gavbzob/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604322824.0
+    },
+    {
+        "author": "FriscoTXMan",
+        "body": "There is a reason.  Once a company is no longer owned by the founders, it becomes what I call a \u201czombie\u201d public company.  Once the majority of shares are owned by funds (retirement, hedge, etc.) instead of owners and founders, the focus shifts to quarterly returns, innovation dies, growth rates slow, and the value of the company is \u201cmonetized\u201d back to the funds until it is worthless.   Salesforce just turned that corner.  Typical patterns include heavy advertising, annual or twice annual layoffs (Jack Welch style), cuts in R&amp;D funding, tight delivery schedules, service failures,  attempts to turn support into consulting (a poorly built product now needs you to pay for support), higher product complexity (it becomes a complicated mess due to rushing the delivery schedule, and saying yes to every possible customer, who basically turn your solution into garbage).  Fully monetized companies then show up in bankruptcy after years of neglect and lack of innovation.  Think Sears and JCPenney.   Oracle is on it\u2019s way, as well as most \u201cold tech\u201d.  IBM.",
+        "created_utc": 1604320664,
+        "id": "gaw2i44",
+        "permalink": "/r/StockMarket/comments/jm5gzw/bloomberg_the_us_stock_market_could_be_headed_for/gaw2i44/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1604349464.0
+    },
+    {
+        "author": "gonewildpapi",
+        "body": "Crm is way undervalued imo",
+        "created_utc": 1604288024,
+        "id": "gav38c5",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gav38c5/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604316824.0
+    },
+    {
+        "author": "cstern917",
+        "body": "I read a Reddit post that said \"Salesforce gave me cancer.\"",
+        "created_utc": 1604287641,
+        "id": "gav2ljd",
+        "permalink": "/r/investing/comments/ih4jxb/after_crushing_earnings_salesforce_announces/gav2ljd/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604316441.0
+    },
+    {
+        "author": "gonewildpapi",
+        "body": "Uvxy and CRM",
+        "created_utc": 1604310118,
+        "id": "gavsbum",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gavsbum/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604338918.0
+    },
+    {
+        "author": "throughthevalley77",
+        "body": "CRM shares are the way",
+        "created_utc": 1604329479,
+        "id": "gawgicp",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawgicp/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604358279.0
+    },
+    {
+        "author": "SuperNewk",
+        "body": "CRM is huge they need to acquire companies to grow.  A lot of their gains have been cashing out ZOOM and other companies.  Which is good, but they need more winners.\n\n  \nI can see them buying DOCU if the price gets good, but doesn't look like it",
+        "created_utc": 1604243058,
+        "id": "gaspu2z",
+        "permalink": "/r/stocks/comments/jkxngm/sap_vs_salesforce/gaspu2z/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604271858.0
+    },
+    {
+        "author": "nobodyhereisthere",
+        "body": "Negative added value? I made many people 100s of thousands with OSTK, W, NKLA puts, SNAP, PINS, TUP, CRM, and more. Saved many from ETSY,TWTR,NKLA, SAP, INTC, and more. \n\nEngineers point out what is wrong more than what is right. Smart people can't stand stupid people it is why we have a small net of friends. If you are actually mentally challenged I am sorry for my comments earlier. I donate to many groups that help the special needs. That talk is basic WSB talk. My point still gets across. People need to be smarter in how they trade or go back to buy and holding.",
+        "created_utc": 1604257813,
+        "id": "gathujg",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gathujg/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604286613.0
+    },
+    {
+        "author": "PerfectNemesis",
+        "body": "Why Salesforce?",
+        "created_utc": 1604234897,
+        "id": "gasdmyr",
+        "permalink": "/r/investing/comments/jltqox/how_can_i_invest_into_remote_work/gasdmyr/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604263697.0
+    },
+    {
+        "author": "cstern917",
+        "body": "Salesforce is a way to be compliance oriented and process driven.  I spend 30 hours a week entering and maintaining opportunities.  It's better for sales managers than sales reps.  The trick is to implement in a way that doesn't make your sales reps want to vomit.",
+        "created_utc": 1604288136,
+        "id": "gav3esf",
+        "permalink": "/r/investing/comments/ih4jxb/after_crushing_earnings_salesforce_announces/gav3esf/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604316936.0
+    },
+    {
+        "author": "cstern917",
+        "body": "I've been in sales 12+ years, and have ONLY used Salesforce.  It's a lot of keystrokes for sales reps.  I've seen it implemented well, and in other cases poorly, but regardless, it pushes a lot of work out to the field.",
+        "created_utc": 1604287820,
+        "id": "gav2w5y",
+        "permalink": "/r/investing/comments/ih4jxb/after_crushing_earnings_salesforce_announces/gav2w5y/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604316620.0
+    },
+    {
+        "author": "The_Folkhero",
+        "body": "Cloud based sales/CRM software that can be utilized 100% remotely.",
+        "created_utc": 1604239082,
+        "id": "gasjnix",
+        "permalink": "/r/investing/comments/jltqox/how_can_i_invest_into_remote_work/gasjnix/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604267882.0
+    },
+    {
+        "author": "throughthevalley77",
+        "body": "All I need for this election to do is for tank $CRM so I can buy into it",
+        "created_utc": 1604350119,
+        "id": "gaxnrwb",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxnrwb/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604378919.0
+    },
+    {
+        "author": "JW4974",
+        "body": "\ud83c\udf08\ud83d\udc3b Drill Teams Report:\n\nAAPL \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f \n\nAMZN \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f \n\nMSFT \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f \n\nQQQ \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f \n\nSPY \ud83d\udea7 Work in Progress \ud83d\udea7\n\nAll Drill Teams on SPY\n\nLuv, \ud83c\udf08\ud83d\udc3b",
+        "created_utc": 1604339004,
+        "id": "gax09u2",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax09u2/",
+        "score": 26,
+        "subreddit": "wallstreetbets",
+        "created": 1604367804.0
+    },
+    {
+        "author": "JW4974",
+        "body": "\ud83c\udf08\ud83d\udc3b Drill Teams Reporting\n\nAAPL \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\nAMZN \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\nMSFT \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\nQQQ \nSPY",
+        "created_utc": 1604334376,
+        "id": "gawqeuh",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawqeuh/",
+        "score": 21,
+        "subreddit": "wallstreetbets",
+        "created": 1604363176.0
+    },
+    {
+        "author": "Houston_swimmer",
+        "body": "I\u2019ve only heard that 400 times lol. Not an msft fan but I respect the play",
+        "created_utc": 1604345753,
+        "id": "gaxemxw",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxemxw/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1604374553.0
+    },
+    {
+        "author": "Okmanl",
+        "body": "Most fund managers don\u2019t beat the market. Because they\u2019re not trying to. Many fund managers and professional investors also have regulations they have to follow. They can\u2019t make concentrated investments. They have to show quarterly results and so forth. For example Cathy Wood said she would\u2019ve put a lot more into Tesla but because of rules and regulations the max she can invest is ~10% per fund she manages. \n\n\nIndividual investors can definitely beat the market by having a concentrated portfolio. Knowing the stock that they own intimately and not letting emotions get involved. \n\nThere are quite a few people who have a concentrated portfolio on 3-4 companies like Square, peloton, Tesla, Amazon, Microsoft, AMD and so forth. And they have all outperformed the market over 5-10 years. \n\nIf you have a high risk tolerance then buying single stocks can be worth it.",
+        "created_utc": 1604268188,
+        "id": "gau36se",
+        "permalink": "/r/investing/comments/jmac76/why_is_everyone_so_against_active_investing_and/gau36se/",
+        "score": 10,
+        "subreddit": "investing",
+        "created": 1604296988.0
+    },
+    {
+        "author": "WrongWeekToQuit",
+        "body": "I still see the comparisons...\n\nYou had outright fraud from Enron, Worldcom, etc... not unlike Lickin, Wirecard, Nikola.\n\nYou had companies with high valuations that confounded the people who tried to value them like Amazon.  The same things being said of Tesla were said about Amazon back then.\n\nYou had tech darlings like Microsoft, Cisco, Oracle, Intel, etc... that ran up huge amounts, making employees into millionaires.\n\nYou had highly anticipated IPOs of companies, some very immature like pets.com, but some big like doubleclick, etc... If you look at Big Commerce's or Lemonade's financials, they aren't great.  And some of the SPAC mergers are pretty suspect especially when compared to how much they run up around merger time.  \n\nI agree that there was more vaporware back in the late 90s, BUT, the fervor, the blind investing into companies without knowing anything about their financials, the double or triple digit gains within a single year.... remind you of any recent times?",
+        "created_utc": 1604369137,
+        "id": "gaynxua",
+        "permalink": "/r/investing/comments/jmy2im/some_tips_on_buying_when_the_market_falls/gaynxua/",
+        "score": 9,
+        "subreddit": "investing",
+        "created": 1604397937.0
+    },
+    {
+        "author": "JW4974",
+        "body": "\ud83c\udf08\ud83d\udc3b Reporting - SPY 330 breached, MSFT tanked\n\nElite Team 6 going in.\n\nLuv, \ud83c\udf08\ud83d\udc3b maintenance team",
+        "created_utc": 1604333977,
+        "id": "gawpkqg",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawpkqg/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1604362777.0
+    },
+    {
+        "author": "troylus81",
+        "body": "Holding puts til after the election. Then going all in on microsoft leaps. Microsoft under 200 is a money maker buying leaps and letting it ride all of 2021.",
+        "created_utc": 1604274755,
+        "id": "gaufril",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gaufril/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1604303555.0
+    },
+    {
+        "author": "fawkesmulder",
+        "body": "You guys freaking out about big tech need to grow some balls and hold or add. Also I know this isn\u2019t the wsb way but shares are a practical guarantee to be a big winner on these, no matter the choppiness of things like elections.\n\nI like to think - in 20 years will this company still be dominant? \n\nI feel like humanity will end if google dies. Similar with Amazon.\n\nThose are my big two but also feel super safe with apple, Microsoft, Facebook, visa as long term positions.\n\nLong term thesis is tech is the way with growth of AI and efficient solutions. Especially if we ever get to AGI which I think we will in our lifetimes.",
+        "created_utc": 1604357647,
+        "id": "gay2xqe",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gay2xqe/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1604386447.0
+    },
+    {
+        "author": "Cybertruckwraps",
+        "body": "When is msft going to buy Nokia again?",
+        "created_utc": 1604339170,
+        "id": "gax0mqh",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax0mqh/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1604367970.0
+    },
+    {
+        "author": "swolking",
+        "body": "MSFT $200 is the stonewall upon which the bull market rests. Many a bear has fallen before it.",
+        "created_utc": 1604344064,
+        "id": "gaxb36i",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxb36i/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1604372864.0
+    },
+    {
+        "author": "Vonserb",
+        "body": "The fed has this backstopped;  different game, different rules.  Tech is the one thing thrives during a pandemic. Zoom, Amazon,  Microsoft.. all benefit from this unfortunately.",
+        "created_utc": 1604262343,
+        "id": "gatr90l",
+        "permalink": "/r/wallstreetbets/comments/jm9505/that_drop_will_make_many_millionaires_cant_wait/gatr90l/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1604291143.0
+    },
+    {
+        "author": "staunch_character",
+        "body": "MSFT &amp; $200. Name a better duo.",
+        "created_utc": 1604340635,
+        "id": "gax3ssb",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax3ssb/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1604369435.0
+    },
+    {
+        "author": "gamechump",
+        "body": "lol someone just dropped 9 million on fucking MSFT 1/21 275c!!!! Fuck my ass.",
+        "created_utc": 1604347188,
+        "id": "gaxhmnx",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxhmnx/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1604375988.0
+    },
+    {
+        "author": "spald01",
+        "body": "Yep, just like all of those things have sent MSFT, AAPL, and GOOG into the tank...oh wait.",
+        "created_utc": 1604358026,
+        "id": "gay3o18",
+        "permalink": "/r/stocks/comments/jmsjoz/i_put_everything_i_have_into_amazon_today/gay3o18/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1604386826.0
+    },
+    {
+        "author": "Carsrcool12345",
+        "body": "I'I keep mostly all of them but Zoom. It's beyond me how that stock is at what its at and how much it has increased since Covid especially when Microsoft has a product that directly competes with Zoom that is the same level of quality if not better. I only see that stock going down.",
+        "created_utc": 1604285926,
+        "id": "gauzq5h",
+        "permalink": "/r/stocks/comments/jmf30c/should_i_sell_these_stock_i_bought_in_april_2020/gauzq5h/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1604314726.0
+    },
+    {
+        "author": "marcus_aurelius_wsb",
+        "body": "I think puts before tech earnings is the way to go. Out of AAPL, MSFT, GOOGL, TWTR, AMZN, PYPL only GOOG was up, rest all drilled to the core.",
+        "created_utc": 1604352692,
+        "id": "gaxt31i",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gaxt31i/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1604381492.0
+    },
+    {
+        "author": "Purely_Cured",
+        "body": "MSFT 200c is back baby",
+        "created_utc": 1604344538,
+        "id": "gaxc2uk",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxc2uk/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1604373338.0
+    },
+    {
+        "author": "EatMePlsDaddy",
+        "body": "MSFT STILL hates 200. Good.",
+        "created_utc": 1604341808,
+        "id": "gax6b3b",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax6b3b/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1604370608.0
+    },
+    {
+        "author": "Zephyr101",
+        "body": "superfuk positions \n\n$35p SNAP 11/6\n\n$5c NOK 11/20\n\n$25c SPCE 12/18\n\n$130c AAPL 1/15/21\n\n$250c MSFT 12/18\n\n$40c NIO 12/18 (Saving grace)",
+        "created_utc": 1604343211,
+        "id": "gax9b5t",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax9b5t/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1604372011.0
+    },
+    {
+        "author": "-Jocko-",
+        "body": "microsoft",
+        "created_utc": 1604251184,
+        "id": "gat4j9k",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat4j9k/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1604279984.0
+    },
+    {
+        "author": "adayofjoy",
+        "body": "Agreed with you on the IPO fervor as well as fraud cases like Nikola, but the big established tech companies like Microsoft, Facebook, Google etc. that are trading at a 30 pe ratio aren't anywhere near dot com bubble valuations.\n\nAt worst their stock prices might get knocked down ~20% before these big tech growth companies with amazing balance sheets and a bright future end up having a similar PE ratio to many older value companies.",
+        "created_utc": 1604369972,
+        "id": "gaypgiy",
+        "permalink": "/r/investing/comments/jmy2im/some_tips_on_buying_when_the_market_falls/gaypgiy/",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1604398772.0
+    },
+    {
+        "author": "Churner_throwaway-",
+        "body": "just means MSFT and AMZN are cheap",
+        "created_utc": 1604336748,
+        "id": "gawvh4d",
+        "permalink": "/r/stocks/comments/jmqrt7/anyone_anticipating_a_tech_selloff_tomorrow/gawvh4d/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1604365548.0
+    },
+    {
+        "author": "addictedtothetendies",
+        "body": "My MSFT and QQQ 2022 leaps went from 100% to -5% in 2 weeks. I ain\u2019t selling",
+        "created_utc": 1604343786,
+        "id": "gaxaih3",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxaih3/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1604372586.0
+    },
+    {
+        "author": "NeurotypicalPanda",
+        "body": "Fuck microsoft \nFuck paypal",
+        "created_utc": 1604357658,
+        "id": "gay2yj1",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gay2yj1/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1604386458.0
+    },
+    {
+        "author": "obi1013",
+        "body": "msft at 200 is free money",
+        "created_utc": 1604353902,
+        "id": "gaxvja1",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gaxvja1/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1604382702.0
+    },
+    {
+        "author": "braamdepace",
+        "body": "Agreed, but one thing I will add is this... when the market drops big often times it\u2019s hard to look at your account it\u2019s frustrating and you almost want to ignore it, or forget about it like a bad grade, relationship, bill or anything else that causes anxiety...  but it\u2019s at this time you need to calm your emotions and spend more time researching and critically thinking about your account.\n\nAlso you will have big losses, and it\u2019s hard to sell those even though there is much better places for your money.  One of the examples I will give you is from me personally this year.  I had 25% my account in BAC-K.  This is a preferred callable stock that trades around $25 and pays 7% dividend payment.  When the market crashed this \u201ccrashed\u201d too.  It dropped to $20 (a 20% drop) and I was pissed cause it shouldn\u2019t have moved that much cause I knew BAC was capable of making the dividend payment and they had to pay me before their common shareholders.  As much as I didn\u2019t want to sell this stock knowing it would recover back to $25 pretty easily I had to force myself to realize that there were other stocks out there that lost much more and long term were better spots for my money.  Companies like MSFT, AAPL, and other amazing companies dropped 35-50%... this was an opportunity I wouldn\u2019t get again and as hard as it was I had to realize I had time and some risk tolerance to take advantage of this opportunity.  So I knew selling a stock that had no business being down 20% at a loss and repositioning would be more beneficial long term.\n\nTLDR when shit hits the fan it\u2019s natural to pull out or ignore your account, but you have to fight that urge.  It\u2019s at that time you double down on research and evaluating your financial situation.",
+        "created_utc": 1604368955,
+        "id": "gaynm14",
+        "permalink": "/r/investing/comments/jmy2im/some_tips_on_buying_when_the_market_falls/gaynm14/",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1604397755.0
+    },
+    {
+        "author": "quaddles",
+        "body": "Msft is not going below 200",
+        "created_utc": 1604344914,
+        "id": "gaxcv36",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxcv36/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1604373714.0
+    },
+    {
+        "author": "ShaidarHaran2",
+        "body": "I'm very long on TSMC, but I would assume this is both priced in and a relatively small thing compared to iPhones and AMD (which = consoles). As long as they keep Apple, AMD, Microsoft, Sony, and a few smaller phone vendors happy.\n\nApple in particular is fill",
+        "created_utc": 1604344195,
+        "id": "gaxbd1p",
+        "permalink": "/r/stocks/comments/jmsln8/apple_announces_event_for_nov_10_where_new_macs/gaxbd1p/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1604372995.0
+    },
+    {
+        "author": "t33po",
+        "body": "What's protecting NET from the encroaching MSFT, GOOG, AMZN cloud and C.D.N. services? It just seems like FSLY, NET type companies are just proving concepts for network services for the monsters to copy and better intergrate into their own platforms. Am I crazy here?",
+        "created_utc": 1604267858,
+        "id": "gau2j8e",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gau2j8e/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1604296658.0
+    },
+    {
+        "author": "throwaway__3012",
+        "body": "Microsoft getting awfully close to 200 support and spy is getting close to 290",
+        "created_utc": 1604339282,
+        "id": "gax0vfc",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax0vfc/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1604368082.0
+    },
+    {
+        "author": "Churner_throwaway-",
+        "body": "I buy MSFT sub 205 and I buy AMZN sub 3000. It works until it doesnt.",
+        "created_utc": 1604337556,
+        "id": "gawx6ns",
+        "permalink": "/r/stocks/comments/jmqrt7/anyone_anticipating_a_tech_selloff_tomorrow/gawx6ns/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1604366356.0
+    },
+    {
+        "author": "iamchromes",
+        "body": "Msft isn\u2019t even sub 200. No dips yet",
+        "created_utc": 1604333504,
+        "id": "gawollm",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawollm/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604362304.0
+    },
+    {
+        "author": "heartstesler",
+        "body": "Why Apple Microsoft and Amazon  are down when everything is up",
+        "created_utc": 1604335908,
+        "id": "gawto6r",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawto6r/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604364708.0
+    },
+    {
+        "author": "Winterhondalove",
+        "body": "A lot of people think it will be bad. That violence will occur if the election is contested. My baseless theory is this: its extraordinarily slim the violence is worse than what we have seen over the past 5 months. Even if there is peak unrest, how does that impact stonks? This year it hasn't that much. People are timid, but I largely think that is overplayed. Many companies reported great numbers for Q3. Whether the election is contested, biden wins, or trump wins, it doesn't really matter. The private sector is marching on. Microsoft doesn't give a hoot if people riot. Stimulus will pass whether its biden or trump. Even so, we know we have until next year to sort it all out. Im keeping some cash for buying opportunities, but I'm largely bullish. Don't let the media get your worked up into thinking this is the end times. It's not.",
+        "created_utc": 1604372208,
+        "id": "gaytizw",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gaytizw/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604401008.0
+    },
+    {
+        "author": "dajochi",
+        "body": "Amazon/msft/Apple/Facebook just dragging the whole economy with it. To big to pump \ud83c\udf08\ud83d\udc3b win",
+        "created_utc": 1604343416,
+        "id": "gax9qsh",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax9qsh/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604372216.0
+    },
+    {
+        "author": "wolfman333",
+        "body": "MSFT really bout to go below 200",
+        "created_utc": 1604341482,
+        "id": "gax5lq5",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gax5lq5/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604370282.0
+    },
+    {
+        "author": "ben_evolent",
+        "body": "Beware the ides of MSFT 200",
+        "created_utc": 1604343855,
+        "id": "gaxanmu",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxanmu/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604372655.0
+    },
+    {
+        "author": "NewResearcher2030",
+        "body": "Solar companies like CSIQ and FSLR or even buy ICLN. Also MSFT and BABA as your time horizon is 6 years. Hold on amazon why would you care if you not day or swing trading.",
+        "created_utc": 1604334907,
+        "id": "gawrjfr",
+        "permalink": "/r/stocks/comments/jmqe3j/how_am_i_doing/gawrjfr/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1604363707.0
+    },
+    {
+        "author": "eatalaskansalmon",
+        "body": "Msft bottom 200 , calls easy money",
+        "created_utc": 1604350901,
+        "id": "gaxpfdo",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gaxpfdo/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604379701.0
+    },
+    {
+        "author": "t777m",
+        "body": "I\u2019m 18, a student, getting money by saving parts of my student loan. My objectives are to simply get an understanding of investment and then work towards targets (a quick way of getting money would be nice but i understand that in my position its not faesible). As I\u2019m starting off with a weak source of money i\u2019d prefer a safer strategy, for now. I managed to get hold of 0.02 ETH and a share of SDC.\n\nI have recently picked up an interest in investing and am thinking about starting in the coming days, on trading 212. Ive selected the FAANG companies, Microsoft, Tesla, Shopify, Salesforce, Nvidia, Adobe and Vanguard emerging markets etf. I\u2019m not sure about the percentages.\n\nis this a good pie and what percentages should i use?",
+        "created_utc": 1604276240,
+        "id": "gauijhz",
+        "permalink": "/r/investing/comments/jm1ab1/daily_advice_thread_all_basic_help_or_advice/gauijhz/",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1604305040.0
+    },
+    {
+        "author": "FearlessTrader",
+        "body": "Okay guys, realistic question, at what levels would you be comfortable buying leaps for the following stocks:\n\n1. FB\n2. SQ\n3. AMZN\n4. MSFT\n5. TSLA\n6. AAPL",
+        "created_utc": 1604277014,
+        "id": "gaujyjs",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gaujyjs/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604305814.0
+    },
+    {
+        "author": "Bolkonsky999",
+        "body": "i am all in on spt and ccl puts, and only thing worrying me about my positions is tech. amazon is already at 3000, msft at 200, i don't think they'll go much lower than that. Now, I am hoping tech won't move much on monday while everything else tanks, so spy goes down. i should be buying dia puts instead haha",
+        "created_utc": 1604252963,
+        "id": "gat7wpg",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat7wpg/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604281763.0
+    },
+    {
+        "author": "professorsquat",
+        "body": "I sold 13k worth of NIO on Friday so I could buy MSFT leaps. AMA",
+        "created_utc": 1604329064,
+        "id": "gawfq76",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawfq76/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604357864.0
+    },
+    {
+        "author": "Zephyr101",
+        "body": "Fuck Microsoft fuck Apple",
+        "created_utc": 1604331520,
+        "id": "gawkiu9",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawkiu9/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604360320.0
+    },
+    {
+        "author": "Itsme_eljefe",
+        "body": "ARKK\nARKQ\nARKF\nSPY\nAMD\nTSLA\nQQQ\nTQQQ\nSNAP\nCHWY\nAMZN\nMSFT\nTSM\nASML\nSOXL",
+        "created_utc": 1604265001,
+        "id": "gatwunf",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gatwunf/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604293801.0
+    },
+    {
+        "author": "bshaman1993",
+        "body": "Will MSFT ever relieve itself off the $200 curse",
+        "created_utc": 1604343766,
+        "id": "gaxah1d",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxah1d/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604372566.0
+    },
+    {
+        "author": "Cwc123",
+        "body": "msft",
+        "created_utc": 1604251181,
+        "id": "gat4j28",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat4j28/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604279981.0
+    },
+    {
+        "author": "TheQsandCuesrules",
+        "body": "You\u2019re absolutely correct man, I\u2019m just scared I\u2019ll make the wrong choice or baghold a stock for a while where as with an etf the upside is way less but downside is minimal compared to a TSLA NVDA AMD (tech or growth stocks - even MSFT AAPL with their dividends still fluctuate). \n\nYour stock picks outperform the market or your main goal is let me just choose sound companies with dividend growth?",
+        "created_utc": 1604287406,
+        "id": "gav27jh",
+        "permalink": "/r/stocks/comments/jm7wph/investing_strategies_dividend_growth_investing/gav27jh/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1604316206.0
+    },
+    {
+        "author": "SudsAde6985",
+        "body": "Will MSFT close below 200? Hasn\u2019t happened since 6/19 \ud83e\udd14",
+        "created_utc": 1604350192,
+        "id": "gaxnxbl",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gaxnxbl/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604378992.0
+    },
+    {
+        "author": "ApolloFirstBestCAG",
+        "body": "Microsoft why you being this way BB why you so dead",
+        "created_utc": 1604354279,
+        "id": "gaxwawa",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gaxwawa/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604383079.0
+    },
+    {
+        "author": "OnlyTheLadder",
+        "body": "The markets tend to conform to a Pareto distribution with a small number of stocks responsible for almost all returns over time. If you miss out on this small handful of stocks you'll underperform over time. The overperforming stocks are NOT static, at one point the highest returning stocks included GE, IBM, Sears, and other market laggards, while currently successful stock like Apple and Microsoft languished for decades.",
+        "created_utc": 1604278106,
+        "id": "gaulz20",
+        "permalink": "/r/investing/comments/jmac76/why_is_everyone_so_against_active_investing_and/gaulz20/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1604306906.0
+    },
+    {
+        "author": "smallstreetgains",
+        "body": "##Top trending tickers, sentiments, and options on /r/stocks for the day of November 02, 2020.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Tickers:\n\n**Ticker**|**Company**|**Mentions**|**Bulls / Bears**|**Price**|**Change**|**P/E**\n:-:|:--|:-:|:-:|:-:|:-:|:-:\nMSFT|Microsoft Corporation|183|93.33% / 6.67%|$200.92|-0.77%|32.67\nAAPL|Apple Inc.|175|88.89% / 11.11%|$107.85|-0.93%|33.10\nNIO|NIO Limited|126|88.46% / 11.54%|$33.02|7.99%|-\nTSLA|Tesla, Inc.|103|80.00% / 20.00%|$397.63|2.47%|768.40\nAMZN|Amazon.com, Inc.|99|72.73% / 27.27%|$2983.12|-1.75%|116.70\nAMD|Advanced Micro Device|96|75.00% / 25.00%|$74.31|-1.31%|105.01\nSQ|Square, Inc.|83|100.00% / 0.00%|$154.67|-0.14%|343.41\nICLN|Exchange Traded Fund|77|71.43% / 28.57%|$19.85|1.48%|-\nQQQ|Exchange Traded Fund|76|88.89% / 11.11%|$268.51|-0.32%|-\nVOO|Exchange Traded Fund|59|100.00% / 0.00%|$302.25|0.81%|-\nNVDA|NVIDIA Corporation|56|50.00% / 50.00%|$500.32|-0.21%|91.93\nBABA|Alibaba Group Holding|56|83.33% / 16.67%|$309.71|1.65%|31.19\nARKK|Exchange Traded Fund|54|75.00% / 25.00%|$90.47|-0.35%|-\nFB|Facebook, Inc.|45|75.00% / 25.00%|$259.57|-1.35%|31.20\nWMT|Walmart Inc.|44|100.00% / 0.00%|$140.04|0.93%|22.12\nDIS|The Walt Disney Compa|43|100.00% / 0.00%|$120.01|-1.02%|-\nKO|The Coca-Cola Company|39|100.00% / 0.00%|$48.41|0.73%|24.93\nNET|Cloudflare, Inc.|38|100.00% / 0.00%|$51.78|-0.37%|-\nSE|Sea Limited|37|100.00% / 0.00%|$158.03|0.21%|-\nVTI|Exchange Traded Fund|37|100.00% / 0.00%|$168.19|0.72%|-\nV|Visa Inc.|36|100.00% / 0.00%|$184.62|1.60%|32.71\nRKT|Rocket Companies, Inc.|30|75.00% / 25.00%|$18.92|3.78%|7.53\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Options:\n\n**Ticker**|**Strike**|**Type**|**Expiration**\n:-:|:-:|:-:|:-:\nFB|$270|Call|9/18\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Sentiment:\n\n**Sentiment**|**Comments**|**%**\n:--|:--|:--\nBullish|179|71.60%\nNeutral|1290|-\nBearish|71|28.40%\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Other Data:\n\n**Overall Market Sentiment:** Bullish\n\n**Comments Searched:** 1540\n\n**Newly Trending Tickers:** RKT\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nYou can view all top trending tickers on /r/RedditTickers.\n\nNotice an error or have questions? Reply to this post or message /u/smallstreetgains.\n\nFinancial data provided by [finviz](https://finviz.com/).",
+        "created_utc": 1604350987,
+        "id": "gaxplt5",
+        "permalink": "/r/stocks/comments/jmjnqp/rstocks_daily_discussion_monday_nov_02_2020/gaxplt5/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1604379787.0
+    },
+    {
+        "author": "throwaway__3012",
+        "body": "Let\u2019s knock msft down under 200",
+        "created_utc": 1604344898,
+        "id": "gaxctw2",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxctw2/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604373698.0
+    },
+    {
+        "author": "bluen",
+        "body": "whatever happen to the tiktok sale to microsoft or oracle or whatever?",
+        "created_utc": 1604345093,
+        "id": "gaxd8b3",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxd8b3/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604373893.0
+    },
+    {
+        "author": "Subscribe-to",
+        "body": "In hindsight it's easy to say she should've just invested in AAPL, MSFT or AMZN 20 years ago but she could've just as easily invested in GE.\n\n&amp;#x200B;\n\nThis also doesn't take into account taxes",
+        "created_utc": 1604258171,
+        "id": "gatilmz",
+        "permalink": "/r/investing/comments/jlf4g8/what_are_examples_of_cannotfail_stocks_that_ended/gatilmz/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1604286971.0
+    },
+    {
+        "author": "EatMePlsDaddy",
+        "body": "Fam if MSFT goes below 200 its over. Stonk is dead.",
+        "created_utc": 1604336511,
+        "id": "gawuyr3",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawuyr3/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604365311.0
+    },
+    {
+        "author": "selladoordali",
+        "body": "MSFT, AMZN, NASDAQ, and SPY all near very important levels",
+        "created_utc": 1604344885,
+        "id": "gaxcsv7",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxcsv7/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604373685.0
+    },
+    {
+        "author": "Zephyr101",
+        "body": "can we not lmao I\u2019m cool with y\u2019all killing my aapl positions not my Microsoft too \ud83d\ude2d",
+        "created_utc": 1604344945,
+        "id": "gaxcxc9",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxcxc9/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604373745.0
+    },
+    {
+        "author": "TheJpow",
+        "body": "And not the xbox? I was recently told that xbox is better because msft keeps buying these games studios and therefore is will have the larger selection. \n\nDisclaimer: I game exclusively on pc so I am not part of the console wars",
+        "created_utc": 1604356683,
+        "id": "gay126d",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gay126d/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604385483.0
+    },
+    {
+        "author": "dpetropo",
+        "body": "MSFT is yet to demonstrate they know how to develop/publish an original hit (in many many years at least). They couldn\u2019t even figure Halo out for launch.",
+        "created_utc": 1604356837,
+        "id": "gay1d06",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gay1d06/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604385637.0
+    },
+    {
+        "author": "SamFish3r",
+        "body": "Boring advice , but MSFT, AAPL, VISA, Costco Walmart are some good buys they pay Decent enough dividends as well and have potential to keep growing as they are solid companies . There is uncertainty in the market COVID globally and COVID + Elections in the US . Don\u2019t go all in. \n   I had 21 k to invest earlier this year.  the market was insanely high valuations and meanwhile as I enjoyed huge gains on my existing positions, I was afraid to buy at ATH prices...and than CoVID crash happened .\nSince than I split th3 total amount  up into 3 investment runs of 7 k each and over all its been up 18% and these are diversified mutual funds not individual stocks . So do your Research find companies that you feel Comfortable with and invest in Phases .. don\u2019t feel like you are missing out as your are simply protecting your money . Remember it\u2019s your money people love to brag\nAbout their gains no one mentions  how much they lost so be cautious and take calculatedRisks . Most folks who have been investing for the past 5-10 year have seen insane growth and there will be profit taking so keep that in mind as well.",
+        "created_utc": 1604338438,
+        "id": "gawz2c5",
+        "permalink": "/r/stocks/comments/jmqe3j/how_am_i_doing/gawz2c5/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1604367238.0
+    },
+    {
+        "author": "SudsAde6985",
+        "body": "I\u2019m no bull, but if MSFT closes below 200 any day before next earnings, I\u2019d be surprised. Shorted it at 210 &amp; 225 this summer. Got to 196.25 for a moment, but still closed @ 202. Flirted with it lately, but now long 195 again on Friday. Most confident trade I made last week. Considering I\u2019m getting slaughtered in my TUP short at the moment. Who\u2019da thunk?",
+        "created_utc": 1604252224,
+        "id": "gat6inh",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat6inh/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604281024.0
+    },
+    {
+        "author": "AtWarWithAll",
+        "body": "microsoft",
+        "created_utc": 1604253153,
+        "id": "gat89r3",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat89r3/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604281953.0
+    },
+    {
+        "author": "MoarTarriffs",
+        "body": "I like picking riskier medium cap growth stocks such as NET, CRWD, ENPH, SQ, TDOC, TSLA. These have potential to grow more than stocks such as MSFT. But MSFT and AAPL are great additions to growth portfolios",
+        "created_utc": 1604255995,
+        "id": "gate1ib",
+        "permalink": "/r/stocks/comments/jltjnx/just_opened_roth_ira/gate1ib/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1604284795.0
+    },
+    {
+        "author": "Electrical_Spite_477",
+        "body": "Costco, Amazon, Microsoft, apple... are all going to sell the exact amount of shit no matter who wins",
+        "created_utc": 1604258677,
+        "id": "gatjo7h",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gatjo7h/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604287477.0
+    },
+    {
+        "author": "spacedoutspacey",
+        "body": "I was looking at investing in Coca-Cola, J&amp;J, NIO, Microsoft, Apple and Disney",
+        "created_utc": 1604351379,
+        "id": "gaxqet8",
+        "permalink": "/r/stocks/comments/jmw2zz/advice_for_the_possible_up_coming_crash/gaxqet8/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1604380179.0
+    },
+    {
+        "author": "sola_rpi",
+        "body": "microsoft :(",
+        "created_utc": 1604352294,
+        "id": "gaxs9zi",
+        "permalink": "/r/wallstreetbets/comments/jmto48/dear_amazon/gaxs9zi/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604381094.0
+    },
+    {
+        "author": "LavenderAutist",
+        "body": "How does that work out when Microsoft falls 30%?",
+        "created_utc": 1604297360,
+        "id": "gavg0wv",
+        "permalink": "/r/investing/comments/jmhw4e/i_am_making_money_hand_over_fist_right_now_how/gavg0wv/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1604326160.0
+    },
+    {
+        "author": "paragon_1235",
+        "body": "Msft 200 gonna be back on the menu",
+        "created_utc": 1604336593,
+        "id": "gawv50c",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawv50c/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604365393.0
+    },
+    {
+        "author": "Boomtown626",
+        "body": "Looks like FAANGs, MSFT, ZM, and the other biggest winners of the year are weighing on things right now. I think valuations are going to try to level back out. I think a lot of people are sitting on cash at this point. Curious where it's all going to come back in on Wednesday and Thursday.",
+        "created_utc": 1604341274,
+        "id": "gax55j9",
+        "permalink": "/r/stocks/comments/jmjnqp/rstocks_daily_discussion_monday_nov_02_2020/gax55j9/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1604370074.0
+    },
+    {
+        "author": "slymerva",
+        "body": "If MSFT breaks below 200 we enter the forsaken realm once again...",
+        "created_utc": 1604344215,
+        "id": "gaxbems",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxbems/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604373015.0
+    },
+    {
+        "author": "idanfl8",
+        "body": "Bro Netflix doesn\u2019t make money u know that? Creating content is incredibly difficult and doesn\u2019t leave them a lot of room for profit. I think if u want to go long on one of the big ones Netflix and aapl are the weakest in that list. At least split ur investment to msft and fb or something which are also a household names and would be around for a long time. Good luck with ur investments I hope it works out for u whatever u decide.\ud83d\ude0e\ud83d\udc4d",
+        "created_utc": 1604355965,
+        "id": "gaxzng8",
+        "permalink": "/r/wallstreetbets/comments/jmv1ax/what_are_your_moves_tomorrow_november_03_2020/gaxzng8/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604384765.0
+    },
+    {
+        "author": "PlanetExperience",
+        "body": "You guys think it's too early to buy MSFT 1/15 2021 230C?",
+        "created_utc": 1604333155,
+        "id": "gawnvon",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawnvon/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604361955.0
+    },
+    {
+        "author": "Boomtown626",
+        "body": "Disagreed, I think they make more sense long-term, but reading your post just got me to go fractionally reduce exposure to MSFT, GOOGL, NFLX, and the chip-makers I have (AMD, NXPI, MRVL, SWKS, SOXX), because I want the cash available to buy the dip whenever this week's bloodbath happens, and I think reducing exposure there makes more sense in the short-term than reducing my holdings in the names that will be exposed to good vaccine news and good reopening news. \n\nRemember Moderna, Pfizer, and JNJ all have stage 3 vaccine trial results they plan to announce within the next month. If you wait until the news cycle starts reminding us, then you've already missed a bigger bounce than you can reasonably expect from this year's biggest tech winners over the next few weeks.",
+        "created_utc": 1604347953,
+        "id": "gaxj85f",
+        "permalink": "/r/stocks/comments/jmjnqp/rstocks_daily_discussion_monday_nov_02_2020/gaxj85f/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1604376753.0
+    },
+    {
+        "author": "rifle5k",
+        "body": "MSFT $200/ AMAZON $3000 rest wouldn't buy.",
+        "created_utc": 1604277120,
+        "id": "gauk5su",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gauk5su/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604305920.0
+    },
+    {
+        "author": "KraheKaiser",
+        "body": "I sold short term /NQ call spreads and bought 2023 leaps on MSFT, and a Jan $600 call on NVDA which is retarded.. need to sell more spreads to at least cover all this extrinsic value  but its too risky to do all at once.",
+        "created_utc": 1604332345,
+        "id": "gawm807",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawm807/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604361145.0
+    },
+    {
+        "author": "BakedForskin",
+        "body": "That would be awesome. I have 50k I wanna buy and hold with but I was thinking amazon msft or apple.",
+        "created_utc": 1604344163,
+        "id": "gaxbalm",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxbalm/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604372963.0
+    },
+    {
+        "author": "throwaway__3012",
+        "body": "If msft loses 200 drill team 6 is gonna come out",
+        "created_utc": 1604344975,
+        "id": "gaxczka",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaxczka/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604373775.0
+    },
+    {
+        "author": "TendiesForTheBoys",
+        "body": "Me too... I sold 1,200 shares of MSFT at $223.86 only to buy it back at $221.00 and watch it drop to $202 and probably more.... I will be holding LONG though",
+        "created_utc": 1604280555,
+        "id": "gauqa7d",
+        "permalink": "/r/wallstreetbets/comments/jm7uag/learned_i_can_use_two_fingers_to_see_how_much_i/gauqa7d/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604309355.0
+    },
+    {
+        "author": "ShaidarHaran2",
+        "body": "Microsoft has one of the worst reliability records for laptops, unfortunately, for the one that should have been the \"this is how you do it right\" option. \n\n\nI wish laptop reliability surveys separated out high end and low end stuff, but my experience having seen hundreds if not thousands deployed has always been you get what you pay for, the difference is Apple and Microsoft just don't make the budget stuff, Microsoft had issues breaking into the hardware game anew, but if you take a comparably priced professional machine from Dell, Lenovo, etc compared to a Macbook Pro, they're also going to last, and are cheaper to repair.",
+        "created_utc": 1604357892,
+        "id": "gay3eml",
+        "permalink": "/r/stocks/comments/jmsln8/apple_announces_event_for_nov_10_where_new_macs/gay3eml/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1604386692.0
+    },
+    {
+        "author": "Electrical_Spite_477",
+        "body": "YeH, there's a point where they're too small to prevent being crushed like Slack is getting crushed by Microsoft. But if they can overcome the small cap stage and become entrenched, like Zoom, they become too big to be crushed.",
+        "created_utc": 1604268551,
+        "id": "gau3vgt",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gau3vgt/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604297351.0
+    },
+    {
+        "author": "steakandp1e",
+        "body": "I sold a 190/187.5 msft put spread for 11/27. How fucked do you think that is or will the impending crash not be so bad? In hindsight thinking I should have sold call spread",
+        "created_utc": 1604215040,
+        "id": "garsg1u",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/garsg1u/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604243840.0
+    },
+    {
+        "author": "A-A-RonAutist",
+        "body": "Here we go with MSFT 3/20 calls again",
+        "created_utc": 1604261736,
+        "id": "gatq01f",
+        "permalink": "/r/wallstreetbets/comments/jm7sl3/amateur_crayons_on_spy/gatq01f/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604290536.0
+    },
+    {
+        "author": "CurveAhead69",
+        "body": "Doesn\u2019t need for sure but msft online store is...meh. And she\u2019s going harder into gaming (esp 2 years now) acquiring gaming companies like zenimax.  \nPerhaps, a bigger, more flexible and expansive presence, through varied venues is what they\u2019re after. Maybe.",
+        "created_utc": 1604281911,
+        "id": "gauspqf",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gauspqf/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604310711.0
+    },
+    {
+        "author": "Charlietango2007",
+        "body": "Well, after running around the house screaming like a mad idiot for hours on and pulling out my hair thinking about going out in the front yard dousing myself with gasoline and lighting my self on fire.\nI've come to the sad realization that Nokia is just a business they're doing a lot of incredible things you think it would hit the stock price through the roof or to the Moon as they say. But they're also spending a hell of a lot of money to get all this other crap done. I have January calls it'll probably expire worthless. I've come to accept that unless Microsoft or the government or somebody buys a company which unfortunately is not for sale. But then again everything has its price. Including me because I've been giving $5 blow jobs behind the Wendy's dumpster near my house just to make ends meet.\nI've already lost my half my portfolio which is about $80,000 thank you AMD for moving your earnings date without telling anyone and buying xilinx. And now dunkin' donuts is going private and I knew about it and I didn't buy any calls or puts or any goddamn thing.\nThe only advice I can give you is stay out of this for a while or buy leaps for 2022. Nokia doesn't move enough to day trade you're better off investing in Erickson or Comcast or T-Mobile. Even Qualcomm I stay away from AT&amp;T though period well good luck with your investment you can always buy Tesla. I just bought Amazon and the price went down even though earnings were through the roof. The stock market is just not stable right now it's almost as if Trump is running that also as well as the country period both are in very sad state. Put your money in the bank and leave it there for a while you're better off period again this is only my opinion or is everyone says the mad ravings of a madman Good luck Chuck. Cheers",
+        "created_utc": 1604287869,
+        "id": "gav2z46",
+        "permalink": "/r/options/comments/jmfobx/nok_call_holders_plans/gav2z46/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1604316669.0
+    },
+    {
+        "author": "dayman00742069",
+        "body": "That is a lot of MSFT.",
+        "created_utc": 1604292278,
+        "id": "gav9q1m",
+        "permalink": "/r/wallstreetbets/comments/jm7uag/learned_i_can_use_two_fingers_to_see_how_much_i/gav9q1m/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604321078.0
+    },
+    {
+        "author": "staunch_character",
+        "body": "Because she could have sold &amp; bought AAPL or MSFT or AMZN at the bottom. Or just SPY. \n\nPeople get locked into thinking you only lose money when you sell. But what\u2019s the opportunity cost? \n\nIf she sold at a 50% loss &amp; put the remaining in anything else, she would have been profitable years sooner.",
+        "created_utc": 1604220668,
+        "id": "garxclo",
+        "permalink": "/r/investing/comments/jlf4g8/what_are_examples_of_cannotfail_stocks_that_ended/garxclo/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604249468.0
+    },
+    {
+        "author": "Yup207",
+        "body": "That money will flood to the greatest companies in the world after they just dropped 15-20% cuz it\u2019s the best place to put money. The speculative tech is small compared to the amzn Msft etc.",
+        "created_utc": 1604278138,
+        "id": "gaum13n",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gaum13n/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604306938.0
+    },
+    {
+        "author": "giant_g2",
+        "body": "I like MSFT with their leadership and diversification. NIO has potential to grow into its current valuation, but I'm out of that one after doubling my money in it from share price of $3 to $6. Oh how I wish I put more in it and held...",
+        "created_utc": 1604317147,
+        "id": "gavyl9k",
+        "permalink": "/r/stocks/comments/jmjnqp/rstocks_daily_discussion_monday_nov_02_2020/gavyl9k/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604345947.0
+    },
+    {
+        "author": "throwaway__3012",
+        "body": "If amzn msft and aapl fall the whole market will follow",
+        "created_utc": 1604336712,
+        "id": "gawve7w",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gawve7w/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604365512.0
+    },
+    {
+        "author": "asorich1",
+        "body": "I love it!  I have 1k to throw at something today.  Should I just go all BABA or do some Sony and/or Microsoft combo?  No pressure, just convo.",
+        "created_utc": 1604338193,
+        "id": "gawyjl2",
+        "permalink": "/r/stocks/comments/jjjs1w/rstocks_daily_discussion_wednesday_oct_28_2020/gawyjl2/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604366993.0
+    },
+    {
+        "author": "ItsBstone",
+        "body": "Is Microsoft a buy right now?",
+        "created_utc": 1604339089,
+        "id": "gax0gck",
+        "permalink": "/r/smallstreetbets/comments/jmlu9l/daily_market_discussion_thread_monday_november_02/gax0gck/",
+        "score": 1,
+        "subreddit": "smallstreetbets",
+        "created": 1604367889.0
+    },
+    {
+        "author": "quaddles",
+        "body": "Im deep on msft calls",
+        "created_utc": 1604319502,
+        "id": "gaw142k",
+        "permalink": "/r/wallstreetbets/comments/jmkz1s/daily_discussion_thread_for_november_02_2020/gaw142k/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604348302.0
+    },
+    {
+        "author": "ks788",
+        "body": "nio 14.2%\nnet 14.2% \nNvidia 9.52%\nbaba 9.52%\nMsft 9.52%\nApple: 9.52%\namazon: 9.52% \nFacebook 9.52%\n square 9.52%\nPTON 2.38%\nBYND 2.38%",
+        "created_utc": 1604306205,
+        "id": "gavozfl",
+        "permalink": "/r/stocks/comments/ikj1y5/rate_my_portfolio_rstocks_quarterly_thread/gavozfl/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604335005.0
+    },
+    {
+        "author": "rianhastings",
+        "body": "The main contributors to these estimates have been, Apple, Microsoft, Amazon, Google-parent Alphabet and Facebook, accounting for 23.8% of the S&amp;P 500.",
+        "created_utc": 1604319344,
+        "id": "gaw0xp3",
+        "permalink": "/r/stocks/comments/j7v5id/us_tech_stocks_are_now_worth_more_than_the_entire/gaw0xp3/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604348144.0
+    },
+    {
+        "author": "long_live_jpow",
+        "body": "MSFT 200 on Friday was the sign boys",
+        "created_utc": 1604310339,
+        "id": "gavsibt",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gavsibt/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604339139.0
+    },
+    {
+        "author": "misanthropebadger",
+        "body": "Jobs founded and then ran the original Apple Computer company into the ground.  It was an unqualified failure by any measure when compared to it's chief rival, Microsoft.\n\nYears later Jobs got a hold of the nearly bankrupt remnants of the Apple Computer company, and turned it into a very different company that had tremendous success in consumer electronics and media licensing.  In between Apple phase 1 and 2, Jobs founded Next Computers, which failed to make any money, but he also founded Pixar which was a great success.\n\nTo summarize, Jobs was never very successful at the computer business.  Had Jobs taken a more pragmatic approach in the beginning, Apple might have gotten decent market share in the computer business.  Regardless of Apple's current market capitalization, they have less than 8% market share of the computer industry despite being one of it's pioneers.  Sad.",
+        "created_utc": 1604266506,
+        "id": "gatzvtk",
+        "permalink": "/r/investing/comments/jlf4g8/what_are_examples_of_cannotfail_stocks_that_ended/gatzvtk/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604295306.0
+    },
+    {
+        "author": "coolcomfort123",
+        "body": "aapl and msft are perfect dividend growth stocks.",
+        "created_utc": 1604265981,
+        "id": "gatyu0y",
+        "permalink": "/r/stocks/comments/jm7wph/investing_strategies_dividend_growth_investing/gatyu0y/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604294781.0
+    },
+    {
+        "author": "darfraider",
+        "body": "I just check BAC and MSFT. If either have earnings expected in the next 6-8 days then I do not initiate a trade. It waits a week to let that event pass. Financial and Tech earnings move the market too much and I\u2019d rather stay on sidelines during that time.",
+        "created_utc": 1604352884,
+        "id": "gaxtgsf",
+        "permalink": "/r/options/comments/jm2tgy/my_spx_weekly_premium_selling_that_dominates_the/gaxtgsf/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1604381684.0
+    },
+    {
+        "author": "Boomtown626",
+        "body": "I'm feeling pretty confident that over the course of 6-8 months, there's better money to be had in value stocks. Casting a wide net can get some misses, but there's plenty of reason to expect upside north of 50% or more on a good number as well. Hard to make that case for MSFT or AMD. \n\nI'm between 75% and 250% on several of my bargain plays of April and May. There are still plenty of options out there that haven't begun to claim their recovery gains, but we can expect that in the meantime, big tech won't see a future six months anything like what it saw the past six months. \n\nI'm investing longer term as well, but I like to keep some fluidity for shorter term trading as well, since I'm already maxing out my and my wife's RIRAs and still maintaining sizable pragmatic choices in my brokerage. \n\nBut you're right on a horizon of a year or more, the longterm value and relatively low risk with the tech giants and chip makers will beat many value plays, and the FOMO factor is relatively small given the ceiling and the uncertainty between now and then, which means that even if the liquidity I added this afternoon pays off better elsewhere, it's certainly a defensible position to stand pat and take the lower drama.",
+        "created_utc": 1604349564,
+        "id": "gaxmm9d",
+        "permalink": "/r/stocks/comments/jmjnqp/rstocks_daily_discussion_monday_nov_02_2020/gaxmm9d/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604378364.0
+    },
+    {
+        "author": "Okmanl",
+        "body": "Most fund managers don\u2019t beat the market. Because they\u2019re not trying to. Many fund managers and professional investors also have regulations they have to follow. They can\u2019t make concentrated investments. They have to show quarterly results and so forth. For example Cathy Wood said she would\u2019ve put a lot more into Tesla but because of rules and regulations the max she can invest is ~10% per fund she manages. \n\n\nIndividual investors can definitely beat the market by having a concentrated portfolio. Knowing the stock that they own intimately and not letting emotions get involved. \n\nThere are quite a few people who have a concentrated portfolio on 3-4 companies like Square, peloton, Tesla, Amazon, Microsoft, AMD and so forth. And they have all outperformed the market over 5-10 years. \n\nIf you have a high risk tolerance then buying single stocks can be worth it.",
+        "created_utc": 1604268188,
+        "id": "gau36se",
+        "permalink": "/r/investing/comments/jmac76/why_is_everyone_so_against_active_investing_and/gau36se/",
+        "score": 10,
+        "subreddit": "investing",
+        "created": 1604296988.0
+    },
+    {
+        "author": "Vonserb",
+        "body": "The fed has this backstopped;  different game, different rules.  Tech is the one thing thrives during a pandemic. Zoom, Amazon,  Microsoft.. all benefit from this unfortunately.",
+        "created_utc": 1604262343,
+        "id": "gatr90l",
+        "permalink": "/r/wallstreetbets/comments/jm9505/that_drop_will_make_many_millionaires_cant_wait/gatr90l/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1604291143.0
+    },
+    {
+        "author": "-Jocko-",
+        "body": "microsoft",
+        "created_utc": 1604251184,
+        "id": "gat4j9k",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat4j9k/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1604279984.0
+    },
+    {
+        "author": "t33po",
+        "body": "What's protecting NET from the encroaching MSFT, GOOG, AMZN cloud and C.D.N. services? It just seems like FSLY, NET type companies are just proving concepts for network services for the monsters to copy and better intergrate into their own platforms. Am I crazy here?",
+        "created_utc": 1604267858,
+        "id": "gau2j8e",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gau2j8e/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1604296658.0
+    },
+    {
+        "author": "Bolkonsky999",
+        "body": "i am all in on spt and ccl puts, and only thing worrying me about my positions is tech. amazon is already at 3000, msft at 200, i don't think they'll go much lower than that. Now, I am hoping tech won't move much on monday while everything else tanks, so spy goes down. i should be buying dia puts instead haha",
+        "created_utc": 1604252963,
+        "id": "gat7wpg",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat7wpg/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604281763.0
+    },
+    {
+        "author": "Itsme_eljefe",
+        "body": "ARKK\nARKQ\nARKF\nSPY\nAMD\nTSLA\nQQQ\nTQQQ\nSNAP\nCHWY\nAMZN\nMSFT\nTSM\nASML\nSOXL",
+        "created_utc": 1604265001,
+        "id": "gatwunf",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gatwunf/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604293801.0
+    },
+    {
+        "author": "Cwc123",
+        "body": "msft",
+        "created_utc": 1604251181,
+        "id": "gat4j28",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat4j28/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1604279981.0
+    },
+    {
+        "author": "Subscribe-to",
+        "body": "In hindsight it's easy to say she should've just invested in AAPL, MSFT or AMZN 20 years ago but she could've just as easily invested in GE.\n\n&amp;#x200B;\n\nThis also doesn't take into account taxes",
+        "created_utc": 1604258171,
+        "id": "gatilmz",
+        "permalink": "/r/investing/comments/jlf4g8/what_are_examples_of_cannotfail_stocks_that_ended/gatilmz/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1604286971.0
+    },
+    {
+        "author": "SudsAde6985",
+        "body": "I\u2019m no bull, but if MSFT closes below 200 any day before next earnings, I\u2019d be surprised. Shorted it at 210 &amp; 225 this summer. Got to 196.25 for a moment, but still closed @ 202. Flirted with it lately, but now long 195 again on Friday. Most confident trade I made last week. Considering I\u2019m getting slaughtered in my TUP short at the moment. Who\u2019da thunk?",
+        "created_utc": 1604252224,
+        "id": "gat6inh",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat6inh/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604281024.0
+    },
+    {
+        "author": "AtWarWithAll",
+        "body": "microsoft",
+        "created_utc": 1604253153,
+        "id": "gat89r3",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat89r3/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604281953.0
+    },
+    {
+        "author": "MoarTarriffs",
+        "body": "I like picking riskier medium cap growth stocks such as NET, CRWD, ENPH, SQ, TDOC, TSLA. These have potential to grow more than stocks such as MSFT. But MSFT and AAPL are great additions to growth portfolios",
+        "created_utc": 1604255995,
+        "id": "gate1ib",
+        "permalink": "/r/stocks/comments/jltjnx/just_opened_roth_ira/gate1ib/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1604284795.0
+    },
+    {
+        "author": "Electrical_Spite_477",
+        "body": "Costco, Amazon, Microsoft, apple... are all going to sell the exact amount of shit no matter who wins",
+        "created_utc": 1604258677,
+        "id": "gatjo7h",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gatjo7h/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604287477.0
+    },
+    {
+        "author": "Electrical_Spite_477",
+        "body": "YeH, there's a point where they're too small to prevent being crushed like Slack is getting crushed by Microsoft. But if they can overcome the small cap stage and become entrenched, like Zoom, they become too big to be crushed.",
+        "created_utc": 1604268551,
+        "id": "gau3vgt",
+        "permalink": "/r/wallstreetbets/comments/jm90l6/what_are_your_moves_tomorrow_november_02_2020/gau3vgt/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1604297351.0
+    },
+    {
+        "author": "steakandp1e",
+        "body": "I sold a 190/187.5 msft put spread for 11/27. How fucked do you think that is or will the impending crash not be so bad? In hindsight thinking I should have sold call spread",
+        "created_utc": 1604215040,
+        "id": "garsg1u",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/garsg1u/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604243840.0
+    },
+    {
+        "author": "A-A-RonAutist",
+        "body": "Here we go with MSFT 3/20 calls again",
+        "created_utc": 1604261736,
+        "id": "gatq01f",
+        "permalink": "/r/wallstreetbets/comments/jm7sl3/amateur_crayons_on_spy/gatq01f/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604290536.0
+    },
+    {
+        "author": "staunch_character",
+        "body": "Because she could have sold &amp; bought AAPL or MSFT or AMZN at the bottom. Or just SPY. \n\nPeople get locked into thinking you only lose money when you sell. But what\u2019s the opportunity cost? \n\nIf she sold at a 50% loss &amp; put the remaining in anything else, she would have been profitable years sooner.",
+        "created_utc": 1604220668,
+        "id": "garxclo",
+        "permalink": "/r/investing/comments/jlf4g8/what_are_examples_of_cannotfail_stocks_that_ended/garxclo/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604249468.0
+    },
+    {
+        "author": "misanthropebadger",
+        "body": "Jobs founded and then ran the original Apple Computer company into the ground.  It was an unqualified failure by any measure when compared to it's chief rival, Microsoft.\n\nYears later Jobs got a hold of the nearly bankrupt remnants of the Apple Computer company, and turned it into a very different company that had tremendous success in consumer electronics and media licensing.  In between Apple phase 1 and 2, Jobs founded Next Computers, which failed to make any money, but he also founded Pixar which was a great success.\n\nTo summarize, Jobs was never very successful at the computer business.  Had Jobs taken a more pragmatic approach in the beginning, Apple might have gotten decent market share in the computer business.  Regardless of Apple's current market capitalization, they have less than 8% market share of the computer industry despite being one of it's pioneers.  Sad.",
+        "created_utc": 1604266506,
+        "id": "gatzvtk",
+        "permalink": "/r/investing/comments/jlf4g8/what_are_examples_of_cannotfail_stocks_that_ended/gatzvtk/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604295306.0
+    },
+    {
+        "author": "coolcomfort123",
+        "body": "aapl and msft are perfect dividend growth stocks.",
+        "created_utc": 1604265981,
+        "id": "gatyu0y",
+        "permalink": "/r/stocks/comments/jm7wph/investing_strategies_dividend_growth_investing/gatyu0y/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604294781.0
+    },
+    {
+        "author": "AngelaQQ",
+        "body": "Japan\u2019s lost decades was a combination of fiscal mismanagement, overbearing debt load, and complete lack of technology growth, leading to stagnation.  \n\nAs a result, Japanese investors and savers pulled their money from the Nikkei and put it into US equities. Equities like Microsoft, Apple, Sun, Oracle saw a huge influx of Japanese capital as their markets stagnated.  \n\nEven today, none of Japan\u2019s top 20 companies by market cap are internet or software/tech companies. \n\nThey\u2019ve basically missed the boat on every single technological revolution of the past 30 years.\n\nI\u2019m not as worried about the US, because the US (and China) are the world leaders in technological innovation in almost all major sectors.\n\nIf there IS for some reason a lost decade in the US, China will benefit, as they are the only country that can compete technologically, and their debt position vis a vis the rest of world is favorable.",
+        "created_utc": 1604251434,
+        "id": "gat50uk",
+        "permalink": "/r/stocks/comments/jm5j6m/bloomberg_the_us_stock_market_could_be_headed_for/gat50uk/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604280234.0
+    },
+    {
+        "author": "UsernameTaken_123",
+        "body": "Of course they're holding both Google, Apple and Microsoft \ud83d\ude02",
+        "created_utc": 1604219995,
+        "id": "garwpak",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/garwpak/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604248795.0
+    },
+    {
+        "author": "RepresentativeIcy922",
+        "body": "20 years ago you say? Home Depot? according to Google, Home Depot (NYSE:HD) was $41.19 on Nov 3, 2000. Today it is $266.71, that is a more than 6x (600% ?) return  in 20 years, or an average of more than 30% a year, not even including dividends.   \n\n\nI still don't see how it would have been better if she had sold it and kept everything in cash. Of course she could have bought AAPL or MSFT or AMZN, but maybe she preferred to stay in her circle of competence.",
+        "created_utc": 1604221796,
+        "id": "garysbn",
+        "permalink": "/r/investing/comments/jlf4g8/what_are_examples_of_cannotfail_stocks_that_ended/garysbn/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604250596.0
+    },
+    {
+        "author": "Dmoan",
+        "body": "You don't buy a stock of a company which is not profitable and is facing life or death battle with big tech (Microsoft Teamd in this case).",
+        "created_utc": 1604226650,
+        "id": "gas4jka",
+        "permalink": "/r/wallstreetbets/comments/jlv75b/bag_holding_50k_loss_in_october_and_not_even/gas4jka/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604255450.0
+    },
+    {
+        "author": "coolcomfort123",
+        "body": "yup, keep holding amzn and msft as covid play.",
+        "created_utc": 1604242508,
+        "id": "gasoy2i",
+        "permalink": "/r/stocks/comments/jlocv1/england_announces_new_stayathome_order_due_to/gasoy2i/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604271308.0
+    },
+    {
+        "author": "Dmoan",
+        "body": "MSFT 2021 estimate is 30 pe which is pretty reasonable as they can likely beat it.",
+        "created_utc": 1604247537,
+        "id": "gasxrdu",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gasxrdu/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604276337.0
+    },
+    {
+        "author": "Dmoan",
+        "body": "If things settle down come Wednesday I will stick to what works which is stay at home stocks that are priced reasonably. Apple, ATVI, MSFT, SNE, CHWY, SQ or PYPL, UPS would be my plays",
+        "created_utc": 1604249675,
+        "id": "gat1oyn",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat1oyn/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604278475.0
+    },
+    {
+        "author": "Farrrrout",
+        "body": "Msft is my next buy if it drops more",
+        "created_utc": 1604253621,
+        "id": "gat96l7",
+        "permalink": "/r/StockMarket/comments/jln009/what_are_your_plays_for_next_week/gat96l7/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1604282421.0
+    },
+    {
+        "author": "peanutbutteryummmm",
+        "body": "Buying when fearful works until it doesn\u2019t. Try buying Microsoft pre .com bubble. Great company, but it still took a long time\nTo recover. There are always risks. DCA is a good strategy right now",
+        "created_utc": 1604260837,
+        "id": "gato5xn",
+        "permalink": "/r/StockMarket/comments/jm5gzw/bloomberg_the_us_stock_market_could_be_headed_for/gato5xn/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1604289637.0
+    },
+    {
+        "author": "Chris-in-PNW",
+        "body": "I absolutely would not buy MSFT at current valuations. But I'm also not inclined to sell any of my shares at the moment. While I don't disagree with your assessment of their products, their enduring appeal to enterprise in spite of those products is hard to ignore.\n\nI like AAPL much better, but I am neither increasing nor decreasing my position right now. \n\nI won't touch FB, because I don't trust Mark Zuckerberg's leadership ability.\n\nI avoid TSLA because I don't understand why it should be valued so much higher than other auto manufacturers who will ultimately be strong competitors in the sector. And I don't trust Elon Musk's leadership ability.",
+        "created_utc": 1604220368,
+        "id": "garx2bu",
+        "permalink": "/r/stocks/comments/jly2oc/which_stocks_of_a_successful_company_would_you/garx2bu/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604249168.0
+    },
+    {
+        "author": "RepresentativeIcy922",
+        "body": "It's easy to see that Zoom is (was?) undervalued. People are having more meetings online because of covid-19, and a lot of them are using Zoom. It seems everywhere you look someone has an online meeting on Zoom. Schools that are closed have classes on Zoom.   \nZoom seems to be like the Microsoft of online meetings these days, it's the de-facto industry standard for online meetings. So on that basis alone, Zoom seems undervalued (at this point in time.) \n\nThey're more popular now than they ever were, and that potentially means more money, and that in turn means the price might go up.   \n\n\nThe thing about active trading is, well, that it's active. The fund managers try to figure out what will go up and buy it, and sell it before it drops. They're more momentum players than long-term holders, so I guess based on that alone they might buy Zoom (because everyone seems to be using it these days, and that can't be a bad thing as far as the price is concerned (for now anyway.)  \n\n\nThere was a lot of hype around Zoom, and when it appeared on a lot of people's radars it was a lot cheaper than it is now.  They would have likely bought in when they first started seeing all those ads for seminars on Zoom, and notices of schools being closed and having classes on Zoom.",
+        "created_utc": 1604214954,
+        "id": "garsd9o",
+        "permalink": "/r/investing/comments/jlkb10/the_case_for_why_arkk_etfs_are_not_an_exceptional/garsd9o/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604243754.0
+    },
+    {
+        "author": "Heim23",
+        "body": "Time didn't move, just your dumb Microsoft Windows clock.",
+        "created_utc": 1604224112,
+        "id": "gas1k0l",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gas1k0l/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604252912.0
+    },
+    {
+        "author": "fyjx",
+        "body": "COVID spurs cloud adoption and will continue to do so. The cloud adoption takes time for companies to take full advantage of it and thrive. That means you will see huge upside for cloud providers like MSFT and AMZN after 1 or 2 years.",
+        "created_utc": 1604247747,
+        "id": "gasy5f3",
+        "permalink": "/r/stocks/comments/jlzeul/amzn_makes_me_techheavy_still_go_in_during_q4_dip/gasy5f3/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604276547.0
+    },
+    {
+        "author": "MAndrewNg",
+        "body": "Okay, thank you much! What are some of your growth stocks? The usual appl / fb / msft?",
+        "created_utc": 1604250771,
+        "id": "gat3qzu",
+        "permalink": "/r/stocks/comments/jltjnx/just_opened_roth_ira/gat3qzu/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604279571.0
+    },
+    {
+        "author": "coolcomfort123",
+        "body": "msft, aapl, and amzn.",
+        "created_utc": 1604242628,
+        "id": "gasp4yt",
+        "permalink": "/r/stocks/comments/jm2fdl/whats_your_top_stocks_for_202021/gasp4yt/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604271428.0
+    },
+    {
+        "author": "insanegreek2020",
+        "body": "It\u2019s all about liquidity. You want to be able to get in and out quick with options with minimal bid/ask spreads. Any big tech is good. Google for some reason has shitty options imo. There\u2019s not much volume on any given day. Aapl msft fb spy the best",
+        "created_utc": 1604238192,
+        "id": "gasiapy",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gasiapy/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604266992.0
+    },
+    {
+        "author": "astearns31",
+        "body": "You seriously think it\u2019s the best run company? Match  it\u2019s total return to say the S&amp;P or an actual well run company like Danaher/Microsoft/SPGI.",
+        "created_utc": 1604240160,
+        "id": "gaslb39",
+        "permalink": "/r/investing/comments/jly44k/3m_nyse_mmm_a_dividend_king_a_quick_look_at_a/gaslb39/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1604268960.0
+    },
+    {
+        "author": "Lord_Stinkler",
+        "body": "Opened a Roth a year ago and MSFT, AAPL, AQN, BMO and AMD are my  recommendations for single stock. \n\nWith a Roth you planning on leaving in for a while so the rest I put into ETFs and mutual funds and they do solid over long term (5+ years). ETFs I like are VIG SCHX and ESPO (covid has ESPO booming prior to the past week). Mutual Funds I like mainly is PRDGX and any S&amp;P 500 fund.",
+        "created_utc": 1604218483,
+        "id": "garvfay",
+        "permalink": "/r/stocks/comments/jltjnx/just_opened_roth_ira/garvfay/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604247283.0
+    },
+    {
+        "author": "jacektrocinski",
+        "body": "The big short is $SNOW, they're trying to compete with Oracle, Microsoft and Amazon in the database space, they're going to get crushed.",
+        "created_utc": 1604215335,
+        "id": "garsp81",
+        "permalink": "/r/wallstreetbets/comments/jlf4g5/the_big_short_ups/garsp81/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604244135.0
+    },
+    {
+        "author": "StarWolf478",
+        "body": "The big two for me are:\n\nNetflix - The Q2 lockdown was the absolute most perfect condition imaginable for Netflix's business and anybody that had any interest in Netflix should have already subscribed by that point in time. I think that there now has to be some significant growth slowdown after such perfect business conditions start to come to an end. Plus, more and more competitors are entering the market to compete for Netflix's subscribers while also pulling their content from Netflix which forces Netflix to spend more money to develop their own content. All of that makes me think that Netflix cannot maintain the high growth that they have had thus far and if they can't maintain that growth then investors will eventually start to abandon them. I'm still bullish on streaming though, so I've invested in Roku instead as my streaming stock since they are the \"picks and shovels seller\" for the \"streaming gold rush\" and unlike Netflix, they benefit from the increased competition entering the streaming market.\n\nGoogle - They have started to remind me of Microsoft during the Steve Ballmer era. When was the last time that Google successfully executed upon a great new product and didn't ultimately send it to ever growing [Google Graveyard](https://killedbygoogle.com/)? I think that it has been about a decade and they have just been living off of their successes from over a decade ago since then. Maybe Google will eventually get new management that revitalizes the company like Microsoft eventually got after Nadella became CEO, but for the foreseeable future, I've lost confidence in them, so I'm out. I've replaced them with Pinterest in my portfolio as my new search/advertising stock. Social search is the future and I now see the genius advertising potential of the Pinterest platform; I see them stealing advertising dollars away from Google and growing much better than Google over the next 5 years.",
+        "created_utc": 1604217818,
+        "id": "garuvnr",
+        "permalink": "/r/stocks/comments/jly2oc/which_stocks_of_a_successful_company_would_you/garuvnr/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604246618.0
+    },
+    {
+        "author": "Phantomoftheopoohra",
+        "body": "So don't tell my wife I told you guys this because she is gonna be pissed. \n\nI come home from working over night shift. Wife is all excited. She tells me she bought 100 shares of TSLA. She is totally risk averse. Prior to buying TSLA she was in full boomer stock mode. PCG, F, GE, UPS and the majority in conservative Vanguard funds. I swear to God nothing gets her going more than a dividend. My first thought when she told me she just dropped nearly 50k on TSLA was holy shit I need to get some fucking puts on that right now. Needless to say it was August 31st. Didn't but the puts...she gets pissed anytime I even mention TSLA. I bought some in the mid 300s. Told her I was cost averaging down on it for us. We have separate finances for most things. Told her about the money I lost on MSFT and AAPL options to make her feel better. Didn't work. Said that it made her more pissed. \n\nTLDR wife holding TSLA bags, gets pissed everytime TSLA comes up.",
+        "created_utc": 1604223113,
+        "id": "gas0f2r",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gas0f2r/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604251913.0
+    },
+    {
+        "author": "MementoMori97",
+        "body": "The total market index is still about 25% tech so it would make sense that this helps bring the value up to where it is now. Looking at ITOT (ishares total market etf) about 19% or so is in Microsoft, Apple, Amazon Facebook and Google, so these would definitely help elevate the total index value.\n\nEdit: ITOT also only fell about 1% friday when most of those stocks were down about 5%, so there is a buffer there.",
+        "created_utc": 1604246748,
+        "id": "gaswc35",
+        "permalink": "/r/stocks/comments/jm1nwn/for_people_waiting_for_the_dip_to_happen_before/gaswc35/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604275548.0
+    },
+    {
+        "author": "Jansboobjob",
+        "body": "Same, TSLA and MSFT doing me dirty these days",
+        "created_utc": 1604245336,
+        "id": "gastse6",
+        "permalink": "/r/stocks/comments/jlvc73/list_of_important_dates_for_nio_coming_up/gastse6/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1604274136.0
+    },
+    {
+        "author": "pickbot",
+        "body": "**I am a bot and identified and tracked the following options picks within this post:**\n\n|**Ticker**|**Strike**|**Type**|**Exp**|**Recorded Premium**|**Recorded Stock Price**|**OI**|**Volume**|\n|:-|:-|:-|:-|:-|:-|:-|:-|\n|**MSFT**|**$210**|**BUY CALL**|**2020-11-13**|**$3.33**|**$202.47**|**3509**|**1677**\n\n[Realtime ROI](https://www.pickmojo.com/pick/ckgzhoa63hn6u071765062aa9) | [Track Record](https://www.pickmojo.com/user/Trappin-Shoes/) | [Bot Info](https://www.reddit.com/r/pickmojo/comments/he9ghu/options_picks_tracking_bot_information/) | Leaderboard: [Week](https://www.pickmojo.com/stocks/best-this-week-reddit), [Month](https://www.pickmojo.com/stocks/best-this-month-reddit), [All](https://www.pickmojo.com/stocks/top-reddit) | [Exit this position](https://www.pickmojo.com/reddit_redirect)\n\n**^(*Recorded after market close, will be recorded at the next market open if the premium is within 10% margin. My owner is monitoring these posts, reply with feedback! You can now track comments by mentioning me!)**",
+        "created_utc": 1604257802,
+        "id": "gathtrd",
+        "permalink": "/r/wallstreetbets/comments/jm7sl3/amateur_crayons_on_spy/gathtrd/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604286602.0
+    },
+    {
+        "author": "Amurphy747",
+        "body": "Guys hear me out...what if because everybody expects the election to be a complete shitshow, and once it\u2019s over the market is big green cause of all the money on the sidelines waiting to get back in and they realize the world isn\u2019t really on the verge of civil war like everyone thinks every election year. Just look at the fact that this week travel stocks got fucked like tech stocks. That\u2019s not because of corona. Apple and amazon after good earnings report got fucked, same for Microsoft. People are limiting exposure to the market as a whole and just waiting to get back in the stock and don\u2019t want to get fucked by the election and corona news, but decided now wasn\u2019t the time. When it is the time, the trend will reverse hard. Apple was down 6% after a good earnings report and amazon was 5.5%.",
+        "created_utc": 1604236038,
+        "id": "gasf6vx",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gasf6vx/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1604264838.0
+    },
+    {
+        "author": "Kay312010",
+        "body": "I bought more MSFT and APPL on the big dip Wednesday and Friday. If DPZ dips, I\u2019ll probably pile on since COVID orders and deliveries continues to look good across the globe for them.",
+        "created_utc": 1604258200,
+        "id": "gatinq1",
+        "permalink": "/r/StockMarket/comments/jln009/what_are_your_plays_for_next_week/gatinq1/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1604287000.0
+    },
+    {
+        "author": "Henkss",
+        "body": "Thing is big tech will always thrive. Look at their earnings, revenue, pile of cash on Balance sheet. Little to no debt..\n\nUntil a new disruptive technology emerges (in what form we do not know) - whatever big comes out of internet/robotics/AI space/Data, big tech will absorb it right away. It's all about data. Something interesting will emerge, and it will be bought right away. Why do you think these companies have more cash than most countries combined.\n\nSure they can go lower in the short run but what do you think is going to happen a year from now.\n\nDo we think MSFT adding 8-10% rev growth on a 40bn revenue company will be $100 per share? Kingpin Bezos? Daddy Cook? Zuck?\n\nIf big tech was supposed to go down, they should have been broken apart already. It is too late now. Only thing that can disrupt is a complete new technology - the way green tech reshaping energy industry.",
+        "created_utc": 1604251681,
+        "id": "gat5hr4",
+        "permalink": "/r/wallstreetbets/comments/jl45xl/weekend_discussion_thread_for_the_weekend_of/gat5hr4/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1604280481.0
     }
 ]

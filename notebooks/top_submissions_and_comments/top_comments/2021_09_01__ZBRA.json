@@ -1,36 +1,10 @@
 [
     {
-        "author": "GimmeAllDaTendiesNow",
-        "body": "&gt;It is a directional play and has 2X the downside risk to the strike the calls were purchased, for only 1X upside potential.\n\nI'm not sure what you mean by this. With any long option or spread, your max loss is the price you paid. The upside potential is unlimited. It's 100 long deltas.\n\nI suppose in this case you could divide the premium by 100 and say that's your range before max loss. A spread with 100 deltas will roughly behave that way, but not exactly, since you'll lose net deltas if the underlying moves against you.\n\n&gt;Not a bad idea if you're confident in direction. Could bite you if direction doesn't work out and you have no hedge.\n\nOP is asking about a PMCC. This is a simulated stock position which is directional. I'm suggesting other ways to simulate stock than just a far dated, deep ITM call.\n\n&gt;I believe Liz and Jenny from TastyTrade/Works created this idea - or at least brought it to the public eye.\n\nThat's correct that TT coined that phrase and popularized the idea. Backspreads or back ratio-spreads have been around long before TT. Any long ratio spread will reduce your negative extrinsic value. The ZEBRA is a specific type of backspread that seeks to have zero extrinsic. I just find it's easier to explain it rather than confuse people with specific names.\n\n&gt;The idea that extrinsic values are negative is in how you frame the value of an option.\n\nNot really. This is just options terminology. If something works in your favor you are \"long\" or it's \"positive.\" Same as any greek or price factor. If you buy an option, you have \"negative\" extrinsic, meaning that value will work against you over time. If you sell an option, you have positive extrinsic. It's not something TT invented.\n\n&gt;Option Premium = intrinsic + extrinsic\n\nThis is true for ITM options. OTM options do not have intrinsic value and will decay to zero, as long as they stay OTM. The same way deep ITM options have very little extrinsic.",
-        "created_utc": 1632673747,
-        "id": "hed2qim",
-        "score": 6,
-        "subreddit": "options",
-        "created": 1632702547.0
-    },
-    {
-        "author": "ConcentrateKooky933",
-        "body": "The position is called a ZEBRA spread. \n\nZero Extrinsic Back Ratio.\n\nI believe Liz and Jenny from TastyTrade/Works created this idea - or at least brought it to the public eye. \n\n2 long call DITM options and 1 short less ITM(closer to ATM) call to offset the extrinsic cost of the 2 longs. It replicates buying stock for a much cheaper price which is basically like \"renting the stock\" as you mentioned. \n\nIt is a directional play and has 2X the downside risk to the strike the calls were purchased, for only 1X upside potential.\n\nNot a bad idea if you're confident in direction. Could bite you if direction doesn't work out and you have no hedge. \n\n\n\nThe idea that extrinsic values are negative is in how you frame the value of an option.\n\nOption Premium = intrinsic + extrinsic \n\nIf you treat extrinsic negative, you must treat intrinsic negative and vice versa.\n\nThis is a function of how you would treat long or short position and whether the premium is working for or against you. \n\n\nIn calculation though. Intrinsic and Extrinsic are typically positive. Sign changes are made to a trader's liking/understanding. \n\nI know TastyWorks does this negative stuff but IMO it is not a good idea. It confuses people more than it helps if you ask me.\n\nAn option must have an extrinsic value until full expiration. When you introduce terms like negative extrinsic it becomes very nuanced and could confuse someone into thinking that extrinsic value doesn't exist, it actually reduces the cost of the option! Or something like that... this is not true and is why I dislike the the usage/perspective of explaining it as a negative value without full and proper context. \n\nJust my 2 cents.",
-        "created_utc": 1632672577,
-        "id": "heczx5a",
-        "score": 5,
-        "subreddit": "options",
-        "created": 1632701377.0
-    },
-    {
-        "author": "billabusfinley",
-        "body": "A bear crapped daringly, entered for garbage, hidden in Jackets, killing little men, nobody outside pooped quietly, retards saved titties, utilitarians voted wisely, xavier yelled Zebra",
-        "created_utc": 1632780345,
-        "id": "heit3zd",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1632809145.0
-    },
-    {
         "author": "stonksrgud",
         "body": "At least this is my thought about it.  I mainly play big growth names with a few gambles on the side.  Like I have ADAP, RIG, HUT, GSAT, AVPT, PSFE leaps as well.  But they are small small positions.  None opened for more than $10k.  \n\nHave big plays on \nAppl, AMZN, EW, Googl, ISRG, MSFT, NVDA, ZBRA.\n\nAlso have new open leaps on baba, bidu.  But only 5c each.  \n\nThat\u2019s all I have open right now in various sizes.  About $120k cash available. \n\nEdit- this isn\u2019t advice for anyone else.  It\u2019s simply what I have",
         "created_utc": 1630698179,
         "id": "hbhgxc3",
+        "permalink": "/r/stocks/comments/ph3qx2/what_are_some_blue_chiplarge_cap_stocks_to_buy/hbhgxc3/",
         "score": 3,
         "subreddit": "stocks",
         "created": 1630726979.0
@@ -40,51 +14,17 @@
         "body": "Tons of people have horses. Get a zebra instead",
         "created_utc": 1631221272,
         "id": "hc88xfm",
+        "permalink": "/r/wallstreetbets/comments/pl5dpa/what_are_your_moves_tomorrow_september_10_2021/hc88xfm/",
         "score": 3,
         "subreddit": "wallstreetbets",
         "created": 1631250072.0
-    },
-    {
-        "author": "lmknx",
-        "body": "*quietly puts zebra suit back in the dresser* \"haha yeah bro, cringe af!\"",
-        "created_utc": 1631999076,
-        "id": "hddngto",
-        "score": 3,
-        "subreddit": "StockMarket",
-        "created": 1632027876.0
-    },
-    {
-        "author": "lukebreit",
-        "body": "They replaced zebra cakes with smaller zebra rolls. They thought I wouldn\u2019t notice this inflation but I did and I\u2019m pissed",
-        "created_utc": 1632644271,
-        "id": "hebo302",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1632673071.0
-    },
-    {
-        "author": "duplicatesnowflake",
-        "body": "Zebra tails \ud83e\udd93",
-        "created_utc": 1632045408,
-        "id": "hdg20sa",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1632074208.0
-    },
-    {
-        "author": "SweetBarbiePie",
-        "body": "Are you sure it\u2019s unrelated to the zoo note? \n\nI\u2019ve heard zebra steak is a hit.",
-        "created_utc": 1631995963,
-        "id": "hddfovw",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1632024763.0
     },
     {
         "author": "OPtalon87",
         "body": "Just another tool in the toolbelt, but objectively very different from your strategy.\n  When I have a few minutes this afternoon I\u2019ll pull up the AAPL option chain and construct a ZEBRA example and you can see the difference. \n    Zebra is a bullish debit strategy and it allows me to control 100 shares, at the current price (not a discount like selling a 30 or 16 delta put and collecting premium) at a future date for a fraction of the total cost.   Just off the top of my head without looking at the option chain for appl, I would be long any upward movement in aapl 1:1 because I\u2019m buying 2 70 delta calls and selling 1 40 delta call. (70x2 - 40x1= 100 delta).    \n    Im headed off to play catch w the kids but I\u2019ll pull up the chain and lay out the numbers for you a little later.\n   Maybe I should start start a seperate thread for this as it\u2019s getting off-strategy from your original post?",
         "created_utc": 1630940089,
         "id": "hbtbvjx",
+        "permalink": "/r/options/comments/piexp6/if_i_want_a_stock_sell_a_credit_put_spread/hbtbvjx/",
         "score": 2,
         "subreddit": "options",
         "created": 1630968889.0
@@ -94,6 +34,7 @@
         "body": "Try a Zebra (tastytrade)",
         "created_utc": 1631013759,
         "id": "hbx375h",
+        "permalink": "/r/options/comments/pj9s8t/any_problems_with_buying_atmitm_leaps_after_a/hbx375h/",
         "score": 2,
         "subreddit": "options",
         "created": 1631042559.0
@@ -103,33 +44,17 @@
         "body": "That sounds really good if they were artichoke hearts.  I bought the big ones in the produce section.  Have zebra tomatoes from my garden, got some fresh mozzarella, thought I\u2019d go Italian tonight and got adventurous with the raw chokes.",
         "created_utc": 1631478343,
         "id": "hclur8t",
+        "permalink": "/r/wallstreetbets/comments/plsh4c/weekend_discussion_thread_for_the_weekend_of/hclur8t/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1631507143.0
-    },
-    {
-        "author": "New-Manufacturer-465",
-        "body": "I own a little stock, some 21jan22 ITM calls and mostly front month Zebras (from tastytrade). I don't want to limit my upside (in case of MOASS) so that rules out selling put credit spreads, cash secured puts or covered calls. I don't want big theta decay so that rules out OTM calls.\n\nZebras work better for AMC since there is little theta decay, little change with IV and 100 delta. Zebra is a back ratio that acts like the stock but has about 3 to 1 leverage. An example position:\n\nsell one 15oct21 45c. buy two 15oct 36c at a cost of $1500. This is the near equivalent of 100 shares that cost  $4500. Delta is 103.  Theta decay is near zero.  IV change has little effect. Max gain is infinite. Max loss is $1500. I can hold this to the last week before expiration and then roll to the next month.",
-        "created_utc": 1631966108,
-        "id": "hdblizj",
-        "score": 2,
-        "subreddit": "options",
-        "created": 1631994908.0
-    },
-    {
-        "author": "Ruckefella",
-        "body": "I\u2019ve had antelope jerky before! Pretty good stuff. I\u2019d be interested to try zebra if it wasn\u2019t taboo",
-        "created_utc": 1631996086,
-        "id": "hddfzzs",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1632024886.0
     },
     {
         "author": "NobodyImportant13",
         "body": "&gt;but would it take even less BP doing a tighter PCS\n\nYes, with a tight spread it would take less BP but also you would be burning much more theta and have lower delta.  With a true synthetic you don't have to pay a debit.  If you go tight spread you would have less downside but pay a larger debit for the call.\n\n&gt;Also can you detail the last \u2018bonus\u2019 he provided long 2x 75D and short the 50D - wouldn\u2019t this just be a call debit spread plus another long call?\n\nYes, you can think of it that way.  Specifically, it's a back ratio spread.\n\n&gt;Wouldn\u2019t it theoretically be better to do calendars/PMCCs?\n\nThe ZEBRA strategy stands for \"Zero Extrinsic Back Ratio\"  It is actually similar to just buying LEAPS, but your breakeven will be at the current stock price since you are cancelling out the extrinsic value.  With LEAPS your breakeven will be something greater than the current stock price.",
         "created_utc": 1630550741,
         "id": "hb9oz3l",
+        "permalink": "/r/options/comments/pfx9mp/why_bother_with_a_cccsp_over_a_put_credit_spread/hb9oz3l/",
         "score": 1,
         "subreddit": "options",
         "created": 1630579541.0
@@ -139,6 +64,7 @@
         "body": "Thanks, zebra does have the same objective as my approach. However,\n\nZebra = lose or win\nMy approach = win like $10-$20 for a spread, or win big if there is a value dip that I\u2019d love to jump into and be assigned\n\nMy approach is to avoid losses or make small losses at most",
         "created_utc": 1630936378,
         "id": "hbt423p",
+        "permalink": "/r/options/comments/piexp6/if_i_want_a_stock_sell_a_credit_put_spread/hbt423p/",
         "score": 1,
         "subreddit": "options",
         "created": 1630965178.0
@@ -148,24 +74,17 @@
         "body": "Any horse can be a zebra with a quick swing by Sherwin Williams.",
         "created_utc": 1631222481,
         "id": "hc8buvs",
+        "permalink": "/r/wallstreetbets/comments/pl5dpa/what_are_your_moves_tomorrow_september_10_2021/hc8buvs/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1631251281.0
-    },
-    {
-        "author": "JosefTor7",
-        "body": "Why not just buy a synthetic long option by buying a call atm and selling a put atm? You can usually do this for a net credit, IV crush is not an issue, high volatility isn't an issue, if performed on an index, early assignment isn't a risk, etc. The only issue I see is that risk is not as well defined as a LEAPS so you could technically go all the way to zero from the stock price so you'd have to be careful to not buy too many. This will give you pretty descent leverage (4x).\n\nThe zebra strategy is a good one look at two but harder to manage then a synthetic long stock. Anyone have thoughts if this would be better than trading the LEAPS which everyone has mentioned will be impacted by the high IV environment after the crash.",
-        "created_utc": 1632552395,
-        "id": "he6y09v",
-        "score": 1,
-        "subreddit": "options",
-        "created": 1632581195.0
     },
     {
         "author": "mousepop321",
         "body": "What\u2019s zebra weather",
         "created_utc": 1631408219,
         "id": "hci6uzw",
+        "permalink": "/r/wallstreetbets/comments/plsh4c/weekend_discussion_thread_for_the_weekend_of/hci6uzw/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1631437019.0
@@ -175,6 +94,7 @@
         "body": "How\u2019s Maryland this time of year?  Good zebra weather?",
         "created_utc": 1631408086,
         "id": "hci6l6n",
+        "permalink": "/r/wallstreetbets/comments/plsh4c/weekend_discussion_thread_for_the_weekend_of/hci6l6n/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1631436886.0
@@ -184,116 +104,29 @@
         "body": "I just checked my local Craigslist and no one is selling zebras. The best I can do is a stuffed animal or a painting of a zebra",
         "created_utc": 1631221437,
         "id": "hc89c1k",
+        "permalink": "/r/wallstreetbets/comments/pl5dpa/what_are_your_moves_tomorrow_september_10_2021/hc89c1k/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1631250237.0
-    },
-    {
-        "author": "CreateNRG",
-        "body": "ZBRA Calls will be printing. Remember you gotta spend money to earn money.",
-        "created_utc": 1631517220,
-        "id": "hcny53a",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1631546020.0
     },
     {
         "author": "mousepop321",
         "body": "Going to be interesting when a kid gets destroyed by a zebra",
         "created_utc": 1631408794,
         "id": "hci8335",
+        "permalink": "/r/wallstreetbets/comments/plsh4c/weekend_discussion_thread_for_the_weekend_of/hci8335/",
         "score": 0,
         "subreddit": "wallstreetbets",
         "created": 1631437594.0
     },
     {
-        "author": "stonksrgud",
-        "body": "At least this is my thought about it.  I mainly play big growth names with a few gambles on the side.  Like I have ADAP, RIG, HUT, GSAT, AVPT, PSFE leaps as well.  But they are small small positions.  None opened for more than $10k.  \n\nHave big plays on \nAppl, AMZN, EW, Googl, ISRG, MSFT, NVDA, ZBRA.\n\nAlso have new open leaps on baba, bidu.  But only 5c each.  \n\nThat\u2019s all I have open right now in various sizes.  About $120k cash available. \n\nEdit- this isn\u2019t advice for anyone else.  It\u2019s simply what I have",
-        "created_utc": 1630698179,
-        "id": "hbhgxc3",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1630726979.0
-    },
-    {
-        "author": "i-like-cold-water",
-        "body": "Tons of people have horses. Get a zebra instead",
-        "created_utc": 1631221272,
-        "id": "hc88xfm",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1631250072.0
-    },
-    {
         "author": "OPtalon87",
-        "body": "Just another tool in the toolbelt, but objectively very different from your strategy.\n  When I have a few minutes this afternoon I\u2019ll pull up the AAPL option chain and construct a ZEBRA example and you can see the difference. \n    Zebra is a bullish debit strategy and it allows me to control 100 shares, at the current price (not a discount like selling a 30 or 16 delta put and collecting premium) at a future date for a fraction of the total cost.   Just off the top of my head without looking at the option chain for appl, I would be long any upward movement in aapl 1:1 because I\u2019m buying 2 70 delta calls and selling 1 40 delta call. (70x2 - 40x1= 100 delta).    \n    Im headed off to play catch w the kids but I\u2019ll pull up the chain and lay out the numbers for you a little later.\n   Maybe I should start start a seperate thread for this as it\u2019s getting off-strategy from your original post?",
-        "created_utc": 1630940089,
-        "id": "hbtbvjx",
-        "score": 2,
+        "body": "I view selling the long on the put spread as more of a trade management tool for a trade that goes against me rather than the goal going in.  \n   I\u2019ve done it for DKNG when I was still bullish the underlying and the stock was favoring the long strike of the spread and I couldn\u2019t roll for a decent credit and didn\u2019t mind holding DKNG as it was swinging pretty violently so I was also capturing some high IV premium selling my long. Alas, if in your example, aapl never falls below that strike, buying the long end of the strike turned out to be a waste of Money if you want to own the shares.   \n     Have you looked into a ZEBRA?  Buy 2 70 delta calls and sell 1 40/50 delta call.  You are then long 200 share for the strikes between 70 delta and 40\u2019delta and then long 100 shares above 40 delta for zero extrinsic cost. Game changer if you expect aapl to keep running.\n      Disclaimer: I am currently long a zebra in aapl for 2023 expiration",
+        "created_utc": 1630935710,
+        "id": "hbt2q5a",
+        "permalink": "/r/options/comments/piexp6/if_i_want_a_stock_sell_a_credit_put_spread/hbt2q5a/",
+        "score": 0,
         "subreddit": "options",
-        "created": 1630968889.0
-    },
-    {
-        "author": "New-Manufacturer-465",
-        "body": "Try a Zebra (tastytrade)",
-        "created_utc": 1631013759,
-        "id": "hbx375h",
-        "score": 2,
-        "subreddit": "options",
-        "created": 1631042559.0
-    },
-    {
-        "author": "NobodyImportant13",
-        "body": "&gt;but would it take even less BP doing a tighter PCS\n\nYes, with a tight spread it would take less BP but also you would be burning much more theta and have lower delta.  With a true synthetic you don't have to pay a debit.  If you go tight spread you would have less downside but pay a larger debit for the call.\n\n&gt;Also can you detail the last \u2018bonus\u2019 he provided long 2x 75D and short the 50D - wouldn\u2019t this just be a call debit spread plus another long call?\n\nYes, you can think of it that way.  Specifically, it's a back ratio spread.\n\n&gt;Wouldn\u2019t it theoretically be better to do calendars/PMCCs?\n\nThe ZEBRA strategy stands for \"Zero Extrinsic Back Ratio\"  It is actually similar to just buying LEAPS, but your breakeven will be at the current stock price since you are cancelling out the extrinsic value.  With LEAPS your breakeven will be something greater than the current stock price.",
-        "created_utc": 1630550741,
-        "id": "hb9oz3l",
-        "score": 1,
-        "subreddit": "options",
-        "created": 1630579541.0
-    },
-    {
-        "author": "ShortPutAndPMCC",
-        "body": "Thanks, zebra does have the same objective as my approach. However,\n\nZebra = lose or win\nMy approach = win like $10-$20 for a spread, or win big if there is a value dip that I\u2019d love to jump into and be assigned\n\nMy approach is to avoid losses or make small losses at most",
-        "created_utc": 1630936378,
-        "id": "hbt423p",
-        "score": 1,
-        "subreddit": "options",
-        "created": 1630965178.0
-    },
-    {
-        "author": "No-Loquat6363",
-        "body": "Any horse can be a zebra with a quick swing by Sherwin Williams.",
-        "created_utc": 1631222481,
-        "id": "hc8buvs",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1631251281.0
-    },
-    {
-        "author": "mousepop321",
-        "body": "What\u2019s zebra weather",
-        "created_utc": 1631408219,
-        "id": "hci6uzw",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1631437019.0
-    },
-    {
-        "author": "noarms51",
-        "body": "How\u2019s Maryland this time of year?  Good zebra weather?",
-        "created_utc": 1631408086,
-        "id": "hci6l6n",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1631436886.0
-    },
-    {
-        "author": "Trump_Ate_My_Ass",
-        "body": "I just checked my local Craigslist and no one is selling zebras. The best I can do is a stuffed animal or a painting of a zebra",
-        "created_utc": 1631221437,
-        "id": "hc89c1k",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1631250237.0
+        "created": 1630964510.0
     }
 ]

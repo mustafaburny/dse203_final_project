@@ -1,119 +1,12 @@
 [
     {
-        "author": "ephapax1",
-        "body": "I just can\u2019t wrap my mind around Biden possibly taking Texas. Calls on Texas Instruments!",
-        "created_utc": 1604453457,
-        "id": "gb2gun8",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1604482257.0
-    },
-    {
-        "author": "pe42069",
-        "body": "When does it list on the NASDAQ? I can't find the date\n\nedit: I'm retarded. txn closes \\~q1 21",
-        "created_utc": 1605732439,
-        "id": "gcr9jk2",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1605761239.0
-    },
-    {
-        "author": "rhetorical_twix",
-        "body": "Picture: https://imgur.com/lvRZ8aO\n\nYou can see how the companies that directly make or design their own chips are doing well (AAPL, INTC, TXN, AMD, UMC, etc) but everyone else is basically fucked. \n\nEspecially fucked are banking/finance, the entire energy &amp; industrials sectors, a lot of tech companies that rely upon/do trade with China, ecommerce companies, etc.\n\nApparently Trump's got a lot of executive orders to put out over the next 3-4 weeks and markets will be really volatile, IMO.",
-        "created_utc": 1606761687,
-        "id": "ge691qi",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1606790487.0
-    },
-    {
-        "author": "GG_Henry",
-        "body": "If you do this you are simply buying the hype stocks in semiconductors and missing out on some the best opportunities, imo.  INTC and TXN being just 2 of the many semi companies that you would miss on",
-        "created_utc": 1604340792,
-        "id": "gax44pw",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1604369592.0
-    },
-    {
-        "author": "RogueJello",
-        "body": "&gt;  They're not hype, all 3 are expanding and will dominate. Why pay someone to chose stocks for you when you can just copy them for free.\n\nWhile that's possible, the other possibility is that those stocks will revert to the mean, while INTC and TXN rise to meet them.  The purpose of an index fund is to provide a lot more spread to the bet , reducing risk via diversification.  They generally do so at a very low rate, so if the purpose is just to invest in the sector it's a much less risky way to do so.",
-        "created_utc": 1604351065,
-        "id": "gaxprjp",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1604379865.0
-    },
-    {
-        "author": "Rousseau1712",
-        "body": "GE, F, T, CAT, TXN, SO, LUV, Big Oil\n\nHell I would buy the cruise lines today while they're down.",
-        "created_utc": 1605027505,
-        "id": "gbudk5m",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1605056305.0
-    },
-    {
         "author": "PapaCharlie9",
         "body": "I understand the desire, but those sparse expirations, low volumes, and crazy wide bid/asks are all warning flags to steer clear of options on those ETFs. You're just throwing away money trading those options.\n\nA better idea would be to figure out what the top 3 holdings of each of those funds are and see if any of those companies have highly liquid options. Then trade options on those companies as a sort of proxy.\n\nFor example, the top three holdings of SOXX are AVGO, NVDA, TXN. All three have decent liquidity.\n\nhttps://www.zacks.com/funds/etf/SOXX/holding\n\nYou can then use an asset correlation app to see which of those individual stocks with liquid options most closely correlates to the fund's performance. For example:\n\n[Portfolio Visualizer asset correlation](https://www.portfoliovisualizer.com/asset-correlations?s=y&amp;symbols=SOXX+AVGO+NVDA+TXN&amp;timePeriod=2&amp;tradingDays=60&amp;months=36)\n\nTXN is the closest with a .84 correlation to SOXX.\n\n\n\nFWIW, you're paying an obscene expense ratio on ARKK. You'd likely make more money over the long run holding QQQ instead of ARKK.",
         "created_utc": 1604251750,
         "id": "gat5mhn",
+        "permalink": "/r/options/comments/ji7dtm/options_questions_safe_haven_thread_oct_26_nov_01/gat5mhn/",
         "score": 1,
         "subreddit": "options",
         "created": 1604280550.0
-    },
-    {
-        "author": "SatisfactionReal",
-        "body": "well thts why i said past 5 years, everything went up big past 5 years, if ur stock didnt double in a time where literally everything was mooning, it might not be a good investment\n\ni personally sold my shares today (from 44), i figured they would keep underperforming. I prefer TSM, TER, TXN, and QCOM instead",
-        "created_utc": 1605913197,
-        "id": "gczo6pa",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1605941997.0
-    },
-    {
-        "author": "enigmaZerg",
-        "body": "I figured that I'd try my hand at investing so here's my portfolio for you guys to look at, hopefully this gets some feedback. For background I am an 18 y/o with $2,600 invested. I use Fidelity and my positions are as followed.\n\n&amp;#x200B;\n\n|Symbol|\\# of Shares|Cost Basis|Total Cost Basis |% of Account|\n|:-|:-|:-|:-|:-|\n|ARKG|3.955|$67.32|$266.27|10.44|\n|FCOM|5|$42.23|$204.60|7.71|\n|HON|2|$152.00|$304.00|13.37|\n|IETC|10|$43.98|$439.81|16.39|\n|IHAK|4|$30.90|$123.60|4.93|\n|JETS|5|$17.30|$86.50|3.26|\n|MU|2.703|$47.81|$129.24|5.21|\n|QQQJ|3|$25.70|$77.10|2.96|\n|SMH|1.032|$173.21|$178.75|7.14|\n|SPLG|8|$39.37|$314.99|12.16|\n|TSM|1|$80.00|$80.00|3.34|\n|TXN|1|$132.50|$132.50|5.67|\n|V|1|$212.00|$212.00|7.3|\n\nOnce again any advice or questions are appreciated also I know my concentration is not great looking but with only $2,700 to deal with I don't really worry about it. Thanks ahead of time.",
-        "created_utc": 1604506283,
-        "id": "gb4m8lj",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1604535083.0
-    },
-    {
-        "author": "no_more_Paw_patrol",
-        "body": "I would say that embedded processing of the sort that requires ARM as well as parts from Texas Instruments will be a growth area. Distributed generation, PV, wind and \"smarter grids\" all require powerful point of load processing.",
-        "created_utc": 1604341241,
-        "id": "gax530l",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1604370041.0
-    },
-    {
-        "author": "wearwobbly",
-        "body": "This isn't necessarily a good thing, not sure about elsewhere but IIRC interactive brokers' commissions are same for ES/MES foptions, so same position size costs additional txn fees\n\n(double check this before relying on it, but as far as I recall it's correct, looked at it a few months back)",
-        "created_utc": 1604523095,
-        "id": "gb5m8fo",
-        "score": 1,
-        "subreddit": "options",
-        "created": 1604551895.0
-    },
-    {
-        "author": "GoBeaversOSU",
-        "body": "TXN ?",
-        "created_utc": 1606774089,
-        "id": "ge6zco4",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1606802889.0
-    },
-    {
-        "author": "Jelly_Sir",
-        "body": "AVGO, TTD, TXN, PG, AAPL, PTY\nGreat dividends (to reinvest or monthly check), better than sp500 growth and lower volatility.",
-        "created_utc": 1606613028,
-        "id": "gdyim58",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1606641828.0
     }
 ]

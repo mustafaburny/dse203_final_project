@@ -1,29 +1,1452 @@
 [
     {
+        "author": "semicryptotard",
+        "body": "Sure, this is a complex topic but I'll try to boil it down a little. More importantly, it's critical to understand how zk-rollups (and other scaling technologies in general) integrate into Ethereum's overall long-term strategy.\r  \n\r  \nBasically, Ethereum's development priorities have shifted over the last year or two to a \"rollup-centric\" roadmap. Instead of driving all innovation through the base layer of Ethereum, they have opted to allow for maximum experimentation and decentralization via a multitude of technical teams building \"rollup\" technologies that operate on top of the Ethereum base layer.\r  \n\r  \nThese technologies perform smart contract code execution off-chain, \"roll-up\" the transactions into a single aggregate transaction containing all the state changes of the underlying accounts that transacted, then post the compressed data with a cryptographic proof to the Ethereum base layer for validation. This allows for throughput increases into the thousands of transactions per second depending on the approach, even using Ethereum's existing single sharded chain (more on this later). There are numerous technologies, including state channels (like Bitcoin's Lightning Network), plasma chains, side chains, optimistic rollups, and zk-rollups.\r  \n\r  \nZk-rollups are based on a very new cryptographic primitive, Zero-Knowledge Proofs. ZKPs were first proposed by academics in 1985. In fact Algorand's founder, Silvio Mercali, was one of the authors!\r  \n\r  \nThis novel cryptographic system allows for someone to \"prove\" (the prover) to another party (the verifier), that you possess some kind of knowledge and that is indeed true, without ever revealing the knowledge in question. In effect, it would be like a bartender asking you for your age and you being able to prove to them with total trustworthiness the fact that you are over 21, but without revealing your actual age.\r  \n\r  \nThere are multiple types of ZKPs, each with numerous protocol implementations that are being further optimized by academic and industry-led teams. The key benefits for Ethereum include: high throughput txns at extremely low cost, inherited security of Ethereum's base layer, direct withdrawal to Ethereum base layer if for some reason the provers/rollup sequencers go offline or are compromised (no loss of funds), the ability to withdraw to Ethereum and have control of funds instantly (vs a week-long wait for optimistic rollups), choice of on-chain vs. off-chain data storage (these are called volitions), cross-shard/cross-zk-rollup liquidity (unlike current solutions which fracture Ethereum's liquidity), and more.\r  \n\r  \nEthereum's initial implementation of sharding will only provide data storage for rollups, NOT execution. As demand for rollups grows, Ethereum shards can be added to allow for more txn data to be submitted and stored. Companies like Zksync are also rolling out solutions like Zk-porter (the volition I mentioned above), which stores data off-chain and only posts state changes to Ethereum, reducing fees to a few cents per transaction. This is at the cost of trusting Zksync's own network of data storage \"guardians,\" but is likely worth it for low value, high throughput transactions.\r  \n\r  \nThis is rambling and unorganized, there is so much happening right now in the space, but if you want more information, this is a digestible intro:\r  \n\r  \nhttps://limechain.tech/blog/optimistic-rollups-vs-zk-rollups/\r  \n\r  \nThe OG of rollup thinking is Polynya, who has a medium with a ton of insight into the zk-rollup and blockchain scaling space. I'm not allowed to post any links to medium but if you search polynya you'll find it quickly.\r  \n\r  \nCurrent L2 Fees: https://l2fees.info/\r  \n\r  \nCurrent L2 TVL: https://l2beat.com/\r  \n\r  \n**Key ZKR Companies (underlying platforms/protocols):**\r  \nzkSync (zkSync 2.0 &amp; Zk porter)\r  \n\rStarkware (Starknet, StarkEx)\r  \n\rPolygon ZK Portfolio (Hermez, Miden, and EY Nightfall)\r  \n\r  \n**ZKR Implementations:**\r  \n\rImmutableX\r  \n\rdydx\r  \n\rAztec\r  \n\rLoopring",
+        "created_utc": 1637087753,
+        "id": "hkvv068",
+        "permalink": "/r/investing/comments/qv6ml5/family_member_is_delusional_about_crypto_how_can/hkvv068/",
+        "score": 56,
+        "subreddit": "investing",
+        "created": 1637116553.0
+    },
+    {
+        "author": "semicryptotard",
+        "body": "Uhhhh....ETH will easily 10x in the next 2-3 years. Massive supply shock inbound with the merge next year plus EIP-1559 is burning far more ETH than expected. Staking returns will attract a shitload of buyers as current miner fees and MEV gets redirected to validators, boosting yields into the mid to high teens. \n\nAs L2 execution environments proliferate (optimistic and zk-rollups), cost per txn will drop and dramatically expand solution space. L1 transactions will continue rising in price as blockspace demand grows exponentially, driving everyone but whales, corporations, and rollups off the base layer. Ethereum is just getting started and will dramatically outpeform the stock market in the next decade as it matures into the most secure global trustless settlement layer for the internet. Will easily be worth tens of trillions.",
+        "created_utc": 1637077843,
+        "id": "hkv5pby",
+        "permalink": "/r/investing/comments/qv6ml5/family_member_is_delusional_about_crypto_how_can/hkv5pby/",
+        "score": 21,
+        "subreddit": "investing",
+        "created": 1637106643.0
+    },
+    {
         "author": "PepeMcPeperson",
         "body": "I am mostly a conservative investor so for the moment i'm only invested in INTC and texas instruments. If i had to open any other positions i would mostly go to the foundry businesses like TSMC or Samsung. \n\nI feel intel, samsung and tsmc are the more sure bets and have been the only ones able to participate in Moore's law the past few years making the leading edge really a oligoply.\n\nIntel since it is traing really cheap at a sub 10 PE with the companies management expecting the revenue to increase by 10% per year and margins only decreasing only 2-3%. With dividend and buybacks combined they return aboud 7% per year if their revenue of profits wouldn't increase which they almost certainly will.\n\nSamsung makes most of it's money from it's foundy business and retail electronics. If it's foundry business' orders decrease they can fill up the remaining space with their own needs. (same as intel)\n\nTsmc is the real leader in the industry with customers having reserved all capacity for years ahead.\n\nFor price targets i would recomend [this DFCF tool](https://tracktak.com/dashboard). You fill in what revenue growth you expect the comming years, how much the ROIC is and what margins you expect.\n\nNVDA and AMD seem like really good companies but they are priced for perfection.",
         "created_utc": 1635797149,
         "id": "hixa529",
+        "permalink": "/r/investing/comments/qkihov/intc_cluster_buy_by_510_directors_and_ceo/hixa529/",
         "score": 19,
         "subreddit": "investing",
         "created": 1635825949.0
+    },
+    {
+        "author": "Sir_Meowstro",
+        "body": "Great article! Nvidia's sales have shown the sector to be far more resilient to rising costs and prices than anticipated, I think even surprising management themselves if the 10% hike in share price was anything to go off of. \n\nFull disclosure: I have the entirety of my retirement portfolio vested in ASML &amp; SOXX. \n\nA huge concern is government investment which has been put into consideration greatly by many of the giants such as ASML and TSMC, who would both benefit greatly from the supposed $50 Billion investment from Uncle Sam. Other nations around the world are looking to achieve tech sovereignty and are putting forth big bucks to make this happen, all of which will help offset the cost of production and manufacturing. ASML has a few slides about this in their investor presentation, but a really in-depth macro report was done by the Boston Consulting Group with the Semiconductor Industry Association - [you can read it all here](https://www.semiconductors.org/wp-content/uploads/2021/05/BCG-x-SIA-Strengthening-the-Global-Semiconductor-Value-Chain-April-2021_1.pdf). \n\nAnother driver that will lower the impact of the rising costs is the semiconductor space race going on between all the massive names. There are record levels of private sector investments from the likes of Intel, Micron, Texas Instruments, etc in an effort to grab market share and secure deals as the consumer facing conglomerates such as Apple begin to consolidate their supply chain. Nvidia is wrangling with the ARM deal, and TSMC has been tasked with supplying Apple's next generation of chips, which is an insane feat given what was showed off in the new series of Macbooks. Intel is under new management and is fighting tooth and nail to get back in the race and into Apple's good graces. All of these events fit into the broader picture of the race to 3nm - 2nm chips as we close in on the twilight years of Moore's Law. \n\nPerhaps I am overly optimistic right now, but there is a great deal to look forward to in the coming years from the semiconductor space. Maybe it won't be all sunshine and flowers, but overall the industry is certainly in an upward trajectory with more attention than ever before. I look forward to seeing how the market reacts to these developments as they mature.",
+        "created_utc": 1637608497,
+        "id": "hlo99bk",
+        "permalink": "/r/SecurityAnalysis/comments/qzrxkq/rising_tide_of_semiconductor_costs/hlo99bk/",
+        "score": 17,
+        "subreddit": "SecurityAnalysis",
+        "created": 1637637297.0
+    },
+    {
+        "author": "Any_Wheel_3793",
+        "body": "You seriously listed Intel, Texas Instruments, Micron, Analog Devices, and NVIDIA without any sources are you trying to pump them?",
+        "created_utc": 1637212321,
+        "id": "hl33fpc",
+        "permalink": "/r/stocks/comments/qwczt5/senate_amendment_4722_five_subsidized_microchip/hl33fpc/",
+        "score": 16,
+        "subreddit": "stocks",
+        "created": 1637241121.0
+    },
+    {
+        "author": "ListenHear",
+        "body": "Yup, Texas Instruments announced their location pick for their new 30 BILLON chip plant in North Texas. Bullish Texas",
+        "created_utc": 1637846506,
+        "id": "hm150bh",
+        "permalink": "/r/wallstreetbets/comments/r1r60a/the_guardian_samsung_to_build_17bn_semiconductor/hm150bh/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1637875306.0
+    },
+    {
+        "author": "merlinsbeers",
+        "body": "ASML is in a different business. They sell photolithography machines to semi fabs. They are the *only* source of machines that can make current generation semiconductor circuits. They have the best monopoly position in semiconductors, maybe in anything.\n\nKLAC and LRCX also make fab equipment but don't have the same power.\n\nINTC, TSMC and Samsung are the major fab companies that buy those machines.\n\nINTC, QCOM, MRVL, AMD, NVDA, TXN, AVGO, and Samsung are the major chip designers that buy manufacturing capacity from the fabs or make chips themselves.",
+        "created_utc": 1636385548,
+        "id": "hjtafhf",
+        "permalink": "/r/stocks/comments/qp9yug/chip_industry_investments_tsmc_vs_samsung_vs_intel/hjtafhf/",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1636414348.0
+    },
+    {
+        "author": "Sir_Meowstro",
+        "body": "SOXX has broad semiconductor exposure to the best and brightest companies in the space and provides a solid level of diversification, given how expensive many of these companies are. Its top holdings include NVDA, KLA, TXN,  INTC, MRVL, AMAT, LRCX, AMD - all the good stuff. \n\nASML is my favorite semi play, and I have a lengthy post about it [here](https://stockpocalypse.net/asml-the-ace-in-the-hole-for-the-tech-cold-war-with-china/) if you're curious enough.\n\nThe reason I have my entire portfolio vested in the industry is because I have a very high risk tolerance and strong conviction that the tech sector will greatly outperform in the coming decades.",
+        "created_utc": 1637641587,
+        "id": "hlqbbxi",
+        "permalink": "/r/SecurityAnalysis/comments/qzrxkq/rising_tide_of_semiconductor_costs/hlqbbxi/",
+        "score": 8,
+        "subreddit": "SecurityAnalysis",
+        "created": 1637670387.0
+    },
+    {
+        "author": "semicryptotard",
+        "body": "This is partially correct. There is a massive amount of discussion around proper valuation techniques for crypto assets and I dont think there is a definitive answer, but if you are insistent upon using a more traditional valuation method, I believe Eth will soon be able to be fundamentally valued.\n\nWhen the protocol undergoes it's consensus mechanism upgrade next year (moving from PoW to PoS), all transaction fees that are directed to miners will be rerouted to validators. Today, miners generate significant sell pressure due to the inherent inefficiency of PoW mining. They need to sell a significant portion of the Eth issuance (2 Eth/block) in order to pay for opex, taxes etc. Im not sure what the margins are for a large mining operation but its likely less than 50%. \n\nMoving to PoS will result in validators running at 99% margins due to them needing to pay for a small amount of electricity and internet bandwidth. Sure theyll need to pay taxes but sell pressure will still drop dramatically coupled with a drop in issuance under the PoS model (0.2 eth/block) All txn revenues are now directed to staking Eth holders based on their proportional ownership of the total staked Eth pie. You are basically a shareholder of the decentralized entity ethreum and can generate a low risk yield on the asset via staking. \n\nFor those who arent staking, their \"shares\" of Eth still benefit. Witht the recent implementstion of base fee burning under EIP-1559, Eth's inflationary monetary policy is moving into a near term deflationary policy assuming current demand remains consistent. Long term we'll likely see some kind of dynamic equilibrium around a particular eth token count, ive seen some folks speculate as low as 25m Eth, others ~100m. Regardless, this mechanism acts as an effecitve stock buyback and will boost the price over time.\n\nSo now we have an asset that generates yield for shareholders via txn fees, effecitvely buys back its own stock, AND lets you use the stock as an asset to genrate yields in the new world of decentralized finance. Currently Eth is generating something on the order of $20B+ in fees annually, this will only go up. All in all, feels like you can start slapping traditional valuation metrics on Eth, hell its current P/E ratio is lower than many tech companies!",
+        "created_utc": 1637079262,
+        "id": "hkv97ex",
+        "permalink": "/r/investing/comments/qv6ml5/family_member_is_delusional_about_crypto_how_can/hkv97ex/",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1637108062.0
+    },
+    {
+        "author": "GigaChadEnergy",
+        "body": "What do you mean? Texas Instruments has fabs all over America. Intel is all American too. AMD used GlobalFoundries fabs in the past but they could not develop past 10nm so they had to outsource to TSMC who can make leading edge 5nm. Like, tell me what companies did TSMC steal from? By the way there are some unique condition that enabled Taiwan to become leader in this area and the notion that those stupid Asians just had to steal our tech is total bullshit in my view.",
+        "created_utc": 1636731946,
+        "id": "hkce1ak",
+        "permalink": "/r/stocks/comments/qrvyuc/nine_us_governors_press_us_lawmakers_to_pass_52/hkce1ak/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1636760746.0
+    },
+    {
+        "author": "FEMA_Camp_Survivor",
+        "body": "Texas Instruments is still around. Last time I checked Texas is in the US, at least for now.",
+        "created_utc": 1636201377,
+        "id": "hjjjbvp",
+        "permalink": "/r/wallstreetbets/comments/qnwkfx/intc_the_sleeping_giant/hjjjbvp/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1636230177.0
+    },
+    {
+        "author": "seigy",
+        "body": "My take is $TSM makes high-end chips for NVDA &amp; AMD, $GFS makes a mix of chips, $UMC makes legacy chips (main thing we are currently short on), $INTC makes their own chips.  There are others but I think these are the big fabs and foundries.  I believe $QCOM, $AVGO, $SKWS, $TXN make their own and get some from fans but I am not certain on them.  Other plays to consider are the equipment mfg who make the equipment, parts, and services the fabs are buying in order to make more chips.  Some big players here are $AMAT, $ASML, &amp; $LRCX.",
+        "created_utc": 1636250691,
+        "id": "hjmk5z2",
+        "permalink": "/r/StockMarket/comments/qocaql/the_continuous_semiconductor_shortage/hjmk5z2/",
+        "score": 4,
+        "subreddit": "StockMarket",
+        "created": 1636279491.0
+    },
+    {
+        "author": "SignificantValue4",
+        "body": "Texas Instruments is a remarkable company",
+        "created_utc": 1636438762,
+        "id": "hjwnjr0",
+        "permalink": "/r/wallstreetbets/comments/qpn2qq/what_are_your_moves_tomorrow_november_09_2021/hjwnjr0/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1636467562.0
+    },
+    {
+        "author": "lilasianmanboy",
+        "body": "I prefer TXN over Intel. They\u2019ve had the last decade to do something phenomenal and have continuously done nothing",
+        "created_utc": 1637026951,
+        "id": "hksqsy1",
+        "permalink": "/r/stocks/comments/quw2ei/why_is_no_one_talking_about_intel_im_siper/hksqsy1/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1637055751.0
+    },
+    {
+        "author": "constable2",
+        "body": "Math will also crash so buy puts on math book publishers and Texas Instruments.",
+        "created_utc": 1638035967,
+        "id": "hmaqss4",
+        "permalink": "/r/wallstreetbets/comments/r3i8oq/be_prepared_for_a_drawdown_in_pie_stocks/hmaqss4/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1638064767.0
+    },
+    {
+        "author": "Desmater",
+        "body": "QCOM, I was buying and accumulating when it dropped to $120-130.\n\nWas also a good time to buy in 2016/2017 when it was $50 due to IP lawsuit with Samsung and Apple.\n\nNVDA, AMD, TXN, MVRL, TSM and INTC are all my picks.",
+        "created_utc": 1637188905,
+        "id": "hl1pjq0",
+        "permalink": "/r/stocks/comments/qw9gzs/nvidia_easily_beats_earnings_expectations_on/hl1pjq0/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1637217705.0
+    },
+    {
+        "author": "Cdn_Wealth_Hacker",
+        "body": "I borrowed to invest. Have been in ENB, Loblaw ($L), Suncor with some of the funds. Majority of the funds have been in an ETF called Global Dividend Global Split Corp. by Brompton funds. ($GDV on the TSX).\n\nPays $0.10/share monthly. Used to be over 10% yield, now it\u2019s just under - closed at $12.52/share yesterday. Didn\u2019t miss any payments during the pandemic.[GDV - Brompton Global Dividend ETF](https://www.bromptongroup.com/product/global-dividend-growth-split-corp/)\n\nI like the find because it gives global exposure, although mostly concentrated in North America. Hold diverse industry sectors and companies. The top 25 holdings include:\n\nMorgan Stanley\nTractor Supply Co\nASML Holding NV \nJPMorgan Chase &amp; Co\nMotorola Solutions Inc\nBank of America Corp \nApple Inc\nGoldman Sachs Group Inc \nMicrosoft Corp\nPaychex Inc\nSchneider Electric SE\nTexas Instruments Inc\nPower Corporation of Canada\nPrologis Inc\nNational Bank of Canada\nJohnson Controls International PLC\nCanadian Natural Resources Ltd\nTelus Corp\nSeagate Technology Holdings PLC\nRoyal Bank of Canada\nWalt Disney Co\n\nResearch and do heavy due diligence of your own if using borrowed funds, but I found this to be a solid foundation for my portfolio.",
+        "created_utc": 1636464965,
+        "id": "hjxmf8p",
+        "permalink": "/r/CanadianInvestor/comments/qq29kt/borrow_to_invest_ideas/hjxmf8p/",
+        "score": 3,
+        "subreddit": "CanadianInvestor",
+        "created": 1636493765.0
+    },
+    {
+        "author": "nickt7297",
+        "body": "Microsoft, intel, and Texas Instruments were all down also. The overall market was down. That\u2019s why. Overall it finished only 0.48% down. Could have been worse",
+        "created_utc": 1636497447,
+        "id": "hjzthke",
+        "permalink": "/r/wallstreetbets/comments/qqd61v/what_are_your_moves_tomorrow_november_10_2021/hjzthke/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1636526247.0
+    },
+    {
+        "author": "thowaway5003005001",
+        "body": "Tomorrow:\n\nLooking at long term calls for Activision Blizzard.\nLooking at calls for Gamestop when they aren't ridiculously priced.\nLooking at buying more $PROG.\nSeeing if AMD holds on or if there's a tasty dip.\nChecking out more DD on corsair to see how many components they make in house.\nLooking at Qualcomm and checking out their fundamentals.\nLoooking at Texas Instruments.\n\nAlways: \nLooking for value plays/calls on FB and Google going into 2023 as I see them performing better than others when cost of money goes up next year.",
+        "created_utc": 1636085306,
+        "id": "hjdk8l4",
+        "permalink": "/r/wallstreetbets/comments/qmt5z6/what_are_your_moves_tomorrow_november_05_2021/hjdk8l4/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1636114106.0
+    },
+    {
+        "author": "jedielfninja",
+        "body": "All the cpu guys manufacturers and Texas instruments",
+        "created_utc": 1637259215,
+        "id": "hl5e2z0",
+        "permalink": "/r/wallstreetbets/comments/qwt0df/if_chip_foundries_are_basically_digitalage/hl5e2z0/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1637288015.0
+    },
+    {
+        "author": "semicryptotard",
+        "body": "Smart contract platforms (e.g. Ethereum)will actually take the place of numerous business processes and workflows, generating revenue via txn fees. Ethereum is a decentralized computation engine, not a currency. Once the system moves to PoS, txn fee revenue is directed to protocol validators (tips + token issuance) and to eth holders indirectly via token burning (like a stock buyback).",
+        "created_utc": 1637773809,
+        "id": "hlx721w",
+        "permalink": "/r/investing/comments/r0419z/why_stablecoins_are_the_gateways_drugs_of_crypto/hlx721w/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1637802609.0
+    },
+    {
+        "author": "ListenHear",
+        "body": "Next year or so: Daimler has been good to me. They might go hard into the EV space in the next year but we'll see. Also holding cash or at least keeping in mind/getting ready for Starlink to go public next year (maybe rumor)\n\n5-10 year: Proterra (and then we'll see, but I think they'll be huge), ASTS (hopefully) \n\n10+ and probably retirement: Tesla, Enphase, Palantir, Raytheon, L3 Harris (maybe)\n\nRecently took some profits from random holdings and exited most of position in ARK, so I'm looking to hop into some new stuff, but with everything in the green lately I might wait for a dip. Been look at Nvidia, Costco, Komatsu, Caterpillar, Texas Instruments, and maybe just hoping into the SPY",
+        "created_utc": 1636185166,
+        "id": "hjixip8",
+        "permalink": "/r/stocks/comments/qnppmp/what_are_your_favorite_stocks_for_1year_5years/hjixip8/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1636213966.0
+    },
+    {
+        "author": "Jordibato",
+        "body": "Can't find any refernce of saudi PIF  owning tsmc at least partially, MU and TXN have their own fabs and as or right now their bussiness model do not require using leading edge processes, memory/nand flash and microcontrollers, do not require the best nodes, rare earth minerals mining and processing is the natural next step once wyoming takes its head off their ass and  stops mining coal and starts mining rare earths",
+        "created_utc": 1636212681,
+        "id": "hjk72l1",
+        "permalink": "/r/wallstreetbets/comments/qnwkfx/intc_the_sleeping_giant/hjk72l1/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636241481.0
+    },
+    {
+        "author": "Goddess_Peorth",
+        "body": "&gt;TXN\n\nI love TXN as a company. I do firmware and I use gcc compiler instead of proprietary ones (so I have a consistent toolchain across device vendors) and when I hit a bug in the example code for a T I chip, I posted to their forums and an engineer answered with a fix within 4 hours. And I posted from my personal login and email without disclosing any company information. They're really great. And their example code is all high quality. Very wonderful company.\n\nBut everybody else thinks so too, their stock price is really high... they'll get murdered in a downturn.\n\nI remember when AMD spun theirs fabs off to GFS and people said it was the death of AMD! \ud83e\udd23 But it is hard to know what GFS is worth this early in the filings game.\n\nAMAT is great too, but if not all the anticipated fabs get built they'll get hammered.\n\nON is way up in a couple weeks. I'm hoping they'll come back down. If they do, I'll look for an entry point; though, they're probably undervalued even after the bump, with a P/S under 4. They're sortof a sleeper with the US fabs that will come online, because there will be more board assembly done in the US, and in the US people care about getting the specified part. In China they like substitutions, so almost everything gets generic mosfets and amplifiers. When American Engineers want a good mosfet, ON is one of the shortlist choices. And their prices are good. I normally swing trade, but if I get a good entry on ON I'll probably hold that.",
+        "created_utc": 1636258291,
+        "id": "hjmyh27",
+        "permalink": "/r/StockMarket/comments/qocaql/the_continuous_semiconductor_shortage/hjmyh27/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1636287091.0
+    },
+    {
+        "author": "Visionboard0312",
+        "body": "$TXN 11/12 $192.5 next semi conductor play. 4hr macd flip negative to positive with gap fill to upside",
+        "created_utc": 1636055658,
+        "id": "hjbokit",
+        "permalink": "/r/wallstreetbets/comments/qmh95a/daily_discussion_thread_for_november_04_2021/hjbokit/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636084458.0
+    },
+    {
+        "author": "Cdn_Wealth_Hacker",
+        "body": "Mostly copied from another post I did:\n\nMajority of my funds have been in an ETF called Global Dividend Global Split Corp. by Brompton funds. ($GDV on the TSX).\n\nPays $0.10/share monthly. Used to be over 10% yield, now it\u2019s just under - closed at $12.52/share yesterday. Didn\u2019t miss any payments during the pandemic.[GDV - Brompton Global Dividend ETF](https://www.bromptongroup.com/product/global-dividend-growth-split-corp/)\n\nI like the find because it gives global exposure across diverse industries (although mostly concentrated in North America). Owns securities and uses coveted calls to generate revenue. The top 25 holdings include:\n\nMorgan Stanley\nTractor Supply Co\nASML Holding NV \nJPMorgan Chase &amp; Co\nMotorola Solutions Inc\nBank of America Corp \nApple Inc\nGoldman Sachs Group Inc \nMicrosoft Corp\nPaychex Inc\nSchneider Electric SE\nTexas Instruments Inc\nPower Corporation of Canada\nPrologis Inc\nNational Bank of Canada\nJohnson Controls International PLC\nCanadian Natural Resources Ltd\nTelus Corp\nSeagate Technology Holdings PLC\nRoyal Bank of Canada\nWalt Disney Co\n\nResearch and do heavy due diligence of your own if using borrowed funds, but I found this to be a solid foundation for my portfolio.",
+        "created_utc": 1636478982,
+        "id": "hjyj71z",
+        "permalink": "/r/CanadianInvestor/comments/qq2nnj/whats_a_good_bank_etf_to_invest_in/hjyj71z/",
+        "score": 2,
+        "subreddit": "CanadianInvestor",
+        "created": 1636507782.0
+    },
+    {
+        "author": "SofaKingStonked",
+        "body": "I second your opinion on TXN as just a downright awesome company to work with. Their products are well engineered and packaged and they often lead the industry (like the introduction of copper wire bonds).\n\nI like ON a lot too and have been waiting for the proper entry. Unfortunately that was probably a week ago when my cash was a little tight.\n\nI\u2019m deep into Amat but ur comment is on point. It\u2019s been consolidating for a big portion of the year oscillating between 120s and high 140s although this feels like the real breakout from that pattern. My guess is with wolf running wild people are starting to appreciate their contribution to SiC manufacturing.\n\nHimax HIMX - Getting hammered because it\u2019s Taiwanese but they are a display driver fabless semiconductor  company with something like 5 quarters of over 15% qoq growth (over 70% yoy). So they are tech growth with very impressive numbers. Yet they are valued at a p/e of 9 with forward p/e of 4.8.\n\nI like Indi semiconductor- INDI Their biggest revenue is from an asic they designed for the multimedia centers in cars that is used in something like 67% of all CarPlay. All new cars want these big fancy displays so moving forward this is a huge market which is why I love himx and Indi. Indi focused purely on automotive ICs, Is making progress in other verticals, has a great leadership team, and an over 1B dollar backlog with tier 1 automotive companies.\n\nI like wolf and navitas also as my SiC and GaN play but not at these prices",
+        "created_utc": 1636296019,
+        "id": "hjoep1t",
+        "permalink": "/r/StockMarket/comments/qocaql/the_continuous_semiconductor_shortage/hjoep1t/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1636324819.0
+    },
+    {
+        "author": "TheWings977",
+        "body": "Lets go $TXN",
+        "created_utc": 1636687594,
+        "id": "hkaem40",
+        "permalink": "/r/stocks/comments/qrvyuc/nine_us_governors_press_us_lawmakers_to_pass_52/hkaem40/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636716394.0
+    },
+    {
+        "author": "thehugejackedman",
+        "body": "Texas Instruments",
+        "created_utc": 1637875237,
+        "id": "hm2wffb",
+        "permalink": "/r/stocks/comments/r21tcj/next_promising_tech_stock/hm2wffb/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637904037.0
+    },
+    {
+        "author": "TheWings977",
+        "body": "Will $TXN benefit from this as well?",
+        "created_utc": 1636072983,
+        "id": "hjcujf6",
+        "permalink": "/r/stocks/comments/qmogyk/nvidia_is_going_to_break_300_today_currently_it/hjcujf6/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636101783.0
+    },
+    {
+        "author": "ListenHear",
+        "body": "Texas Instruments",
+        "created_utc": 1637158329,
+        "id": "hkzm63n",
+        "permalink": "/r/stocks/comments/qvspcz/during_a_gold_rush_sell_shovels/hkzm63n/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637187129.0
+    },
+    {
+        "author": "JRshoe1997",
+        "body": "The US government has been pretty clear on that they don\u2019t want to rely on Asia (Taiwan) to build their semi conductors. It makes sense that they would give Texas Instruments and Intel since they are American chip manufacturing companies.",
+        "created_utc": 1637206399,
+        "id": "hl2s43z",
+        "permalink": "/r/stocks/comments/qwczt5/senate_amendment_4722_five_subsidized_microchip/hl2s43z/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637235199.0
+    },
+    {
+        "author": "TheWings977",
+        "body": "$TXN is the superior company",
+        "created_utc": 1636903285,
+        "id": "hklgupt",
+        "permalink": "/r/stocks/comments/qthgfr/what_is_your_hottest_take_about_a_single_stock/hklgupt/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636932085.0
+    },
+    {
+        "author": "TheWings977",
+        "body": "Did I fuck up by putting $TXN in my Roth? Damn thing doesn\u2019t want to move while the others are steamrolling the market.",
+        "created_utc": 1637237069,
+        "id": "hl40g3u",
+        "permalink": "/r/stocks/comments/qwmwxk/rstocks_daily_discussion_options_trading_thursday/hl40g3u/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637265869.0
+    },
+    {
+        "author": "DiBalls",
+        "body": "Owned by PIF is correct. Saudi Arabia has been buying out chip, technology for years before the changed their name to PIF. The other US companies like MU or TXN are micro processors which in the future will use Intel as a foundry. For me bottom line Intel will grow beyond its current pricing. I own MU bought a boatload at $15. Once the US can process its own rare minerials instead of shipping them to China and Malaysia who control the pricing the US will become independent from those sources. Our issue is the processing of rare minerals is an environmentally nasty job.",
+        "created_utc": 1636210110,
+        "id": "hjk16xy",
+        "permalink": "/r/wallstreetbets/comments/qnwkfx/intc_the_sleeping_giant/hjk16xy/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636238910.0
+    },
+    {
+        "author": "Accurate_Cut3048",
+        "body": "Maybe for TXN too...",
+        "created_utc": 1636727047,
+        "id": "hkc2qcb",
+        "permalink": "/r/wallstreetbets/comments/qs8s63/daily_discussion_thread_for_november_12_2021/hkc2qcb/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636755847.0
+    },
+    {
+        "author": "GTdspDude",
+        "body": "Most of the OG fabs were here - there\u2019s a reason Silicon Valley is called that. Texas Instruments still runs a bunch of fabs in Dallas around their HQ",
+        "created_utc": 1636735480,
+        "id": "hkcmr2g",
+        "permalink": "/r/stocks/comments/qrvyuc/nine_us_governors_press_us_lawmakers_to_pass_52/hkcmr2g/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636764280.0
+    },
+    {
+        "author": "Live_Jazz",
+        "body": "First time poster to this thread and sub. I'll bite. This is my main taxable portfolio. Most of the larger positions have arrived there via growth, and the smaller ones are more recent/starters. Feel like perhaps I should consolidate/focus a bit more. I'm not exactly crushing the market, but lately I've been solidly ahead of it. And I like these companies.\n\n&amp;#x200B;\n\nAPPLE\t21.23%\r  \nSQUARE\t9.82%\r  \nCOSTCO WHOLESALE\t8.97%\r  \nUNITED PARCEL SERVICE\t6.44%\r  \nBROADCOM\t5.75%\r  \nEQUITY LIFESTYLE PROPERTIES\t3.93%\r  \nINTUITIVE SURGICAL\t3.69%\r  \nTEXAS INSTRUMENTS\t3.46%\r  \nSALESFORCE.COM\t3.12%\r  \nTHERMO FISHER SCIENTIFIC\t2.72%\r  \nDANAHER\t2.68%\r  \nILLUMINA\t2.56%\r  \nMERCADOLIBRE \t2.48%\r  \nNEXTERA ENERGY\t2.27%\r  \nAMERICAN WATER WORKS COMPANY\t2.23%\r  \nBROOKFIELD RENEWABLE \t2.22%\r  \nTELADOC\t2.09%\r  \nAGILENT\t2.08%\r  \nALIBABA\t1.71%\r  \nSOLAREDGE\t1.52%\r  \nMICROSOFT\t1.47%\r  \nPAYPAL\t1.03%\r  \nAMERICAN EXPRESS\t0.92%\r  \nMASTERCARD\t0.90%\r  \nVISA\t0.88%\r  \nCRISPR THERAPEUTICS\t0.64%\r  \nBLACKBERRY\t0.64%\r  \nABBVIE\t0.54%\r  \nSCHRODINGER\t0.53%",
+        "created_utc": 1637267576,
+        "id": "hl5zay9",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hl5zay9/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637296376.0
+    },
+    {
+        "author": "Time_Kaleidoscope",
+        "body": "TXN is almost as boomer as INTC, why da fuck am I holding this thing?",
+        "created_utc": 1637097913,
+        "id": "hkwkt5n",
+        "permalink": "/r/wallstreetbets/comments/qvhzaa/what_are_your_moves_tomorrow_november_17_2021/hkwkt5n/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1637126713.0
+    },
+    {
+        "author": "Sea-Brain9393",
+        "body": "Any semiconductor based postings on $TXN Texas Instruments(TI)?  Yesterday, TI announced a new plant in Sherman, Texas on Facebook and Twitter.  TI has: 260k followers on Facebook, 90k followers on Twitter, 26k followers on Instagram, 19k followers on Youtube",
+        "created_utc": 1637259622,
+        "id": "hl5f4id",
+        "permalink": "/r/stocks/comments/qrvyuc/nine_us_governors_press_us_lawmakers_to_pass_52/hl5f4id/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637288422.0
+    },
+    {
+        "author": "TheWings977",
+        "body": "I\u2019ve had $TXN for a while lol",
+        "created_utc": 1637239129,
+        "id": "hl43r4o",
+        "permalink": "/r/stocks/comments/qwmwxk/rstocks_daily_discussion_options_trading_thursday/hl43r4o/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637267929.0
+    },
+    {
+        "author": "dopamine_daddy",
+        "body": "40% MSCI World, 20%AMD LEAPS, 10% MSCI EM, 10% SPY 500 Tech, \n\nthe rest is (20%) is evenly split between LEAPS for NIO, TXN, PYPL, IBM, DIS, GELYF,  FRA.DE and Meta.",
+        "created_utc": 1637932356,
+        "id": "hm5ga6p",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hm5ga6p/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637961156.0
     },
     {
         "author": "Desmater",
         "body": "I am long UMC, AMD/XLNX, MRVL, NVDA, QCOM, TXN and INTL.\n\nUMC is just overlooked, under the radar.\n\nSecond they are located in Taiwan and you know the geo political issues right now.\n\nThird they don't make leading edge chips. I feel they are similar to TXN.",
         "created_utc": 1635801606,
         "id": "hixl4qg",
+        "permalink": "/r/stocks/comments/qkdbkj/united_microelectronics_corp_umc/hixl4qg/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1635830406.0
     },
     {
-        "author": "PepeMcPeperson",
-        "body": "I am mostly a conservative investor so for the moment i'm only invested in INTC and texas instruments. If i had to open any other positions i would mostly go to the foundry businesses like TSMC or Samsung. \n\nI feel intel, samsung and tsmc are the more sure bets and have been the only ones able to participate in Moore's law the past few years making the leading edge really a oligoply.\n\nIntel since it is traing really cheap at a sub 10 PE with the companies management expecting the revenue to increase by 10% per year and margins only decreasing only 2-3%. With dividend and buybacks combined they return aboud 7% per year if their revenue of profits wouldn't increase which they almost certainly will.\n\nSamsung makes most of it's money from it's foundy business and retail electronics. If it's foundry business' orders decrease they can fill up the remaining space with their own needs. (same as intel)\n\nTsmc is the real leader in the industry with customers having reserved all capacity for years ahead.\n\nFor price targets i would recomend [this DFCF tool](https://tracktak.com/dashboard). You fill in what revenue growth you expect the comming years, how much the ROIC is and what margins you expect.\n\nNVDA and AMD seem like really good companies but they are priced for perfection.",
-        "created_utc": 1635797149,
-        "id": "hixa529",
-        "score": 19,
+        "author": "GigaChadEnergy",
+        "body": "Right and all of that is reflected in AMDs price so you might think you so smart but you are late as hell if you are starting new position or adding today. If I could go back in time to 2016 when AMD was seen as this loser making second best CPUs (but was quietly turning the ship around) I would load up with both hands. I don't have any ideological issues with either company. But we are in 2021 and AMDs forward PE is 50x and P/S is 11x if you know what those numbers mean you know why they are not good. And you know, I don't give a shit about what is cool, and popular and gives you upvotes, I'm not buying AMD at 11 P/S. One the other hand Intel, second best chips fab in the world trading at PE of 9x and doing things to turn the ship around. And I mean 9x PE, seriously, Texas Instruments who make 40nm legacy chips for autos and similar is trading at 23x, Analog Devices similar story trading 28x. Intel is not priced correctly as far as I can understand. At the end of the day I here to make money over long term (I'm not into trading) and with AMDs current price there is no money to be made. Not the story with Intel.",
+        "created_utc": 1636400784,
+        "id": "hjucazm",
+        "permalink": "/r/stocks/comments/qphe6c/chipmaker_amd_just_scored_a_big_deal_with_meta_up/hjucazm/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636429584.0
+    },
+    {
+        "author": "Sea-Brain9393",
+        "body": "Any semiconductor based postings on $TXN Texas Instruments(TI)?  Yesterday, TI announced a new plant in Sherman, Texas on Facebook and Twitter.  TI has: 260k followers on Facebook, 90k followers on Twitter, 26k followers on Instagram, 19k followers on Youtube",
+        "created_utc": 1637259635,
+        "id": "hl5f5sv",
+        "permalink": "/r/investing/comments/qrj20t/thoughts_on_the_current_state_of_semiconductors/hl5f5sv/",
+        "score": 1,
         "subreddit": "investing",
-        "created": 1635825949.0
+        "created": 1637288435.0
+    },
+    {
+        "author": "NPRjunkieDC",
+        "body": "List of Halal stocks includes many names posted on here \n\nList of Halal Stocks:\n\nDupont \u2013 NYSE:DD\n\nPfizer \u2013 NYSE:PFD\n\nPembina\n\nAbbott Labs \u2013 NYSE: ABT\n\nChevron Corp.\n\nCanadian National Railway \u2013 TSE:CNR\n\nCanon\n\nMagna International\n\nBHP Group Limited\n\nNovartis\n\nGildan Activewear\n\nIntel Corp \u2013 NASDAQ: INTC\n\nExxon Mobile\n\nSaputo Inc \u2013 TSE:SAP\n\nAdobe Inc. \u2013 NASDAQ: ADBE\n\nJohnson &amp; Johnson \u2013 NYSE: JNJ\n\nRio Tinto\n\nSalesforce \u2013 NYSE: CRM\n\nCanon\n\nTexas Instruments \u2013 NASDAQ: TXN\n\nMerck &amp; Co.\n\nAir Products &amp; Chemicals\n\nSanofi\n\nPrologis Inc.",
+        "created_utc": 1637435106,
+        "id": "hlf14rq",
+        "permalink": "/r/stocks/comments/qy3pz7/are_there_any_companies_too_evil_to_invest_in/hlf14rq/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1637463906.0
+    },
+    {
+        "author": "spctr13",
+        "body": "&gt; in fact im fairly certain all of our parts are manufactured on US soil\n\nDown to what level though? Not many of the basic electronic components everything else is built from are made in the US. American companies like Vishay, Microchip, Texas Instruments, and Xilinx either operate factories in China or contract foundries in China or Taiwan. Other large supplies of ours are not even American such as Yageo and TE Connectivity aren't even headquartered in the US and manufacturer the bulk of their product in their home country. It's been a big issue for my portion of the defense industry the past couple of years because these factories in China are also sourcing a large portion of counterfeit electronic components on the market.\n\nI know we're not the only defense manufacturer using Chinese components because I've seen several news articles and reports from the DOD claiming this is a problem.\n\nhttps://www.washingtontimes.com/news/2020/dec/10/us-military-reliance-china-foreign-suppliers-expos/\n\nPanasonic and Murata (Japanese) used to produce critical components of our products, but have since stopped selling to us because they don't want their products used in munitions. When that happened the government fronted a lot of money to a couple American companies to produce an alternative since none existed.",
+        "created_utc": 1635993895,
+        "id": "hj8ic9d",
+        "permalink": "/r/wallstreetbets/comments/qltwea/after_researching_chinese_companies_everything/hj8ic9d/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1636022695.0
+    },
+    {
+        "author": "yungbootygod69",
+        "body": "Load up on TXN. they just took a dip, have lots of OI, and is very volatile",
+        "created_utc": 1635785715,
+        "id": "hiwi8z8",
+        "permalink": "/r/wallstreetbets/comments/qkanjp/daily_discussion_thread_for_november_01_2021/hiwi8z8/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1635814515.0
+    },
+    {
+        "author": "KayneGirl",
+        "body": "Biden blocked the fab in Utah Texas Instruments wanted so screw him.",
+        "created_utc": 1637196346,
+        "id": "hl265cv",
+        "permalink": "/r/stocks/comments/qwcyfv/anyone_heard_of_this_stock_thrn_thorne_healthtech/hl265cv/",
+        "score": 0,
+        "subreddit": "stocks",
+        "created": 1637225146.0
+    },
+    {
+        "author": "Visionboard0312",
+        "body": "$TXN 11/5 $192.50 last chance. 4 bagger plus",
+        "created_utc": 1636055924,
+        "id": "hjbp8yl",
+        "permalink": "/r/wallstreetbets/comments/qmh95a/daily_discussion_thread_for_november_04_2021/hjbp8yl/",
+        "score": -1,
+        "subreddit": "wallstreetbets",
+        "created": 1636084724.0
+    },
+    {
+        "author": "wilhelm96",
+        "body": "Semiconductors just took shit across the board. NVDA, AMD, TSM, MU, WDC dumped 1-2% within 2 minutes",
+        "created_utc": 1636717712,
+        "id": "hkblxhy",
+        "permalink": "/r/wallstreetbets/comments/qs8s63/daily_discussion_thread_for_november_12_2021/hkblxhy/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1636746512.0
+    },
+    {
+        "author": "MinnesotaPower",
+        "body": "Got it, buy Western Digital",
+        "created_utc": 1636642003,
+        "id": "hk7h11i",
+        "permalink": "/r/stocks/comments/qra2t4/people_who_made_highconviction_buys_into_nvda_or/hk7h11i/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1636670803.0
+    },
+    {
+        "author": "Rudolf007007",
+        "body": "no Western Digital , you know the competitor of seagate.",
+        "created_utc": 1636147763,
+        "id": "hjgwzbe",
+        "permalink": "/r/wallstreetbets/comments/qnkyc9/12k_yolo_in_wdc/hjgwzbe/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636176563.0
+    },
+    {
+        "author": "Stallzy",
+        "body": "I just googled hasn't it already come out or is Earnings Snapshot a different thing? \n\nPersonally I much prefer physical storage drives to trusting cloud storage but I don't think Western Digital shares are going anywhere haha, unless they might? Currently on quite a downhill slope it seems since earlier in the year to $55 but it's seen swings in past years apparently up to $70 ish",
+        "created_utc": 1636081281,
+        "id": "hjdcnet",
+        "permalink": "/r/wallstreetbets/comments/qmqed3/has_dbx_dropbox_time_arrived/hjdcnet/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636110081.0
+    },
+    {
+        "author": "johndrake666",
+        "body": "Ohh I like Western Digital than Seagate, been using one since I build PC for friends! So far 3 drive dried around 10 years (slowing down in few years somewhat normal)",
+        "created_utc": 1636147857,
+        "id": "hjgx82x",
+        "permalink": "/r/wallstreetbets/comments/qnkyc9/12k_yolo_in_wdc/hjgx82x/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636176657.0
+    },
+    {
+        "author": "Visionboard0312",
+        "body": "$WDC about to tank to downside after failed resistance test $54p exp 11/12 thank me later gs",
+        "created_utc": 1636570662,
+        "id": "hk3paow",
+        "permalink": "/r/wallstreetbets/comments/qqrw8d/daily_discussion_thread_for_november_10_2021/hk3paow/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636599462.0
+    },
+    {
+        "author": "j909m",
+        "body": "WDC",
+        "created_utc": 1636288706,
+        "id": "hjo0foo",
+        "permalink": "/r/stocks/comments/qlmwjf/what_stock_do_you_think_is_most_likely_to_10x_in/hjo0foo/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636317506.0
+    },
+    {
+        "author": "justhereforvoting",
+        "body": "!banbet $WDC 70.00 5d",
+        "created_utc": 1636938684,
+        "id": "hknvqbz",
+        "permalink": "/r/wallstreetbets/comments/qtzc0g/what_are_your_moves_tomorrow_november_15_2021/hknvqbz/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636967484.0
+    },
+    {
+        "author": "ToyotaTiffany",
+        "body": "Hard drives: WDC or STX",
+        "created_utc": 1636117412,
+        "id": "hjerq99",
+        "permalink": "/r/StockMarket/comments/qn1bcp/thoughts_on_this_etf/hjerq99/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1636146212.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "**Ban Bet Created:** **/u/justhereforvoting** bet **WDC** goes from **60.68** to **70.0** before **2021-11-19 20:11:28.471784-05:00**",
+        "created_utc": 1636938694,
+        "id": "hknvr4j",
+        "permalink": "/r/wallstreetbets/comments/qtzc0g/what_are_your_moves_tomorrow_november_15_2021/hknvr4j/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636967494.0
+    },
+    {
+        "author": "hitpopking",
+        "body": "I have both western digital and drop box, both are great companies and undervalued per my opinion, I\u2019m gonna be a bag holder for these two stocks",
+        "created_utc": 1636084631,
+        "id": "hjdj1vs",
+        "permalink": "/r/wallstreetbets/comments/qmqed3/has_dbx_dropbox_time_arrived/hjdj1vs/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636113431.0
+    },
+    {
+        "author": "Rudolf007007",
+        "body": "no $WDC (Western Digital)",
+        "created_utc": 1636149206,
+        "id": "hjh0ps0",
+        "permalink": "/r/wallstreetbets/comments/qnkyc9/12k_yolo_in_wdc/hjh0ps0/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636178006.0
+    },
+    {
+        "author": "justhereforvoting",
+        "body": "No idea, I just wanted to make a big bet. There are really only 2  major HD manufacturers and they both had big gains last Thurs and Fri. STX is back near its ATH but WDC is way below.",
+        "created_utc": 1636939358,
+        "id": "hknx6q7",
+        "permalink": "/r/wallstreetbets/comments/qtzc0g/what_are_your_moves_tomorrow_november_15_2021/hknx6q7/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636968158.0
+    },
+    {
+        "author": "ToyotaTiffany",
+        "body": "Long WDC. It has several strong growth catalysts, and deserves a higher multiple.",
+        "created_utc": 1636745065,
+        "id": "hkda2bq",
+        "permalink": "/r/wallstreetbets/comments/qsi61y/0k_gain_with_wdc/hkda2bq/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1636773865.0
+    },
+    {
+        "author": "CarwashTendies",
+        "body": "This will blowup and lead to defi\u2026.Mark Cuban knows it. Ryan Cohen knows it. Daniel wu tang wang knows it. \n\n*Apes Know It!!\ud83d\ude80\ud83d\udc8d*",
+        "created_utc": 1636007757,
+        "id": "hj94bo5",
+        "permalink": "/r/wallstreetbets/comments/qmccl8/gme_updates_rocket_looks_imminent_strap_in_boys/hj94bo5/",
+        "score": 346,
+        "subreddit": "wallstreetbets",
+        "created": 1636036557.0
+    },
+    {
+        "author": "A_Wizard1717",
+        "body": "Also invest in Wu Tang Clan",
+        "created_utc": 1636499373,
+        "id": "hjzy1sc",
+        "permalink": "/r/wallstreetbets/comments/qq7cle/i_watched_all_martin_shkreli_videos_on_investing/hjzy1sc/",
+        "score": 22,
+        "subreddit": "wallstreetbets",
+        "created": 1636528173.0
+    },
+    {
+        "author": "notpr1m",
+        "body": "I think the crashes now are going to happen in individual stocks. Everyone talks about \u201cthe stock market\u2026\u201d\n\n\u2026but it\u2019s really a market of stocks. Cracks will start to show in the companies with dying business models (Western Union), companies that Covid hit hard and failed to adapt (certain hotel/travel/retail stocks), companies that misplayed Covid (Zillow) etc. \n\nLike you said, still liquidity but less of it\u2026 that\u2019s true. Last year you had a lot of dumb money chasing the next TSLA and buying garbage like NKLA\u2026now that frothiness is gone and you\u2019re seeing TSLA rip away from that entire industry. Last year people bought SPACs as if they were all going to be winners\u2026now you\u2019re seeing money drain from the riskier mergers but stay with companies like SOFI or ME. \n\nAnd there are still many great value plays on the market that I like, and even better if they pay dividends because the fixed income market is basically dead.",
+        "created_utc": 1636084547,
+        "id": "hjdiwj8",
+        "permalink": "/r/stocks/comments/qn2ih9/anybody_notice_the_massive_increase_in_the_number/hjdiwj8/",
+        "score": 19,
+        "subreddit": "stocks",
+        "created": 1636113347.0
+    },
+    {
+        "author": "ninkorn",
+        "body": "Shkreli's Wu Tang album was sold by US Govt to some crypto collective and they found out that the CD is all scratched up because Shkreli used it as a coaster.",
+        "created_utc": 1636596551,
+        "id": "hk5fu5k",
+        "permalink": "/r/wallstreetbets/comments/qr41y7/what_are_your_moves_tomorrow_november_11_2021/hk5fu5k/",
+        "score": 19,
+        "subreddit": "wallstreetbets",
+        "created": 1636625351.0
+    },
+    {
+        "author": "MetricT",
+        "body": "The Mankiw rule tells is what the Fed Rate *should be* given current unemployment/inflation.   The Wu-Xia shadow rate tells us what the Fed Rate effectively *is*.   The gap between the two is historically large right now, which means that the current Fed Rate is extremely inflationary.  The problem is, the Fed can't close the gap without crashing the economy, and appears to be deliberately choosing inflation as the \"least worst\" option.\n\nhttps://i.imgur.com/teo98Lu.png",
+        "created_utc": 1636383563,
+        "id": "hjt5uru",
+        "permalink": "/r/investing/comments/qpe2gt/imo_the_market_is_strongly_underestimating_the/hjt5uru/",
+        "score": 16,
+        "subreddit": "investing",
+        "created": 1636412363.0
+    },
+    {
+        "author": "AndDeepSpoke",
+        "body": "Betting against digital experience.  Check. \n\nBetting against liquidity.  Check.  \n\nBetting against convenience.  Check.\n\nBetting against disruption and innovation.  Check.  \n\nBetting against unit economics and track record.  Check.  \n\nBetting against exemplary leadership.  Check.\n\nEnjoy your OTM GME calls.  This is just cuck nonsense.  Your carrier pigeon can send Eric Wu an apology.",
+        "created_utc": 1635973428,
+        "id": "hj7750h",
+        "permalink": "/r/wallstreetbets/comments/qlyhml/open_the_most_undervalued_moat_of_all_time/hj7750h/",
+        "score": 14,
+        "subreddit": "wallstreetbets",
+        "created": 1636002228.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "&gt; The Wu-Tang Clan is not a group of investors. The members are rappers and they have nothing to do with Tesla or its stock price.",
+        "created_utc": 1635824320,
+        "id": "hiyzbe4",
+        "permalink": "/r/wallstreetbets/comments/qkmd3z/what_are_your_moves_tomorrow_november_02_2021/hiyzbe4/",
+        "score": 13,
+        "subreddit": "wallstreetbets",
+        "created": 1635853120.0
+    },
+    {
+        "author": "gr8uddini",
+        "body": "Have you ever used Western Union?  That shit SUCKS!  I had someone western Union me $2500 about a year ago and it was the biggest pain in the ass, long wait times for phone verification and they interrogate you over the phone like you\u2019re some kind of cocaine cowboy, all for $2500?!  No thanks, that\u2019s the last time I use that crap.",
+        "created_utc": 1636835257,
+        "id": "hkhx1s9",
+        "permalink": "/r/investing/comments/qt54cg/memecoins_dumber_than_you_think/hkhx1s9/",
+        "score": 13,
+        "subreddit": "investing",
+        "created": 1636864057.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "&gt;REPUBLICAN MICHELLE WU BECOMES FIRST WOMAN AND PERSON OF COLOR TO BE ELECTED AS BOSTON'S MAYOR\n\n^FXHedge ^[@Fxhedgers](http://twitter.com/Fxhedgers) ^at ^2021-11-02 ^22:38:14 ^EDT-0400",
+        "created_utc": 1635907109,
+        "id": "hj3kqfy",
+        "permalink": "/r/wallstreetbets/comments/qlcs16/what_are_your_moves_tomorrow_november_03_2021/hj3kqfy/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1635935909.0
+    },
+    {
+        "author": "MetricT",
+        "body": "The Wu-Xia shadow rate is available from the Atlanta Fed:\n\nhttps://www.atlantafed.org/cqer/research/wu-xia-shadow-federal-funds-rate\n\nThe Mankiw rule is based on unemployment (FRED::UNRATE) and inflation (FRED::CPILFESL, % chg YoY).   Here's the R Code I use to generate it, the Mankiw rule has a couple of permutations.\n\n    # Compute Mankiw rule using constants from Mankiw's original paper at\n    # http://scholar.harvard.edu/files/mankiw/files/us_monetary_policy_during_the_1990s.pdf\n    # mutate(Mankiw_Rule = 8.5 + 1.4 * (CPILFESL - UNRATE))\n    \n    # Compute Mankiw rule using updated constants by Lars Christensen\n    # at https://marketmonetarist.com/2014/09/16/mankiw-rule-tells-the-fed-to-tighten/\n    #mutate(Mankiw_Rule = 9.1 + 2.1 * (CPILFESL - UNRATE)) %&gt;%\n      \n    # This is my own spin on the Mankiw rule.   Mankiw apparently wanted to assume\n    # that inflation and unemployment were equally important to the Fed, when \n    # a regression + a little pragmatism suggests they treat inflation as more\n    # important than unemployment, at least before 2008.\n    mutate(Mankiw_Rule = 5.50 + (2.09 * CPILFESL) - (1.22 * UNRATE))",
+        "created_utc": 1636387797,
+        "id": "hjtfw2v",
+        "permalink": "/r/investing/comments/qpe2gt/imo_the_market_is_strongly_underestimating_the/hjtfw2v/",
+        "score": 11,
+        "subreddit": "investing",
+        "created": 1636416597.0
+    },
+    {
+        "author": "RedditMadeMeReddit",
+        "body": "He was smart and spent a lot of time arguing with people who knew nothing about financial markets other than \"capitalism is the problem\" which led to him getting on Skype with a black woman from Africa who called him the \"n-word\" and vamped on him being \"a Jew\" for about a half hour. At least he had the decency to call her the h-word. \n\nThis is my goal, too. Unfortunately, I'm going to need to buy that Wu-Tang album and all I can afford is an Insane Clown Posse album which got used as a coaster. Likewise, I don't have the ability to light other people's money on fire, but I do have matches and a gas can in my garage. Since I'm already Jewish and already been called the n-word by non-white people, I guess I'm halfway there. All I need is $4,000,000,000.",
+        "created_utc": 1636518017,
+        "id": "hk12qhg",
+        "permalink": "/r/wallstreetbets/comments/qq7cle/i_watched_all_martin_shkreli_videos_on_investing/hk12qhg/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1636546817.0
+    },
+    {
+        "author": "meta-cognizant",
+        "body": "How long before TSLA investors start creating conspiracy theories based on the Wu Tang Clan?",
+        "created_utc": 1635824304,
+        "id": "hiyzaby",
+        "permalink": "/r/wallstreetbets/comments/qkmd3z/what_are_your_moves_tomorrow_november_02_2021/hiyzaby/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1635853104.0
+    },
+    {
+        "author": "ThePassionOfTheRice",
+        "body": "Keith Rabois is not the CEO. Eric Wu is the CEO. Rabois came up with the idea, but he doesn\u2019t work there.",
+        "created_utc": 1636004911,
+        "id": "hj90rtd",
+        "permalink": "/r/stocks/comments/qmbllg/opendoor_ceo_spat_on_twitter_with_real_insight/hj90rtd/",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1636033711.0
+    },
+    {
+        "author": "Snoo56029",
+        "body": "Wu-Tang Clan aint nuthin to fucks with!!!",
+        "created_utc": 1636465313,
+        "id": "hjxn3iu",
+        "permalink": "/r/wallstreetbets/comments/qq19w5/daily_discussion_thread_for_november_09_2021/hjxn3iu/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1636494113.0
+    },
+    {
+        "author": "BunsBeyondBelief",
+        "body": "Probably gonna buy some LEAPS on Western Union ($WU) tomorrow. They've got the option to buy back \\~$550 million in stock before the end of the year and last quarter the pace that they were repurchasing picked up a lot at the tail end. The price dropped from $22-$18 since last quarter ended, and I'm guessing they'll be buying a lot more back before the end of the year. That and I feel like they're about at the low end of their valuation, worst case I sell the options early 2022 having burned some theta.  \nAlso that video of a band's singer taking a piss on a guy's face during a concert seems like a pretty bullish indicator to me. Long liquid gold and golden showers.",
+        "created_utc": 1636939647,
+        "id": "hknxsvn",
+        "permalink": "/r/wallstreetbets/comments/qtzc0g/what_are_your_moves_tomorrow_november_15_2021/hknxsvn/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1636968447.0
+    },
+    {
+        "author": "budsonguy",
+        "body": "Alexa play Triumph by Wu-Tang Clan",
+        "created_utc": 1636429962,
+        "id": "hjw7u5g",
+        "permalink": "/r/wallstreetbets/comments/qpn2qq/what_are_your_moves_tomorrow_november_09_2021/hjw7u5g/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1636458762.0
+    },
+    {
+        "author": "feniville",
+        "body": "You forgot to list out that Method Man (Wu-Tang) was there at the NYNFT as well. \n\nHow do you miss that most important part?![img](emote|t5_2th52|4275)",
+        "created_utc": 1636032314,
+        "id": "hja1yv1",
+        "permalink": "/r/wallstreetbets/comments/qmccl8/gme_updates_rocket_looks_imminent_strap_in_boys/hja1yv1/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1636061114.0
+    },
+    {
+        "author": "turdguy666",
+        "body": "Probably gonna blow up eventually. Much like Wu Tang, shrooms are for the children.",
+        "created_utc": 1636831089,
+        "id": "hkhn5yx",
+        "permalink": "/r/wallstreetbets/comments/qskqik/weekend_discussion_thread_for_the_weekend_of/hkhn5yx/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1636859889.0
+    },
+    {
+        "author": "ooslanegative",
+        "body": "Wu Tang Financial, diversify yo bonds n***a",
+        "created_utc": 1635920507,
+        "id": "hj48wjv",
+        "permalink": "/r/wallstreetbets/comments/qlcs16/what_are_your_moves_tomorrow_november_03_2021/hj48wjv/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1635949307.0
+    },
+    {
+        "author": "notapersonaltrainer",
+        "body": "I haven't shopped wire services personally (because bitcoin exists) but it seems like WU fees [vary](https://www.westernunion.com/content/dam/wu/EU/EN/feeTableRetailEN-ES.PDF) widely based on location and amount. \n\nI'm guessing you saw a sign that put $4.99 in big letters and \"as low as\" in small letters. This is a common design tactic.\n\n&gt;Crypto is very volatile.\n\nYou can send stablecoins over Lightning for a fraction of a penny. The bitcoin network is a payment rail that can be used to settle between any currency transaction in under a second.",
+        "created_utc": 1636831920,
+        "id": "hkhp3e3",
+        "permalink": "/r/investing/comments/qt54cg/memecoins_dumber_than_you_think/hkhp3e3/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1636860720.0
+    },
+    {
+        "author": "marker853",
+        "body": "If western union wants to survive, why dont they create their own crapto? they should have done this by now. they are going down the road of Blockbuster. smh",
+        "created_utc": 1636374624,
+        "id": "hjsodpl",
+        "permalink": "/r/wallstreetbets/comments/qpb8yh/daily_discussion_thread_for_november_08_2021/hjsodpl/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1636403424.0
+    },
+    {
+        "author": "Koala_eiO",
+        "body": "Here is my nigerian Western Union number.",
+        "created_utc": 1635816837,
+        "id": "hiyjsrj",
+        "permalink": "/r/options/comments/qkrg72/7mil_margin_call/hiyjsrj/",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1635845637.0
+    },
+    {
+        "author": "d3816547290",
+        "body": "to throw the WU TANG \ud83d\udc50",
+        "created_utc": 1636521683,
+        "id": "hk192b1",
+        "permalink": "/r/wallstreetbets/comments/qqm93q/yes/hk192b1/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1636550483.0
+    },
+    {
+        "author": "flying_cofin",
+        "body": "Yeah, this company is bottom of barrel garbage. The call was a fucking joke. Couldn\u2019t even hear or understand this Chinese clown Wu. No clarity on their new contracts or colour on future guidance.",
+        "created_utc": 1637020749,
+        "id": "hksczwu",
+        "permalink": "/r/wallstreetbets/comments/qtu3rs/microvast_mvst_earnings_setup_for_tomorrow_monday/hksczwu/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1637049549.0
+    },
+    {
+        "author": "RealPennyMuncher",
+        "body": "Western Union and AT&amp;T bothe moving out from demand zones very nice moves",
+        "created_utc": 1636563928,
+        "id": "hk37v1k",
+        "permalink": "/r/wallstreetbets/comments/qqrw8d/daily_discussion_thread_for_november_10_2021/hk37v1k/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1636592728.0
+    },
+    {
+        "author": "Yodaatc",
+        "body": "Can anyone provide insight into the pros and cons of me buying more WU? Thank you in advance.",
+        "created_utc": 1635952506,
+        "id": "hj5o5dc",
+        "permalink": "/r/stocks/comments/qlqsv6/rstocks_daily_discussion_wednesday_nov_03_2021/hj5o5dc/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1635981306.0
+    },
+    {
+        "author": "Unlimited_MacGyver",
+        "body": "Wu tang did it better",
+        "created_utc": 1635811276,
+        "id": "hiy7fq1",
+        "permalink": "/r/wallstreetbets/comments/qkmd3z/what_are_your_moves_tomorrow_november_02_2021/hiy7fq1/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1635840076.0
+    },
+    {
+        "author": "Hornysnek69",
+        "body": "My WU puts up 230%",
+        "created_utc": 1635946776,
+        "id": "hj5a6a6",
+        "permalink": "/r/wallstreetbets/comments/qlr721/daily_discussion_thread_for_november_03_2021/hj5a6a6/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1635975576.0
+    },
+    {
+        "author": "TheDesssertFox",
+        "body": "Yup. GME people are fucking morons. I\u2019ve been watching this debacle for a while. Every week there\u2019s new villains and reasons for why MOASS is still yet to happen. It never comes to fruition and then they move to the next event while it all gets memory holed.  A few weeks ago it was the Wu-tang NFT. \n\nThey jerk themselves off when the stock goes up a few dollars even though a few bucks is nothing compared to how much it should go up according to their DD about the MOASS. When the stock does shit, it\u2019s either part of the plan or because market forces caused it to do so.  \n\nThey delude themselves about technologies and industries that they don\u2019t even understand themselves. They don\u2019t ever reach out to people in these  industries to verify if what they assume is correct, it just is! They make up whatever shit that sounds nice in their fantasy land.  \n\nIve worked in the games industry and the shit they say about games distribution and GameStop\u2019s future role is literally orthogonal to what actual consumers in the gaming industry want. It\u2019s so fucking insane. \n\nHonestly fucked how the mods let this post get brigaded. apes brigade the fuck out of any thread related to GMe",
+        "created_utc": 1636221941,
+        "id": "hjksunc",
+        "permalink": "/r/CanadianInvestor/comments/qnkuks/is_there_a_legitimate_bull_case_for_gamestop_gme/hjksunc/",
+        "score": 3,
+        "subreddit": "CanadianInvestor",
+        "created": 1636250741.0
+    },
+    {
+        "author": "Botboy141",
+        "body": "Here's what I had to say last Friday.\n\nThere's a lot on HIMX but not much on Reddit.\n\nAMA or just listen to Thursday's earnings call. Super undervalued by every metric massive margin expansion. Market has written it off as temporary due to the semi shortage. While I think that's certainly a piece of the equation, it's only a piece. They have shifted product mix away from smartphone chips (low margin) to more tablets and auto industry screens (higher margin). These are growing segments with significantly higher margins. Both segments growing significant double digits YoY while smartphone chip sales decreased single digits.\n\nThey've also secured long term supply agreements for customers (for a fee and guaranteed minimum quantities) in addition to being paid fees to procure/guarantee capacity for non-customers for certain technologies.\n\nThey are also in the VR space and make boatloads on Smart TV stuff (Smart TV industry wide is projected to grow at 16% CAGR) and touchscreen display stuff.\n\nAdditional bear case: Wu brothers don't care about shareholders blah blah blah.\n\nCounter: Historically they pay out 75% of net profit as a dividend as is incentivized in the Taiwan tax structure.\n\nAnother Bear Case: China/Taiwan relations get significantly worse (or China straight goes to shit). Himax is a Taiwanese company with a lot of their customers and suppliers in China.\n\nhttps://www.himax.com.tw/investors/\n\nAs of\u00a0today\u00a0(2021-11-05), Himax Technologies's share price is\u00a0$11.45. Himax Technologies's\u00a0EPS without NRI\u00a0for the\u00a0trailing twelve months (TTM)\u00a0ended in\u00a0Jun. 2021\u00a0was\u00a0$1.25. Therefore, Himax Technologies's\u00a0**PE Ratio** without NRI\u00a0for\u00a0**today\u00a0is\u00a09.16**.\nDuring the\u00a0past 13 years, Himax Technologies's\u00a0highest\u00a0PE Ratio without NRI\u00a0was\u00a0270.77. The\u00a0lowest\u00a0was\u00a07.04. And the\u00a0**median\u00a0was\u00a025.11**.\n\nEdit: Forgot to mention https://www.nasdaq.com/market-activity/stocks/himx/short-interest\n\nApril 15th, 4m shares short (1 day to cover). Grew steadily as price dropped since May to now (10/15 report date) 24m and 10 days to cover.\n\nPublic owns 81m shares  \nInsiders own 49m shares  \nInstitutions own 34m shares  \nHedge funds own 9m shares\n\nI've been in since well before then, but yeah. Good times. Read the Q3 investor deck.\n\nPositions: a lot of leaps and shares and maybe some CSPs and CCs",
+        "created_utc": 1636585097,
+        "id": "hk4pyb8",
+        "permalink": "/r/ValueInvesting/comments/qqqpgg/himx_thoughts_please/hk4pyb8/",
+        "score": 3,
+        "subreddit": "ValueInvesting",
+        "created": 1636613897.0
+    },
+    {
+        "author": "AnxiousScientistDude",
+        "body": "I expected WU to crash after earnings, not even down 2%..",
+        "created_utc": 1635935264,
+        "id": "hj4q6he",
+        "permalink": "/r/wallstreetbets/comments/qlr721/daily_discussion_thread_for_november_03_2021/hj4q6he/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1635964064.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Tuesday, the  2nd of November\n\n\n\n## Upcoming events for Tuesday, November  2nd\n\n - Expected earnings:\n\n  AAIC, ACH, ACOR, ACT, ADCT, ADXN, AFG, AGRX, AHH, AIZ, AKAM, AMCR, AME, AMED, AMGN, ANDE, APO, APPS, AQB, AQST, ARCB, ARGO, ARNC, AROC, ATVI, AVNS, AWK, AYX, BBGI, BCC, BFAM, BGFV, BHC, BKH, BLD, BLMN, BP, BRY, BSBR, BTG, BXC, CASA, CDK, CDLX, CEIX, CERS, CHCT, CHK, CIGI, CINR, CLNN, CLW, CMI, COP, COUR, CRK, CRSR, CRVL, CSLT, CTLT, CZR, DAR, DCO, DCP, DCPH, DD, DEA, DEI, DENN, DHT, DOX, DRRX, DS, DVN, EARN, EDU, EGHT, EIX, EKSO, EL, ELVT, ENLC, EOLS, EPD, ES, ESPR, ETN, ETRN, EXAS, EXEL, EXLS, EXPD, EXTN, EXTR, FMC, FNF, FRG, FRSH, FSTR, GAIN, GIC, GLDD, GLT, GLYC, GNRC, GNW, GPN, GPOR, GRBK, HALO, HCC, HEES, HEP, HLF, HLNE, HRB, HSC, HSIC, HURN, HY, IAA, IART, ICD, ICFI, ICHR, IDXX, IEP, INCY, INFI, INGR, INSP, INTG, INVE, IOSP, IPGP, IT, JBGS, JRVR, KAI, KAMN, KAR, KKR, KOPN, KTCC, LCII, LDOS, LEA, LGIH, LILA, LILAK, LIND, LPI, LPSN, LPX, LRFC, LSCC, LSI, LUNG, LYFT, MANT, MCY, MDLZ, MDXG, MEC, METC, MG, MGNX, MGY, MIME, MINM, MKL, MLM, MMP, MOD, MPC, MPLX, MRCC, MRCY, MTCH, MTRN, MYGN, NAUT, NCSM, NE, NETI, NMIH, NNN, NP, NR, NRC, NRZ, NSA, NXRT, NXST, NYMT, OCN, OKE, OMCL, ORTX, OSPN, OVV, PAA, PACB, PAGP, PAHC, PAYC, PEAK, PEG, PFE, PINC, PIRS, PKI, PKOH, PMTS, PRO, PRTS, PRU, PTRS, PUMP, QUAD, RACE, RAMP, RARE, RCKY, RCM, RDN, RGNX, RIGL, RL, RM, ROK, RRR, RYAM, RYTM, SABR, SAGE, SEB, SEDG, SEE, SEVN, SFST, SGRY, SHIP, SKY, SKYT, SMCI, SNCY, SPLP, SPT, SQNS, SRC, SRCL, SREV, SRG, SRT, STAR, STE, STRL, TCS, TECH, TMUS, TMX, TNC, TRC, TRI, TRNS, TRTX, TSLX, TSQ, TTM, TVTY, TX, UA, UAA, UBCP, UFPT, UIS, UNM, USAC, USDP, UTL, VAL, VECO, VMD, VOYA, VRSK, VRTX, WAT, WBT, WEC, WEYS, WFRD, WLK, WLKP, WTI, WTTR, WU, XHR, XPO, XYL, Z, ZBRA, ZG, ZYME\n\n - Ex-div:\n\n  ASML, BRO, CAPL, CBAN, DSX, HFWA, LUB, MCBS, MKTX, MTX, NTIC, SSBK, TACO, TRS, USDP, VSEC\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.090%)\n    - API Weekly Crude Oil Stock (previous: 2.318M)\n    - IBD/TIPP Economic Optimism (previous: 46.8)\n    - Redbook (previous: 15.6%)\n    - Total Vehicle Sales (previous: 9.66M)\n\n## Upcoming events for Wednesday, November  3rd\n\n - Expected earnings:\n\n  AAWW, ACA, ACEL, ACLS, ACNB, ACRE, ACRS, ADPT, AEE, AEMD, AFIN, AGIO, ALB, ALG, ALL, ALTM, AMOT, AMRN, AMSC, ANAB, ANSS, ANVS, APA, ARAY, ARC, ARTL, ARTNA, ASC, ASTE, ASXC, ATEX, ATGE, ATH, ATRC, ATXI, ATY, AUPH, AUTL, AVA, AVNW, AXGN, BBSI, BCRX, BCSF, BDC, BDSI, BGCP, BGSF, BIP, BKCC, BKNG, BLKB, BLUE, BNFT, BR, BRSP, BVH, BWA, CAKE, CBD, CCRN, CCU, CDAY, CDEV, CDW, CDXC, CENX, CF, CFMS, CGBD, CHNG, CIA, CIM, CIO, CIX, CKPT, CLH, CLR, CLVS, CMLS, CMP, COHN, CORT, CPE, CPK, CPRI, CPS, CRL, CRSP, CRTO, CSGS, CSTE, CSWI, CTRA, CTVA, CUTR, CVE, CVGI, CVS, CW, CWAN, CWH, CYTK, DFIN, DIOD, DISCA, DISCB, DISCK, DMAC, DNOW, DRTT, DXC, DXYN, EA, EAT, ECPG, EGY, ELA, ELF, EMR, EPR, EQH, EQIX, EQX, ET, ETR, ETSY, EVA, EVH, EVOP, EVRG, EVRI, EXC, EXPI, EYPT, FBRT, FDP, FLMN, FLT, FLXN, FNV, FOE, FORR, FOX, FOXA, FPH, FRGI, FRPH, FSLY, FSR, FUN, FYBR, GCP, GDDY, GDEN, GFL, GHC, GHL, GLBZ, GLRE, GMAB, GMRE, GNK, GRP.U, GTHX, H, HARP, HBB, HBIO, HBM, HBP, HDSN, HFC, HLMN, HMN, HR, HRTX, HST, HUBS, HUM, HZNP, IAG, ICLR, ICPT, ICUI, IIPR, IMXI, INFN, INMB, INN, INOV, INSG, IO, IONS, IR, ITI, ITIC, ITT, ITUB, IVR, JLL, JMP, KE, KIDS, KL, KLTR, KNBE, KPTI, KRO, KTOS, KW, LAMR, LANC, LAND, LBTYA, LBTYB, LBTYK, LCI, LCTX, LEXX, LHCG, LIVN, LL, LNC, LPG, LUMN, LUMO, LXRX, LYTS, MAC, MAR, MATX, MAXR, MCHX, MCS, MDU, MET, MFC, MGM, MGNI, MGPI, MGYR, MLNK, MLP, MLR, MNKD, MNRL, MPLN, MRO, MRTX, MTG, MTTR, MTW, NC, NCLH, NESR, NEXT, NFE, NHTC, NI, NL, NMFC, NODK, NRP, NSR, NUS, NVST, NYT, OAS, OCDX, ODP, ODT, OLP, OM, OMI, OMP, ONCS, ONCT, ONEM, OPRT, ORA, ORCC, OSUR, OSW, OTIC, PARR, PBI, PBPB, PCRX, PEN, PETQ, PFIE, PING, PK, PLMR, PLTK, PLYA, PRAX, PRG, PSN, PTC, PTGX, PTVE, PW, PXD, QCOM, QGEN, QLYS, QMCO, QNST, QRVO, QTWO, QUOT, RADA, RCII, RCKT, RDWR, REGI, RGLD, RGR, RMNI, RNWK, ROCC, ROKU, RPD, RPT, RRD, RTLR, RVI, RVLV, RVPH, RYI, RYN, SAFT, SANA, SAND, SB, SBGI, SBOW, SBRA, SD, SENEA, SENEB, SGC, SHOO, SITE, SITM, SJI, SKLZ, SLF, SLRC, SMG, SNSE, SPNS, SPNT, SPOK, SPPI, SPR, SPWR, SPXC, SRDX, SRPT, SSRM, SSSS, STAA, STGW, STLA, STN, SUM, SUN, SUNS, SUP, SUPN, SWM, SWN, SYN, SYNH, TALO, TARS, TBPH, TCON, TCPC, TGB, TISI, TLK, TNDM, TPC, TPVG, TREC, TRMB, TRNO, TRUE, TRUP, TS, TSP, TT, TTGT, TTWO, TUP, TWNK, TXG, UBX, UE, UEC, UGP, UHAL, UMH, UPLD, UTHR, UVV, VAPO, VEL, VGR, VIRT, VKTX, VMAR, VMEO, VNDA, VNTR, VRTV, VSH, VTOL, VVNT, VVV, WHD, WING, WK, WTS, YELL, ZD, ZY\n\n - Ex-div:\n\n  AWI, BBD, BBDO, BSMX, CATC, FELE, FMX, HESM, HOPE, NEP, STBA, WSFS\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 400K, previous: 568K)\n    - Crude Oil Imports (previous: 0.702M)\n    - Crude Oil Inventories (consensus: 1.567M, previous: 4.267M)\n    - Cushing Crude Oil Inventories (previous: -3.899M)\n    - Distillate Fuel Production (previous: 0.164M)\n    - Durables Excluding Defense (previous: -2.0%)\n    - EIA Refinery Crude Runs  (previous: 0.058M)\n    - EIA Weekly Distillates Stocks (consensus: -1.533M, previous: -0.432M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.6%, previous: 0.4%)\n    - FOMC Press Conference\n    - FOMC Statement\n    - Factory Orders (consensus: 0.1%, previous: 1.2%)\n    - Factory orders ex transportation (previous: 0.5%)\n    - Fed Interest Rate Decision (previous: 0.25%)\n    - Gasoline Inventories (consensus: -1.200M, previous: -1.994M)\n    - Gasoline Production (previous: 0.012M)\n    - Heating Oil Stockpiles (previous: -0.031M)\n    - ISM Non-Manufacturing Business Activity (consensus: 59.5, previous: 62.3)\n    - ISM Non-Manufacturing Employment (previous: 53.0)\n    - ISM Non-Manufacturing New Orders (previous: 63.5)\n    - ISM Non-Manufacturing PMI (consensus: 62.0, previous: 61.9)\n    - ISM Non-Manufacturing Prices (previous: 77.5)\n    - MBA 30-Year Mortgage Rate (previous: 3.30%)\n    - MBA Mortgage Applications (previous: 0.3%)\n    - MBA Purchase Index (previous: 275.6)\n    - Markit Composite PMI (consensus: 57.3, previous: 57.3)\n    - Mortgage Market Index (previous: 645.1)\n    - Mortgage Refinance Index (previous: 2,763.8)\n    - Services PMI (consensus: 58.2, previous: 58.2)\n    - Trade Balance (consensus: -80.50B, previous: -73.30B)\n\n^^^^2021-11-02",
+        "created_utc": 1635847213,
+        "id": "hizs3wm",
+        "permalink": "/r/RobinHood/comments/ql0uy9/daily_discussion_thread_november_2nd_2021/hizs3wm/",
+        "score": 2,
+        "subreddit": "RobinHood",
+        "created": 1635876013.0
+    },
+    {
+        "author": "Toofast4yall",
+        "body": "When El Salvador made btc legal tender, it cut into Western Union profits to the tune of several hundred million dollars. Other Latin American countries are looking into doing the same thing. My fiance is Venezuelan and I travel through Latin America frequently. Many people have bank accounts that hold US dollars and use those bank accounts to use paypal. They also have other services that allow sending money internationally. The revenue for all those services is going to zero within a few years. Something to keep in mind for anyone long on Paypal or similar stocks.",
+        "created_utc": 1635828205,
+        "id": "hiz5q4d",
+        "permalink": "/r/stocks/comments/qkiuz3/paypal_still_down_trending_with_no_new_updates/hiz5q4d/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1635857005.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "&gt;\\*Western Union and Mastercard Expand Global Partnership\n$WU $MA\n\n^\\*Walter ^Bloomberg ^[@DeItaone](http://twitter.com/DeItaone) ^at ^2021-11-12 ^08:05:20 ^EST-0500",
+        "created_utc": 1636722334,
+        "id": "hkbtbvy",
+        "permalink": "/r/wallstreetbets/comments/qs8s63/daily_discussion_thread_for_november_12_2021/hkbtbvy/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636751134.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the  1st of November\n\n\n\n## Upcoming events for Monday, November  1st\n\n - Expected earnings:\n\n  ABIO, ADC, ADTN, ADUS, AKTS, ALX, AMC, AMG, AMRC, ANAT, ANET, APEN, APLS, AWR, BEN, BNL, BRKR, BRX, BWXT, CACC, CAR, CCLP, CEA, CHGG, CLDB, CLX, CNA, CORR, CPLP, CRNT, CRUS, CSR, CSWC, CURO, CVI, CWBC, DSPG, DSS, DZSI, EC, EEX, EGRX, ENBL, EPRT, EVER, FANG, FEDU, FGBI, FN, GAIA, GAME, GSS, GTE, GXO, HLIT, HNRG, HOLX, IPI, ISEE, IVAC, IVT, IX, JELD, KFRC, KLDO, KMT, KOF, L, LDI, LEG, LKCO, LTRN, LXU, MCK, MFIN, MGP, MNOV, MOS, MRBK, MVBF, NBIX, NERV, NRIM, NSP, NSSC, NTR, NXPI, O, OGS, OIS, ON, ONVO, OTTR, PCG, PDLB, PLOW, PSA, RHP, RIG, RMBS, RRX, RYAAY, SBAC, SBT, SKT, SMLR, SNDX, SOI, SPG, SUNW, SXC, TA, TKR, TRVG, TRVN, TTI, UAN, UNVR, VBIV, VNO, VNOM, VRNS, WBK, WLFC, WMB, WMK, WTRG, XENT, ZI\n\n - Ex-div:\n\n  AES, BANR, BKR, ETRN, FAM, FCCO, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, FTHY, HIHO, IGD, ITUB, LMRK, O, OMF, SHLX, SPH, SRCE, VER, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.055%)\n    - 6-Month Bill Auction (previous: 0.060%)\n    - Construction Spending (consensus: 0.4%, previous: 0.3%)\n    - ISM Manufacturing Employment (previous: 50.2)\n    - ISM Manufacturing New Orders Index (previous: 66.7)\n    - ISM Manufacturing PMI (consensus: 60.5, previous: 61.1)\n    - ISM Manufacturing Prices (consensus: 78.5, previous: 81.2)\n    - Investing.com Gold Index (actual: 59.9%, previous: 54.3%)\n    - Investing.com S&amp;P 500 Index (actual: 57.5%, previous: 47.2%)\n    - Loan Officer Survey\n    - Manufacturing PMI (consensus: 59.2, previous: 60.7)\n    - Total Vehicle Sales (previous: 9.66M)\n\n## Upcoming events for Tuesday, November  2nd\n\n - Expected earnings:\n\n  AAIC, ACH, ACOR, ACT, ADCT, ADXN, AFG, AGRX, AHH, AIZ, AKAM, AMCR, AME, AMED, AMGN, ANDE, APO, APPS, AQB, AQST, ARCB, ARGO, ARNC, AROC, ATVI, AVNS, AWK, AYX, BBGI, BCC, BFAM, BGFV, BHC, BKH, BLD, BLMN, BP, BRY, BSBR, BTG, BXC, CASA, CDK, CDLX, CEIX, CERS, CHCT, CHK, CIGI, CINR, CLNN, CLW, CMI, COP, COUR, CRK, CRSR, CRVL, CSLT, CTLT, CZR, DAR, DCO, DCP, DCPH, DD, DEA, DEI, DENN, DHT, DOX, DRRX, DS, DVN, EARN, EDU, EGHT, EIX, EKSO, EL, ELVT, ENLC, EOLS, EPD, ESPR, ETN, ETRN, EXAS, EXEL, EXLS, EXPD, EXTN, EXTR, FMC, FNF, FRG, FRSH, FSP, FSTR, GAIN, GIC, GLDD, GLT, GLYC, GNRC, GNW, GPN, GPOR, GRBK, HALO, HCC, HEES, HEP, HLF, HLNE, HRB, HSC, HSIC, HURN, HY, IAA, IART, ICD, ICFI, ICHR, IDXX, IEP, INCY, INFI, INGR, INSP, INTG, INVE, IOSP, IPGP, IT, JBGS, JRVR, KAI, KAMN, KAR, KKR, KOPN, KTCC, LCII, LDOS, LEA, LGIH, LILA, LILAK, LIND, LPI, LPSN, LPX, LRFC, LSCC, LSI, LUNG, LYFT, MANT, MCY, MDLZ, MDXG, MEC, METC, MG, MGNX, MGY, MIME, MINM, MKL, MLM, MMP, MOD, MPC, MPLX, MRCC, MRCY, MTCH, MTRN, MYGN, NAUT, NCSM, NE, NETI, NMIH, NNN, NP, NR, NRC, NRZ, NSA, NXRT, NXST, NYMT, OCFT, OCN, OKE, OMCL, OMIC, ORTX, OSPN, OVV, PAA, PACB, PAGP, PAHC, PAYC, PEAK, PEG, PFE, PINC, PIRS, PKI, PKOH, PMTS, PRO, PRTS, PRU, PTRS, PUMP, QUAD, RACE, RAMP, RARE, RCKY, RCM, RDN, RGNX, RIGL, RL, RM, ROK, RRD, RRR, RYAM, RYTM, SABR, SAGE, SEB, SEDG, SEE, SEVN, SFST, SGRY, SHIP, SKY, SKYT, SMCI, SNCY, SPLP, SPT, SQNS, SRC, SRCL, SREV, SRG, SRT, STAR, STE, STRL, TCS, TECH, TMUS, TMX, TNC, TRC, TRI, TRNS, TRTX, TSLX, TSQ, TTM, TVTY, TX, UA, UAA, UBCP, UFPT, UIS, UNM, USAC, USDP, UTL, VAL, VECO, VMD, VOYA, VRSK, VRTX, WAT, WBT, WEC, WEYS, WFRD, WLK, WLKP, WTI, WTTR, WU, XHR, XPO, XYL, Z, ZBRA, ZG, ZYME\n\n - Ex-div:\n\n  ASML, BRO, CAPL, CBAN, DSX, HFWA, LUB, MCBS, MKTX, MTX, NTIC, SSBK, TACO, TRS, USDP, VSEC\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.090%)\n    - API Weekly Crude Oil Stock (previous: 2.318M)\n    - IBD/TIPP Economic Optimism (previous: 46.8)\n    - Redbook (previous: 15.6%)\n\n## Upcoming events for Wednesday, November  3rd\n\n - Expected earnings:\n\n  AAWW, ACA, ACEL, ACLS, ACRE, ACRS, ADPT, AEE, AFIN, AGIO, ALB, ALL, ALTM, AMOT, AMRN, AMSC, ANAB, ANSS, ANVS, APA, ARAY, ARC, ARTL, ARTNA, ASC, ASTE, ASXC, ATEX, ATGE, ATH, ATRC, ATXI, ATY, AUPH, AUTL, AVA, AVNW, AXGN, BBSI, BCRX, BCSF, BDC, BDSI, BGCP, BGSF, BIP, BKCC, BKNG, BLKB, BLUE, BNFT, BR, BRSP, BVH, BWA, CAKE, CCRN, CCU, CDAY, CDEV, CDW, CDXC, CENX, CF, CFMS, CGBD, CHNG, CIA, CIM, CIO, CIX, CKPT, CLH, CLR, CLVS, CMLS, CMP, COHN, CORT, CPE, CPK, CPRI, CPS, CRL, CRTO, CSGS, CSTE, CSWI, CTRA, CTVA, CUTR, CVE, CVGI, CVS, CW, CWAN, CWH, CYTK, DFIN, DIOD, DISCA, DISCB, DISCK, DMAC, DNOW, DRTT, DXC, DXYN, EA, EAT, ECPG, EGY, ELA, ELF, EMR, EPR, EQH, EQIX, EQX, ES, ET, ETR, ETSY, EVA, EVH, EVOP, EVRG, EVRI, EXC, EXPI, EYPT, FDP, FLMN, FLT, FLXN, FNV, FOE, FORR, FOX, FOXA, FRGI, FRPH, FSLY, FSR, FUN, FYBR, GCP, GDDY, GDEN, GFL, GHC, GHL, GLBZ, GLRE, GMAB, GMRE, GNK, GRP.U, GTHX, H, HARP, HBB, HBIO, HBM, HBP, HDSN, HFC, HLMN, HMN, HOFV, HR, HRTX, HST, HUBS, HUM, HZNP, IAG, ICLR, ICPT, ICUI, IDN, IIPR, IMXI, INFN, INMB, INN, INSG, IO, IONS, IR, ITI, ITIC, ITT, ITUB, IVR, JLL, KE, KIDS, KL, KLTR, KNBE, KPTI, KRO, KTOS, KW, LAMR, LANC, LAND, LBTYA, LBTYB, LBTYK, LCI, LCTX, LEXX, LHCG, LIVN, LL, LNC, LPG, LUMN, LUMO, LYTS, MAC, MAR, MATX, MAXR, MCHX, MCS, MDU, MET, MFC, MGM, MGNI, MGPI, MGYR, MLNK, MLP, MLR, MNKD, MNRL, MPLN, MRO, MRTX, MTG, MTTR, MTW, NC, NCLH, NESR, NEXT, NFE, NHTC, NI, NL, NMFC, NODK, NRP, NUS, NVST, NYT, OAS, OCDX, ODP, OLP, OM, OMI, OMP, ONCT, ONEM, OPRT, ORA, ORCC, OSUR, OSW, OTIC, PARR, PBI, PBPB, PCRX, PEN, PETQ, PFIE, PING, PK, PLMR, PLTK, PLYA, PRAX, PRG, PRTA, PSN, PTC, PTGX, PTVE, PXD, QCOM, QGEN, QLYS, QMCO, QNST, QRVO, QTWO, QUOT, RADA, RC, RCII, RCKT, RDWR, REGI, RGLD, RGR, RMNI, RNWK, ROCC, ROKU, RPD, RPT, RTLR, RVI, RVLV, RVPH, RYI, RYN, SAFT, SANA, SAND, SBGI, SBOW, SBRA, SD, SENEA, SENEB, SGC, SGMO, SHOO, SITE, SITM, SJI, SKLZ, SLF, SLRC, SMG, SNSE, SPNS, SPNT, SPPI, SPR, SPWR, SPXC, SRDX, SRPT, SSRM, SSSS, STAA, STCN, STGW, STN, SUM, SUN, SUNS, SUP, SUPN, SWM, SWN, SYN, SYNH, TALO, TARS, TBPH, TCON, TCPC, TGB, TISI, TLK, TNDM, TPC, TPVG, TREC, TRMB, TRNO, TRUE, TRUP, TS, TSP, TT, TTGT, TTWO, TUP, TWNK, TXG, UBX, UE, UGP, UHAL, UMH, UPLD, VAPO, VEL, VGR, VIRT, VKTX, VMAR, VMEO, VNDA, VNTR, VRTV, VSH, VTOL, VVNT, VVV, WHD, WING, WK, WTS, YELL, ZD, ZY\n\n - Ex-div:\n\n  AWI, BBD, BBDO, BSMX, CATC, FELE, FMX, HESM, HOPE, NEP, STBA, WSFS\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 400K, previous: 568K)\n    - Crude Oil Imports (previous: 0.702M)\n    - Crude Oil Inventories (previous: 4.267M)\n    - Cushing Crude Oil Inventories (previous: -3.899M)\n    - Distillate Fuel Production (previous: 0.164M)\n    - Durables Excluding Defense (previous: -2.0%)\n    - EIA Refinery Crude Runs  (previous: 0.058M)\n    - EIA Weekly Distillates Stocks (consensus: -2.311M, previous: -0.432M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.3%, previous: 0.4%)\n    - FOMC Press Conference\n    - FOMC Statement\n    - Factory Orders (consensus: 0.1%, previous: 1.2%)\n    - Factory orders ex transportation (previous: 0.5%)\n    - Fed Interest Rate Decision (previous: 0.25%)\n    - Gasoline Inventories (previous: -1.994M)\n    - Gasoline Production (previous: 0.012M)\n    - Heating Oil Stockpiles (previous: -0.031M)\n    - ISM Non-Manufacturing Business Activity (consensus: 59.5, previous: 62.3)\n    - ISM Non-Manufacturing Employment (previous: 53.0)\n    - ISM Non-Manufacturing New Orders (previous: 63.5)\n    - ISM Non-Manufacturing PMI (consensus: 62.1, previous: 61.9)\n    - ISM Non-Manufacturing Prices (previous: 77.5)\n    - MBA 30-Year Mortgage Rate (previous: 3.30%)\n    - MBA Mortgage Applications (previous: 0.3%)\n    - MBA Purchase Index (previous: 275.6)\n    - Markit Composite PMI (consensus: 57.3, previous: 57.3)\n    - Mortgage Market Index (previous: 645.1)\n    - Mortgage Refinance Index (previous: 2,763.8)\n    - Services PMI (consensus: 58.2, previous: 58.2)\n    - Trade Balance (consensus: -80.30B, previous: -73.30B)\n\n^^^^2021-11-01",
+        "created_utc": 1635760818,
+        "id": "hiv8hui",
+        "permalink": "/r/RobinHood/comments/qkan8y/daily_discussion_thread_november_1st_2021/hiv8hui/",
+        "score": 2,
+        "subreddit": "RobinHood",
+        "created": 1635789618.0
+    },
+    {
+        "author": "NextTrillion",
+        "body": "No, if you haven\u2019t been to Argentina recently, you don\u2019t know how this messes with everything. In my little bubble, I\u2019m a foreigner, but restaurants refused my CC because payments are withheld for a month, and within a month, the meal you just ate might not cover the cost of the uncooked food. Add to that, ATMs costed a massive % of cash deducted. Like 10%.\n\nSo we ended up having someone wire us some cash, and the rate was something impressive, like I could make 33% gains from reselling the cash, but like the true tard that I am, got way too excited by the value trap because Western Union seemed very happy to offload their cash on me. Once the pandemic hit, I couldn\u2019t even spend it, so I\u2019m stuck with $500 worth of Argentine cash that is probably worth $180 right now IF I can find a buyer.",
+        "created_utc": 1636587497,
+        "id": "hk4vi3e",
+        "permalink": "/r/wallstreetbets/comments/qr1jo7/fixed_it_from_a_previous_post/hk4vi3e/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636616297.0
+    },
+    {
+        "author": "ItsEntirelyPosssible",
+        "body": "C.R.E.A.M wu-tang",
+        "created_utc": 1636437238,
+        "id": "hjwl9h8",
+        "permalink": "/r/wallstreetbets/comments/qpwzr6/any_suggestions_to_the_playlist/hjwl9h8/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636466038.0
+    },
+    {
+        "author": "FrTedChannel4",
+        "body": "SPY daily chart repping Wu-Tang.",
+        "created_utc": 1635796285,
+        "id": "hix7zp4",
+        "permalink": "/r/wallstreetbets/comments/qkanjp/daily_discussion_thread_for_november_01_2021/hix7zp4/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1635825085.0
+    },
+    {
+        "author": "rjsheine",
+        "body": "The Wu tang thing?",
+        "created_utc": 1635866637,
+        "id": "hj0rqvm",
+        "permalink": "/r/wallstreetbets/comments/ql0v5g/daily_discussion_thread_for_november_02_2021/hj0rqvm/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1635895437.0
+    },
+    {
+        "author": "RealPennyMuncher",
+        "body": "Guys. Look at WU",
+        "created_utc": 1636396119,
+        "id": "hju0nz6",
+        "permalink": "/r/wallstreetbets/comments/qpb8yh/daily_discussion_thread_for_november_08_2021/hju0nz6/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636424919.0
+    },
+    {
+        "author": "RewtDooDoo",
+        "body": "You clearly haven't been paying attention to the amount of institutional money coming into the market. BTC already had a 50% correction this year and bounced right back.\n\nOr the continued adoption worldwide of bitcoin and crypto currency. Smart money follows smart money and all the banks and funds are starting to get into crypto, hence why it's still early. With more money comes more stability, as we're starting to see. You would actually have to follow BTC metrics to understand this though. \n\nThere's going to be a massive supply shock, that's why everyone even the big players are accumulating. This will bring financial freedom to billions of people worldwide who don't have access to bank accounts, let alone appreciable assets. More countries will continue to adopt BTC as legal tender and benefit from it as well. El Salvador has already invested $13M profits into schools, and there are more people with a BTC wallet than a bank account. No longer will people in the 2nd/3rd world be held hostage by Western Union fees, or INSANE inflation rates.\n\nYou're thinking very close mindedly, I of course know it's a volatile space because of the timing but it's also the perfect time for a retail investor to take advantage. I've also been taking profits on the way up just as I would with any stock. Whether you like it or not, I've done my research on crypto, believe in it, found the value, bought low and made my way to amazing gains both realized and unrealized. How are your negative yielding bonds doing? How about gold? Tech is the future, defi will be a huge portion of the tech industry. There's trillions of dollars of negative yielding bonds in the market, that's trillions of dollars looking for the next best store of value and guess what everyone's buying.\n\nNot financial advice, I definitely wouldn't take any advice from anyone on this sub here otherwise I wouldn't have these gains. Do your own DD.",
+        "created_utc": 1636392621,
+        "id": "hjts1rl",
+        "permalink": "/r/CanadianInvestor/comments/qpb8vi/daily_discussion_thread_for_november_08_2021/hjts1rl/",
+        "score": 2,
+        "subreddit": "CanadianInvestor",
+        "created": 1636421421.0
+    },
+    {
+        "author": "Country_Gravy420",
+        "body": "Wu Tang Clan ain't nothing to fuck with.",
+        "created_utc": 1635860891,
+        "id": "hj0ecw5",
+        "permalink": "/r/wallstreetbets/comments/ql0v5g/daily_discussion_thread_for_november_02_2021/hj0ecw5/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635889691.0
+    },
+    {
+        "author": "AcademicParticular69",
+        "body": "i mean its pretty evident that cohen is a member of pleasr dao, which bought the wu tang album. other than that im out, but thats not crazy.",
+        "created_utc": 1635824909,
+        "id": "hiz0d5g",
+        "permalink": "/r/wallstreetbets/comments/qkmd3z/what_are_your_moves_tomorrow_november_02_2021/hiz0d5g/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635853709.0
+    },
+    {
+        "author": "scarr34",
+        "body": "No way western union is still in bussiness",
+        "created_utc": 1636374837,
+        "id": "hjsopxt",
+        "permalink": "/r/wallstreetbets/comments/qpb8yh/daily_discussion_thread_for_november_08_2021/hjsopxt/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636403637.0
+    },
+    {
+        "author": "Yodaatc",
+        "body": "WU",
+        "created_utc": 1636730028,
+        "id": "hkc9fz4",
+        "permalink": "/r/wallstreetbets/comments/qs8s63/daily_discussion_thread_for_november_12_2021/hkc9fz4/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636758828.0
+    },
+    {
+        "author": "RealPennyMuncher",
+        "body": "Took more Western union. Earnings beat. Upgraded and at Pandemic lows. 2024 long.",
+        "created_utc": 1637093989,
+        "id": "hkwasjd",
+        "permalink": "/r/wallstreetbets/comments/qv5cg4/daily_discussion_thread_for_november_16_2021/hkwasjd/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1637122789.0
+    },
+    {
+        "author": "Mr_Doghouse",
+        "body": "Likely related to Hyzon\u2019s involvement in the Ascent Hydrogen fund: \u201cAscent is led by Mark Gordon, veteran Wall Street energy investor with senior positions at Goldman Sachs, Soros Fund Management, Paulson &amp; Co and Janus Henderson; and capital markets executive David Wu, a former Rothschild banker and Chairman of Capital Markets for Fosun International, one of the largest investment conglomerates in the world.\u201d\n\n[Ascent Hydrogen Fund](https://ascent-funds.com/)",
+        "created_utc": 1637142535,
+        "id": "hkyxwgg",
+        "permalink": "/r/wallstreetbets/comments/qu3dx5/soros_fund_george_soros_discloses_updated/hkyxwgg/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1637171335.0
+    },
+    {
+        "author": "AnxiousScientistDude",
+        "body": "Your chart is missing WU, which is reporting today.",
+        "created_utc": 1635860642,
+        "id": "hj0dtad",
+        "permalink": "/r/options/comments/qjyu8s/historical_post_earnings_moves_mega_compilation/hj0dtad/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1635889442.0
+    },
+    {
+        "author": "AnxiousScientistDude",
+        "body": "Got a WU 18p/19c strangle for earnings. This thing's gonna move at least 6%.",
+        "created_utc": 1635860718,
+        "id": "hj0dzgf",
+        "permalink": "/r/wallstreetbets/comments/ql0v5g/daily_discussion_thread_for_november_02_2021/hj0dzgf/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635889518.0
+    },
+    {
+        "author": "damanamathos",
+        "body": "He hasn't updated his LinkedIn. Eric Wu became Chairman of the Board in December 2020. Not sure when Keith left the Board but was probably before the SPAC merger went through.\n\nCurrent Board of Directors: [https://investor.opendoor.com/corporate-governance/board-of-directors](https://investor.opendoor.com/corporate-governance/board-of-directors)",
+        "created_utc": 1636245316,
+        "id": "hjm8yc9",
+        "permalink": "/r/stocks/comments/qmbllg/opendoor_ceo_spat_on_twitter_with_real_insight/hjm8yc9/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636274116.0
+    },
+    {
+        "author": "Supersmashlord",
+        "body": "Whatever dude he owns a piece of art, you should've bought wu tangs last album which only sold 50k copies if you loved em so much. I love wu tang but ive never paid for their shit.",
+        "created_utc": 1636512853,
+        "id": "hk0s842",
+        "permalink": "/r/wallstreetbets/comments/qq7cle/i_watched_all_martin_shkreli_videos_on_investing/hk0s842/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636541653.0
+    },
+    {
+        "author": "xX69WeedSnipePussyXx",
+        "body": "Most members of Wu think it\u2019s garbage and didn\u2019t know they were making an album.",
+        "created_utc": 1636510556,
+        "id": "hk0n2gy",
+        "permalink": "/r/wallstreetbets/comments/qq7cle/i_watched_all_martin_shkreli_videos_on_investing/hk0n2gy/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636539356.0
+    },
+    {
+        "author": "AnxiousScientistDude",
+        "body": "WU puts for earnings",
+        "created_utc": 1635882910,
+        "id": "hj1wv5e",
+        "permalink": "/r/wallstreetbets/comments/ql0v5g/daily_discussion_thread_for_november_02_2021/hj1wv5e/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635911710.0
+    },
+    {
+        "author": "American--American",
+        "body": "If Wu Tang is in I'm in",
+        "created_utc": 1636040923,
+        "id": "hjamqsz",
+        "permalink": "/r/wallstreetbets/comments/qmccl8/gme_updates_rocket_looks_imminent_strap_in_boys/hjamqsz/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636069723.0
+    },
+    {
+        "author": "RealPennyMuncher",
+        "body": "Western union and A&amp;T and T also at like, decade lows",
+        "created_utc": 1636025415,
+        "id": "hj9pent",
+        "permalink": "/r/wallstreetbets/comments/qmh95a/daily_discussion_thread_for_november_04_2021/hj9pent/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636054215.0
+    },
+    {
+        "author": "UndeadCakeMix",
+        "body": "So \"wu mao\" for anyone that speaks Mandarin literally means \"50 cents\" it's what people are called when they defend the CPC regardless if it is a logical argument. And anyone that defends the CPC is automatically a bot or a broke joke that doesn't deserve anything besides a boot in their mouth. Even if you're not judging either government the moment you pick out the flaw in one while the defending the CPC for that specific subject you're automatically a 'wumao' or a 'communist' so uhh... Welcome I think? Clean pitchforks go in that corner over there, bloody ones we clean up over there or hang on the wall as a trophy, just make sure you seal it and sanitize it.",
+        "created_utc": 1636567525,
+        "id": "hk3h6ml",
+        "permalink": "/r/wallstreetbets/comments/qqw2pw/china_pulled_an_08_and_i_feel_we_are_fucked/hk3h6ml/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636596325.0
+    },
+    {
+        "author": "Dammit_forgot_pw",
+        "body": "AA\n\nC\n\nPOWW\n\nDFS\n\nPYPL\n\nWU",
+        "created_utc": 1636374466,
+        "id": "hjso4hm",
+        "permalink": "/r/wallstreetbets/comments/qpb8yh/daily_discussion_thread_for_november_08_2021/hjso4hm/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636403266.0
+    },
+    {
+        "author": "Yodaatc",
+        "body": "WU and VZ",
+        "created_utc": 1636730169,
+        "id": "hkc9rjk",
+        "permalink": "/r/wallstreetbets/comments/qs8s63/daily_discussion_thread_for_november_12_2021/hkc9rjk/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636758969.0
+    },
+    {
+        "author": "7leafclover7",
+        "body": "Diversify your bonds - Wu tang",
+        "created_utc": 1636920260,
+        "id": "hkmnkzc",
+        "permalink": "/r/stocks/comments/qtmxsk/im_19_years_old_and_made_28_k_in_the_stock_market/hkmnkzc/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636949060.0
+    },
+    {
+        "author": "Stellardong",
+        "body": "Wu tang clan aint nothin to fuck with",
+        "created_utc": 1635826506,
+        "id": "hiz31s9",
+        "permalink": "/r/wallstreetbets/comments/qkmd3z/what_are_your_moves_tomorrow_november_02_2021/hiz31s9/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635855306.0
+    },
+    {
+        "author": "Botboy141",
+        "body": "There's a lot on HIMX but not much on Reddit.\n\nAMA or just listen to Thursday's earnings call. Super undervalued by every metric massive margin expansion. Market has written it off as temporary due to the semi shortage. While I think that's certainly a piece of the equation, it's only a piece. They have shifted product mix away from smartphone chips (low margin) to more tablets and auto industry screens (higher margin). These are growing segments with significantly higher margins. Both segments growing significant double digits YoY while smartphone chip sales decreased single digits.\n\nThey've also secured long term supply agreements for customers (for a fee and guaranteed minimum quantities) in addition to being paid fees to procure/guarantee capacity for non-customers for certain technologies.\n\nThey are also in the VR space and make boatloads on Smart TV stuff (Smart TV industry wide is projected to grow at 16% CAGR) and touchscreen display stuff.\n\nAdditional bear case: Wu brothers don't care about shareholders blah blah blah.\n\nCounter: Historically they pay out 75% of net profit as a dividend as is incentivized in the Taiwan tax structure.\n\nAnother Bear Case: China/Taiwan relations get significantly worse (or China straight goes to shit). Himax is a Taiwanese company with a lot of their customers and suppliers in China.\n\nhttps://www.himax.com.tw/investors/\n\nAs of\u00a0today\u00a0(2021-11-05), Himax Technologies's share price is\u00a0$11.45. Himax Technologies's\u00a0EPS without NRI\u00a0for the\u00a0trailing twelve months (TTM)\u00a0ended in\u00a0Jun. 2021\u00a0was\u00a0$1.25. Therefore, Himax Technologies's\u00a0PE Ratio without NRI\u00a0for\u00a0today\u00a0is\u00a09.16.\nDuring the\u00a0past 13 years, Himax Technologies's\u00a0highest\u00a0PE Ratio without NRI\u00a0was\u00a0270.77. The\u00a0lowest\u00a0was\u00a07.04. And the\u00a0median\u00a0was\u00a025.11.",
+        "created_utc": 1636169186,
+        "id": "hji9lf8",
+        "permalink": "/r/wallstreetbets/comments/qnonui/100k_retirement_account_yolo_will_make_all_5_of/hji9lf8/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636197986.0
+    },
+    {
+        "author": "firebadmattgood",
+        "body": "&gt;companies with dying business models (Western Union)\n\nlmao I love the insertion of this little tech bro fantasy",
+        "created_utc": 1636123956,
+        "id": "hjf6qed",
+        "permalink": "/r/stocks/comments/qn2ih9/anybody_notice_the_massive_increase_in_the_number/hjf6qed/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636152756.0
+    },
+    {
+        "author": "thekookreport",
+        "body": "While not dismissing your point, I'd say this...people have many reasons for selling a stock, but only one reason for buying a stock.  Last year on $GSHD I was really nervous b/c insiders kept dumping stock.  It's up 100% since then.  They just wanted to diversify.  I see Eric Wu going from 32MM shares at Q4 2020 up to 40MM shares at Q4 2021 (likely conversion of a stock grant).",
+        "created_utc": 1636150939,
+        "id": "hjh51vr",
+        "permalink": "/r/wallstreetbets/comments/qmsejn/open_maybe_not_the_pos_you_think_it_is/hjh51vr/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636179739.0
+    },
+    {
+        "author": "thesippycup",
+        "body": "Whatever happened to that underground Wu Tang album handed over to the government?",
+        "created_utc": 1636596519,
+        "id": "hk5frmi",
+        "permalink": "/r/wallstreetbets/comments/qr41y7/what_are_your_moves_tomorrow_november_11_2021/hk5frmi/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636625319.0
+    },
+    {
+        "author": "T3amk1ll",
+        "body": "&gt;The Mankiw rule tells is what the Fed Rate should be given current unemployment/inflation. The Wu-Xia shadow rate tells us what the Fed Rate effectively is. \n\nJust to follow up on this \n\nThe Taylor Rule shows what the interest rate should be based on inflation and GDP (descriptive, i.e. can only show it ex post)\n\nThe Mankow Rule shows what the rate should be given unemployment/inflation (so this is related to the Phillips Curve?)\n\nWu-Xia shadow rate shows what the rate effectively is taking *what* exactly into consideration? I've read on it and it says it is what the effective rate is when at the zero lower bound - but what does it take into consideration when showing this rate?",
+        "created_utc": 1636466180,
+        "id": "hjxou07",
+        "permalink": "/r/investing/comments/qpe2gt/imo_the_market_is_strongly_underestimating_the/hjxou07/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1636494980.0
+    },
+    {
+        "author": "sbos_",
+        "body": " &gt; \u201cAs an established battery technology company with proven products and a robust pipeline of new technologies, we are excited by the industry demand and validation of our battery solutions. I am pleased to report that we have won several new multi-year contracts with leading OEMs, driving substantial growth in forecasted contracted revenue since the business combination was announced in February 2021. Furthermore, as part of our continuing mission to develop disruptive battery technology and advance a greener, more electric future, we expect to announce two new products in the first quarter of 2022. These products will complement our existing portfolio of battery solutions with industry leading charging times, extended life cycles, and enhanced safety performance,\u201d said Yang Wu, Microvast\u2019s President and Chief Executive Officer.\n\nQuitely optimistic",
+        "created_utc": 1637049064,
+        "id": "hktv8of",
+        "permalink": "/r/SPACs/comments/qv2nbg/microvast_reports_third_quarter_2021_results/hktv8of/",
+        "score": 1,
+        "subreddit": "SPACs",
+        "created": 1637077864.0
+    },
+    {
+        "author": "bleeetiso",
+        "body": "Wu Tang Financial!!!",
+        "created_utc": 1637103222,
+        "id": "hkwxwmg",
+        "permalink": "/r/CanadianInvestor/comments/qvi24m/sitting_on_enbridge_stock_collecting_dividends/hkwxwmg/",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1637132022.0
+    },
+    {
+        "author": "Yodaatc",
+        "body": "WU",
+        "created_utc": 1636937706,
+        "id": "hknto2t",
+        "permalink": "/r/stocks/comments/qtrh2g/in_your_opinion_which_stock_is_most_undervalued/hknto2t/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636966506.0
+    },
+    {
+        "author": "Noledollars",
+        "body": "Agree \u2026. this was an opportunity (once again) to tell the MVST story - FAIL. It was very clear that this call appeared to be an inconvenience to Wu. He couldn\u2019t end the call soon enough. Need to hire a real CEO and let him focus on tech development!",
+        "created_utc": 1637109506,
+        "id": "hkxccqq",
+        "permalink": "/r/SPACs/comments/qv2nbg/microvast_reports_third_quarter_2021_results/hkxccqq/",
+        "score": 0,
+        "subreddit": "SPACs",
+        "created": 1637138306.0
+    },
+    {
+        "author": "Oscuridad_mi_amigo",
+        "body": "With expensive fees sure I agree. Some are 100% speculation with no real world use (the most famouse one has fees of $5-$50 per transaction, which is insane and has no purpose as a result).\n\nWith low fees and onchain scaleability they can compete with Western-union/Visa/Paypal and have fees at a fraction of a cent compared to 3-5% that these legacy companies charge.",
+        "created_utc": 1636477861,
+        "id": "hjygcvm",
+        "permalink": "/r/stocks/comments/qq5umq/despite_solid_earnings_why_has_paypal_and_most/hjygcvm/",
+        "score": 0,
+        "subreddit": "stocks",
+        "created": 1636506661.0
+    },
+    {
+        "author": "PrettyFlyGuyStark",
+        "body": "Western union is for boomers",
+        "created_utc": 1636374669,
+        "id": "hjsogbt",
+        "permalink": "/r/wallstreetbets/comments/qpb8yh/daily_discussion_thread_for_november_08_2021/hjsogbt/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1636403469.0
+    },
+    {
+        "author": "DCD-NOT-DFV",
+        "body": "For real for real... Invest in GME and LOOPRING! Now, before the next week starts and quote me on this people, \"LOOPRING = $5.00 plus next week and GME = $322.00.\" proof or ban me by the end of the week. If no one takes this \"suggestion\", don't come crying about the regret of missing out. Remember the golden rule: YOLO! \n\n*(DISCLAIMER: all information provided in this post, is not the opinion of the OP, REDDIT, or any specific deity. I am the sole proprietor to the aforementioned nostradamus effect. If any or all participants feels the need to donate to my wallet, once the week ends and your wallets get it heavy, contact me directly through DM @ nostradamus-effect/NFT/WU-TANG/GME/LOOPRING.net)*",
+        "created_utc": 1636912919,
+        "id": "hkm3pqa",
+        "permalink": "/r/stocks/comments/qtmxsk/im_19_years_old_and_made_28_k_in_the_stock_market/hkm3pqa/",
+        "score": 0,
+        "subreddit": "stocks",
+        "created": 1636941719.0
+    },
+    {
+        "author": "Oscuridad_mi_amigo",
+        "body": "eg. BCH (also on OTC markets under BCHG). Fraction of a penny fees, scales onchain, instant decentralized settlement. Western Union/.Visa/Paypal will be out of business. Some centralized middleman services may appear, but nothing like their 3-5% transaction fees they currently charge every merchant.\n\nThis companies days as a free nest egg are coming to an end.",
+        "created_utc": 1636476558,
+        "id": "hjyd21m",
+        "permalink": "/r/stocks/comments/qq5umq/despite_solid_earnings_why_has_paypal_and_most/hjyd21m/",
+        "score": -1,
+        "subreddit": "stocks",
+        "created": 1636505358.0
+    },
+    {
+        "author": "uselessbystander34",
+        "body": "Just in case you didn\u2019t know it is no coincidence that musk is selling his shares, just read the article and see for yourself!!! I don\u2019t care what they say, musk was given all of Tesla\u2019s research and he is aligning all of his ducks!!! Don\u2019t get caught holding when the elite are dumping their shares \n\n\n\n\n\n\n\n\n\n\nShow More\n\n\n\n\n\n\n\n\n\n\nAdvertisement\n\n\nEnglish News Lifestyle People\nElon Musk becomes richest man on same day when inventor Nikola Tesla died 78 years ago\nElon Musk, founder, CEO of SpaceX and CEO and product architect of Tesla, Inc, becomes the richest man on the same day when inventor Nikola Tesla died 78 years ago.\n\n\n\n\n\n\n\n\nElon Musk becomes the richest man on the same day when inventor Nikola Tesla died 78 years ago \u00a0\nIndia TV Lifestyle Desk New Delhi January 08, 2021 22:14 IST\nElon Musk, founder, CEO, and chief designer of SpaceX and CEO and product architect of Tesla Inc, has become the world's richest man, pushing Amazon founder Jeff Bezos on the second spot. On Thursday, Tesla Inc.\u2019s share price surged 7.9%, making Musk now worth $194.8 billion, or $9.5 billion more than Bezos. But do you know, January 7, when Elon Musk became the richest man in the world, on the same day in 1943, Nikola Tesla died? Yes!\nADVERTISEMENT\n\nFlexible Law\nPrograms\nFind a Law Degree\nProgram that Fits Your\nSchedule. Apply Now.\nNew England Law | Boston\nOpen\n\n\n\n\nAds by\nSend feedback\nWhy this ad?\u00a0\n\nAds by\nSend feedback\nWhy this ad?\u00a0\nAd was inappropriate\nNot interested in this ad\nAd covered content\nSeen this ad multiple times\n\nThanks. Feedback improves Google ads\nThanks. Feedback improves Google ads\n\nAd closed by\nAd closed by\n\n\nADVERTISEMENT\n\nNikola Tesla, after whom Tesla Motors is named died on January 7, 1943. He was a Serbian-American engineer, inventor and physicist who made scores of breakthroughs in the development, transmission and application of electric power. He is best known for his contributions to the design of the modern alternating current (AC) electricity supply system.\nNikola invented the first motor with alternating current and developed technology for AC generation. In late 1886, He met Alfred S. Brown, a Western Union superintendent, and New York attorney Charles Fletcher Peck. Based on Nikola's new ideas for electrical equipment, they agreed to back the inventor financially and handle his patents. Together they formed the Tesla Electric Company in April 1887. Later, they set up a laboratory for Tesla in Manhattan, where he worked on improving and developing new types of electric motors, generators, and other devices.\n\nAdvertisement\n\n\n\n\nIQ Test: What Is Your IQ?\n\n\nBrainable IQ Test\n\nOpen\n\n\n\n\n\n\n\n\nAds by\nSend feedback\nWhy this ad?\u00a0\n\nAds by\nSend feedback\nWhy this ad?\u00a0\nAd covered content\nNot interested in this ad\nSeen this ad multiple times\nAd was inappropriate\n\nThanks. Feedback improves Google ads\nThanks. Feedback improves Google ads\n\nAd closed by\nAd closed by\n\n\n\n\nStarting in 1894, Tesla began investigating radiant energy of \"invisible\" kinds after he had noticed damaged film in his laboratory.\u00a0 He conducted a range of experiments with mechanical oscillators/generators, electrical discharge tubes, and early X-ray imaging.\u00a0\nAs the years passed, he started living in a hotel in New York in his last decades, working on new inventions.\nIn his last days, he fed the city's pigeons and interacted with them.\n\nAdvertisement\n\nShow full article\n\n\n\nHere Are 23 of the Coolest Gifts for This 202123 Insanely Cool Gadgets You'll Regret Not Getting Before They Sell Out\u00a0 \u00a0\nTrendingGifts\n|\nSponsored\nClick Here\n\n\n\nThis 13 Second Trick Catches Any Cheater, Brace Yourself\n\nPeoplewhiz\n|\nSponsored\nLearn More\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMore from lifestyle\n\t\t\n\t\tDurga Puja 2021: Madhvi Pal, Jharkhand's first woman idol maker continues late husband's business\n\t\t\n\t\tKamla Bhasin passes away: Netizens pay tribute to feminist icon, 'Rest in power'\n\t\t\n\t\tHow can teachers cope with virtual fatigue: 10 expert tips\n\t\t\n\t\tHappy Teacher's Day 2021: Inspiring quotes by Dr Sarvepalli Radhakrishnan\n\t\tAbout UsContact UsElectionsAdvertisePrivacy PolicyInvestors ColumnLegal DisclaimerCSR Policy\n\u00a9 2009-2021 Independent News Service, All Rights Reserved.\n\n\n\nBanking That Fits Your Life\nCapital One Caf\u00e9\n\nDine-in\n\nTakeout\n\nDelivery\nHingham\nOPEN\n10AM\u20136PM\n94 Derby St. Suite 223, Suite 223, Hingh\u2026",
+        "created_utc": 1636329530,
+        "id": "hjqpjl2",
+        "permalink": "/r/wallstreetbets/comments/qooebv/elons_playing_4d_chess/hjqpjl2/",
+        "score": -3,
+        "subreddit": "wallstreetbets",
+        "created": 1636358330.0
+    },
+    {
+        "author": "HiramP20",
+        "body": "Yeah I aint reading all that. \n\nFuck martin shkreli, he disrespected wu tang",
+        "created_utc": 1636514905,
+        "id": "hk0wm4l",
+        "permalink": "/r/wallstreetbets/comments/qq7cle/i_watched_all_martin_shkreli_videos_on_investing/hk0wm4l/",
+        "score": -5,
+        "subreddit": "wallstreetbets",
+        "created": 1636543705.0
+    },
+    {
+        "author": "Renegade2592",
+        "body": "Imagine being bullish on AMD and NVIDIA but not on GME, the company who sells the games and equipment that tech goes towards playing.\n\nGME is the #1 retail gaming provider, gets a cut of Microsoft digital revenue. Gaming is a top 3 growth industry y.o.y. for 20 years. \n\n3 billion gamers in the world\n\nPapa Cohen\n\nWu-Tang",
+        "created_utc": 1636393270,
+        "id": "hjttota",
+        "permalink": "/r/wallstreetbets/comments/qpb8yh/daily_discussion_thread_for_november_08_2021/hjttota/",
+        "score": -13,
+        "subreddit": "wallstreetbets",
+        "created": 1636422070.0
+    },
+    {
+        "author": "CCChristopherson",
+        "body": "I own ZBRA which was up 8% after earnings beat yesterday. I like the stock so I didn\u2019t want to sell but I thought it would come back to earth today (currently down 4%).  I doubt I\u2019ll do this but curious if others have - Does anyone ever do covered calls or puts on an earnings pump on a stock they own? Seems like the majority of time stocks lose some of their post-earnings gains",
+        "created_utc": 1635949388,
+        "id": "hj5gcmc",
+        "permalink": "/r/stocks/comments/qlqsv6/rstocks_daily_discussion_wednesday_nov_03_2021/hj5gcmc/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1635978188.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Tuesday, the  2nd of November\n\n\n\n## Upcoming events for Tuesday, November  2nd\n\n - Expected earnings:\n\n  AAIC, ACH, ACOR, ACT, ADCT, ADXN, AFG, AGRX, AHH, AIZ, AKAM, AMCR, AME, AMED, AMGN, ANDE, APO, APPS, AQB, AQST, ARCB, ARGO, ARNC, AROC, ATVI, AVNS, AWK, AYX, BBGI, BCC, BFAM, BGFV, BHC, BKH, BLD, BLMN, BP, BRY, BSBR, BTG, BXC, CASA, CDK, CDLX, CEIX, CERS, CHCT, CHK, CIGI, CINR, CLNN, CLW, CMI, COP, COUR, CRK, CRSR, CRVL, CSLT, CTLT, CZR, DAR, DCO, DCP, DCPH, DD, DEA, DEI, DENN, DHT, DOX, DRRX, DS, DVN, EARN, EDU, EGHT, EIX, EKSO, EL, ELVT, ENLC, EOLS, EPD, ES, ESPR, ETN, ETRN, EXAS, EXEL, EXLS, EXPD, EXTN, EXTR, FMC, FNF, FRG, FRSH, FSTR, GAIN, GIC, GLDD, GLT, GLYC, GNRC, GNW, GPN, GPOR, GRBK, HALO, HCC, HEES, HEP, HLF, HLNE, HRB, HSC, HSIC, HURN, HY, IAA, IART, ICD, ICFI, ICHR, IDXX, IEP, INCY, INFI, INGR, INSP, INTG, INVE, IOSP, IPGP, IT, JBGS, JRVR, KAI, KAMN, KAR, KKR, KOPN, KTCC, LCII, LDOS, LEA, LGIH, LILA, LILAK, LIND, LPI, LPSN, LPX, LRFC, LSCC, LSI, LUNG, LYFT, MANT, MCY, MDLZ, MDXG, MEC, METC, MG, MGNX, MGY, MIME, MINM, MKL, MLM, MMP, MOD, MPC, MPLX, MRCC, MRCY, MTCH, MTRN, MYGN, NAUT, NCSM, NE, NETI, NMIH, NNN, NP, NR, NRC, NRZ, NSA, NXRT, NXST, NYMT, OCN, OKE, OMCL, ORTX, OSPN, OVV, PAA, PACB, PAGP, PAHC, PAYC, PEAK, PEG, PFE, PINC, PIRS, PKI, PKOH, PMTS, PRO, PRTS, PRU, PTRS, PUMP, QUAD, RACE, RAMP, RARE, RCKY, RCM, RDN, RGNX, RIGL, RL, RM, ROK, RRR, RYAM, RYTM, SABR, SAGE, SEB, SEDG, SEE, SEVN, SFST, SGRY, SHIP, SKY, SKYT, SMCI, SNCY, SPLP, SPT, SQNS, SRC, SRCL, SREV, SRG, SRT, STAR, STE, STRL, TCS, TECH, TMUS, TMX, TNC, TRC, TRI, TRNS, TRTX, TSLX, TSQ, TTM, TVTY, TX, UA, UAA, UBCP, UFPT, UIS, UNM, USAC, USDP, UTL, VAL, VECO, VMD, VOYA, VRSK, VRTX, WAT, WBT, WEC, WEYS, WFRD, WLK, WLKP, WTI, WTTR, WU, XHR, XPO, XYL, Z, ZBRA, ZG, ZYME\n\n - Ex-div:\n\n  ASML, BRO, CAPL, CBAN, DSX, HFWA, LUB, MCBS, MKTX, MTX, NTIC, SSBK, TACO, TRS, USDP, VSEC\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.090%)\n    - API Weekly Crude Oil Stock (previous: 2.318M)\n    - IBD/TIPP Economic Optimism (previous: 46.8)\n    - Redbook (previous: 15.6%)\n    - Total Vehicle Sales (previous: 9.66M)\n\n## Upcoming events for Wednesday, November  3rd\n\n - Expected earnings:\n\n  AAWW, ACA, ACEL, ACLS, ACNB, ACRE, ACRS, ADPT, AEE, AEMD, AFIN, AGIO, ALB, ALG, ALL, ALTM, AMOT, AMRN, AMSC, ANAB, ANSS, ANVS, APA, ARAY, ARC, ARTL, ARTNA, ASC, ASTE, ASXC, ATEX, ATGE, ATH, ATRC, ATXI, ATY, AUPH, AUTL, AVA, AVNW, AXGN, BBSI, BCRX, BCSF, BDC, BDSI, BGCP, BGSF, BIP, BKCC, BKNG, BLKB, BLUE, BNFT, BR, BRSP, BVH, BWA, CAKE, CBD, CCRN, CCU, CDAY, CDEV, CDW, CDXC, CENX, CF, CFMS, CGBD, CHNG, CIA, CIM, CIO, CIX, CKPT, CLH, CLR, CLVS, CMLS, CMP, COHN, CORT, CPE, CPK, CPRI, CPS, CRL, CRSP, CRTO, CSGS, CSTE, CSWI, CTRA, CTVA, CUTR, CVE, CVGI, CVS, CW, CWAN, CWH, CYTK, DFIN, DIOD, DISCA, DISCB, DISCK, DMAC, DNOW, DRTT, DXC, DXYN, EA, EAT, ECPG, EGY, ELA, ELF, EMR, EPR, EQH, EQIX, EQX, ET, ETR, ETSY, EVA, EVH, EVOP, EVRG, EVRI, EXC, EXPI, EYPT, FBRT, FDP, FLMN, FLT, FLXN, FNV, FOE, FORR, FOX, FOXA, FPH, FRGI, FRPH, FSLY, FSR, FUN, FYBR, GCP, GDDY, GDEN, GFL, GHC, GHL, GLBZ, GLRE, GMAB, GMRE, GNK, GRP.U, GTHX, H, HARP, HBB, HBIO, HBM, HBP, HDSN, HFC, HLMN, HMN, HR, HRTX, HST, HUBS, HUM, HZNP, IAG, ICLR, ICPT, ICUI, IIPR, IMXI, INFN, INMB, INN, INOV, INSG, IO, IONS, IR, ITI, ITIC, ITT, ITUB, IVR, JLL, JMP, KE, KIDS, KL, KLTR, KNBE, KPTI, KRO, KTOS, KW, LAMR, LANC, LAND, LBTYA, LBTYB, LBTYK, LCI, LCTX, LEXX, LHCG, LIVN, LL, LNC, LPG, LUMN, LUMO, LXRX, LYTS, MAC, MAR, MATX, MAXR, MCHX, MCS, MDU, MET, MFC, MGM, MGNI, MGPI, MGYR, MLNK, MLP, MLR, MNKD, MNRL, MPLN, MRO, MRTX, MTG, MTTR, MTW, NC, NCLH, NESR, NEXT, NFE, NHTC, NI, NL, NMFC, NODK, NRP, NSR, NUS, NVST, NYT, OAS, OCDX, ODP, ODT, OLP, OM, OMI, OMP, ONCS, ONCT, ONEM, OPRT, ORA, ORCC, OSUR, OSW, OTIC, PARR, PBI, PBPB, PCRX, PEN, PETQ, PFIE, PING, PK, PLMR, PLTK, PLYA, PRAX, PRG, PSN, PTC, PTGX, PTVE, PW, PXD, QCOM, QGEN, QLYS, QMCO, QNST, QRVO, QTWO, QUOT, RADA, RCII, RCKT, RDWR, REGI, RGLD, RGR, RMNI, RNWK, ROCC, ROKU, RPD, RPT, RRD, RTLR, RVI, RVLV, RVPH, RYI, RYN, SAFT, SANA, SAND, SB, SBGI, SBOW, SBRA, SD, SENEA, SENEB, SGC, SHOO, SITE, SITM, SJI, SKLZ, SLF, SLRC, SMG, SNSE, SPNS, SPNT, SPOK, SPPI, SPR, SPWR, SPXC, SRDX, SRPT, SSRM, SSSS, STAA, STGW, STLA, STN, SUM, SUN, SUNS, SUP, SUPN, SWM, SWN, SYN, SYNH, TALO, TARS, TBPH, TCON, TCPC, TGB, TISI, TLK, TNDM, TPC, TPVG, TREC, TRMB, TRNO, TRUE, TRUP, TS, TSP, TT, TTGT, TTWO, TUP, TWNK, TXG, UBX, UE, UEC, UGP, UHAL, UMH, UPLD, UTHR, UVV, VAPO, VEL, VGR, VIRT, VKTX, VMAR, VMEO, VNDA, VNTR, VRTV, VSH, VTOL, VVNT, VVV, WHD, WING, WK, WTS, YELL, ZD, ZY\n\n - Ex-div:\n\n  AWI, BBD, BBDO, BSMX, CATC, FELE, FMX, HESM, HOPE, NEP, STBA, WSFS\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 400K, previous: 568K)\n    - Crude Oil Imports (previous: 0.702M)\n    - Crude Oil Inventories (consensus: 1.567M, previous: 4.267M)\n    - Cushing Crude Oil Inventories (previous: -3.899M)\n    - Distillate Fuel Production (previous: 0.164M)\n    - Durables Excluding Defense (previous: -2.0%)\n    - EIA Refinery Crude Runs  (previous: 0.058M)\n    - EIA Weekly Distillates Stocks (consensus: -1.533M, previous: -0.432M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.6%, previous: 0.4%)\n    - FOMC Press Conference\n    - FOMC Statement\n    - Factory Orders (consensus: 0.1%, previous: 1.2%)\n    - Factory orders ex transportation (previous: 0.5%)\n    - Fed Interest Rate Decision (previous: 0.25%)\n    - Gasoline Inventories (consensus: -1.200M, previous: -1.994M)\n    - Gasoline Production (previous: 0.012M)\n    - Heating Oil Stockpiles (previous: -0.031M)\n    - ISM Non-Manufacturing Business Activity (consensus: 59.5, previous: 62.3)\n    - ISM Non-Manufacturing Employment (previous: 53.0)\n    - ISM Non-Manufacturing New Orders (previous: 63.5)\n    - ISM Non-Manufacturing PMI (consensus: 62.0, previous: 61.9)\n    - ISM Non-Manufacturing Prices (previous: 77.5)\n    - MBA 30-Year Mortgage Rate (previous: 3.30%)\n    - MBA Mortgage Applications (previous: 0.3%)\n    - MBA Purchase Index (previous: 275.6)\n    - Markit Composite PMI (consensus: 57.3, previous: 57.3)\n    - Mortgage Market Index (previous: 645.1)\n    - Mortgage Refinance Index (previous: 2,763.8)\n    - Services PMI (consensus: 58.2, previous: 58.2)\n    - Trade Balance (consensus: -80.50B, previous: -73.30B)\n\n^^^^2021-11-02",
+        "created_utc": 1635847213,
+        "id": "hizs3wm",
+        "permalink": "/r/RobinHood/comments/ql0uy9/daily_discussion_thread_november_2nd_2021/hizs3wm/",
+        "score": 2,
+        "subreddit": "RobinHood",
+        "created": 1635876013.0
+    },
+    {
+        "author": "EngineeriusMaximus",
+        "body": "I was thinking that synthetic positions are cheap leverage. For example, a 2023 SPY synthetic (one short ATM put, one long ATM call) currently requires \\~$14,700 in collateral and 0 cash, and a SPY ZEBRA requires $12000 in cash. Both of these represent $46,000 worth of SPY, so you are getting 3x+ leverage. You can get even lower collateral requirements if you go a little OTM on both the put and call, e.g. short 430 put and long 485 call, with collateral of just over $10k. These make sense to hold for long periods as leveraged SPY plays, right?",
+        "created_utc": 1635896502,
+        "id": "hj2vdjb",
+        "permalink": "/r/options/comments/qla64a/is_spy_always_better_than_spx_for_leaps/hj2vdjb/",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1635925302.0
+    },
+    {
+        "author": "analnapalm",
+        "body": "I don't have anything significant on my short term radar and am mostly cash as I feel the market is a little overheated at the moment.  Long term, it's difficult to imagine not seeing QQQ, NVDA, &amp; AAPL somewhere in my portfolio.  Perhaps also TGT and ZBRA.",
+        "created_utc": 1636128472,
+        "id": "hjfi9mr",
+        "permalink": "/r/wallstreetbets/comments/qmtptf/i_did_it_10k_to_100k_ytd_brought_to_you_mostly_by/hjfi9mr/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1636157272.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the  1st of November\n\n\n\n## Upcoming events for Monday, November  1st\n\n - Expected earnings:\n\n  ABIO, ADC, ADTN, ADUS, AKTS, ALX, AMC, AMG, AMRC, ANAT, ANET, APEN, APLS, AWR, BEN, BNL, BRKR, BRX, BWXT, CACC, CAR, CCLP, CEA, CHGG, CLDB, CLX, CNA, CORR, CPLP, CRNT, CRUS, CSR, CSWC, CURO, CVI, CWBC, DSPG, DSS, DZSI, EC, EEX, EGRX, ENBL, EPRT, EVER, FANG, FEDU, FGBI, FN, GAIA, GAME, GSS, GTE, GXO, HLIT, HNRG, HOLX, IPI, ISEE, IVAC, IVT, IX, JELD, KFRC, KLDO, KMT, KOF, L, LDI, LEG, LKCO, LTRN, LXU, MCK, MFIN, MGP, MNOV, MOS, MRBK, MVBF, NBIX, NERV, NRIM, NSP, NSSC, NTR, NXPI, O, OGS, OIS, ON, ONVO, OTTR, PCG, PDLB, PLOW, PSA, RHP, RIG, RMBS, RRX, RYAAY, SBAC, SBT, SKT, SMLR, SNDX, SOI, SPG, SUNW, SXC, TA, TKR, TRVG, TRVN, TTI, UAN, UNVR, VBIV, VNO, VNOM, VRNS, WBK, WLFC, WMB, WMK, WTRG, XENT, ZI\n\n - Ex-div:\n\n  AES, BANR, BKR, ETRN, FAM, FCCO, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, FTHY, HIHO, IGD, ITUB, LMRK, O, OMF, SHLX, SPH, SRCE, VER, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.055%)\n    - 6-Month Bill Auction (previous: 0.060%)\n    - Construction Spending (consensus: 0.4%, previous: 0.3%)\n    - ISM Manufacturing Employment (previous: 50.2)\n    - ISM Manufacturing New Orders Index (previous: 66.7)\n    - ISM Manufacturing PMI (consensus: 60.5, previous: 61.1)\n    - ISM Manufacturing Prices (consensus: 78.5, previous: 81.2)\n    - Investing.com Gold Index (actual: 59.9%, previous: 54.3%)\n    - Investing.com S&amp;P 500 Index (actual: 57.5%, previous: 47.2%)\n    - Loan Officer Survey\n    - Manufacturing PMI (consensus: 59.2, previous: 60.7)\n    - Total Vehicle Sales (previous: 9.66M)\n\n## Upcoming events for Tuesday, November  2nd\n\n - Expected earnings:\n\n  AAIC, ACH, ACOR, ACT, ADCT, ADXN, AFG, AGRX, AHH, AIZ, AKAM, AMCR, AME, AMED, AMGN, ANDE, APO, APPS, AQB, AQST, ARCB, ARGO, ARNC, AROC, ATVI, AVNS, AWK, AYX, BBGI, BCC, BFAM, BGFV, BHC, BKH, BLD, BLMN, BP, BRY, BSBR, BTG, BXC, CASA, CDK, CDLX, CEIX, CERS, CHCT, CHK, CIGI, CINR, CLNN, CLW, CMI, COP, COUR, CRK, CRSR, CRVL, CSLT, CTLT, CZR, DAR, DCO, DCP, DCPH, DD, DEA, DEI, DENN, DHT, DOX, DRRX, DS, DVN, EARN, EDU, EGHT, EIX, EKSO, EL, ELVT, ENLC, EOLS, EPD, ESPR, ETN, ETRN, EXAS, EXEL, EXLS, EXPD, EXTN, EXTR, FMC, FNF, FRG, FRSH, FSP, FSTR, GAIN, GIC, GLDD, GLT, GLYC, GNRC, GNW, GPN, GPOR, GRBK, HALO, HCC, HEES, HEP, HLF, HLNE, HRB, HSC, HSIC, HURN, HY, IAA, IART, ICD, ICFI, ICHR, IDXX, IEP, INCY, INFI, INGR, INSP, INTG, INVE, IOSP, IPGP, IT, JBGS, JRVR, KAI, KAMN, KAR, KKR, KOPN, KTCC, LCII, LDOS, LEA, LGIH, LILA, LILAK, LIND, LPI, LPSN, LPX, LRFC, LSCC, LSI, LUNG, LYFT, MANT, MCY, MDLZ, MDXG, MEC, METC, MG, MGNX, MGY, MIME, MINM, MKL, MLM, MMP, MOD, MPC, MPLX, MRCC, MRCY, MTCH, MTRN, MYGN, NAUT, NCSM, NE, NETI, NMIH, NNN, NP, NR, NRC, NRZ, NSA, NXRT, NXST, NYMT, OCFT, OCN, OKE, OMCL, OMIC, ORTX, OSPN, OVV, PAA, PACB, PAGP, PAHC, PAYC, PEAK, PEG, PFE, PINC, PIRS, PKI, PKOH, PMTS, PRO, PRTS, PRU, PTRS, PUMP, QUAD, RACE, RAMP, RARE, RCKY, RCM, RDN, RGNX, RIGL, RL, RM, ROK, RRD, RRR, RYAM, RYTM, SABR, SAGE, SEB, SEDG, SEE, SEVN, SFST, SGRY, SHIP, SKY, SKYT, SMCI, SNCY, SPLP, SPT, SQNS, SRC, SRCL, SREV, SRG, SRT, STAR, STE, STRL, TCS, TECH, TMUS, TMX, TNC, TRC, TRI, TRNS, TRTX, TSLX, TSQ, TTM, TVTY, TX, UA, UAA, UBCP, UFPT, UIS, UNM, USAC, USDP, UTL, VAL, VECO, VMD, VOYA, VRSK, VRTX, WAT, WBT, WEC, WEYS, WFRD, WLK, WLKP, WTI, WTTR, WU, XHR, XPO, XYL, Z, ZBRA, ZG, ZYME\n\n - Ex-div:\n\n  ASML, BRO, CAPL, CBAN, DSX, HFWA, LUB, MCBS, MKTX, MTX, NTIC, SSBK, TACO, TRS, USDP, VSEC\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.090%)\n    - API Weekly Crude Oil Stock (previous: 2.318M)\n    - IBD/TIPP Economic Optimism (previous: 46.8)\n    - Redbook (previous: 15.6%)\n\n## Upcoming events for Wednesday, November  3rd\n\n - Expected earnings:\n\n  AAWW, ACA, ACEL, ACLS, ACRE, ACRS, ADPT, AEE, AFIN, AGIO, ALB, ALL, ALTM, AMOT, AMRN, AMSC, ANAB, ANSS, ANVS, APA, ARAY, ARC, ARTL, ARTNA, ASC, ASTE, ASXC, ATEX, ATGE, ATH, ATRC, ATXI, ATY, AUPH, AUTL, AVA, AVNW, AXGN, BBSI, BCRX, BCSF, BDC, BDSI, BGCP, BGSF, BIP, BKCC, BKNG, BLKB, BLUE, BNFT, BR, BRSP, BVH, BWA, CAKE, CCRN, CCU, CDAY, CDEV, CDW, CDXC, CENX, CF, CFMS, CGBD, CHNG, CIA, CIM, CIO, CIX, CKPT, CLH, CLR, CLVS, CMLS, CMP, COHN, CORT, CPE, CPK, CPRI, CPS, CRL, CRTO, CSGS, CSTE, CSWI, CTRA, CTVA, CUTR, CVE, CVGI, CVS, CW, CWAN, CWH, CYTK, DFIN, DIOD, DISCA, DISCB, DISCK, DMAC, DNOW, DRTT, DXC, DXYN, EA, EAT, ECPG, EGY, ELA, ELF, EMR, EPR, EQH, EQIX, EQX, ES, ET, ETR, ETSY, EVA, EVH, EVOP, EVRG, EVRI, EXC, EXPI, EYPT, FDP, FLMN, FLT, FLXN, FNV, FOE, FORR, FOX, FOXA, FRGI, FRPH, FSLY, FSR, FUN, FYBR, GCP, GDDY, GDEN, GFL, GHC, GHL, GLBZ, GLRE, GMAB, GMRE, GNK, GRP.U, GTHX, H, HARP, HBB, HBIO, HBM, HBP, HDSN, HFC, HLMN, HMN, HOFV, HR, HRTX, HST, HUBS, HUM, HZNP, IAG, ICLR, ICPT, ICUI, IDN, IIPR, IMXI, INFN, INMB, INN, INSG, IO, IONS, IR, ITI, ITIC, ITT, ITUB, IVR, JLL, KE, KIDS, KL, KLTR, KNBE, KPTI, KRO, KTOS, KW, LAMR, LANC, LAND, LBTYA, LBTYB, LBTYK, LCI, LCTX, LEXX, LHCG, LIVN, LL, LNC, LPG, LUMN, LUMO, LYTS, MAC, MAR, MATX, MAXR, MCHX, MCS, MDU, MET, MFC, MGM, MGNI, MGPI, MGYR, MLNK, MLP, MLR, MNKD, MNRL, MPLN, MRO, MRTX, MTG, MTTR, MTW, NC, NCLH, NESR, NEXT, NFE, NHTC, NI, NL, NMFC, NODK, NRP, NUS, NVST, NYT, OAS, OCDX, ODP, OLP, OM, OMI, OMP, ONCT, ONEM, OPRT, ORA, ORCC, OSUR, OSW, OTIC, PARR, PBI, PBPB, PCRX, PEN, PETQ, PFIE, PING, PK, PLMR, PLTK, PLYA, PRAX, PRG, PRTA, PSN, PTC, PTGX, PTVE, PXD, QCOM, QGEN, QLYS, QMCO, QNST, QRVO, QTWO, QUOT, RADA, RC, RCII, RCKT, RDWR, REGI, RGLD, RGR, RMNI, RNWK, ROCC, ROKU, RPD, RPT, RTLR, RVI, RVLV, RVPH, RYI, RYN, SAFT, SANA, SAND, SBGI, SBOW, SBRA, SD, SENEA, SENEB, SGC, SGMO, SHOO, SITE, SITM, SJI, SKLZ, SLF, SLRC, SMG, SNSE, SPNS, SPNT, SPPI, SPR, SPWR, SPXC, SRDX, SRPT, SSRM, SSSS, STAA, STCN, STGW, STN, SUM, SUN, SUNS, SUP, SUPN, SWM, SWN, SYN, SYNH, TALO, TARS, TBPH, TCON, TCPC, TGB, TISI, TLK, TNDM, TPC, TPVG, TREC, TRMB, TRNO, TRUE, TRUP, TS, TSP, TT, TTGT, TTWO, TUP, TWNK, TXG, UBX, UE, UGP, UHAL, UMH, UPLD, VAPO, VEL, VGR, VIRT, VKTX, VMAR, VMEO, VNDA, VNTR, VRTV, VSH, VTOL, VVNT, VVV, WHD, WING, WK, WTS, YELL, ZD, ZY\n\n - Ex-div:\n\n  AWI, BBD, BBDO, BSMX, CATC, FELE, FMX, HESM, HOPE, NEP, STBA, WSFS\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 400K, previous: 568K)\n    - Crude Oil Imports (previous: 0.702M)\n    - Crude Oil Inventories (previous: 4.267M)\n    - Cushing Crude Oil Inventories (previous: -3.899M)\n    - Distillate Fuel Production (previous: 0.164M)\n    - Durables Excluding Defense (previous: -2.0%)\n    - EIA Refinery Crude Runs  (previous: 0.058M)\n    - EIA Weekly Distillates Stocks (consensus: -2.311M, previous: -0.432M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.3%, previous: 0.4%)\n    - FOMC Press Conference\n    - FOMC Statement\n    - Factory Orders (consensus: 0.1%, previous: 1.2%)\n    - Factory orders ex transportation (previous: 0.5%)\n    - Fed Interest Rate Decision (previous: 0.25%)\n    - Gasoline Inventories (previous: -1.994M)\n    - Gasoline Production (previous: 0.012M)\n    - Heating Oil Stockpiles (previous: -0.031M)\n    - ISM Non-Manufacturing Business Activity (consensus: 59.5, previous: 62.3)\n    - ISM Non-Manufacturing Employment (previous: 53.0)\n    - ISM Non-Manufacturing New Orders (previous: 63.5)\n    - ISM Non-Manufacturing PMI (consensus: 62.1, previous: 61.9)\n    - ISM Non-Manufacturing Prices (previous: 77.5)\n    - MBA 30-Year Mortgage Rate (previous: 3.30%)\n    - MBA Mortgage Applications (previous: 0.3%)\n    - MBA Purchase Index (previous: 275.6)\n    - Markit Composite PMI (consensus: 57.3, previous: 57.3)\n    - Mortgage Market Index (previous: 645.1)\n    - Mortgage Refinance Index (previous: 2,763.8)\n    - Services PMI (consensus: 58.2, previous: 58.2)\n    - Trade Balance (consensus: -80.30B, previous: -73.30B)\n\n^^^^2021-11-01",
+        "created_utc": 1635760818,
+        "id": "hiv8hui",
+        "permalink": "/r/RobinHood/comments/qkan8y/daily_discussion_thread_november_1st_2021/hiv8hui/",
+        "score": 2,
+        "subreddit": "RobinHood",
+        "created": 1635789618.0
     }
 ]

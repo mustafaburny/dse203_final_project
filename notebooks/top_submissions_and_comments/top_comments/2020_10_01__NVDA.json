@@ -1,81 +1,30 @@
 [
     {
-        "author": "_MoveSwiftly",
-        "body": "This is the worst earning call I've listened to. A bunch of bean counters.\n\nThere was more focus on the $ parts in the presentation than the technology, the future, how they plan to compete, or even acknowledgement of competition. They're blaming COVID when in reality businesses like Nvidia and AMD, their competition, is doing better than usual.\n\nThey're even considering using external foundries for 7nm products, in 2023... We're already on 5nm with TSMC. By 2023 we might have TSMC in the US and in Taiwan producing enough chips to satisfy all their customers.\n\nThey're incapable of competing, producing new product, giving honest data about their products to customers, giving honest information to their share holders, and lack the ability to recognize the problem they are in to even begin to fix it.\n\nThis is a dying dinasour, and it doesn't even produce oil. Good bye.",
-        "created_utc": 1603404594,
-        "id": "g9p3e30",
-        "score": 84,
-        "subreddit": "investing",
-        "created": 1603433394.0
-    },
-    {
-        "author": "_MoveSwiftly",
-        "body": "This is the worst earning call I've listened to. A bunch of bean counters.\n\nThere was more focus on the $ parts in the presentation than the technology, the future, how they plan to compete, or even acknowledgement of competition. They're blaming COVID when in reality businesses like Nvidia and AMD, their competition, is doing better than usual.\n\nThey're even considering using external foundries for 7nm products, in 2023... We're already on 5nm with TSMC. By 2023 we might have TSMC in the US and in Taiwan producing enough chips to satisfy all their customers.\n\nThey're incapable of competing, producing new product, giving honest data about their products to customers, giving honest information to their share holders, and lack the ability to recognize the problem they are in to even begin to fix it.\n\nThis is a dying dinasour, and it doesn't even produce oil. Good bye.",
-        "created_utc": 1603404194,
-        "id": "g9p2mri",
-        "score": 42,
-        "subreddit": "stocks",
-        "created": 1603432994.0
-    },
-    {
         "author": "zipiddydooda",
         "body": "I just bought $6k of nvda 10 minutes prior to the Great Orange tweeting his royal decree.",
         "created_utc": 1602011664,
         "id": "g7xcf5l",
+        "permalink": "/r/investing/comments/j6b4g4/stocks_turn_negative_after_trump_says_white_house/g7xcf5l/",
         "score": 25,
         "subreddit": "investing",
         "created": 1602040464.0
-    },
-    {
-        "author": "redoctet",
-        "body": "I see a lot of mentions of AMD, and a bunch of Nvidia, but almost nothing about ARM. Sure, AMD is competitive with Intel for x86 and Nvidia is getting a lot of attention for GPU-powered machine learning, but don't sleep on ARM. We're probably on the precipice of a huge shift to ARM in the datacentre that's being driven by public cloud providers.\n\nConsider AWS which have been rolling out ARM \"Graviton2\" virtual machines all year:\n\n1. Compared to their x86 counterparts, the Graviton2 are faster for many workloads, are more thermally efficient, and cost less for both Amazon _and_ their customers. AWS instances are billed by the second and usually autoscaled, meaning customers will launch and destroy dozens, hundreds, or even thousands of VMs every day. Servers are not hand-configured one at a time and named after Star Wars characters -- you can't launch a thousand servers a day that way -- instead they're built through automation. This isn't just for speed, it's for repeatability so that when you boot up a server, you don't have to second-guess that it's going to be precisely configured already. So, if you already have the automation in place, and only needed to adjust one variable to start launching ARM machines instead of x86 for less money and more performance, why wouldn't you?\n\n2. \"That's not fair -- the software all has to be re-compiled or even rewritten to work on ARM!\" That's true! I'll get to that in a moment. Here's a type of server you can use right now without rewriting _any_ software: managed database instances. One of the hardest things to do well in a tech org is to run \"stateful\" workloads like databases, which is why all the major cloud providers offer fully-managed database services of many flavours of SQL, caching, and NoSQL databases. Click a few buttons and get MySQL, with patching, backups, and auto-failover managed by the cloud provider. Postgres already runs on ARM, and the data stored by Postgres doesn't care whether the CPU architecture that stored it was ARM or x86 or PowerPC. Replace your managed database instances powered by x86 with the ARM version and start getting that better (and cheaper) performance without having to rewrite anything, _and_ keep all your data. No migration, just shut it down, and turn it back on again with new CPUs. The public cloud providers are going to make a killing on this and they know it.\n\n3. Ok, so what _about_ the apps the tech org writes to power the business? The things that have to be recompiled and maybe even heavily rewritten? Pipelines rebuilt? And the servers underneath them, won't the management software also need to support ARM? Yeah, that's going to take some time and effort, but maybe less than you think. Workload management is becoming increasingly commodified. Orgs that have existing IT assets and tooling will have to make investments in converting their pipeline if they think it's worthwhile (and it may not be in the short term). New startups or new working groups within existing organizations though have no such baggage. They probably won't even run their own servers. Fully-managed containerization platforms or partially-managed platforms powered by something like Kubernetes (think GKE, EKS, AKS) mean that the cloud provider deals with running the servers, and you just ship them the workload. Are you in a golang shop? Target ARM and push.\n\nA tailwind to all this is Apple's shift to ARM, and while it may not have an outsized effect on the datacentre, it doesn't hurt.\n\nLong story short: AMD and Nvidia will make things interesting for Intel in the coming years, but if you want to know where the industry is going, look to ARM.\n\nEDIT: Lot of comments pointing out Nvidia's ownership of ARM. Yep, I get it, this is an investing sub and readers are going to be looking at this at a business perspective. ARM is a major _architectural_ change in technology though, which is typically a hard sell, but is being made not only possible but desirable due to the commodification of the datacentre. If you want to buy the winner then buy the winner, but no one is asking why ARM is all of a sudden positioned to succeed in the datacentre now when the chips have been around for decades.",
-        "created_utc": 1603416692,
-        "id": "g9pp4sd",
-        "score": 18,
-        "subreddit": "investing",
-        "created": 1603445492.0
-    },
-    {
-        "author": "khaominer",
-        "body": "I forget what company, I think bell, but when the major telecom dissolved and split into MCI my mentors friend told him to go all in. He was kinda like cool but I dunno and didn't mess with it. His friend dumped 2k+ a month for years into it.\n\nThey get together a few years later at his friends giant mansion on the Potomac river just outside of dc. He's like Jesus fuck, how much did you make? \"I can't tell you it would make you sick, more money than you could ever spend.\" My mentor estimated upwards of 100mil based on continual investment and holding through multiple splits.\n\nSirius XM comes out, hasn't even launched any satellites yet and mentor is like naw I'm not missing out this time. Tells me to take his advice and dump anything I can. It's at like $0.25 a share. Sadly he passed so I never learned his gains, and didn't put money into it. While he or I wouldn't have MCI money, he would also never have to worry about money again.\n\nWhen I was poor as shit, but involved in tech, I told everyone I knew to do the same to amd at $3. And Nvidia at $22. I was living in the negative and just couldn't.\n\nRIP. I've got $13.85 in my bank account.",
-        "created_utc": 1603313689,
-        "id": "g9kwrue",
-        "score": 18,
-        "subreddit": "wallstreetbets",
-        "created": 1603342489.0
     },
     {
         "author": "stonkpicks",
         "body": "Mango on a Peloton after eating a Beyond Meat burger getting ready to game with his new Nvidia video card.",
         "created_utc": 1601847721,
         "id": "g7q5icd",
+        "permalink": "/r/wallstreetbets/comments/j55kuy/what_are_your_moves_tomorrow_october_05_2020/g7q5icd/",
         "score": 18,
         "subreddit": "wallstreetbets",
         "created": 1601876521.0
-    },
-    {
-        "author": "ohmy420",
-        "body": "If you bought NVIDIA 10 years ago you would have doubled your money every year for 10 years with 0 effort. \n\n&amp;#x200B;\n\nBut you fellas are staring at charts every day and opening retarded positions daily. It's like they fired the gun to start the race and you started breakdancing",
-        "created_utc": 1602272770,
-        "id": "g88x2y4",
-        "score": 18,
-        "subreddit": "wallstreetbets",
-        "created": 1602301570.0
-    },
-    {
-        "author": "Investinwaffl3s",
-        "body": "I am just ecstatic to no longer see any mention of GME.\n\nFuckin ruined all the DD for a solid 2 days, knock that shit off so we can stay focused on stocks that are *actually* bullish.\n\nHad you retards just bought AAPL, TWLO, or even fucking NVDA (which is literally guaranteed free money until it hits $600) we would all be celebrating together",
-        "created_utc": 1602534959,
-        "id": "g8mkci9",
-        "score": 15,
-        "subreddit": "wallstreetbets",
-        "created": 1602563759.0
     },
     {
         "author": "smallstreetgains",
         "body": "##Top trending tickers, sentiments, and options on /r/wallstreetbets for the day of October 01, 2020.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Tickers:\n\n**Ticker**|**Company**|**Mentions**|**Bulls / Bears**|**Price**|**Change**|**P/E**\n:-:|:--|:-:|:-:|:-:|:-:|:-:\nNKLA|Nikola Corporation|429|48.93% / 51.07%|$23.79|16.16%|-\nSPY|Exchange Traded Fund|255|51.90% / 48.10%|$336.98|0.62%|-\nRKT|Rocket Companies, Inc.|220|89.80% / 10.20%|$22.74|14.11%|8.23\nTSLA|Tesla, Inc.|180|80.56% / 19.44%|$448.54|4.55%|1102.85\nAMD|Advanced Micro Device|117|94.00% / 6.00%|$84.67|3.27%|163.00\nPLTR|-|108|80.00% / 20.00%|-|-|-\nAAPL|Apple Inc.|107|81.63% / 18.37%|$116.38|0.49%|35.21\nVXX|Exchange Traded Fund|74|68.75% / 31.25%|$25.22|1.27%|-\nPTON|Peloton Interactive, |72|35.29% / 64.71%|$104.72|5.52%|-\nGM|General Motors Company|58|90.48% / 9.52%|$30.31|2.43%|28.18\nNIO|NIO Limited|55|91.30% / 8.70%|$21.78|2.66%|-\nDKNG|DraftKings Inc.|50|87.50% / 12.50%|$61.66|4.79%|1069.82\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Options:\n\n**Ticker**|**Strike**|**Type**|**Expiration**\n:-:|:-:|:-:|:-:\nMSFT|$225|Call|10/23\nSPY|$337|Put|10/2\nSPY|$338|Call|10/7\nTSLA|$420|Call|10/2\nAAPL|$115|Call|3/19\nAAPL|$112|Put|10/23\nTSLA|$500|Call|1/2023\nNVDA|$650|Call|10/16\nNKLA|$21|Call|10/2\nAMZN|$3900|Call|11/6\nNKLA|$35|Call|11/6\nBABA|$300|Call|11/20\nDNKN|$85|Call|10/16\nGME|$10|Call|10/2\nAAL|$13|Call|10/9\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Sentiment:\n\n**Sentiment**|**Comments**|**%**\n:--|:--|:--\nBullish|789|60.69%\nNeutral|7928|-\nBearish|511|39.31%\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Other Data:\n\n**Overall Market Sentiment:** Bullish\n\n**Comments Searched:** 9228\n\n**Newly Trending Tickers:** None\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nYou can view all top trending tickers on /r/RedditTickers.\n\nNotice an error or have questions? Reply to this post or message /u/smallstreetgains.\n\nFinancial data provided by [finviz](https://finviz.com/).",
         "created_utc": 1601582874,
         "id": "g7bpixb",
+        "permalink": "/r/wallstreetbets/comments/j3g70c/what_are_your_moves_tomorrow_october_02_2020/g7bpixb/",
         "score": 14,
         "subreddit": "wallstreetbets",
         "created": 1601611674.0
@@ -85,6 +34,7 @@
         "body": "Currently gonna do LULU or maybe NVDA",
         "created_utc": 1602131359,
         "id": "g82vqxa",
+        "permalink": "/r/wallstreetbets/comments/j76ltt/what_should_i_all_in_to_break_even_again/g82vqxa/",
         "score": 14,
         "subreddit": "wallstreetbets",
         "created": 1602160159.0
@@ -94,177 +44,77 @@
         "body": "Amazes me how many truly retarded people there are in here.  If you have November or later calls on AMD, you are going to fucking print.  The chips they just announced are game changing.  So many people fucking crying with people taking profits after the events, which happens EVERY FUCKING TIME a company has a big event.  Price target upgrades, earnings, their other event later this month.  It's so fucking bullish on AMD right now.  NVDA sold off during their event in September, and what happened barely a day later?  Went up over $35 fucking dollars lol.  It's the retards playing weeklies that are crying.  Plain and simple",
         "created_utc": 1602175522,
         "id": "g84gq42",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84gq42/",
         "score": 14,
         "subreddit": "wallstreetbets",
         "created": 1602204322.0
-    },
-    {
-        "author": "123shipping",
-        "body": "Reminds me of my Uncle when I asked what he got in his portfolio and he showed me a screenshot of AMD with an average price of 3.58 and 6590 shares.... I was like.... Why aren't you retire yet....then another screenshot of nvidia at 34.23 with 543shares..... Fxxxxxxx",
-        "created_utc": 1603657700,
-        "id": "ga3jptk",
-        "score": 14,
-        "subreddit": "stocks",
-        "created": 1603686500.0
     },
     {
         "author": "day_bowbow",
         "body": "I think he\u2019s tweeted every single day my riskiest bull position (NVDA 3/21 560C) has a large positive day smh",
         "created_utc": 1602011019,
         "id": "g7xas2u",
+        "permalink": "/r/investing/comments/j6b4g4/stocks_turn_negative_after_trump_says_white_house/g7xas2u/",
         "score": 14,
         "subreddit": "investing",
         "created": 1602039819.0
-    },
-    {
-        "author": "Matlabbro",
-        "body": "First time I have heard, \"if you want low risk go amd and nvidia\"",
-        "created_utc": 1603406328,
-        "id": "g9p6jeq",
-        "score": 13,
-        "subreddit": "investing",
-        "created": 1603435128.0
-    },
-    {
-        "author": "ThePowerWithinX",
-        "body": "Position's \n\nNVDA Calls\nAAPL Calls\nTSLA Calls\n\nAll expired and I didn't sell when they were up",
-        "created_utc": 1603511927,
-        "id": "g9ukeqk",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1603540727.0
     },
     {
         "author": "GnarlyPounderWoo",
         "body": "I\u2019m gonna give you some quick tips Incase we crash. Buy MSFT @ 200. Buy TSLA under 400 , NVDA under 500. Make them monthlies.",
         "created_utc": 1602020112,
         "id": "g7xv1pw",
+        "permalink": "/r/wallstreetbets/comments/j6chf4/what_are_your_moves_tomorrow_october_07_2020/g7xv1pw/",
         "score": 13,
         "subreddit": "wallstreetbets",
         "created": 1602048912.0
     },
     {
-        "author": "smallstreetgains",
-        "body": "##Top trending tickers, sentiments, and options on /r/wallstreetbets for the day of October 09, 2020.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Tickers:\n\n**Ticker**|**Company**|**Mentions**|**Bulls / Bears**|**Price**|**Change**|**P/E**\n:-:|:--|:-:|:-:|:-:|:-:|:-:\nGME|GameStop Corp.|2021|68.85% / 31.15%|$12.02|-10.90%|-\nAMD|Advanced Micro Device|732|82.91% / 17.09%|$83.10|-3.94%|165.21\nSPY|Exchange Traded Fund|334|59.41% / 40.59%|$346.85|0.89%|-\nAAPL|Apple Inc.|210|92.22% / 7.78%|$116.97|1.74%|35.56\nTSLA|Tesla, Inc.|154|77.05% / 22.95%|$434.00|1.90%|1115.68\nPTON|Peloton Interactive, |111|67.44% / 32.56%|$123.02|6.97%|-\nMSFT|Microsoft Corporation|100|82.35% / 17.65%|$215.81|2.48%|37.44\nAMZN|Amazon.com, Inc.|96|82.98% / 17.02%|$3286.65|3.01%|126.33\nDKNG|DraftKings Inc.|96|68.89% / 31.11%|$48.82|-4.52%|887.64\nKODK|Eastman Kodak Company|77|83.33% / 16.67%|$10.01|12.98%|-\nVXX|Exchange Traded Fund|77|84.44% / 15.56%|$22.29|-5.19%|-\nRKT|Rocket Companies, Inc.|73|89.29% / 10.71%|$22.96|1.01%|9.48\nSLV|Exchange Traded Fund|67|93.33% / 6.67%|$23.41|5.55%|-\nUPS|United Parcel Service|65|95.83% / 4.17%|$174.69|0.28%|34.71\nFSLY|Fastly, Inc.|54|68.97% / 31.03%|$126.58|9.38%|-\nNVDA|NVIDIA Corporation|52|92.31% / 7.69%|$550.51|-0.55%|100.94\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Options:\n\n**Ticker**|**Strike**|**Type**|**Expiration**\n:-:|:-:|:-:|:-:\nGME|$12|Put|10/9\nGME|$20|Call|10/16\nAMD|$85|Put|10/9\nAMD|$87|Put|10/9\nSPY|$350|Call|10/16\nPTON|$70|Call|10/16\nEBAY|$60|Call|10/30\nCGC|$15|Call|10/30\nSPY|$360|Call|10/30\nMSFT|$250|Call|12/1\nL|$30|Call|16/21\nPTON|$135|Call|10/16\nAAPL|$120|Call|11/20\nVXX|$26|Call|10/30\nUPS|$175|Call|10/23\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Sentiment:\n\n**Sentiment**|**Comments**|**%**\n:--|:--|:--\nBullish|1267|60.91%\nNeutral|12818|-\nBearish|813|39.09%\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Other Data:\n\n**Overall Market Sentiment:** Bullish\n\n**Comments Searched:** 14898\n\n**Newly Trending Tickers:** AMZN, KODK, SLV, NVDA\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nYou can view all top trending tickers on /r/RedditTickers.\n\nNotice an error or have questions? Reply to this post or message /u/smallstreetgains.\n\nFinancial data provided by [finviz](https://finviz.com/).",
-        "created_utc": 1602279831,
-        "id": "g899stl",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1602308631.0
-    },
-    {
-        "author": "minnim",
-        "body": "Bought Nvidia with 100% margin seconds before dropping 3% \ud83e\udd21",
-        "created_utc": 1603773517,
-        "id": "ga8sbig",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1603802317.0
-    },
-    {
-        "author": "BabisAllos",
-        "body": "Holy shit... AMD really beat NVIDIA in GPUs? AMD is fucking brutal. First Intel, now NVIDIA. Wondering why it ain\u2019t mooning already",
-        "created_utc": 1603902511,
-        "id": "gae81r0",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1603931311.0
-    },
-    {
-        "author": "monkeyseal42",
-        "body": "NVDA 600c 11/23",
-        "created_utc": 1602645816,
-        "id": "g8rhgq1",
+        "author": "braamdepace",
+        "body": "If you just heard about the NVDA AI play I\u2019ve got an electric car company name that will knock your socks off",
+        "created_utc": 1601942805,
+        "id": "g7uh4t1",
+        "permalink": "/r/wallstreetbets/comments/j5s7on/jensens_ai_keynote_today_was_hype/g7uh4t1/",
         "score": 11,
         "subreddit": "wallstreetbets",
-        "created": 1602674616.0
+        "created": 1601971605.0
     },
     {
         "author": "HWL_Nissassa",
         "body": "AMD is about to shit on NVDA and INTC in the same month.",
         "created_utc": 1601856118,
         "id": "g7qk4m9",
+        "permalink": "/r/wallstreetbets/comments/j55kuy/what_are_your_moves_tomorrow_october_05_2020/g7qk4m9/",
         "score": 11,
         "subreddit": "wallstreetbets",
         "created": 1601884918.0
-    },
-    {
-        "author": "Give_me_an_M3",
-        "body": "AMD announced acquisition on NVDA",
-        "created_utc": 1602291616,
-        "id": "g89t96i",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1602320416.0
     },
     {
         "author": "Danny_K__",
         "body": "I use the computer nerd at my work as dd for nvda and AMD, he\u2019s bullish, so I am too",
         "created_utc": 1601948482,
         "id": "g7urhbj",
+        "permalink": "/r/wallstreetbets/comments/j5qsww/what_are_your_moves_tomorrow_october_06_2020/g7urhbj/",
         "score": 11,
         "subreddit": "wallstreetbets",
         "created": 1601977282.0
-    },
-    {
-        "author": "hoopaholik91",
-        "body": "Intel had 4.5x the revenue and 8x the earnings of NVDA this quarter. It's valued 33% less.",
-        "created_utc": 1603397986,
-        "id": "g9ooeml",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1603426786.0
     },
     {
         "author": "eternaliving",
         "body": "FedEx let someone sign for my Nvidia delivery that I never received.   Must clear this feeling before I decide on some moves.",
         "created_utc": 1602127183,
         "id": "g82ph0s",
+        "permalink": "/r/wallstreetbets/comments/j6ybvz/what_are_your_moves_tomorrow_october_08_2020/g82ph0s/",
         "score": 11,
         "subreddit": "wallstreetbets",
         "created": 1602155983.0
-    },
-    {
-        "author": "PayPal_Bull",
-        "body": "I'm holding Amd and Nvidia, when it dips like this I buy more",
-        "created_utc": 1603906260,
-        "id": "gaegasc",
-        "score": 11,
-        "subreddit": "investing",
-        "created": 1603935060.0
-    },
-    {
-        "author": "edison_joao",
-        "body": "man never playing an event every again, tesla battery day, new iphones, nvidia chip, all fucked up the stock smh",
-        "created_utc": 1602880670,
-        "id": "g91eaa0",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1602909470.0
-    },
-    {
-        "author": "UBCStudent9929",
-        "body": "you retard. the only reason nvidia was trying to launch higher VRAM cards was in order to compete with AMD since they will launch only 16gb and 8gb variants. Nvidia cancelling these cards means that they know AMD won't be able to compete at the high end, which is bullish not bearish",
-        "created_utc": 1603311668,
-        "id": "g9ksk8d",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1603340468.0
-    },
-    {
-        "author": "Space_Lord_MF",
-        "body": "AMD has done it. No one said they could make something that comes close to NVIDIA. Well, they not only came close, they made something that delivers the same performance on average and are selling it for $500 less.",
-        "created_utc": 1603902739,
-        "id": "gae8jvg",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1603931539.0
     },
     {
         "author": "GnarlyPounderWoo",
         "body": "I think the next stock to start moving like TSLA is NVDA. It has been on a absolute tear with acquisitions (pending), innovation, partnerships/deals, leadership, growing moat and etc. I wouldn\u2019t be surprised if we are in a future where we are casually talking about NVDA to $1000 or jumping in on a split.",
         "created_utc": 1601928970,
         "id": "g7tp3br",
+        "permalink": "/r/wallstreetbets/comments/j5qsww/what_are_your_moves_tomorrow_october_06_2020/g7tp3br/",
         "score": 9,
         "subreddit": "wallstreetbets",
         "created": 1601957770.0
@@ -274,24 +124,17 @@
         "body": "honestly, NVDA has been popping lately\n\nbought my contracts in July and I'm up 100% on them as of today (it might be a different story tomorrow though).  The expiration date isn't until 2021 so I'm good.",
         "created_utc": 1602131683,
         "id": "g82w79e",
+        "permalink": "/r/wallstreetbets/comments/j76ltt/what_should_i_all_in_to_break_even_again/g82w79e/",
         "score": 9,
         "subreddit": "wallstreetbets",
         "created": 1602160483.0
-    },
-    {
-        "author": "laken906",
-        "body": "Someone wanna remind Intel, AMD, Nvidia that they are tech stocks and today's a green day?",
-        "created_utc": 1602265960,
-        "id": "g88kdug",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1602294760.0
     },
     {
         "author": "I_have_a_dog",
         "body": "Easy money buying puts on Friday while half of Washington ends up getting \ud83c\udf7a flu over the weekend. \n\nInstead I decided to inverse myself and buy NVDA, AAPL and HTHT calls at 3:50. Stocks only go up, after all.",
         "created_utc": 1601758351,
         "id": "g7k05pt",
+        "permalink": "/r/wallstreetbets/comments/j41xw2/weekend_discussion_thread_for_the_weekend_of/g7k05pt/",
         "score": 9,
         "subreddit": "wallstreetbets",
         "created": 1601787151.0
@@ -301,6 +144,7 @@
         "body": "It would be cool if AAPL and NVDA went up this week.",
         "created_utc": 1601853621,
         "id": "g7qfx8c",
+        "permalink": "/r/wallstreetbets/comments/j55kuy/what_are_your_moves_tomorrow_october_05_2020/g7qfx8c/",
         "score": 9,
         "subreddit": "wallstreetbets",
         "created": 1601882421.0
@@ -310,6 +154,7 @@
         "body": "If you thought it was as easy as buying puts on a red Friday you deserved to lose half your portfolio today. \n\nNVDA and AAPL weekly calls are always the way after they get a 4% haircut.",
         "created_utc": 1601930398,
         "id": "g7tslba",
+        "permalink": "/r/wallstreetbets/comments/j5qsww/what_are_your_moves_tomorrow_october_06_2020/g7tslba/",
         "score": 9,
         "subreddit": "wallstreetbets",
         "created": 1601959198.0
@@ -319,6 +164,7 @@
         "body": "**LETS GET SOME POSITIONS OTHER THAN GME PEOPLE**\n\nAMZN, SE, HYLN, and NVDA weeklies \n\nThen ARKK, ARKF, and NET leaps\n\nLooking to add DDOG and GOOGL during the next pullback",
         "created_utc": 1602203075,
         "id": "g862keg",
+        "permalink": "/r/wallstreetbets/comments/j7kf7w/what_are_your_moves_tomorrow_october_09_2020/g862keg/",
         "score": 9,
         "subreddit": "wallstreetbets",
         "created": 1602231875.0
@@ -328,159 +174,77 @@
         "body": "You would have to work a 55 hour work week to buy one share of NVIDIA. And that\u2019s spending ALL of your money on ONE share. Seems...dumb.",
         "created_utc": 1602195614,
         "id": "g85ph60",
+        "permalink": "/r/stocks/comments/j7miub/looking_to_invest_in_nvidia_and_amd_to_help_pay/g85ph60/",
         "score": 9,
         "subreddit": "stocks",
         "created": 1602224414.0
-    },
-    {
-        "author": "Sillybanana7",
-        "body": "2017 was AMD. MU. Shop. Nvda. Sq. It was basically the same shit.  In 1920s it was steel stocks, railroad stocks(now worthless) https://s.yimg.com/os/en/homerun/feed_manager_auto_publish_494/65eb6c95a33140356ed59d127d92c0c0\nLooks like banks always win",
-        "created_utc": 1603067525,
-        "id": "g99zexa",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1603096325.0
     },
     {
         "author": "hotwingbias",
         "body": "Bought to get extremely high and rewatch The Matrix. Ain't seen it since 1998 or whatever when I went to the movies with my boyfriend and we didn't really pay that much attention to the screen. All I know of the movie at this point is memes. \n\nAlso fucking PLEASE Morpheus or whoever, please let my NVDA and MSFT calls print bigly tomorrow.",
         "created_utc": 1602113281,
         "id": "g81zvya",
+        "permalink": "/r/wallstreetbets/comments/j6ybvz/what_are_your_moves_tomorrow_october_08_2020/g81zvya/",
         "score": 9,
         "subreddit": "wallstreetbets",
         "created": 1602142081.0
     },
     {
-        "author": "Kommoncents1",
-        "body": "How much did you lose on AMD and NVDA?",
-        "created_utc": 1603824155,
-        "id": "gaasvn7",
-        "score": 9,
+        "author": "FistEnergy",
+        "body": "Starting to think I should just throw my portfolio at AMD/NVDA and uninstall my apps for a month",
+        "created_utc": 1601926545,
+        "id": "g7tjsv1",
+        "permalink": "/r/wallstreetbets/comments/j5guae/daily_discussion_thread_for_october_05_2020/g7tjsv1/",
+        "score": 8,
         "subreddit": "wallstreetbets",
-        "created": 1603852955.0
+        "created": 1601955345.0
     },
     {
         "author": "uaoleksiy",
         "body": "dont trust this pump.. got 3k spread out between FSLY 110Ps, NVDA 540Ps and SPY 337Ps",
         "created_utc": 1602099854,
         "id": "g819shn",
+        "permalink": "/r/wallstreetbets/comments/j6o9s8/daily_discussion_thread_for_october_07_2020/g819shn/",
         "score": 8,
         "subreddit": "wallstreetbets",
         "created": 1602128654.0
-    },
-    {
-        "author": "simplenicc",
-        "body": "Another huge green day means another friendly FOMO reminder\n\nOn March 23\n\nAMZN was $1900\n\nTSLA was $86 (5-1)\n\nSHOP was $375\n\nNFLX was $360\n\nAAPL was $56 (4-1)\n\nSPY was $222\n\nNVDA was $212\n\nSQ was $40\n\nCVNA was $35\n\nW was $30\n\nFSLY was $18\n\nPENN was $4\n\nOSTK was $4\n\nAdd to this list, probably missing some lol",
-        "created_utc": 1602541535,
-        "id": "g8mwpaz",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1602570335.0
-    },
-    {
-        "author": "freehouse_throwaway",
-        "body": "Lol like 80% of my position in mid term account is red. Only thing green is the nvda Jan calls I picked up near today's low.\n\nFuck. Me.",
-        "created_utc": 1604098446,
-        "id": "ganchn8",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1604127246.0
-    },
-    {
-        "author": "notgreatwithstocks",
-        "body": "VOO , VTI or QQQ for low risk look them up on google so you know what your Investing in though\n\nIf you want some separate stocks to check out I\u2019d look at NVDA and AMZN",
-        "created_utc": 1603652895,
-        "id": "ga37dka",
-        "score": 8,
-        "subreddit": "stocks",
-        "created": 1603681695.0
     },
     {
         "author": "pelikana20",
         "body": "NVDA: High maintenance, will eventually cuck you \n\nAMD: Gets straight As, in a love-hate relationship with her Tiger mom\n\nTSM: No tits but has good waifu skills",
         "created_utc": 1601919298,
         "id": "g7t540y",
+        "permalink": "/r/wallstreetbets/comments/j5guae/daily_discussion_thread_for_october_05_2020/g7t540y/",
         "score": 8,
         "subreddit": "wallstreetbets",
         "created": 1601948098.0
-    },
-    {
-        "author": "SirKrohan",
-        "body": "So, fellow retards, what are we buying cheap ish?\n\nI am eyeing the following:\n\nAPPL, TSLA, NVDA\n\nConvince me not to",
-        "created_utc": 1603379477,
-        "id": "g9njztz",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1603408277.0
-    },
-    {
-        "author": "hvc801",
-        "body": "Im laughing so hard at the \"persistence\" from both Nancy and Steven. Only to have McConnell take a nice shit on \"progress\" after weeks of \"talking\". Whole fucking thing is a joke. Just let us know its not happening so we can get thjs show on the road.\n\nEdit: only positions are NVDA 3/19/21 700C and SPY  345 11/20. ~10k worth. Because I know its going down, im inversing mgaelf.",
-        "created_utc": 1603381648,
-        "id": "g9nodmb",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1603410448.0
-    },
-    {
-        "author": "AllHailtheBeard1",
-        "body": "Nvidia, AMD, ARM, AWS, Azure, GCP all doing better than expected. Intel really seems to be going on steam here. The dangers of being a Wall St baby for too long I guess - you get really good at 'business efficiency' and less good at other stuff I guess.",
-        "created_utc": 1603416726,
-        "id": "g9pp716",
-        "score": 8,
-        "subreddit": "investing",
-        "created": 1603445526.0
     },
     {
         "author": "bigdogjohan",
         "body": "Selling my Amazon, Nvidia and amd shares to all in $8000 on Tesla",
         "created_utc": 1601578369,
         "id": "g7befes",
+        "permalink": "/r/wallstreetbets/comments/j35to3/daily_discussion_thread_for_october_01_2020/g7befes/",
         "score": 8,
         "subreddit": "wallstreetbets",
         "created": 1601607169.0
-    },
-    {
-        "author": "Matlabbro",
-        "body": "What does this mean for Amd and nvidia? Amd went up then back down.",
-        "created_utc": 1603407292,
-        "id": "g9p8a9w",
-        "score": 8,
-        "subreddit": "investing",
-        "created": 1603436092.0
-    },
-    {
-        "author": "Investinwaffl3s",
-        "body": "My saga of retardation continues!!\n\n$140K Feb --&gt; $230k Aug --&gt; $280K Sept --&gt; $190K Oct (ouch) --&gt; $240K today!!!!\n\nSpecial shout out to NET, FSLY, NVDA, AAPL, AMD, and TWLO for saving my ass this month\ud83d\udc96",
-        "created_utc": 1602534704,
-        "id": "g8mjum3",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1602563504.0
     },
     {
         "author": "Shorter_McGavin",
         "body": "I own 4 names.  NVDA, PTON, TDOC, ETSY. I am very, very rich",
         "created_utc": 1602087183,
         "id": "g80jozu",
+        "permalink": "/r/wallstreetbets/comments/j6o9s8/daily_discussion_thread_for_october_07_2020/g80jozu/",
         "score": 7,
         "subreddit": "wallstreetbets",
         "created": 1602115983.0
-    },
-    {
-        "author": "ReverseSalmonLadder",
-        "body": "AMD is about to pull a NVDA tomorrow",
-        "created_utc": 1602216337,
-        "id": "g86p564",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1602245137.0
     },
     {
         "author": "lIlIlIlIlIlII",
         "body": "This shit sucks compared to NVDA 3000 series , NVDA 3000 series performance boost is crazy.",
         "created_utc": 1602174225,
         "id": "g84e2tc",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84e2tc/",
         "score": 7,
         "subreddit": "wallstreetbets",
         "created": 1602203025.0
@@ -490,24 +254,17 @@
         "body": "Where have you been? PE is like 160 now, although it's completely irrelevant right now. All that matters is what share AMD will take from Intel / Nvidia. I think we could easily see 30% in a year or 2 considering AMD have better/directly competing products.\n\nIf there is a semiconductor correction I'm more worried about the 2 companies worth 550bn with similar products than the one worth 100bn.",
         "created_utc": 1601854980,
         "id": "g7qi7l7",
+        "permalink": "/r/wallstreetbets/comments/j57zlq/amd_going_to_100_this_month/g7qi7l7/",
         "score": 7,
         "subreddit": "wallstreetbets",
         "created": 1601883780.0
-    },
-    {
-        "author": "Bluerigg",
-        "body": "Cramer just basically endorsed joe, here's my notes\n\nCramer 10/14: Biden Win Stocks\n\n(Better china relationship)\n\n\\-Apple\n\n\\-Amd\n\n\\-Nvidia\n\n\\-Boeing\n\n\\-Nike\n\n\\-Mastercard\n\n\\-Disney\n\n\\-Costco\n\n\\-UPS",
-        "created_utc": 1602713409,
-        "id": "g8u9vy5",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1602742209.0
     },
     {
         "author": "shadycthulu",
         "body": "I don't think amazon or nvda is phased by restaurants going out of business",
         "created_utc": 1601566963,
         "id": "g7aoc3j",
+        "permalink": "/r/investing/comments/j37qh4/initial_jobless_claims_for_the_week_ending_on/g7aoc3j/",
         "score": 7,
         "subreddit": "investing",
         "created": 1601595763.0
@@ -517,6 +274,7 @@
         "body": "NVDA CALLS for next week. NVDA event next week GTC",
         "created_utc": 1601659459,
         "id": "g7f5xtj",
+        "permalink": "/r/wallstreetbets/comments/j3rz7r/daily_discussion_thread_for_october_02_2020/g7f5xtj/",
         "score": 7,
         "subreddit": "wallstreetbets",
         "created": 1601688259.0
@@ -526,42 +284,17 @@
         "body": "Nvidia = Latin for envy (Invidia)\n\nEnvy = green\n\n \u2234\u00a0 NVDA = green",
         "created_utc": 1602002431,
         "id": "g7wqzmz",
+        "permalink": "/r/wallstreetbets/comments/j62ihd/daily_discussion_thread_for_october_06_2020/g7wqzmz/",
         "score": 7,
         "subreddit": "wallstreetbets",
         "created": 1602031231.0
-    },
-    {
-        "author": "Investinwaffl3s",
-        "body": "Fucking RIP NVDA\n\nEven the 3090 wasn't enough to keep AMD at bay, LMAOOO",
-        "created_utc": 1603902443,
-        "id": "gae7wdh",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1603931243.0
-    },
-    {
-        "author": "Alexander-305",
-        "body": "AMD should be big. New graphics cards releasing this week and their competition NVDA dropped the ball",
-        "created_utc": 1603690703,
-        "id": "ga54jhr",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1603719503.0
-    },
-    {
-        "author": "iminfornow",
-        "body": "So what does this report mean for amd/nvidia?",
-        "created_utc": 1603415609,
-        "id": "g9pmzz9",
-        "score": 7,
-        "subreddit": "investing",
-        "created": 1603444409.0
     },
     {
         "author": "iamchromes",
         "body": "Remember the NVDA event? It tanked after and the next day it was almost 600. Amd 95 eow",
         "created_utc": 1602176244,
         "id": "g84i75k",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84i75k/",
         "score": 7,
         "subreddit": "wallstreetbets",
         "created": 1602205044.0
@@ -571,15 +304,27 @@
         "body": "There were 56 total comments on that thread before it was locked. Here are sample of the removed comments:\n\n\n&gt;I swear that orange bitch saw me slowly climbing out of the hole and decided to crash the market again.\n\n\n\n&gt;Oh no my $200 stimulus what ever will I do now /s \ud83d\ude02\n\n&gt;Thanks Oba....I mean Trump\n\n\n&gt;Fuck! Get him the fuck out of that office. Now.\n\n\n&gt;Is he bipolar?\n\n&gt;Does this question really need to be asked? https://www.reddit.com/r/TrumpCriticizesTrump/\n\n\n\n&gt;Roids must be screwing with his mind.\n\n&gt;My puts jumped up 150% \ud83d\ude02\n \n\n&gt;Sounds like fake news, Trump has integrity he told me so.\n\n\n \n\n&gt;no shit, fucking buffoon. will see how hes going to spin this shit. he was way better off sending out stimulus checks to get in the good graces with more 'trump bucks' but this is now straight up hostage taking\n\n&gt;Omg, Legit just sold everything. Thank the lord I caught it happening, I just saved myself a 10% decrease in my portfolio. Probably going to go slow until he either tests negative for Covid-19 or until the election results.\n\n\n\n &gt;I think he\u2019s tweeted every single day my riskiest bull position (NVDA 3/21 560C) has a large positive day smh\n\n\n\n&gt;I just bought $6k of nvda 10 minutes prior to the Great Orange tweeting his royal decree.\n\n&gt;Lol #730274628 why he\u2019s a cunt\n\n\n&gt;\ud83e\udd26\u200d\u2642\ufe0f\n\n\nA few things: your personal opinion on the president is irrelevant. Two, your personal positions performance is also irrelevant. It isn't helpful to anyone to tell your how your $6k of NVDA is performing. If you want to discuss how NVDA may be impacted by his decision, go right on ahead. \n\nThird, if you're coming to /r/investing for current market information, you're already too late.",
         "created_utc": 1602088830,
         "id": "g80n0fj",
+        "permalink": "/r/investing/comments/j6tktn/meta_thread_re_can_the_mods_stop_locking_threads/g80n0fj/",
         "score": 7,
         "subreddit": "investing",
         "created": 1602117630.0
+    },
+    {
+        "author": "I_have_a_dog",
+        "body": "Must really suck for bears that the only red days happen when the markets are closed. \n\nThank god I spent all day Friday buying NVDA and AAPL calls.",
+        "created_utc": 1601850382,
+        "id": "g7qa9v1",
+        "permalink": "/r/wallstreetbets/comments/j55kuy/what_are_your_moves_tomorrow_october_05_2020/g7qa9v1/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1601879182.0
     },
     {
         "author": "Monkeycash",
         "body": "Nvidia &amp; AMD are owned by one family. \n\nBoth to da moon pls. \n\nhttps://babeltechreviews.com/nvidias-ceo-is-the-uncle-of-amds-ceo/",
         "created_utc": 1602005658,
         "id": "g7wy7kv",
+        "permalink": "/r/wallstreetbets/comments/j62ihd/daily_discussion_thread_for_october_06_2020/g7wy7kv/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602034458.0
@@ -589,6 +334,7 @@
         "body": "All of nvda gains wiped out by a tweet \ud83d\ude13",
         "created_utc": 1602023460,
         "id": "g7y18u8",
+        "permalink": "/r/wallstreetbets/comments/j6chf4/what_are_your_moves_tomorrow_october_07_2020/g7y18u8/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602052260.0
@@ -598,6 +344,7 @@
         "body": "I could really use an NVDA stock split announcement",
         "created_utc": 1602178010,
         "id": "g84lsm8",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84lsm8/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602206810.0
@@ -607,69 +354,27 @@
         "body": "This is why AMD is the future. Look at Lisa compared to Intel\u2019s loser presentation.\n\nAMD and NVDA baby!",
         "created_utc": 1602173192,
         "id": "g84c1qf",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84c1qf/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602201992.0
-    },
-    {
-        "author": "Ekos640",
-        "body": "Nvidia pays for my GPU upgrades",
-        "created_utc": 1602552372,
-        "id": "g8nf7cq",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1602581172.0
-    },
-    {
-        "author": "Investinwaffl3s",
-        "body": "What a weird ass day \n\nShit is all over the place,, half my stocks are drilling to earths core (AMD, NVDA, DKNG), the other half are pointing to the fucking moon (DDOG, PTON, FSLY)",
-        "created_utc": 1602258061,
-        "id": "g884tj8",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1602286861.0
-    },
-    {
-        "author": "_MoveSwiftly",
-        "body": "AMD calls aren't like this. They delve into each sector with more details, and give insight on what to expect for future products.\n\nI feel more comfortable listening to them and Nvidia than Intel. Hell, even Nokia gave me more insight in their call. It was insight to sell, but nevertheless more info.",
-        "created_utc": 1603407082,
-        "id": "g9p7wod",
-        "score": 6,
-        "subreddit": "investing",
-        "created": 1603435882.0
-    },
-    {
-        "author": "ranjithkumar121",
-        "body": "good god NFLX. is this the fate of all Tech stocks. im holding FB, AAPL, AMD, NVDA bullish spreads for earnings run ups and NFLX just dropped a bomb right now.",
-        "created_utc": 1603224766,
-        "id": "g9gvpnx",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1603253566.0
     },
     {
         "author": "redheadedhorsey",
         "body": "Woah Tesla! Congrats on losing a whole week worth of gains in 1 day! Don\u2019t worry, if you feel lonely, nvda is right behind you",
         "created_utc": 1601668687,
         "id": "g7frnbk",
+        "permalink": "/r/wallstreetbets/comments/j3rz7r/daily_discussion_thread_for_october_02_2020/g7frnbk/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1601697487.0
-    },
-    {
-        "author": "Dmoan",
-        "body": "Word on street is the new AMD cards are serious threat to Nvidia cards.",
-        "created_utc": 1603903300,
-        "id": "gae9rt0",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1603932100.0
     },
     {
         "author": "reditt84",
         "body": "Buy and Hold two weeks out calls at least \nThese dips force people to sell but quietly tech is still climbing \nNvda \nAmazon\nApple \nDocu \n\nBuy and hold. Fuck the market makers stealing money from us",
         "created_utc": 1601945909,
         "id": "g7umr1p",
+        "permalink": "/r/wallstreetbets/comments/j5qsww/what_are_your_moves_tomorrow_october_06_2020/g7umr1p/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1601974709.0
@@ -679,6 +384,7 @@
         "body": "Sector rotation into NAAN\n\nNVIDIA AMD amazon Netflix",
         "created_utc": 1601936690,
         "id": "g7u6hej",
+        "permalink": "/r/wallstreetbets/comments/j5qsww/what_are_your_moves_tomorrow_october_06_2020/g7u6hej/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1601965490.0
@@ -688,6 +394,7 @@
         "body": "NVIDIA is still 1.4% higher than yesterday this is crazy. I am regretful not buying NVIDIA",
         "created_utc": 1602013487,
         "id": "g7xgxa0",
+        "permalink": "/r/wallstreetbets/comments/j62ihd/daily_discussion_thread_for_october_06_2020/g7xgxa0/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602042287.0
@@ -697,6 +404,7 @@
         "body": "Anyone catch that video card preview? Lisa Su just made Intel suck her dick, she's doing nVidia on the 28th.",
         "created_utc": 1602174475,
         "id": "g84ekub",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84ekub/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602203275.0
@@ -706,6 +414,7 @@
         "body": "literally, AMD event was like NVDA, had PTSD and sold at the top",
         "created_utc": 1602174853,
         "id": "g84fcl8",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84fcl8/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602203653.0
@@ -715,6 +424,7 @@
         "body": "Thanks to NVDA my 1 day chart is literally a fucking \u201cL\u201d lol",
         "created_utc": 1602185844,
         "id": "g853a0a",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g853a0a/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602214644.0
@@ -724,78 +434,27 @@
         "body": "So mr market thinks just because Mangoman caught the rona Apple sells less phones, people spend less on amazon, nvda sells less chips or businesses spend less money on digital advertising on goog or fb? I\u2018m not buying that, I\u2018m buying the dip",
         "created_utc": 1601653493,
         "id": "g7etqeu",
+        "permalink": "/r/wallstreetbets/comments/j3rz7r/daily_discussion_thread_for_october_02_2020/g7etqeu/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1601682293.0
-    },
-    {
-        "author": "michael370662",
-        "body": "Don't touch intc.\n\nHDM2 and GDDR 6 ram is used exclusively for data Centre. Their superior size compared to L3 cache makes them ideal for heaps.\n\nCPU is losing importance as increasing logic gates, doesn't increase critical performance.\n\nShort intc all the way to 5 dollar because it is another Nokia in the making.\n\nAAPL destroyed Nok. AMD and NVDA will destroyed INTC.",
-        "created_utc": 1603812796,
-        "id": "gaa4nm9",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1603841596.0
-    },
-    {
-        "author": "ranjithkumar121",
-        "body": "wtf MSFT. my calls are fucked.  i should prolly close out my AAPL &amp; NVDA options cos they ain't gonna recover the way these tech stocks are beating earnings and still tanking hard.",
-        "created_utc": 1603840473,
-        "id": "gabpseh",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1603869273.0
     },
     {
         "author": "lululemonhead",
         "body": "I have 150k cash sitting in my account waiting to strike. Was kicking myself missing amzn at 2900 and NVDA at low 400 a few weeks back...but I\u2019m being patient and fighting fomo. I lost 120k back in 2018 on the trade talk shit and have finally made that back plus 30k by not being a retarded greedy fuck",
         "created_utc": 1601681645,
         "id": "g7gnmjr",
+        "permalink": "/r/wallstreetbets/comments/j41xw2/weekend_discussion_thread_for_the_weekend_of/g7gnmjr/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1601710445.0
-    },
-    {
-        "author": "Recoil42",
-        "body": "You can \u2014 buy NVDA and TSMC.",
-        "created_utc": 1603420744,
-        "id": "g9pxpnn",
-        "score": 6,
-        "subreddit": "investing",
-        "created": 1603449544.0
-    },
-    {
-        "author": "PassiveF1st",
-        "body": "Definitely not. They are murdering Intel and if the rumors are true they are going to press NVidia into at least not price gouging us anymore. Win-Win for everyone (competition)",
-        "created_utc": 1603411331,
-        "id": "g9pfcrv",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1603440131.0
-    },
-    {
-        "author": "old-wizz",
-        "body": "Write Intel calls, easy money for years to come. With profits buy AMD and Nvidia calls. A classic bully the loser, bang the winner",
-        "created_utc": 1603488634,
-        "id": "g9swarh",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1603517434.0
-    },
-    {
-        "author": "Steelersfannick",
-        "body": "This happens every fucking year. \n\nAMD graphics suck ass, and always will. \nEvery big title has Nvidia features. \n\nIt\u2019ll be a repeat of last years card with a new name. Case closed.",
-        "created_utc": 1603301778,
-        "id": "g9k7sk1",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1603330578.0
     },
     {
         "author": "FFaddict13",
         "body": "Loaded to my man tits with ODTE calls on NVDA, LULU, BABA, and DOCU...that means we're redder than a baboon's ass tomorrow.",
         "created_utc": 1602188174,
         "id": "g858po5",
+        "permalink": "/r/wallstreetbets/comments/j7kf7w/what_are_your_moves_tomorrow_october_09_2020/g858po5/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602216974.0
@@ -805,51 +464,87 @@
         "body": "Su Bae really is about that pay tience. Xlnx. Just like NVDA buying Arm.",
         "created_utc": 1602206799,
         "id": "g8696wg",
+        "permalink": "/r/wallstreetbets/comments/j7kf7w/what_are_your_moves_tomorrow_october_09_2020/g8696wg/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1602235599.0
-    },
-    {
-        "author": "IronManKillsThanos",
-        "body": "NVDA you sack of shit",
-        "created_utc": 1602266441,
-        "id": "g88lbg2",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1602295241.0
-    },
-    {
-        "author": "Investinwaffl3s",
-        "body": "My portfolio is 90% tech \ud83e\udd11\n\nFuck diversification - tech literally can't go tits up. Long live CloudFlare, FSLY, PTON, NVDA, AAPL, FB, TSLA, TWLO, and AMZN",
-        "created_utc": 1602531594,
-        "id": "g8mdqfw",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1602560394.0
     },
     {
         "author": "worryie",
         "body": "AMD. The new CPU\u2019s are gonna throat fuck intel and their GPUs are gonna be super competitive with nvidia.",
         "created_utc": 1601854335,
         "id": "g7qh4py",
+        "permalink": "/r/wallstreetbets/comments/j55kuy/what_are_your_moves_tomorrow_october_05_2020/g7qh4py/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1601883135.0
     },
     {
-        "author": "ChadstangAlpha",
-        "body": "Putting autism aside for second, AMD is pretty much the only stock I fuck around with these days. Everything else goes into managed 401ks and IRA\u2019s. \n\nI follow the leaks pretty religiously, because one - i love money. Because two - I love computers. \n\nYour sentiment is really reminiscent of the days leading up to the Zen 2 launch, when everyone was convinced intel had it in the bag. We saw where that went. \n\nCheck out Moore\u2019s Law is Dead on YouTube. Far and away the most grounded tech tuber to cover the AMD, NVDA, INTC drama that has made us all so much money. \n\nSo, for starters, the leaks are looking really good in terms of performance parity, but that\u2019s not the driver here - it\u2019s inventory. AMD let NVDA get to market first, quietly stockpiling cards for the holiday rush while Nvidia battled with their own reputation. \n\nSo, similar to zen 2 and intel a year or so back, AMD really doesn\u2019t need to be better on a pound for pound, spec for spec basis... they just need to be comparable, affordable and available. \n\nAll signs point to at least 2 of those qualities being characteristic of their new line up. \n\nEvent is at 9am pacific time. There\u2019s still opportunity to profit off some pussy TA.\n\nEdit: Grammar is for bears.",
-        "created_utc": 1603843853,
-        "id": "gabw00e",
-        "score": 6,
+        "author": "pickpocketgnomes",
+        "body": "I blame Obama for my 50% loss on NVDA",
+        "created_utc": 1602081717,
+        "id": "g808srw",
+        "permalink": "/r/wallstreetbets/comments/j6o9s8/daily_discussion_thread_for_october_07_2020/g808srw/",
+        "score": 5,
         "subreddit": "wallstreetbets",
-        "created": 1603872653.0
+        "created": 1602110517.0
+    },
+    {
+        "author": "Te5la1",
+        "body": "It is nuts that you called 8 great plays in a row counting the LOW post that got removed. Glad to see you back at it\n\nCurrently have a position open for NVDA for their hype conference week, will get in 10/23 $175C on Friday with the proceeds",
+        "created_utc": 1601955425,
+        "id": "g7v2ykq",
+        "permalink": "/r/wallstreetbets/comments/j5xs3j/heads_ups_on_ups_discussion/g7v2ykq/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1601984225.0
+    },
+    {
+        "author": "jameskwonlee",
+        "body": "Puts on people that call Nvidia, Navidia. Calls on NVDA.",
+        "created_utc": 1602002000,
+        "id": "g7wq4i7",
+        "permalink": "/r/wallstreetbets/comments/j62ihd/daily_discussion_thread_for_october_06_2020/g7wq4i7/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1602030800.0
+    },
+    {
+        "author": "Space_Lord_MF",
+        "body": "NVIDIA dropped the day of their announcement too and then skyrocketed when people digested the news",
+        "created_utc": 1602175484,
+        "id": "g84gnap",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84gnap/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1602204284.0
+    },
+    {
+        "author": "KillOnSightz",
+        "body": "alright AMD peeps THIS IS THE REAL ANTICIPATION RUNUP. NVDA &amp; AMD 2.4% difference now",
+        "created_utc": 1602172704,
+        "id": "g84b2u1",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84b2u1/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1602201504.0
+    },
+    {
+        "author": "eclecticstalwart",
+        "body": "Netflix is more of a becky stock than a FAANG stock. The top is in for Netflix. The perfect storm  this year - an extreme boost in subs and extreme savings from no production of original content and they still are underperforming.  WSB petition to replace NFLX with NVDA.",
+        "created_utc": 1601766902,
+        "id": "g7koyr3",
+        "permalink": "/r/wallstreetbets/comments/j41xw2/weekend_discussion_thread_for_the_weekend_of/g7koyr3/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1601795702.0
     },
     {
         "author": "missing_citation",
         "body": "Got rekt morning and was 3.0% down because my stupid ass thought the President and the WH being barely functional would mean volatility. \n\nRode some perfectly timed Nvidia and Apple rallies and now I'm life 0.6% down. Still about 12% down overall. Need to hustle more",
         "created_utc": 1601928369,
         "id": "g7tnluc",
+        "permalink": "/r/wallstreetbets/comments/j5guae/daily_discussion_thread_for_october_05_2020/g7tnluc/",
         "score": 5,
         "subreddit": "wallstreetbets",
         "created": 1601957169.0
@@ -859,6 +554,7 @@
         "body": "Tf is happening to NVDA after hours?",
         "created_utc": 1602187948,
         "id": "g8585qo",
+        "permalink": "/r/wallstreetbets/comments/j7kf7w/what_are_your_moves_tomorrow_october_09_2020/g8585qo/",
         "score": 5,
         "subreddit": "wallstreetbets",
         "created": 1602216748.0
@@ -868,6 +564,7 @@
         "body": "Amd gonna bust an nvidia and moon the day after",
         "created_utc": 1602174946,
         "id": "g84fjgk",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84fjgk/",
         "score": 5,
         "subreddit": "wallstreetbets",
         "created": 1602203746.0
@@ -877,26 +574,439 @@
         "body": "I traded single stock to aggressively selling covered puts in the beginning. And in Jan I bought some calls for the first time. Tried to \u201cday trade\u201d for two months. It was very emotional taxing so in late Feb I bought some leaps. I had 10 NVDA 420C and 20 AMD 80 C leaps til Jan 15,2021 with TSLA 900C expiring in June,2020. Sold AMD in March bottom like a retard but held onto NVDA. I\u2019m posting today because I\u2019m cashing out. One call at a time. https://imgur.com/a/3KEFUqB",
         "created_utc": 1602185780,
         "id": "g853548",
+        "permalink": "/r/wallstreetbets/comments/j7jhgn/2k_in_november_2019/g853548/",
         "score": 5,
         "subreddit": "wallstreetbets",
         "created": 1602214580.0
     },
     {
-        "author": "NotMe357",
-        "body": "I think it will just be like Nvidia and ARM deal. It gonna moon until the buyout is confirmed.",
-        "created_utc": 1602209757,
-        "id": "g86eijm",
+        "author": "argc",
+        "body": "This is cool: [https://medium.com/@ageitgey/build-a-face-recognition-system-for-60-with-the-new-nvidia-jetson-nano-2gb-and-python-46edbddd7264](https://medium.com/@ageitgey/build-a-face-recognition-system-for-60-with-the-new-nvidia-jetson-nano-2gb-and-python-46edbddd7264)\n\nnvda 10/9 800, or something",
+        "created_utc": 1601934701,
+        "id": "g7u2mbo",
+        "permalink": "/r/wallstreetbets/comments/j5qsww/what_are_your_moves_tomorrow_october_06_2020/g7u2mbo/",
         "score": 5,
         "subreddit": "wallstreetbets",
-        "created": 1602238557.0
+        "created": 1601963501.0
     },
     {
-        "author": "Elforas_Tero",
-        "body": "If NVDA pulls a +1.5 from here to EOW i would appreciate it",
-        "created_utc": 1602616223,
-        "id": "g8pyfof",
+        "author": "dealbuddy",
+        "body": "just bought 10k of nvidia and 10k of xpev",
+        "created_utc": 1601961875,
+        "id": "g7vba8u",
+        "permalink": "/r/wallstreetbets/comments/j5qsww/what_are_your_moves_tomorrow_october_06_2020/g7vba8u/",
         "score": 5,
         "subreddit": "wallstreetbets",
-        "created": 1602645023.0
+        "created": 1601990675.0
+    },
+    {
+        "author": "hughesmaxwell",
+        "body": "Why don\u2019t you buy NVDA Z SE FSLY calls like a normal person?",
+        "created_utc": 1602131716,
+        "id": "g82w8wj",
+        "permalink": "/r/wallstreetbets/comments/j760sw/the_first_drop_is_when_i_joined_wsb/g82w8wj/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1602160516.0
+    },
+    {
+        "author": "hkusbeckham",
+        "body": "Fucking mongo couldn't just tweet earlier? I closed my nvda credit spread for a loss an hour before he tweeted. Could've earn an easy 400 if I didn't close them. Fuck literally making the wrong move since September",
+        "created_utc": 1602030955,
+        "id": "g7yecpt",
+        "permalink": "/r/wallstreetbets/comments/j6chf4/what_are_your_moves_tomorrow_october_07_2020/g7yecpt/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1602059755.0
+    },
+    {
+        "author": "Furloughedinvester",
+        "body": "Interesting that Brit lawmakers are freaking out over NVDA buying ARM. But they had no problem with a Chinese company buying it",
+        "created_utc": 1601585374,
+        "id": "g7bvmts",
+        "permalink": "/r/wallstreetbets/comments/j3g70c/what_are_your_moves_tomorrow_october_02_2020/g7bvmts/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1601614174.0
+    },
+    {
+        "author": "sylphvanas",
+        "body": "wtf, the NVDA 650c 10/16 that I sold last week for a big loss when the stock was under $500 are now worth half of what I sold them for. And I thought I regretted selling them lol",
+        "created_utc": 1601561781,
+        "id": "g7acl49",
+        "permalink": "/r/wallstreetbets/comments/j35to3/daily_discussion_thread_for_october_01_2020/g7acl49/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1601590581.0
+    },
+    {
+        "author": "trader9899",
+        "body": "INTC got that buy back putting the floor on it stock. You gonna bleed money with that put. The correct play is amd and nvda on red market day.",
+        "created_utc": 1602183168,
+        "id": "g84wxua",
+        "permalink": "/r/wallstreetbets/comments/j7ii99/you_fuckers_got_me/g84wxua/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1602211968.0
+    },
+    {
+        "author": "NoCollegeKids",
+        "body": "How the fuck does thetagang work?   I\u2019ve lost $10k this month on NVDA and TSLA put credit spreads.",
+        "created_utc": 1602112810,
+        "id": "g81yyus",
+        "permalink": "/r/wallstreetbets/comments/j6ybvz/what_are_your_moves_tomorrow_october_08_2020/g81yyus/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1602141610.0
+    },
+    {
+        "author": "swaggymedia",
+        "body": "Todays WSB Sentiment, Presented by Swaggy\n\nTotal Comments Parsed Last 24hrs: 30,735\n\nTicker | Comments | Bullish %\n:--|:--:|:--:\nAAPL|789|90%\nTSLA|635|78%\nAMD|506|87%\nBA|251|63%\nPLTR|212|87%\nAMZN|168|71%\nPTON|139|76%\nQQQ|121|72%\nMSFT|113|88%\nTAN|113|90%\nNVDA|105|83%\nNKLA|101|51%\nUPS|91|91%\nDKNG|87|80%\nZM|85|65%\nRKT|84|78%\nGLD|81|91%\nICLN|81|97%\nHYLN|76|72%\nSAVE|76|77%\nSQ|75|77%\nNIO|73|75%\nBABA|66|96%\nFB|63|70%\nVALE|62|95%",
+        "created_utc": 1602017997,
+        "id": "g7xqz3i",
+        "permalink": "/r/wallstreetbets/comments/j6chf4/what_are_your_moves_tomorrow_october_07_2020/g7xqz3i/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1602046797.0
+    },
+    {
+        "author": "sohaib3",
+        "body": "Tech up 1%, Jesus!!!!! My nvda puts hurt",
+        "created_utc": 1601855985,
+        "id": "g7qjwh8",
+        "permalink": "/r/wallstreetbets/comments/j55kuy/what_are_your_moves_tomorrow_october_05_2020/g7qjwh8/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1601884785.0
+    },
+    {
+        "author": "boothce",
+        "body": "NVDA dropped off during/after their event and then jumped the next day once the boomers got the news.",
+        "created_utc": 1602174604,
+        "id": "g84eu97",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84eu97/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602203404.0
+    },
+    {
+        "author": "IlleaglSmile",
+        "body": "They have an aggressive buyback program but other than that they are getting their asses kicked by relative newcomers AMD and NVDA.",
+        "created_utc": 1602176108,
+        "id": "g84hx50",
+        "permalink": "/r/wallstreetbets/comments/j7gfs3/intel/g84hx50/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602204908.0
+    },
+    {
+        "author": "strongsmash",
+        "body": "TSM is a very good call. It accounts for like 50% of Taiwans GDP and any Taiwanese will tell u how good that company is. Only thing is theyre mainly up against samsung who have been benefitting greatly from China v USA trade wars.. and I wouldnt really bet against samsung on their 7/5/3 nm chips. The reported Exynos chips made in house by samsung for their next gen smartphones have made insane amount of improvement/progress since their last gen and thats mainly due to their semi conductors. In the end they can both moon but semi-conductors can be pretty fickle\n\n\nAlso, samsung makes all the chips for NVDA as well as (used to) for apple. But apple moved to TSMC and now making their own so.. we\u2019ll see.",
+        "created_utc": 1602108499,
+        "id": "g81qudi",
+        "permalink": "/r/wallstreetbets/comments/j708w8/tmothersuckingsmotherfuckingm/g81qudi/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602137299.0
+    },
+    {
+        "author": "moneygardener",
+        "body": "AMD was the biggest % gainer in s&amp;p500 in both 2018 and 2019.  \n\n\nI believe the trend will continue. lots of bullish stuff currently and on the horizon.\n\ntaking marketshare from Intel in both DIY (desktop), Server, laptot and supercomputer segments.  \nPossibly taking some marketshare from Nvidia, as AMD has new graphic cards coming this fall. the 30 series from NVDA is good, but is it good enough?\n\nboth consoles coming this fall (xbox and ps5) will have both graphics card and processor from AMD.\n\n&amp;#x200B;\n\ndisclaimer, I am long AMD both stock and options.",
+        "created_utc": 1601849968,
+        "id": "g7q9jht",
+        "permalink": "/r/stocks/comments/j57179/amd_investment/g7q9jht/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1601878768.0
+    },
+    {
+        "author": "DewYewKnowMyFather69",
+        "body": "NVDA down 15$ damn",
+        "created_utc": 1601629315,
+        "id": "g7dtyqu",
+        "permalink": "/r/wallstreetbets/comments/j3g70c/what_are_your_moves_tomorrow_october_02_2020/g7dtyqu/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601658115.0
+    },
+    {
+        "author": "maricck",
+        "body": "Don\u2019t fall for TSLA selloff literally exact same as NVDA, just some nonsense green by Monday",
+        "created_utc": 1601668709,
+        "id": "g7frpgy",
+        "permalink": "/r/wallstreetbets/comments/j3rz7r/daily_discussion_thread_for_october_02_2020/g7frpgy/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601697509.0
+    },
+    {
+        "author": "notthediz",
+        "body": "I\u2019ve been riding AMD since it was $50. Wish I would\u2019ve held it years ago when it was $4. But whatever. \n\nThink it\u2019ll depend on how AMDs cards do and if they\u2019ll stand any chance against the 3080s. But I\u2019m a retail investor and by no means an expert. So should prob go with nvidia lol",
+        "created_utc": 1602006786,
+        "id": "g7x0x00",
+        "permalink": "/r/investing/comments/j69pi3/amd_vs_nvidia/g7x0x00/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1602035586.0
+    },
+    {
+        "author": "Te5la1",
+        "body": "Whomstd'vely else locked in and ready for NVDA hype week\n\nI'm excited for the Arm CEO's speech",
+        "created_utc": 1601835170,
+        "id": "g7pcrl0",
+        "permalink": "/r/wallstreetbets/comments/j41xw2/weekend_discussion_thread_for_the_weekend_of/g7pcrl0/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601863970.0
+    },
+    {
+        "author": "sirajgb",
+        "body": "Looking to upgrade my graphics card. Would you guys recommend that I enter a \u201cstrategic partnership\u201d with NVDA or AMD?",
+        "created_utc": 1602188852,
+        "id": "g85adx4",
+        "permalink": "/r/wallstreetbets/comments/j7kf7w/what_are_your_moves_tomorrow_october_09_2020/g85adx4/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602217652.0
+    },
+    {
+        "author": "KillOnSightz",
+        "body": "AMD is still not independent yet. It's still following NVDA footsteps, 1.8% difference still. no signs of run up in anticipation of the news yet.",
+        "created_utc": 1602170540,
+        "id": "g846r0h",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g846r0h/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602199340.0
+    },
+    {
+        "author": "maxkingusa",
+        "body": "I have been watching the Nvidia conference. If you buy one stock and hold on to it, BUY NVDA.   This company is the future of computing.  I have owned this stock for a few years now and I trade around a core position.  At this point I will only buy the dips so I can continue to expand my core position.  \n\nThis is the company to own for the next 10 years.",
+        "created_utc": 1601909664,
+        "id": "g7skqjk",
+        "permalink": "/r/wallstreetbets/comments/j5guae/daily_discussion_thread_for_october_05_2020/g7skqjk/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601938464.0
+    },
+    {
+        "author": "Throw-_-away_-_",
+        "body": "This might be one of the more retarded things I've seen in a while... At least wait for the dip when AMD launches their new GPUs oct 28th when buying Nvidia.",
+        "created_utc": 1601943797,
+        "id": "g7uiy3s",
+        "permalink": "/r/wallstreetbets/comments/j5s7on/jensens_ai_keynote_today_was_hype/g7uiy3s/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601972597.0
+    },
+    {
+        "author": "hvc801",
+        "body": "LETS GO NVDA, WAKE THE FUCK UP. GOD DAMN, MAN. I FUCKED THIS ONE UP.",
+        "created_utc": 1601653106,
+        "id": "g7esynr",
+        "permalink": "/r/wallstreetbets/comments/j3rz7r/daily_discussion_thread_for_october_02_2020/g7esynr/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601681906.0
+    },
+    {
+        "author": "captainstrange94",
+        "body": "Clueless on what to get for Monday. Anyone has any suggestions? Thinking of NVDA calls.",
+        "created_utc": 1601667366,
+        "id": "g7fnzv4",
+        "permalink": "/r/wallstreetbets/comments/j3rz7r/daily_discussion_thread_for_october_02_2020/g7fnzv4/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601696166.0
+    },
+    {
+        "author": "Au_contraire_zippy",
+        "body": "well exactly my reason for posting. to hear what other people think. here are some of my thoughts on the entire situation...\n\n1. the semiconductor impact\nbecause this is such a huge player in the markets at the moment between AMD, NVDA, INTC et al, could effect the entire Tech sector. It all pivots on TMC in Taiwan which makes it tricky.\n2. 3500 US companies are suing Trump for blocking China trade access. which implies US companies want to go to China not stay locked into US.\n3. DCEP Chinese digital currency, not mentioned but could challenge the global dollar in time.\n4. Democrats are going to be more aggressive than Trump towards China. They called him \"Uncle Donald\" at one point. friendly-ish, they likely respect his financial approach even if he is brash. I dont think US will be friendly if Dems get in, and the vibe towards China will get a lot colder and nastier. that is not good if they are losing the global cold trade war, then US will start to play dirty tricks. Hilary would have had us all in a war by now imo. psychopathic woman. maybe she is still pulling strings somewhere. I truly hope not.\n5. Propaganda machine that has been driving Anti-Chinese sentiment for months is working very well and that is a big worry as once China feel even more cornered, they will likely react more aggressively. US are the cause of this whole fiasco, not the Chinese, but we are being sold differently on that narrative because US are dirty war players. history upholds that truth.\n6. China gaining more economic power and US losing it globally would totally change the face of world economy and markets fundamentally to the point it is almost impossible to imagine what that future would look like and one big question - how far would US Government be willing to go to stop that happening? that is scary because historically US Govmt have no limits that they have not been willing to go to before, including killing their own in extremely large numbers.\n\nAnyway, how all that effects trade, we will only really know after the election. I was hoping other peeps might share their wisdom/thoughts here which was my reason for posting.",
+        "created_utc": 1601945426,
+        "id": "g7ulum9",
+        "permalink": "/r/investing/comments/j5u826/kevin_rudd_on_china_after_the_us_election/g7ulum9/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1601974226.0
+    },
+    {
+        "author": "carlos5577",
+        "body": "48GB of vram Nvidia calls can\u2019t... stop... jizzing.",
+        "created_utc": 1601957035,
+        "id": "g7v5bls",
+        "permalink": "/r/wallstreetbets/comments/j5qsww/what_are_your_moves_tomorrow_october_06_2020/g7v5bls/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601985835.0
+    },
+    {
+        "author": "thesnukeIL",
+        "body": "BABA and NVDA be like, fuck your stimiulis",
+        "created_utc": 1602012571,
+        "id": "g7xeo72",
+        "permalink": "/r/wallstreetbets/comments/j62ihd/daily_discussion_thread_for_october_06_2020/g7xeo72/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602041371.0
+    },
+    {
+        "author": "smallstreetgains",
+        "body": "##Top trending tickers, sentiments, and options on /r/wallstreetbets for the day of October 06, 2020.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Tickers:\n\n**Ticker**|**Company**|**Mentions**|**Bulls / Bears**|**Price**|**Change**|**P/E**\n:-:|:--|:-:|:-:|:-:|:-:|:-:\nAMD|Advanced Micro Device|384|84.39% / 15.61%|$84.43|-1.99%|171.27\nSPY|Exchange Traded Fund|307|55.98% / 44.02%|$336.23|-1.04%|-\nAAPL|Apple Inc.|247|86.01% / 13.99%|$112.88|-3.11%|35.42\nTSLA|Tesla, Inc.|219|80.34% / 19.66%|$412.05|-3.20%|1094.29\nPLTR|Palantir Technologies|165|91.46% / 8.54%|$9.67|7.09%|-\nBA|The Boeing Company|143|52.83% / 47.17%|$160.33|-6.35%|-\nPTON|Peloton Interactive, |81|67.65% / 32.35%|$111.50|0.69%|-\nQQQ|Exchange Traded Fund|71|76.74% / 23.26%|$274.71|-1.95%|-\nUPS|United Parcel Service|67|85.71% / 14.29%|$169.84|0.40%|33.61\nDKNG|DraftKings Inc.|62|79.17% / 20.83%|$56.54|-6.62%|1100.91\nTAN|Exchange Traded Fund|60|93.33% / 6.67%|$71.26|1.01%|-\nRKT|Rocket Companies, Inc.|59|90.32% / 9.68%|$21.77|-3.50%|9.31\nAMZN|Amazon.com, Inc.|54|65.00% / 35.00%|$3093.05|-3.32%|122.97\nHYLN|-|53|90.00% / 10.00%|-|-|-\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Options:\n\n**Ticker**|**Strike**|**Type**|**Expiration**\n:-:|:-:|:-:|:-:\nAMD|$90|Call|11/20\nSPY|$342|Call|11/2\nPLTR|$10|Call|2/19\nPTON|$100|Call|10/16\nSPY|$338|Put|10/9\nUPS|$170|Call|10/30\nAMD|$90|Call|10/30\nALLY|$28|Call|10/16\nTSLA|$500|Call|10/9\nPLTR|$10|Call|10/16\nNVDA|$550|Call|11/20\nNIO|$25|Call|10/16\nNYT|$48|Call|11/20\nAAPL|$110|Put|10/9\nVXX|$26|Call|11/20\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Trending Sentiment:\n\n**Sentiment**|**Comments**|**%**\n:--|:--|:--\nBullish|1377|66.20%\nNeutral|13313|-\nBearish|703|33.80%\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n###Other Data:\n\n**Overall Market Sentiment:** Bullish\n\n**Comments Searched:** 15393\n\n**Newly Trending Tickers:** PLTR, BA, PTON, QQQ, UPS, TAN, AMZN\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nYou can view all top trending tickers on /r/RedditTickers.\n\nNotice an error or have questions? Reply to this post or message /u/smallstreetgains.\n\nFinancial data provided by [finviz](https://finviz.com/).",
+        "created_utc": 1602014855,
+        "id": "g7xkblw",
+        "permalink": "/r/wallstreetbets/comments/j6chf4/what_are_your_moves_tomorrow_october_07_2020/g7xkblw/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602043655.0
+    },
+    {
+        "author": "K0wn0",
+        "body": "Momma Su has shown brief of new GPU; it\u2019s slightly better than what 3080 does on 4K. Ryzen is already cheaper with more performance. Simply, she\u2019ll go full strap-on and arms deep into Intel and possibly will steal from Nvidia. Unlike NVidia, AMD continued on TSMC so, chips can be 7nm. Also, it looks like mofos in AMD are doing their best to squeeze every single bit of performance from that new GPU since Cousin Jensen brought some big guns onto table. Without supply but still the idea has been planted. She needs to destroy it too. Also, looking at the die size compared to previous gen, some serious shit will go on.",
+        "created_utc": 1602197398,
+        "id": "g85sntq",
+        "permalink": "/r/wallstreetbets/comments/j7gp6z/amd_broadcast_from_a_non_gaming_nerd/g85sntq/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602226198.0
+    },
+    {
+        "author": "Bambam60",
+        "body": "Both $SQ and $NVDA have earnings right after election.\n\nI sell my March calls prior to right? They are both bigly green and I feel like I have to secure profits regardless of the election or earnings performance. Ideas?\n\n3 $SQ 03/19/2021 175c$ - ITM\n\n2 $NVDA 03/19/2021 620c$ - OTM",
+        "created_utc": 1602086199,
+        "id": "g80hp15",
+        "permalink": "/r/wallstreetbets/comments/j6o9s8/daily_discussion_thread_for_october_07_2020/g80hp15/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602114999.0
+    },
+    {
+        "author": "stormtrooper2930",
+        "body": "NVDA will be breaking out soon i believe.",
+        "created_utc": 1602089432,
+        "id": "g80o99a",
+        "permalink": "/r/wallstreetbets/comments/j6o9s8/daily_discussion_thread_for_october_07_2020/g80o99a/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602118232.0
+    },
+    {
+        "author": "Awesome____Sauce",
+        "body": "starting to wish I held onto that nvidia put",
+        "created_utc": 1601616873,
+        "id": "g7df08r",
+        "permalink": "/r/wallstreetbets/comments/j3g70c/what_are_your_moves_tomorrow_october_02_2020/g7df08r/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601645673.0
+    },
+    {
+        "author": "nigaraze",
+        "body": "Gaming by itself is still a tiny niche for NVDA total revenue and the last time I remeber taking a look at steam hardware survey, the average user is on something to the tune of a 2060 or poorer and still on standard 1080p not even 1440p. The 3xx series in this case is more than overkill",
+        "created_utc": 1601573384,
+        "id": "g7b2ycb",
+        "permalink": "/r/investing/comments/j37qh4/initial_jobless_claims_for_the_week_ending_on/g7b2ycb/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1601602184.0
+    },
+    {
+        "author": "iLikeLambos",
+        "body": "NVDA underperformed today what the fuck, it needs a 5% day ASAP",
+        "created_utc": 1601594039,
+        "id": "g7cc355",
+        "permalink": "/r/wallstreetbets/comments/j3g70c/what_are_your_moves_tomorrow_october_02_2020/g7cc355/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1601622839.0
+    },
+    {
+        "author": "Thrakioti",
+        "body": "Since NVIDIA is an American company and ARM is a UK company owned Japanese SoftBank who gives a rats ass what China says.  They have no say whatsoever.",
+        "created_utc": 1601938809,
+        "id": "g7ua63d",
+        "permalink": "/r/stocks/comments/j5j2pb/nvidia_pledges_to_build_britains_largest/g7ua63d/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1601967609.0
+    },
+    {
+        "author": "Hysteriantics",
+        "body": "lmao AMD tanking for some dumb reason considering they're about to shit on Intel and Nvidia in the next 25 minutes.",
+        "created_utc": 1602171365,
+        "id": "g848dwl",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g848dwl/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602200165.0
+    },
+    {
+        "author": "harryburton420",
+        "body": "if you were smart you would\u2019ve seen what nvda did",
+        "created_utc": 1602178369,
+        "id": "g84mjc0",
+        "permalink": "/r/wallstreetbets/comments/j7agfu/daily_discussion_thread_for_october_08_2020/g84mjc0/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602207169.0
+    },
+    {
+        "author": "AdministrativeSail51",
+        "body": "wait its actually so easy to swing trade literally ANYTHING just buy and hold and sell later and rinse and repeat whats evn the point of options when u can safely return 5% per week with amd,nvda, sq, paypal, msft, baba, fdx, amzn, aapl, tsla, zm, legitimately ANYTHING",
+        "created_utc": 1602086136,
+        "id": "g80hk70",
+        "permalink": "/r/wallstreetbets/comments/j6o9s8/daily_discussion_thread_for_october_07_2020/g80hk70/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602114936.0
+    },
+    {
+        "author": "trentdunlap",
+        "body": "Tesla \ud83c\udf15, Apple \ud83c\udf15, NVIDIA, \ud83c\udf15",
+        "created_utc": 1602140216,
+        "id": "g835uoc",
+        "permalink": "/r/wallstreetbets/comments/j6ybvz/what_are_your_moves_tomorrow_october_08_2020/g835uoc/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602169016.0
+    },
+    {
+        "author": "surmoiFire",
+        "body": "nvda is still up just like my morning wood",
+        "created_utc": 1602012528,
+        "id": "g7xekvs",
+        "permalink": "/r/wallstreetbets/comments/j62ihd/daily_discussion_thread_for_october_06_2020/g7xekvs/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602041328.0
+    },
+    {
+        "author": "trentdunlap",
+        "body": "Someone in here had NVIDIA calls and are now out buying a a lottery ticket, I\u2019ll meet you there baby",
+        "created_utc": 1601996321,
+        "id": "g7wetsv",
+        "permalink": "/r/wallstreetbets/comments/j62ihd/daily_discussion_thread_for_october_06_2020/g7wetsv/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1602025121.0
+    },
+    {
+        "author": "K0wn0",
+        "body": "I\u2019m not on options but on stocks long as well. May not print money like GME yet, they\u2019re going for a sustainable growth. They are heavily working on making things sustainable.\n\nMy theory is, AMD will lowball Nvidia on Price for same or maybe slightly better performance. They didn\u2019t have to redesign a GPU PCB (3000 series GPUs have weird PCB shape). Making shit that tight is also another cost. They showed a decent 3 fan cooler, just like non-reference cards. So, cost of manufacturing would be way less than Nvidia. So, they can actually sell cheaper.\n\nThen adding the experience they got with 7NM, less voltage and more clock speed (on boost) is a possibility now. Considering twice the size of the die; it gives me threadripper vibes. I think she delayed the announcement just because Jensen did some cheeky play. She wants to hit harder and right now, only way of doing that would be;\n\n1) going for software with drivers (which I think what they\u2019re doing right now)\n2) making some crazy shit like x2 cards they did back in the day. That\u2019d be a shocker for sure. But I don\u2019t think they can do it so quickly.\n\nOverall, AMD Long...",
+        "created_utc": 1602198307,
+        "id": "g85u8xe",
+        "permalink": "/r/wallstreetbets/comments/j7gp6z/amd_broadcast_from_a_non_gaming_nerd/g85u8xe/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1602227107.0
+    },
+    {
+        "author": "UpSideofDown",
+        "body": "Not PAYX but played PAYC a few months ago who beat but still dropped.  I don\u2019t fuck with earnings anymore...",
+        "created_utc": 1601555666,
+        "id": "g7a2hcg",
+        "permalink": "/r/wallstreetbets/comments/j35to3/daily_discussion_thread_for_october_01_2020/g7a2hcg/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1601584466.0
     }
 ]

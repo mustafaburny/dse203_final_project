@@ -1,9 +1,20 @@
 [
     {
+        "author": "keksper",
+        "body": "I see a lot of answers that say \"sell it!\" or \"don't sell it!\" but at the end of the day the way to make a rational decision is:\n\n*If you were handed that money right now in $10K in cash, would you spend it on IBM?* If not, you should put the money elsewhere.",
+        "created_utc": 1624496143,
+        "id": "h2u0nkb",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u0nkb/",
+        "score": 5432,
+        "subreddit": "investing",
+        "created": 1624524943.0
+    },
+    {
         "author": "terribleatlying",
         "body": "I asked because there was no tax consideration in the calculation. it's not $10k of IBM vs $10k of VTI. You gotta sell and that's a taxable event",
         "created_utc": 1624499927,
         "id": "h2u7pue",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u7pue/",
         "score": 104,
         "subreddit": "investing",
         "created": 1624528727.0
@@ -13,6 +24,7 @@
         "body": "\"Innovative high-growth stocks\" are far from guaranteed to outperform IBM.",
         "created_utc": 1624539886,
         "id": "h2vpsmq",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2vpsmq/",
         "score": 79,
         "subreddit": "investing",
         "created": 1624568686.0
@@ -22,6 +34,7 @@
         "body": "I asked because there was no tax consideration in the calculation. it's not $10k of IBM vs $10k of VTI. You gotta sell and that's a taxable event",
         "created_utc": 1624499954,
         "id": "h2u7rnq",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u7rnq/",
         "score": 67,
         "subreddit": "investing",
         "created": 1624528754.0
@@ -31,15 +44,27 @@
         "body": "Copying and pasting from an earlier conversation I had today:\n\nNvidia has a few CMP HX partner models preparing to launch - these are the mining specific cards. They have no display output which means they can't be used for gaming. Nvidia is also revising ALL current 30 series (except 3090 I believe) to a LHR (light hash rate) version which is a physical difference in the silicon. They are doing this to nerf ETH mining performance on their 30 series cards at the hardware level.\n\nCurrently, Nvidia's CMP HX mining cards make no economic sense to mine on since they are way less power efficient, and have no resale value since they can't be used for gaming. However, if Nvidia completely locks down ETH hash rate on the 30 series, they can increase their TAM by preventing miners from cannibalizing their gaming sales. So far, the CMP HX cards look like they are built on 10 series architecture so they will be able to be produced cheaper and in parallel to 30 series.\n\nLastly, the ARM deal seems to be moving along. Qualcomm has voiced concerns and said they are ready to invest in ARM as a partner if the Nvidia deal falls through. Nvidia says it has 3 other silicon manufacturers who support the Nvidia deal but details aren't known yet. Nvidia's recent rise is likely due to the probability of the ARM deal actually becoming more likely.\n\nIn case you dont understand why the ARM deal is good for NVDA, it means that all ARM-based chip manufacturers are beholden to NVDA. ARM is the most dominant CPU architecture for all mobile CPUs including micro controllers in other devices. Apple, qualcomm, samsung, amd, intel, huawei, IBM all have ARM licenses\n\nIt allows NVDA to penetrate the mobile market. Nvidia has the highest profit margins on their mobile CPUs because they don't have to rely on partners to distribute chunky desktop cards. They sell the silicon directly. Every iphone and samsung galaxy could have an Nvidia-produced CPU and GPU.\n\nThe reason ARM is used for mobile is because of its power efficiency. If Nvidia knows what they are doing (they do) then they know how they can use their proprietary access to ARM to create ultra performant and efficient server chips, feeding into their datacenter revenue.\n\nNvidia has announced plans to enter the server CPU market. When they announced this, Intel and AMD stock tanked 5% or so. My bet is that they are already working with ARM to deliver their CPU server chips\n\nTL;DR - ARM deal going through would make NVDA pull a page out of 2020 TSLA's book. Downside is ARM deal delays, pricing in approval then having it get denied. Would crush the stock.",
         "created_utc": 1624894321,
         "id": "h3bw68t",
+        "permalink": "/r/stocks/comments/o9lrfo/thoughts_on_nvda_and_their_upcoming_split/h3bw68t/",
         "score": 62,
         "subreddit": "stocks",
         "created": 1624923121.0
+    },
+    {
+        "author": "russkhan",
+        "body": "It's relevant. If OP would end up converting $10,000 worth of IBM into $7,000 of VOO, shouldn't that be considered when deciding what to do?",
+        "created_utc": 1624500894,
+        "id": "h2u9lvt",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u9lvt/",
+        "score": 60,
+        "subreddit": "investing",
+        "created": 1624529694.0
     },
     {
         "author": "boon4376",
         "body": "So is the difference between keeping it in IBM vs an innovative high-growth stock for the one year capital gains term.",
         "created_utc": 1624506677,
         "id": "h2uk3a6",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uk3a6/",
         "score": 59,
         "subreddit": "investing",
         "created": 1624535477.0
@@ -49,6 +74,7 @@
         "body": "IBM is a solid dividend stock. They have never lowered their dividend, even in 2000 or 2008 and keep increasing it.\n\nWill not see big gains on IBM, but if the market ever crashes, IBM will continue to pay out the dividend.",
         "created_utc": 1624496661,
         "id": "h2u1mgc",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u1mgc/",
         "score": 45,
         "subreddit": "investing",
         "created": 1624525461.0
@@ -58,6 +84,7 @@
         "body": "I forgot what the class was called, but it was business related and we entered a Long Island stock competition put on by Newsday.  We came in 3rd amongst hundreds of teams thanks to awesome stock tips from my Dad...this was early 90's and we were pouring our fake money into Microsoft, Adobe, IBM, and other tech stocks....while most other kids were buying Nike and Coke.  The two teams that beat us had returns several multiples above ours.  My teacher was convinced they were backdating their trades.  :-)  But whatever, it was a ton of fun and planted the seed for later in life.  That teacher wrote in my yearbook he expects a share of the first million I make in the market...I actually want to make good on that.",
         "created_utc": 1624252937,
         "id": "h2iatgt",
+        "permalink": "/r/stocks/comments/o4n02o/why_dont_high_schools_have_classes_on_stock_market/h2iatgt/",
         "score": 42,
         "subreddit": "stocks",
         "created": 1624281737.0
@@ -67,6 +94,7 @@
         "body": "Unless they have a huge product success and start regaining market share or maybe expanding successfully into other markets, it doesn't seem like they are likely to grow in the future. So they aren't being priced as a growth stock, but rather as a value stock like IBM.",
         "created_utc": 1624987464,
         "id": "h3gm8sw",
+        "permalink": "/r/investing/comments/oac3ox/intel_corp_intc_is_undervalued/h3gm8sw/",
         "score": 38,
         "subreddit": "investing",
         "created": 1625016264.0
@@ -76,6 +104,7 @@
         "body": "Would you buy 10k of IBM not?\n\nIf not, sell and go VOO.",
         "created_utc": 1624496742,
         "id": "h2u1rv7",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u1rv7/",
         "score": 34,
         "subreddit": "investing",
         "created": 1624525542.0
@@ -85,6 +114,7 @@
         "body": "Fidelity. Vanguard\u2019s interface is only a step above using punch cards in a 1970s IBM terminal.",
         "created_utc": 1623468791,
         "id": "h1hav5x",
+        "permalink": "/r/stocks/comments/nxwv3l/fidelity_vs_vanguard_for_individual_stocks/h1hav5x/",
         "score": 32,
         "subreddit": "stocks",
         "created": 1623497591.0
@@ -94,6 +124,7 @@
         "body": "Noone thinks Intel will die off, but plenty, including I, think Intel may plateau like IBM did for the next decade or two.  Intel pouring billions into fabs doesn't guarantee technology leadership as TSMC is investing just as much and has a sizable lead.  \n\nPlus, having a working relationship with Intel, I can say there are still alot of entrenched \"old school\" management who don't do much but will fight tooth and nail to resist any change or challenge to their power.  Turning that titanic corporation around is going to be a slow and bloody process, way beyond just the CEO.",
         "created_utc": 1623689439,
         "id": "h1qyadj",
+        "permalink": "/r/investing/comments/nzppgh/due_diligence_on_intel_intc/h1qyadj/",
         "score": 26,
         "subreddit": "investing",
         "created": 1623718239.0
@@ -103,6 +134,7 @@
         "body": "Former IBM employee here. the stock has split many times I would sell 20% hold the rest. The majority of their business is the mainframe side. Customers also paid thousands of dollars per month for maintenance contracts because there was always some issue that needed to be fixed by a technician on site. A lot of companies did not have maintenance coverage and for those who didn't but needed service the system would create an HSI hourly service invoice once the tech arrived at the customers location. This HSI bill would be so high that the company would either pay it or ask if there was another option where we would offer to retroactively bill them for one year of maintenance coverage which 99% of the time was always significantly cheaper than paying the HSI. They have clients such as Walmart the scanner used is IBM the computer the register the mainframe, the cloud, the analytics and so on.",
         "created_utc": 1624510504,
         "id": "h2upwpf",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2upwpf/",
         "score": 24,
         "subreddit": "investing",
         "created": 1624539304.0
@@ -112,6 +144,7 @@
         "body": "IBM is a soggy stock of yesteryear.  It\u2019s done nothing for the last 20 years really.  (Especially when you take inflation into consideration)   I\u2019d dump it for something else",
         "created_utc": 1624495464,
         "id": "h2tzdc4",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2tzdc4/",
         "score": 21,
         "subreddit": "investing",
         "created": 1624524264.0
@@ -121,6 +154,7 @@
         "body": "Sounds like IBM in the 80's",
         "created_utc": 1624997938,
         "id": "h3haeyd",
+        "permalink": "/r/investing/comments/oac3ox/intel_corp_intc_is_undervalued/h3haeyd/",
         "score": 21,
         "subreddit": "investing",
         "created": 1625026738.0
@@ -130,6 +164,7 @@
         "body": "Honestly though if you don't like IBM and would rather be more diversified then $8k in voo might be preferable.",
         "created_utc": 1624503852,
         "id": "h2uf90p",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uf90p/",
         "score": 19,
         "subreddit": "investing",
         "created": 1624532652.0
@@ -139,15 +174,27 @@
         "body": "\u201cNice juicy milf with double d\u2019s\u201d\n\nMore like a geriatric, assisted living dwelling, walker toting, shriveled up raisin on death\u2019s doorstep. \n\n\nHow incredibly flawed your understanding of Intel\u2019s fabrication abilities and their architecture. How long have you been following Intel? 3 seconds? \n\nEnjoy being cucked by a dying boomer stock. Can\u2019t wait to see your next contribution, telling everyone how IBM and GE are ready to moon too. \n\nAMD 9/17 (5)$85c, (10)$90c and (30) 1/20/23 $100c. \n\nYou go ahead and buy your $55c. Let\u2019s see who wins cuckboi.",
         "created_utc": 1624709337,
         "id": "h33kq29",
+        "permalink": "/r/wallstreetbets/comments/o85951/intel_23_itm_calls/h33kq29/",
         "score": 18,
         "subreddit": "wallstreetbets",
         "created": 1624738137.0
+    },
+    {
+        "author": "SomeSortOfBrit",
+        "body": "Yeah but I thought IBM had the largest working computer (I could be wrong has been about a year since I've done any Quantum work) with plans to scale up to 1000 qbits in 3 years from then. They may have the largest working of a specific type though but it's hard to know which will have the best scalability.",
+        "created_utc": 1623162723,
+        "id": "h116lcb",
+        "permalink": "/r/stocks/comments/nv4lcg/honeywell_quantum_solutions_and_cambridge_quantum/h116lcb/",
+        "score": 17,
+        "subreddit": "stocks",
+        "created": 1623191523.0
     },
     {
         "author": "Available-Lunch3085",
         "body": "I don't see any other company positioned like this, not even apple/microsoft/ibm/samsung",
         "created_utc": 1622907601,
         "id": "h0p304s",
+        "permalink": "/r/wallstreetbets/comments/nsy4uq/nok_nok_industry_40_web_30_iot/h0p304s/",
         "score": 17,
         "subreddit": "wallstreetbets",
         "created": 1622936401.0
@@ -157,6 +204,7 @@
         "body": "I would sell it all and swap it for an S&amp;P 500 ETF. IBM is a failing business, they have like 10 years of declining revenue. \n\nThey are mostly keeping their stock price afloat through financial engineering like accounting wizardry, debt, and share buybacks.\n\nA key data point is that Warren Buffett got involved and bought IBM shares when he thought they were a cheap value. He ended up reversing course and selling all his shares and then later talked about how it was an investment mistake.",
         "created_utc": 1624500580,
         "id": "h2u908v",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u908v/",
         "score": 16,
         "subreddit": "investing",
         "created": 1624529380.0
@@ -166,6 +214,7 @@
         "body": "T, XOM, IBM, PRU, etc. There's quite a few to choose from though oil might not be the most safe over a 40 year period.\n\nMost of their employees buy stock incentives like that for their retirement and its a proven strategy.",
         "created_utc": 1624726089,
         "id": "h34e4m1",
+        "permalink": "/r/stocks/comments/o8akyg/are_dividends_worth_it/h34e4m1/",
         "score": 15,
         "subreddit": "stocks",
         "created": 1624754889.0
@@ -175,15 +224,27 @@
         "body": "People say IBM is a dying dinosaur. But they have moved into cloud etc. It's usually best to hold your $10000 in IBM stock until you have a clear plan of what to do with your $9000 of IBM stock. Making a rash decision regarding your $8000 of IBM stock could end up costing you thousands of dollars of value that you had in your $7000 of IBM stock.",
         "created_utc": 1624501308,
         "id": "h2uae93",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uae93/",
         "score": 14,
         "subreddit": "investing",
         "created": 1624530108.0
+    },
+    {
+        "author": "slawre89",
+        "body": "I like how this morning all the jerk offs from seeking alpha, investorplace, and yahoo finance did a complete 180 and put out positive PLTR articles. Talking about \u201cPLTR is poised to dominate data\u201d no shit? \n\nFor the past few months they\u2019ve just been talking shit saying PLTR Is overpriced with competition from IBM and Alteryx...this whole thing is rigged af",
+        "created_utc": 1622550696,
+        "id": "h06pr2w",
+        "permalink": "/r/wallstreetbets/comments/npqenw/daily_discussion_thread_for_june_01_2021/h06pr2w/",
+        "score": 14,
+        "subreddit": "wallstreetbets",
+        "created": 1622579496.0
     },
     {
         "author": "Tyr312",
         "body": "IBM and GE leadership?  1000% short. They don\u2019t now how to transform or make a profit.",
         "created_utc": 1623783060,
         "id": "h1vocih",
+        "permalink": "/r/wallstreetbets/comments/o0llbl/pitney_bowes_inc_the_sleeping_giant/h1vocih/",
         "score": 13,
         "subreddit": "wallstreetbets",
         "created": 1623811860.0
@@ -193,15 +254,27 @@
         "body": "Would you buy 5K of IBM?",
         "created_utc": 1624496694,
         "id": "h2u1olo",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u1olo/",
         "score": 13,
         "subreddit": "investing",
         "created": 1624525494.0
+    },
+    {
+        "author": "PappyGrant",
+        "body": "These types of \"one size fits all\" approaches are incredibly misleading and gets people into more trouble than it should.\n\nFor example, on the \"Simplified Value Investing Cheat Sheet\" it states an \"undervalued\" PE is a Price-to-Earnings Ratio under 15.\n\n1) That ratio tells me nothing about the amount of debt a company has so I think PE is generally worthless.\n\n2) This does not factor in at all interest rates. So if you hold yourself to that standard, you would have never invested the past decade and you would have missed the biggest bull run in US history.\n\nAll of this to say, anytime I read \"cheat sheet\" or \"ways to beat the market\" I cringe. It oversimplifies the process and leads neophytes to covet the wrong things.\n\nCan numerical data help support your investment? Absolutely. Though they should not be your one-size-fits-all approach to investing. This kinda numerical thinking made Buffett invest in IBM, and the opportunity cost of that investment is one of his largest mistakes.",
+        "created_utc": 1623687993,
+        "id": "h1quypn",
+        "permalink": "/r/ValueInvesting/comments/nzn9ik/the_complete_value_investing_cheat_sheet/h1quypn/",
+        "score": 13,
+        "subreddit": "ValueInvesting",
+        "created": 1623716793.0
     },
     {
         "author": "mic_sco",
         "body": "Is IBM going to give you a 10% return consistently year over year for the next 30 years? I think not. But a S&amp;P 500 fund will. It\u2019s an easy decision to be honest.",
         "created_utc": 1624496843,
         "id": "h2u1yjh",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u1yjh/",
         "score": 12,
         "subreddit": "investing",
         "created": 1624525643.0
@@ -211,6 +284,7 @@
         "body": "Chen is a brilliant turn around specialist. He sold Sybase to SAP.\n\nBB is severely undervalued and is currently working with IBM and AMZN. IBM/Amazon should buyout BB at a minimum 4x current market cap which will make the sale comparable to Zscaler and Okta. Apple is also a good candidate but they're too cheap.\n\nBB isn't a meme stock and shouldn't be classified with GME and AMC. For transparency, I own stock/options on GME and AMC.",
         "created_utc": 1623627296,
         "id": "h1ob2f6",
+        "permalink": "/r/wallstreetbets/comments/nyyq9f/blackberry_undervaluationleader_in_ev_iot_and/h1ob2f6/",
         "score": 12,
         "subreddit": "wallstreetbets",
         "created": 1623656096.0
@@ -220,6 +294,7 @@
         "body": "I would just add if you are buying an individual stock the hold forever plan isn't good. Now I am a long term investor if I buy a company I plan to hold for 5-10 years or forever. However 10 years is a lot less time then forever.\n\nI could give countless examples, in 1990 was IBM a great 10+ year hold 100% yes. In 2010 was it; very questionable because in the 20 years a lot of thing changed\n\nSo never plan to hold an individual security forever lots of thing can change\n\nMy only buy and hold forever are broad based index funds",
         "created_utc": 1623542605,
         "id": "h1ki1hg",
+        "permalink": "/r/investing/comments/nyflp1/when_to_cut_and_run_vs_when_to_hold/h1ki1hg/",
         "score": 12,
         "subreddit": "investing",
         "created": 1623571405.0
@@ -229,6 +304,7 @@
         "body": "I don\u2019t know anyone in tech who take IBM seriously. \n\nThey\u2019re a joke of their former self. Acquisition of red hat help some but personally I\u2019m still suspicious of the company.",
         "created_utc": 1624502140,
         "id": "h2ubza3",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2ubza3/",
         "score": 12,
         "subreddit": "investing",
         "created": 1624530940.0
@@ -238,6 +314,7 @@
         "body": "IBM is a dying business. Legacy tech, poor management. Why keep it when there is so much better?",
         "created_utc": 1624495977,
         "id": "h2u0cfr",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u0cfr/",
         "score": 12,
         "subreddit": "investing",
         "created": 1624524777.0
@@ -247,6 +324,7 @@
         "body": "the number is based on comparison with peers. Crowdstrike, zscaler, ibm, vmware, okta. Microsoft too since they were competting with BB in car space but lost.",
         "created_utc": 1623600319,
         "id": "h1mthfn",
+        "permalink": "/r/wallstreetbets/comments/nyyq9f/blackberry_undervaluationleader_in_ev_iot_and/h1mthfn/",
         "score": 11,
         "subreddit": "wallstreetbets",
         "created": 1623629119.0
@@ -256,6 +334,7 @@
         "body": "\"Stick to the fundamentals. That's how IBM and Hilton were built. Good things, sometimes, take time.\"",
         "created_utc": 1622585092,
         "id": "h08s8cv",
+        "permalink": "/r/CanadianInvestor/comments/nq50de/suto_laggard/h08s8cv/",
         "score": 11,
         "subreddit": "CanadianInvestor",
         "created": 1622613892.0
@@ -265,6 +344,7 @@
         "body": "Yes.\n\nAlso research the whole ibm deal.\n\nKarp and thiel also rub elbows with the western elite. They attend bilderberg, davos etc. no accident that they are winning tons of awards from western govts",
         "created_utc": 1622959006,
         "id": "h0rnil4",
+        "permalink": "/r/stocks/comments/ntek6r/since_data_is_the_new_oil_is_palantir_a_great/h0rnil4/",
         "score": 10,
         "subreddit": "stocks",
         "created": 1622987806.0
@@ -274,15 +354,27 @@
         "body": "&gt;Samsung has a history of being a little \"generous\" with the description of their node sizes\n\nSo does TSMC, it's all marketing. Intel is being forced to rename their nodes because of how \"generous\" TSMC is, which has led to a lot of consumer confusion. For example, Intel's 10nm is actually smaller than both TSMC's 7nm and Samsung's 7nm, because the true equivalent sizes of these nodes are 9nm (Intel) and 10nm (TSMC and Samsung).\n\nHere's how manufacturing nodes rank based on half-pitch scaling of an equivalent (in transistor density) planar transistor node:\n\n15. 32nm Intel\n\n14. 28nm TSMC / 28nm UMC / 28nm Samsung/GlobalFoundries/IMB\n\n13. 22nm Intel /22nm IBM\n\n12. 20nm TSMC /20nm Samsung/20nm Intel (marketed as \u201c22FFL)\n\n11. 18nm TSMC (marketed as \u201c16nm\u201d) / 18nm Samsung/GF (marketed as \u201c14nm\u201d)\n\n10. 17nm GF (marketed as \u201c12nm\u201d (12LP) by GF)\n\n09. 16nm TSMC (marketed as \u201c12nm\u201d (12FFC) by TSMC)\n\n08. 14nm Intel / 14nm Samsung (marketed as \u201c10nm\u201d by Samsung)\n\n07. 13nm Samsung (marketed as \u201c8nm\u201d by Samsung)\n\n06. 10nm TSMC (marketed as \u201c7nm\u201d (N7/N7P))/ 10nm Samsung (marketed as \u201c7nm\u201d)\n\n05. 9nm Intel (marketed as \u201c10nm\u201d)/ 9nm TSMC (marketed as 7nm (N7+))\n\n04. 6.7nm TSMC (marketed as \u201c5nm\u201d)\n\n03. 6.4nm Intel (marketed as \u201c7nm\u201d)\n\n02. 5nm TSMC (marketed as \u201c3nm\u201d)\n\n01. 4.5nm Intel (marketed as \u201c5nm\u201d)",
         "created_utc": 1624378252,
         "id": "h2nyjpw",
+        "permalink": "/r/investing/comments/o5q8sq/recommendation_buy_the_shit_out_of_tsmc/h2nyjpw/",
         "score": 10,
         "subreddit": "investing",
         "created": 1624407052.0
+    },
+    {
+        "author": "Ruffelz",
+        "body": "I can see where they're coming from. The $10,000 of IBM is still going to get taxed when the shares are sold. So unless the endgame is to just grow old and die on a pile of IBM shares, they need to be sold eventually and the tax burden will probably be the same proportion. Moving to $7,000 of VOO means that the gains were realized and now selling the VOO only incurs taxes on every dollar earned above 7k.",
+        "created_utc": 1624505959,
+        "id": "h2uiwvx",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uiwvx/",
+        "score": 10,
+        "subreddit": "investing",
+        "created": 1624534759.0
     },
     {
         "author": "SnooCapers8443",
         "body": "the website of the company you want to buy stock from, just look up for example \"IBM investor relations\" and you find the quarterly and anual reports and results from audits.",
         "created_utc": 1622531217,
         "id": "h062mbf",
+        "permalink": "/r/stocks/comments/npgwy0/does_anybody_have_yahoo_finance_plus_i_enjoy/h062mbf/",
         "score": 10,
         "subreddit": "stocks",
         "created": 1622560017.0
@@ -292,6 +384,7 @@
         "body": "I can create a ton of back tests showing where IBM beats VOO and back tests where it doesn't. There is a real cost in that if OP sells they could only have effectively $8,500 to invest with instead that may or may not beat $10k of IBM in the future. \n\nVOO would have to grow 17.64% over IBM just to make up for realizing a 15% loss. \n\nGranted it's only $10,000 but you really don't want to be realizing costs either if you can avoid it. \n\nThere is a lot more things I'd suggest to the OP to invest in besides VOO but it was very important to point out a huge fact the rest of Reddit overlooked - there could be significant capital gains on this position if they sold the shares.",
         "created_utc": 1624506757,
         "id": "h2uk81o",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uk81o/",
         "score": 10,
         "subreddit": "investing",
         "created": 1624535557.0
@@ -301,6 +394,7 @@
         "body": "I feel like boring is where the most gains are. Take etfs for example. Voo and Vti are boring and they represent the benchmarks everyone is trying to compete with. Large cap well established companies are boring, but those are what drive the market. Ya you would make a lot of money finding a net net or the next Apple as a small cap, but for anyone that doesn\u2019t invest for a living, being knowledgeable enough and patient enough to know that companies like Coca Cola and 3m will always be there and will more time than not offer you a great risk adjusted return is what i believe to be the key to long term investing. \n\nYou won\u2019t find a lot of people here that have been investing in the market for 20+ years because of the lack of popularity, know how, and the cost barriers investing outside of a company ESOP or 401k; but the comments i have heard from some of the older guys i know and work with, they have either been buying into SPY, or things like MetLife, FPL, IBM, and the likes. They bought or kept buying and just let time do it\u2019s thing",
         "created_utc": 1624673240,
         "id": "h32c0ce",
+        "permalink": "/r/investing/comments/o808c7/is_it_normal_to_not_get_excited_about_the_stocks/h32c0ce/",
         "score": 10,
         "subreddit": "investing",
         "created": 1624702040.0
@@ -310,6 +404,7 @@
         "body": "right after CLF squeeze it KO and IBM, maybe GE",
         "created_utc": 1623260712,
         "id": "h16gor2",
+        "permalink": "/r/wallstreetbets/comments/nvs38y/daily_discussion_thread_for_june_09_2021/h16gor2/",
         "score": 9,
         "subreddit": "wallstreetbets",
         "created": 1623289512.0
@@ -319,6 +414,7 @@
         "body": "&gt;If you were handed that money right now in $10K in cash, would you spend it on IBM? If not, you should put the money elsewhere.\n\nBingo, aka sell it and buy something else.",
         "created_utc": 1624520988,
         "id": "h2v2pkf",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2v2pkf/",
         "score": 9,
         "subreddit": "investing",
         "created": 1624549788.0
@@ -328,15 +424,27 @@
         "body": "OP has 10k worth, $IBM is around ~$144... they don't have 100 shares for options selling.",
         "created_utc": 1624505665,
         "id": "h2uifdn",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uifdn/",
         "score": 9,
         "subreddit": "investing",
         "created": 1624534465.0
+    },
+    {
+        "author": "ankole_watusi",
+        "body": "Correct. By the way I voted your comment up even though people are going to vote my comment down because they disagree with my opinion And don\u2019t want to admit that the CDN that they chose for their shitty little start up or agency isn\u2019t the best because the best isn\u2019t available to them.\n\nIt is true that Akamai is generally unapproachable to smaller Shops there are no pricing plans at less than about $1000 a month minimum.\n\nThere is a workaround through IBM and I use that for my own and client sites you only pay for usage and there is no minimum but the ordering is done through IBM cloud and there are some features not available And there\u2019s no handholding and support comes through IBM not directly from Akamai. \n\nAnd yes, indeed, they are an enterprise-y call us for a quote operation for Enterprises.",
+        "created_utc": 1623224921,
+        "id": "h14mmhk",
+        "permalink": "/r/stocks/comments/nvgoxq/fastlyfsly_had_a_worldwide_outage_today_resulting/h14mmhk/",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1623253721.0
     },
     {
         "author": "refurboftheweek",
         "body": "IBM's revenue has been steadily declining, however they generate enough profit to pay for the dividend, repurchase their own shares their market cap is not that big compared to other companies.\n\nI would SLOWLY start selling some shares every time it moves up and also buy your ETF, same for the dividend, do not invest it back into IBM, invest those in your ETF and your investment will continue to grow.",
         "created_utc": 1624496576,
         "id": "h2u1grd",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u1grd/",
         "score": 9,
         "subreddit": "investing",
         "created": 1624525376.0
@@ -346,6 +454,7 @@
         "body": "All the highly paid software developers at Amazon that I know fucking hate it LOL.  But they do get paid a lot.\n\nOne possible explanation is that LinkedIn is used by people seeking to get a better job and get paid more money, not by people who are just happy with where they are at.\n\nI mean IBM is on this list and it\u2019s a notoriously shitty place to work with a toxic management culture, other than a few small pockets.",
         "created_utc": 1624540534,
         "id": "h2vqz6d",
+        "permalink": "/r/stocks/comments/o6mci7/what_if_you_invested_in_the_linkedin_top_10/h2vqz6d/",
         "score": 8,
         "subreddit": "stocks",
         "created": 1624569334.0
@@ -355,6 +464,7 @@
         "body": "Assuming maximum loss to taxes is a much better comparison than $10k of IBM vs $10k of VOO, especially for a stock that\u2019s grown \u201calmost 1000%\u201d since the mid-nineties. If it\u2019s a gift, not a bequest, there is no adjustment to the cost basis. Since OP\u2019s gift is the smallest of ten recipients of IBM stock, I think assuming it\u2019s the result of a lifetime IBM worker\u2019s stock options or a very long term buy-and-holder is not unwarranted.",
         "created_utc": 1624514031,
         "id": "h2uup45",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uup45/",
         "score": 8,
         "subreddit": "investing",
         "created": 1624542831.0
@@ -364,6 +474,7 @@
         "body": "You're missing the point. 20 years ago, many thought IBM and Xerox would beat the market, but they were obviously wrong. What makes you so sure that Square and Zillow will overperform the market over the next 20? If it were that obvious, everyone would do it. The fact is that you do not know, none of us do, but it may be a risk worth taking.\n\nJust be aware it is indeed a risk, a gamble even.",
         "created_utc": 1624147280,
         "id": "h2dk3ql",
+        "permalink": "/r/investing/comments/o3qxb7/proscons_of_investing_in_individual_stocks_versus/h2dk3ql/",
         "score": 8,
         "subreddit": "investing",
         "created": 1624176080.0
@@ -373,15 +484,37 @@
         "body": "what i see people say a lot when facing these type of situations is, if you were given 10k would you buy IBM stock with it? If not or you think there\u2019s a better chance why not sell it and go with your first choice. Not sure how taxes work with it tho, so that\u2019s prolly something to keep in mind tho lol",
         "created_utc": 1624497690,
         "id": "h2u3ih9",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u3ih9/",
         "score": 8,
         "subreddit": "investing",
         "created": 1624526490.0
+    },
+    {
+        "author": "DLew13",
+        "body": "GME is like the IBM of meme stocks now \ud83d\ude02 Holding it\u2019s own even on down days.",
+        "created_utc": 1622824308,
+        "id": "h0l1igz",
+        "permalink": "/r/wallstreetbets/comments/ns1gd8/daily_discussion_thread_for_june_04_2021/h0l1igz/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1622853108.0
+    },
+    {
+        "author": "Adderalin",
+        "body": "IBM is $144.61 per share, OP would have 69 shares at $10k. There'd be a bit of risk having to cover 31 shares if assigned on an OTM call.",
+        "created_utc": 1624505683,
+        "id": "h2uighs",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uighs/",
+        "score": 8,
+        "subreddit": "investing",
+        "created": 1624534483.0
     },
     {
         "author": "jruff84",
         "body": "They have several government contracts and are the official provider for Canada. They also recently partnered with IBM and are focusing a lot on digital platforms and cyber security.",
         "created_utc": 1623251853,
         "id": "h15ug0w",
+        "permalink": "/r/wallstreetbets/comments/nvsynu/daily_popular_tickers_thread_for_june_09_2021/h15ug0w/",
         "score": 8,
         "subreddit": "wallstreetbets",
         "created": 1623280653.0
@@ -391,6 +524,7 @@
         "body": "Anyone else keep money on stocks like IBM and Intel so they don\u2019t yolo it on dumb shit ? \ud83d\ude02 I consider them my bank accounts with some potential",
         "created_utc": 1623296947,
         "id": "h18ofa4",
+        "permalink": "/r/wallstreetbets/comments/nw4vdx/what_are_your_moves_tomorrow_june_10_2021/h18ofa4/",
         "score": 8,
         "subreddit": "wallstreetbets",
         "created": 1623325747.0
@@ -400,6 +534,7 @@
         "body": "There\u2019s something called opportunity cost as well so he may have to pay let\u2019s say that $1500 in taxes he could very well make it back and then some on a better stock. If I were given $10 in IBM, it\u2019d be sold in a heartbeat, and invested into something else. Too many other sexy options out there other then an old boomer stock that doesn\u2019t seem to be interested in newer technologies or reinventing their brand.",
         "created_utc": 1624499754,
         "id": "h2u7dzl",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u7dzl/",
         "score": 8,
         "subreddit": "investing",
         "created": 1624528554.0
@@ -409,6 +544,7 @@
         "body": "IBM To Establish New Cybersecurity Center For US Federal Clients\n\nhttps://www.marketwatch.com/story/ibm-to-create-cybersecurity-center-for-u-s-federal-clients-271622630199?mod=mw\\_quote\\_news",
         "created_utc": 1622665973,
         "id": "h0cw24g",
+        "permalink": "/r/stocks/comments/nqhts8/rstocks_daily_discussion_wednesday_jun_02_2021/h0cw24g/",
         "score": 7,
         "subreddit": "stocks",
         "created": 1622694773.0
@@ -418,6 +554,7 @@
         "body": "IBM and their partnership with PLTR looks promising.",
         "created_utc": 1624306406,
         "id": "h2kpwng",
+        "permalink": "/r/stocks/comments/o51q6z/discussion_the_future_of_cyber_security/h2kpwng/",
         "score": 7,
         "subreddit": "stocks",
         "created": 1624335206.0
@@ -427,6 +564,7 @@
         "body": "Problem with Intel is that whatever they do, the market doesn't like the stock. Sure, AMD and Nvidia are eating into their share but the whole industry is exponentially growing and Intel will continue to make more and more money. They just need to get their 7nm right and they are back on track especially with their manufacturing capacity which no other chip company has. Will I invest in this stock? No, because they have this image of being the next IBM and almost everyone believes that and for the stock price that's very detrimental.",
         "created_utc": 1624986286,
         "id": "h3gjggs",
+        "permalink": "/r/investing/comments/oac3ox/intel_corp_intc_is_undervalued/h3gjggs/",
         "score": 7,
         "subreddit": "investing",
         "created": 1625015086.0
@@ -436,6 +574,7 @@
         "body": "Dividends aren\u2019t absolutely useless, but they are the least efficient method of earnings payouts.  Capital investments, R&amp;D, and stock buybacks are all more efficient than dividends.  And the fact that the culture of dividends is such that they need to be increased every year and should not go down in bad times makes them extremely dangerous as well.\n\nSome dividend stocks can get away with this, like REITs, but companies like IBM and T are wrecked by their rich dividend payouts.\n\nBut on the other hand, reaching that elusive 20% yield on cost number is pretty fucking awesome.  LOL.  A bond can\u2019t do that.",
         "created_utc": 1624971927,
         "id": "h3fo8nl",
+        "permalink": "/r/stocks/comments/oa4sm2/when_investing_in_stocks_what_important_truth_do/h3fo8nl/",
         "score": 7,
         "subreddit": "stocks",
         "created": 1625000727.0
@@ -445,6 +584,7 @@
         "body": "Yup, maybe if IBM had done that things would be different right about now",
         "created_utc": 1625010533,
         "id": "h3i1lrn",
+        "permalink": "/r/investing/comments/oac3ox/intel_corp_intc_is_undervalued/h3i1lrn/",
         "score": 7,
         "subreddit": "investing",
         "created": 1625039333.0
@@ -454,15 +594,37 @@
         "body": "I don't think IBM in the 80's had the moat that Intel does today.",
         "created_utc": 1625029289,
         "id": "h3j0bft",
+        "permalink": "/r/investing/comments/oac3ox/intel_corp_intc_is_undervalued/h3j0bft/",
         "score": 7,
         "subreddit": "investing",
         "created": 1625058089.0
+    },
+    {
+        "author": "Say_no_to_doritos",
+        "body": "I'm in for $20k on BlackBerry but I gotta say that there is no comparison between them and IBM.",
+        "created_utc": 1623612618,
+        "id": "h1nikgk",
+        "permalink": "/r/wallstreetbets/comments/nyyq9f/blackberry_undervaluationleader_in_ev_iot_and/h1nikgk/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1623641418.0
+    },
+    {
+        "author": "PDXGolem",
+        "body": "Even metoos can fail for a long while.  Sometimes it takes two or three generations for a technology to pick up steam. \n\nThere was a massive push for AI in the 1980's/1990's starting with IBM and only in the past 10 years have AI-centric companies in general become profitable.   For decades they failed, over and over.",
+        "created_utc": 1624869199,
+        "id": "h3augr2",
+        "permalink": "/r/stocks/comments/o9b9fe/panasonic_sold_all_its_tesla_shares_and/h3augr2/",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1624897999.0
     },
     {
         "author": "Nierdris",
         "body": "IBM is the king of computer building. They could never fail.",
         "created_utc": 1623608732,
         "id": "h1nal0a",
+        "permalink": "/r/wallstreetbets/comments/nyvjsm/voice_of_reason_take_profits/h1nal0a/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1623637532.0
@@ -472,6 +634,7 @@
         "body": "IBM pay good dividend and is always researching.",
         "created_utc": 1624515225,
         "id": "h2uw5zz",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uw5zz/",
         "score": 6,
         "subreddit": "investing",
         "created": 1624544025.0
@@ -481,6 +644,7 @@
         "body": "It takes only one day (after years of stall) for market sentiment to change. Be it IBM, CISCO, AAPL, or any company you pick.",
         "created_utc": 1624993646,
         "id": "h3h0na5",
+        "permalink": "/r/investing/comments/oac3ox/intel_corp_intc_is_undervalued/h3h0na5/",
         "score": 6,
         "subreddit": "investing",
         "created": 1625022446.0
@@ -490,6 +654,7 @@
         "body": "I've only got a few bucks in, so I'm just riding out the day.   \n\n\nGot 2 Shares of CLF waiting to see if Cleveland treats me good, UWMC, BB, CLN, and WISH all at a share a piece. I'm a Gibbon among Apes, smallest of the apes. Maybe at some point one will give me a good jump and I can afford something nice. Or just more stock for a better position. GME and IBM fractions are there, but, well, they're there.",
         "created_utc": 1623363492,
         "id": "h1c2dwk",
+        "permalink": "/r/wallstreetbets/comments/nwwxw6/what_are_your_moves_tomorrow_june_11_2021/h1c2dwk/",
         "score": 6,
         "subreddit": "wallstreetbets",
         "created": 1623392292.0
@@ -499,6 +664,7 @@
         "body": "This is kind of a nonsensical comment if you think about it. That\u2019s the definition of speculative investing. Apple is the OG meme company. Or going back further, IBM. \n\nInvesting in companies based on what they might do is pretty much the definition of investing. There are absolutely other types, like bonds and dividend stocks, but describing all speculative investing as a meme kind of takes away any meaning, no?",
         "created_utc": 1624547387,
         "id": "h2w56zf",
+        "permalink": "/r/stocks/comments/o71cj8/ford_f_has_239b_ttm_free_cash_flow_and_only_61b/h2w56zf/",
         "score": 6,
         "subreddit": "stocks",
         "created": 1624576187.0
@@ -508,15 +674,37 @@
         "body": "Why not split the difference and put 5k in voo and keep 5k of ibm",
         "created_utc": 1624495528,
         "id": "h2tzhmv",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2tzhmv/",
         "score": 6,
         "subreddit": "investing",
         "created": 1624524328.0
+    },
+    {
+        "author": "meows_at_idiots",
+        "body": "There are a lot of companies using gcp. All the cloud services are about the same any server admin could use and figure them all out in a few hours to a day based on docs. They only people who actually do the training are the consultants in my experience. We are currently switching from azure to ... IBM. I argued for gcp, but I'm pleasantly surprised with IBM actually.",
+        "created_utc": 1623842166,
+        "id": "h1yf4te",
+        "permalink": "/r/investing/comments/o0tr34/google_quietly_killing_it_in_2021_ytd_performance/h1yf4te/",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1623870966.0
+    },
+    {
+        "author": "jwlazar",
+        "body": "If they *can* spend on R&amp;D, why don\u2019t they?  Why don\u2019t they bury AMD into obscurity like Andy Grove almost did when the Athlon started cutting into Intel\u2019s low-end market share?\n\nYou speak of R&amp;D like an on/off or dimmer switch.  AMD has had the switch in the \u201con\u201d position for the past several years and now things will Improve for Intel because they suddenly decided R&amp;D is important again?  Is that a decision or company culture you believe will inspire investors?\n\nYour same argument was as valid for IBM or HP or Cisco, and yet these companies for their vast accumulation of cash reserves and ostensible engineering prowess struggle.  Why is that?  Does it really have anything to do with having cash on hand or market share?",
+        "created_utc": 1625007709,
+        "id": "h3hvwfn",
+        "permalink": "/r/investing/comments/oac3ox/intel_corp_intc_is_undervalued/h3hvwfn/",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1625036509.0
     },
     {
         "author": "Anderson82",
         "body": "I feel like now that Cambridge and Honeywell are creating a new pure Quantum company, I really hope this new entity enters the public market via a SPAC.  I know Honeywell, IBM, Google, Intel and others all have significant investment in Quantum, but if we get a few more of these pure play companies out of the private sector into the public the Quantum space race will actually begin.  I LOVE IonQ, but would love to spread my quantum risk with some shares of Rigetti, Dwave, etc.  I don't want any companies in my imaginary quantum index that can totally pivot if things get less trendy or new walls arise.",
         "created_utc": 1623343158,
         "id": "h1aqv93",
+        "permalink": "/r/SPACs/comments/nwoknp/dmyi_ionq_adds_integration_with_google_cirq/h1aqv93/",
         "score": 6,
         "subreddit": "SPACs",
         "created": 1623371958.0
@@ -526,6 +714,7 @@
         "body": "In 2007 BB only went up. [https://imgur.com/a/WMMqHLm](https://imgur.com/a/WMMqHLm)\n\nIBM used to be MSFT [https://imgur.com/a/yhUlY28](https://imgur.com/a/yhUlY28)\n\n&amp;#x200B;\n\nI'd suggest you research the previous industry leaders and their current stock prices before deciding things are safe. You won't find many stock that dropped over 60% that didn't look awesome at the high.",
         "created_utc": 1623621303,
         "id": "h1o07hq",
+        "permalink": "/r/stocks/comments/nz5r2i/etn_question/h1o07hq/",
         "score": 6,
         "subreddit": "stocks",
         "created": 1623650103.0
@@ -535,6 +724,7 @@
         "body": "With regard to IBM, you have the power of hindsight. Of course the strategies used by IBM in the 90s and 00s won't work anymore. Square isn't competing with 90s IBM. For Square to beat the market over the next 20 years, it must beat hundreds of well run companies. That is something that's virtually impossible to predict.",
         "created_utc": 1624149438,
         "id": "h2dnt9x",
+        "permalink": "/r/investing/comments/o3qxb7/proscons_of_investing_in_individual_stocks_versus/h2dnt9x/",
         "score": 6,
         "subreddit": "investing",
         "created": 1624178238.0
@@ -544,6 +734,7 @@
         "body": "Sell it. Garbage dinosaur company. No tech talent goes to IBM, just the devs that couldn\u2019t get in anywhere else",
         "created_utc": 1624499460,
         "id": "h2u6thj",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u6thj/",
         "score": 6,
         "subreddit": "investing",
         "created": 1624528260.0
@@ -553,6 +744,7 @@
         "body": "Saw an IBM ad on youtube and that\u2019s all the DD I need to yolo life savings into OTM IBM calls",
         "created_utc": 1622608901,
         "id": "h0a1vfk",
+        "permalink": "/r/wallstreetbets/comments/nq32sc/what_are_your_moves_tomorrow_june_02_2021/h0a1vfk/",
         "score": 5,
         "subreddit": "wallstreetbets",
         "created": 1622637701.0
@@ -562,6 +754,7 @@
         "body": "I imagine IBM looking like that for some reason.",
         "created_utc": 1624448818,
         "id": "h2rammi",
+        "permalink": "/r/wallstreetbets/comments/o61v91/buybacks_are_bad_unless_im_profiting_from_them/h2rammi/",
         "score": 5,
         "subreddit": "wallstreetbets",
         "created": 1624477618.0
@@ -571,6 +764,7 @@
         "body": "So are you saying if OP\u2019s gifter bought the IBM stock for 1k back in the 90s and it\u2019s worth 10k now, he\u2019s still taxed as capital gains on the 9k?",
         "created_utc": 1624516131,
         "id": "h2ux990",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2ux990/",
         "score": 5,
         "subreddit": "investing",
         "created": 1624544931.0
@@ -580,15 +774,57 @@
         "body": "I just got back from 1961 and IBM introduced the first electric typewriter, do with this information what you will",
         "created_utc": 1624893340,
         "id": "h3bu0nd",
+        "permalink": "/r/wallstreetbets/comments/o9h5w0/daily_discussion_thread_for_june_28_2021/h3bu0nd/",
         "score": 5,
         "subreddit": "wallstreetbets",
         "created": 1624922140.0
+    },
+    {
+        "author": "SouthernYoghurt9",
+        "body": "God why is this worth 230? I work in cybersecurity, and quantum has literally 0 useful applications right now. Its 20 years away from having machines with enough q-bits to solve any real problems. \n\nI'm not an IBM shill, but at least they are making a little money",
+        "created_utc": 1623177485,
+        "id": "h125mxg",
+        "permalink": "/r/stocks/comments/nv4lcg/honeywell_quantum_solutions_and_cambridge_quantum/h125mxg/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1623206285.0
+    },
+    {
+        "author": "kosborne40",
+        "body": "My whole family invests, but it's in safe stocks, ones that are pretty much leveled off and set. They don't take risks with it. I've only known a few people outside of my family who invested. I know my ex's brother lost his shirt in some kind of stock in the mid-2000s. Ended up losing his entire life savings. But then there was my great aunt who invested in Pepsi and IBM stock really early, and invested a LOT, and she ended up set for life down the road. So it really all depends on luck I guess. Trying to predict human behavior isn't easy, and most people are just scared I think. Bet your dad wishes he'd researched your suggestion a little more lol",
+        "created_utc": 1624307772,
+        "id": "h2kswkw",
+        "permalink": "/r/stocks/comments/o4n02o/why_dont_high_schools_have_classes_on_stock_market/h2kswkw/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1624336572.0
+    },
+    {
+        "author": "NorthPoleStocks",
+        "body": "It's $10,000 worth of IBM, not 10,000 shares of IBM.",
+        "created_utc": 1624509674,
+        "id": "h2uopf6",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uopf6/",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1624538474.0
+    },
+    {
+        "author": "BenjaminKorr",
+        "body": "Not even sure why IBM is the whipping boy always compared against in these discussions. IBM stagnated sure, but they didn't fall apart or crash in value.\n\nWere there better places to put your money if you had a crystal ball or were actively researching companies? Of course. But I wouldn't look at shares of IBM held since the 70s/80s as a bad investment. GE seems to better fit that bill.",
+        "created_utc": 1625074066,
+        "id": "h3kzyby",
+        "permalink": "/r/investing/comments/oac3ox/intel_corp_intc_is_undervalued/h3kzyby/",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1625102866.0
     },
     {
         "author": "Barney_Bets",
         "body": "Yeah, that\u2019s why ibm gave up and decided to partner with PLTR\u2026",
         "created_utc": 1624237623,
         "id": "h2hlh9b",
+        "permalink": "/r/stocks/comments/o4cqxv/what_are_some_of_the_best_stocks_to_invest_in_for/h2hlh9b/",
         "score": 5,
         "subreddit": "stocks",
         "created": 1624266423.0
@@ -598,6 +834,7 @@
         "body": "Right, that\u2019s my point. It seems weird to randomly give out &gt;$100k in IBM shares. Inheritance is more plausible.",
         "created_utc": 1624539581,
         "id": "h2vp9j7",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2vp9j7/",
         "score": 5,
         "subreddit": "investing",
         "created": 1624568381.0
@@ -607,6 +844,7 @@
         "body": "Its not a bad company per se, but people looking for a value stock can just go into the open market and buy IBM or Chevron .\n\nI have the impression that most SPAC investors are looking for that company that can change the world and has a chance of making them rich or at least give them a decent return. Like what happened with CCIV, or KCAC (QS) etc.......\n\n Making 10-20% a year is awesome for Ackman as 20% of $10 billion is an awesome $2billion, but for regular Joe's 20% of $1000 is just a $hitty $200 :-(",
         "created_utc": 1622785257,
         "id": "h0j9upx",
+        "permalink": "/r/SPACs/comments/nrqgbw/bill_ackmans_psth_rumored_to_take_universal_music/h0j9upx/",
         "score": 4,
         "subreddit": "SPACs",
         "created": 1622814057.0
@@ -616,6 +854,7 @@
         "body": "IBM, MSFT, VISA",
         "created_utc": 1623633656,
         "id": "h1om7at",
+        "permalink": "/r/StockMarket/comments/nza8uq/small_daily_investments_5_to_10_to_invest_per_day/h1om7at/",
         "score": 4,
         "subreddit": "StockMarket",
         "created": 1623662456.0
@@ -625,6 +864,7 @@
         "body": "I wouldn't start with Palanir visualizes data since eit takes a lot of database work to make those visualizations meaningful. I'd say that Palantir is like the combinations of all these piecemeal software products (e.g., MSFT, AXY, IBM, etc.,) put I to a full architecture suite. To me it makes actual machine learning possible since that first starts with getting the right data structure. It's essentially consolidating the machine learning tool space into MSFT like product. \n\nI'd like to see it rise and get more clients and become a standard since it's a great idea.",
         "created_utc": 1623729838,
         "id": "h1t9fzy",
+        "permalink": "/r/wallstreetbets/comments/o03gln/pltr_dd_calling_all_palantards_what_is_pltr_and/h1t9fzy/",
         "score": 4,
         "subreddit": "wallstreetbets",
         "created": 1623758638.0
@@ -634,6 +874,7 @@
         "body": "IBM, the wave of the future",
         "created_utc": 1623882603,
         "id": "h20thb0",
+        "permalink": "/r/wallstreetbets/comments/o1dy21/what_are_your_moves_tomorrow_june_17_2021/h20thb0/",
         "score": 4,
         "subreddit": "wallstreetbets",
         "created": 1623911403.0
@@ -643,6 +884,7 @@
         "body": "TGT: Consumer staples are among the most defensive stocks on the market, and that tends to hold true with their dividends. While Target's dividend is currently not very competitive, I believe overtime that it will become more dominant. Target provides basically the same service as Walmart, but attracts higher wage earners than Walmart, resulting in higher profit margins. Target is also ahead of the fight for 15, having already committed to raising employee wages to 15 dollars an hour across the board. This has not stopped Target from shattering it's earnings Estimates every quarter since the start of the pandemic. There's no reason not to think that Target won't grow it's dividend overtime as it matures.\n\nPFE: Pfizer has a dividend yield of 3.83% compared to its market median of 2.26%. The company has steady revenue for a while with the demand for covid vaccines still rampant abroad, and the eventual need for booster shots will give them additional revenue. In addition, the company is situated to handle it's short and long term debts. \n\nIBM: Controversial company due to the fact that it recently quietly laid off its older workforce, some would argue a necessary evil in a tech company that needed to adapt. Having said that, IBM is a rare tech stock with a high dividend yield. While many would prefer tech stocks reinvest their earnings, IBM is a mature company that likely would not fully benefit from future reinvestment at this point.  IBM currently has a dividend yield of 4.36. IMO this stock is worth holding long term for the Quantum Computing potential alone, as IBM is working on Quantum Computers that while not currently applicable, have applications that can potentially increase productivity tenfold in the future, and thus would be massively profitable. This is a long shot, as other companies are working on such computers, but still significant upside nonetheless. \n\nCNQ: Did a DD on this stock [https://www.reddit.com/r/stocks/comments/nx2scl/cnq\\_dd\\_analysis/](https://www.reddit.com/r/stocks/comments/nx2scl/cnq_dd_analysis/)\n\nAFL: Safety is an important component of dividend stocks, and Life/Health Insurance is one of the safest industries out there. There will always be a demand for insurance products, and stocks like Aflac that are underpriced can make for great conservative investments as well. With a 2.35% dividend yield in a defensive industry, this stock is a safe bet to raise its dividend in the future. It also currently trades at a PE ratio of 7.22, which is very reasonable this day and age and undervalued from its earnings. The stock has been earning at a PE ratio of about 10, suggesting the stock is undervalued by 40%",
         "created_utc": 1623429340,
         "id": "h1f4n76",
+        "permalink": "/r/stocks/comments/nxjdqz/dividend_stocks_that_will_never_ever_crash/h1f4n76/",
         "score": 4,
         "subreddit": "stocks",
         "created": 1623458140.0
@@ -652,6 +894,7 @@
         "body": "Does he have to pay taxes on the ibm shares tho when he sells??? What is his tax burden",
         "created_utc": 1624501271,
         "id": "h2uabq1",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2uabq1/",
         "score": 4,
         "subreddit": "investing",
         "created": 1624530071.0
@@ -661,6 +904,7 @@
         "body": "Intel has gone through periods where other manufacturers beat them in performance. I remember the days of the Pentium 3 and 4 that were far behind what IBM/Motorola were producing, but Intel eventually figured it out and made a comeback with the Core Duo. Unless they go the way of IBM, I think they will find their way, but I would not want to buy the stock at this time until a turnaround is more clear.",
         "created_utc": 1622582777,
         "id": "h08nbvy",
+        "permalink": "/r/investing/comments/npytvv/why_intel_intc_is_undervalued/h08nbvy/",
         "score": 4,
         "subreddit": "investing",
         "created": 1622611577.0
@@ -670,6 +914,7 @@
         "body": "I remember tesla, ibm, apple, all them guys were massively (well relatively) on sale a while back that day when the entire market was bleeding.",
         "created_utc": 1622703224,
         "id": "h0eu64i",
+        "permalink": "/r/stocks/comments/nr1dkn/beware_of_what_amc_shorts_are_holding/h0eu64i/",
         "score": 4,
         "subreddit": "stocks",
         "created": 1622732024.0
@@ -679,6 +924,7 @@
         "body": "Did I say that? If you concentrate on an industry for a long time, you can become pretty savvy about it. No one who understood tech would have followed Buffett into IBM 20 years after it lost its leadership.",
         "created_utc": 1623644048,
         "id": "h1p396j",
+        "permalink": "/r/investing/comments/nz9dxc/is_bogles_style_passive_investing_really_better/h1p396j/",
         "score": 4,
         "subreddit": "investing",
         "created": 1623672848.0
@@ -688,6 +934,7 @@
         "body": "IBM kissing 152 and entering a technical breakout after 8 years of downturn? Also funny to add that the last 2 times it hit these levels were pre-covid drop and pre-fall 2018 drop \ud83d\udc40 \n\nBig difference between those two ramp ups, however, and now. It\u2019s definitely poised to move higher into Summer and it\u2019s almost guaranteed to move up even higher after ER shows good growth from their M&amp;A spree the past year. Lots to like there.. getting money from chip bill, eventually getting some run up near Q4 for spinoff, etc..",
         "created_utc": 1623613176,
         "id": "h1njpez",
+        "permalink": "/r/wallstreetbets/comments/nxosm3/weekend_discussion_thread_for_the_weekend_of_june/h1njpez/",
         "score": 4,
         "subreddit": "wallstreetbets",
         "created": 1623641976.0
@@ -697,6 +944,7 @@
         "body": "IBM's future depends on what Krishna  (or other future CEOs) does with IBM. It may be so damaged at this point that it will never recover. Rometty oversaw a lot of decline at IBM during her tenure. I am optimistic that Krishna will do better, but that could take years.\n\nI would personally move it all to an index fund.",
         "created_utc": 1624496077,
         "id": "h2u0j4k",
+        "permalink": "/r/investing/comments/o6pifl/i_was_gifted_10000_dollars_of_ibm_stock/h2u0j4k/",
         "score": 4,
         "subreddit": "investing",
         "created": 1624524877.0
@@ -706,197 +954,49 @@
         "body": "Raise your hands\ud83d\ude4b\u200d\u2642\ufe0f if you have a brain and realize the future is A.I. This pandemic only dramatically increased the time frame from 5-10 yrs to now. IBM,INTC,AMD,NVDA these will stay afloat when a lot other will sink in a flash crash.\ud83e\udd13\ud83e\udd8d",
         "created_utc": 1624902237,
         "id": "h3ce7lz",
+        "permalink": "/r/wallstreetbets/comments/o9h5w0/daily_discussion_thread_for_june_28_2021/h3ce7lz/",
         "score": 4,
         "subreddit": "wallstreetbets",
         "created": 1624931037.0
+    },
+    {
+        "author": "ResponsibilityNo9566",
+        "body": "$BB QNX in 23 of 25 EV makers, IVY partnership with AWS .. and now BB x IBM ?  this is a real company with great products and services that many companies depend and rely on on a daily basis.   \n\nTLDR:  Retards that cant read or count, HODL ! $BB to the Moon!",
+        "created_utc": 1623421124,
+        "id": "h1elyc5",
+        "permalink": "/r/wallstreetbets/comments/nx038v/the_key_to_blackberry/h1elyc5/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1623449924.0
+    },
+    {
+        "author": "StraightShowStopper",
+        "body": "So OP can just sell his put, cash in the profits, and be done with it. Thanks.\n\nAs far as I understand, trading options is not a big deal then. Writing options, on the other hand...\n\nThis is all new to me. I am a boomer stock investor (think VT, UL and IBM), and just got into gambling with the big meme one (just with shares, though, I don\u2019t have the cojones for r/wallstreetbets shenanigans). Their sub is fun, though...",
+        "created_utc": 1622668945,
+        "id": "h0d31gu",
+        "permalink": "/r/investing/comments/nqrjup/why_is_my_put_option_gaining_value_if_the_stock/h0d31gu/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1622697745.0
+    },
+    {
+        "author": "JizzM4rkie",
+        "body": "Oh thank God, I\u2019ve been worried the past 3 hours and 7 minutes that my wife would notice that I borrowed some money out of her boyfriend\u2019s wallet. How do you set the clock from EST to PDT on a 1995 IBM notebook??",
+        "created_utc": 1622845522,
+        "id": "h0mdwll",
+        "permalink": "/r/wallstreetbets/comments/ns8b2w/me_coming_back_to_wsb_after_a_100_loss_and_a_90/h0mdwll/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1622874322.0
     },
     {
         "author": "Lingweenie2",
         "body": "Well, VIAC is my largest stock position by equity, so my thoughts won\u2019t come as a surprise:\n\nI think the negativity is overblown. They do own some pretty good content. At the end of the day that\u2019s what matters most. Anyone can get a streaming platform. (With enough money and work, naturally.) \n\nI originally bought into them right after Viacom and CBS remerged. Though, I had temptations in both singular companies at first. Just didn\u2019t have enough \u2018uhmf.\u2019 \n\nThe fact they are together again peaked my interest the most. I think people underestimate them too much, mainly because you\u2019re high off Disney and Netflix\u2019s fumes. I think they\u2019re a solid company that\u2019s doubted too much. \n\nI held through the onslaught it had in 2020. Bought more shares in the process. Sold off half my stake when the rally blasted off unexpectedly. (A bit early but hey, $80-$95 was damn good tendies.) \n\nAfter the implosion, bought back my half back, plus some. I intend to hang on to them for quite a while. Definitely very bullish. \n\nI like IBM quite a bit too. Own them too. A larger position of mine. Similar to VIAC, not loved much and overlooked. I think with the increasing technology advancements they\u2019ll get their fair share of the pie.",
         "created_utc": 1624924842,
         "id": "h3ds7mw",
+        "permalink": "/r/wallstreetbets/comments/o9q22o/viac_and_the_parable_of_microsoft_ibm/h3ds7mw/",
         "score": 4,
         "subreddit": "wallstreetbets",
         "created": 1624953642.0
-    },
-    {
-        "author": "EclecticEuTECHtic",
-        "body": "&gt;We came in 3rd amongst hundreds of teams thanks to awesome stock tips from my Dad...this was early 90's and we were pouring our fake money into Microsoft, Adobe, IBM, and other tech stocks....while most other kids were buying Nike and Coke.\n\nSeems like you all would have done ok if you held till now!",
-        "created_utc": 1624281434,
-        "id": "h2j7vb3",
-        "score": 4,
-        "subreddit": "stocks",
-        "created": 1624310234.0
-    },
-    {
-        "author": "PitifulTaste",
-        "body": "I bought IBM on Feb 26, and am up 24.28%.  Holding for the dividends since I assume it will probably go down a little, but still a great buy.  Probably my second best ever.",
-        "created_utc": 1623869926,
-        "id": "h201evu",
-        "score": 4,
-        "subreddit": "stocks",
-        "created": 1623898726.0
-    },
-    {
-        "author": "PoPoChao",
-        "body": "A lot of people I talk to say IBM is a value trap. I don\u2019t know too much about them",
-        "created_utc": 1624496091,
-        "id": "h2u0k2d",
-        "score": 4,
-        "subreddit": "investing",
-        "created": 1624524891.0
-    },
-    {
-        "author": "GreyLaser",
-        "body": "Just a couple of businesses that i consider to be ethical enough to invest in them: WM, STOR, O, IBM, Intel, WTRG, GWRS, ABB, ROK, Nokia, LYB, VZ, WELL and there are many more...",
-        "created_utc": 1624653986,
-        "id": "h31ceuc",
-        "score": 3,
-        "subreddit": "ValueInvesting",
-        "created": 1624682786.0
-    },
-    {
-        "author": "mmutas",
-        "body": "I'm too lazy to really do the maths but can we conclude that the yield of the other option should be 20% higher?\n\nIf IBM is expected to gain 5 percent, we should switch to the other option if it is expected to gain 6 percent.",
-        "created_utc": 1624528850,
-        "id": "h2vapub",
-        "score": 3,
-        "subreddit": "investing",
-        "created": 1624557650.0
-    },
-    {
-        "author": "Astronaut100",
-        "body": "It all depends on how bullish you are about IBM's future. If recent history is any guide, they are a declining business that just can't keep up with big tech. Its five year return is a sorry negative 1.5% (maybe +20% with dividend). In the tech business, if you fall behind, you stay behind. \n\nThey could stage a comeback with their cloud business, so selling the stock has that risk, but odds are that you will be better off buying something like VGT (up a whopping 270% in the last five years) that has IBM in it but also other, more profitable tech companies.",
-        "created_utc": 1624529786,
-        "id": "h2vbq37",
-        "score": 3,
-        "subreddit": "investing",
-        "created": 1624558586.0
-    },
-    {
-        "author": "Unlikely-Answer",
-        "body": "If it makes any difference, IBM just partnered up with BB, sounds like a sexy yolo to me",
-        "created_utc": 1624512387,
-        "id": "h2usigr",
-        "score": 3,
-        "subreddit": "investing",
-        "created": 1624541187.0
-    },
-    {
-        "author": "skat_in_the_hat",
-        "body": "mid 30s.  \n30% dividend: KO, KMB, PFE, MAIN, VZ, ED, IBM.  \n70% growth: TSLA, MSFT, AAPL, ADBE, TWTR, LMT, AMD, WDC, MGM, AMZN, MA, V.",
-        "created_utc": 1624761569,
-        "id": "h367gcd",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1624790369.0
-    },
-    {
-        "author": "rbrumble",
-        "body": "I'm focusing on AI for the next decade: Amazon, AMD, Apple, IBM, Microsoft, Palantir.\n\nLast phase was social, those are hold.",
-        "created_utc": 1625054714,
-        "id": "h3juwbt",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1625083514.0
-    },
-    {
-        "author": "Truelikegiroux",
-        "body": "IonQ is a complete gamble. Not saying it\u2019s a bad call but I wouldn\u2019t expect amazing (If any) returns anytime soon. They and all quantum computing companies are still years away from the commercialization that they want. \n\nCompeting against IBM, the new combination of Honeywell and Cambridge Quantom, D-Wave, Microsoft, ColdQuanta and a few others so it\u2019s not like they are the only game in town",
-        "created_utc": 1623256956,
-        "id": "h167ahh",
-        "score": 3,
-        "subreddit": "SPACs",
-        "created": 1623285756.0
-    },
-    {
-        "author": "cb_flossin",
-        "body": "ibm actually a good hold imo",
-        "created_utc": 1623222391,
-        "id": "h14jq42",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1623251191.0
-    },
-    {
-        "author": "VioletChipmunk",
-        "body": "IBM is in the processor space?",
-        "created_utc": 1624504037,
-        "id": "h2uflas",
-        "score": 3,
-        "subreddit": "investing",
-        "created": 1624532837.0
-    },
-    {
-        "author": "meows_at_idiots",
-        "body": "IBM has been doing some pretty great stuff. They don't get near the recognition they should in my opinion. I think they will be a bigger player again in 4-5 years. A lot of things are in the works and take a while to ramp up.",
-        "created_utc": 1625071721,
-        "id": "h3kueyw",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1625100521.0
-    },
-    {
-        "author": "Lazybumm1",
-        "body": "I don't think that vertical integration is an advantage in this industry. Semis goes through oversupply / drought cycles. What happens to INTC in 2023 when their new shiny fabs that have cost &gt;$10B to build are idling because the market is flooded with cheap silicon?\n\nAMD and QCOM simply reduce their order flow to TSMC and call it a day, let TSMC take the loss. \n\nYou're right INTC is still the largest fish in the pond, mostly because they still have tons of B2B contracts rolling. How long do you think they can retain those for while behind? If it wasn't for the immense datacenter demand INTC would be a shrinking company right now.\n\nAMD is eating their lunch right now and growing at anywhere between \\~20-50% YoY. Do the math, how long is it going to be before they overtake INTC? AMD offer no dividends because they have better things to do with the money to fuel growth. If anything INTC is going to cut back on dividends too if they're serious about reinvesting in R&amp;D to catch up. \n\nAMD is not the only competition. NVDA has already announced Grace to launch in 2023 and I'm very confident they will be balling really hard for datacenter specific chips designed for certain tasks. While simultaneously gunning for embedded systems, inference nodes, edge computing etc. \n\nYou also have QCOM who's also competing for more and more market share outside of mobile. Chromebooks are rolling off the shelves with QCOM silicon already in them and we've seen the launch of entry-level laptops with the same chips. \n\nEveryone is after INTC's lunch and I have yet to see 1 compelling action taken that would allow Intel to level their footing and get back in the game. Until I see that I'm not changing my mind and my investment thesis. This is the next IBM until proven otherwise. If they can't turn the ship around they'll be selling off divisions in the next few years.",
-        "created_utc": 1625011836,
-        "id": "h3i46dv",
-        "score": 3,
-        "subreddit": "investing",
-        "created": 1625040636.0
-    },
-    {
-        "author": "JonskMusic",
-        "body": "Exactly. I don't get it. I mean... photoshop is/was ubiquitous but. its pricey for people. There are people who want to make content and can't afford 50 a month for Premiere etc. Also Adobe has been teasing some really cool AI stuff for years.... but where is it? They haven't really done anything huge in a while.. Creative Cloud is okay.. but its clunky and people don't like paying subscription and they don't like dealing with millions of passwords on an enterprise level etc. Adobe could be great.. but they need to do something big.... although every lawyer on the planet uses Acrobat and calls it Adobe. \"Do you have adobe?\"... Yet acrobat itself is kind of clunky as well.   \n\n\nBut who is their rival? If you look it up.. None of those companies have much to do with creating content: \"Adobe's top competitors include SAP, Salesforce, DocuSign, Dropbox, Getty Images, Shutterstock, Apple, Microsoft, IBM and Autodesk. Adobe is a software company developing digital marketing and media solutions.\"",
-        "created_utc": 1623511752,
-        "id": "h1iveuq",
-        "score": 3,
-        "subreddit": "StockMarket",
-        "created": 1623540552.0
-    },
-    {
-        "author": "KawhiLeonardIsSenpai",
-        "body": "I'm not heavy on Ford or any cars/transportation. I get they're trying to get into automated cars, but we are years away from doing that. There's a reason why TSLA failed its automated cars launch. If you still want to jump in on the hype, I'd recommend Luminar (LAZR). They make lidar tech, which is used for automated cars. It trades at $24 right now, and it recently poached executives from TESLA and INTEL. So it's high-risk, low reward imo. \n\nI'm against Disney, but that's your choice. You don't have any dividend plays other than VISA. You could consider JPM, MSFT, IBM.   \n\n\nI like OKTA, it's a pretty long term hold. AirBNB, fire sale right now. XPEV is a good choice and alternate to Tesla. AMAZON, I really find it hard to believe it can get to 4k. I'd rather take a chance on GOOG, MFST, AAPL, or even NVDIA.",
-        "created_utc": 1623296658,
-        "id": "h18nwl0",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1623325458.0
-    },
-    {
-        "author": "doodoopistol",
-        "body": "Listed in 1980, has outperformed during the same period IBM Boeing Coke JPMorgan and Disney",
-        "created_utc": 1623330039,
-        "id": "h19wgmq",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1623358839.0
-    },
-    {
-        "author": "r-T00Littl3Time",
-        "body": "Why would you sell 1 share?  Keep it forever.  You'll be 80 and it'll give you a chuckle, promise.  My Dad was a lifelong IBM'er.  He passed on a lot of various stocks to the 7 kids.  Everything divisible by 7.  700 of this and 1400 of that, but 7 shares of IBM.  I'll never sell that 1 share, ever.",
-        "created_utc": 1622637481,
-        "id": "h0b1zyt",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1622666281.0
-    },
-    {
-        "author": "DLew13",
-        "body": "IBM",
-        "created_utc": 1622674836,
-        "id": "h0dfoy1",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1622703636.0
-    },
-    {
-        "author": "cuittle",
-        "body": "When it turns into an IBM or GE",
-        "created_utc": 1622869046,
-        "id": "h0nkc1x",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1622897846.0
     }
 ]

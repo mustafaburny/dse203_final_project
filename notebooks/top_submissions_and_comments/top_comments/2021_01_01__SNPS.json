@@ -1,101 +1,32 @@
 [
     {
-        "author": "NeuroCryo",
-        "body": "Molecular biologist here, most diseases they are going after involve single nucleotide mutations.  It makes zero sense to use CRISPR on SNPs.  SNPs will be corrected chemically, by these enzymes targeted to genomic loci with dead cas9.  What would YOU rather do?  Cause a DSB and potential insertion leading to nofunction of a critical gene like APOE in the brain or, chemically change a base so that you go from APOE4 to APOE2 in as many cells as we can possibly deliver the therapy to.",
-        "created_utc": 1610503487,
-        "id": "gj2hh3a",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1610532287.0
-    },
-    {
-        "author": "baggiecurls",
-        "body": "If you want to get into a similar stock, SNPS might be one for you to look at.  They are acquiring a lot of small fish products.",
-        "created_utc": 1611478260,
-        "id": "gkioc2k",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1611507060.0
-    },
-    {
-        "author": "Reflectus",
-        "body": "It's fundamentally limited to the technology they use to sequence the sample. 23andMe still uses microarrays (old and limited technology), and that's why it's relatively cheap compared to whole genome sequencing (think Illumina NGS technology). Microarrays are basically a chip that present little strings of DNA to be bound to the incoming sample that washes over, and if there's a match it'll light up and be recorded by the machine. This limits the sequencing to just the targets you put onto your microarray chip. That's why 23andMe probably only looks at about 200'000-300'000 target sites in the genome, all just single-letter variation sites (SNPs). Whole genome sequencing on the other hand will capture most of your 3 billion letter genome, which is more meaningful in many ways. If 23andme shows more than they used to its by just squeezing more info (marginally) from the same technology. My data in my account for ex. has not updated much in the past 3 years. If I got a whole genome sequenced at 30x or 100x read depth, the analysis there would blow away 23andme or ancestry.",
-        "created_utc": 1611816593,
-        "id": "gl25j9a",
-        "score": 2,
-        "subreddit": "SPACs",
-        "created": 1611845393.0
-    },
-    {
-        "author": "Reflectus",
-        "body": "Hey there just thought I should give my 2cents if I may. I think it's great that you love the product, and I too am a customer and think that it's cool as well.  \n\n\nI will say though as a genetics major and now molecular biology grad student (my day job is to carry out the work of a scientist) I know for a fact that 23andMe cannot with any realistic accuracy tell you your behavioural preferences. Those things would require much more data than they test for. With perhaps a few exceptions that they may be able to discern from an SNP, the behavioural 'traits' are generally a stretch and based on statistically correlative surveys. Remember correlation does not imply causation - for example maybe you have a tendency to be an early riser because of some deeper sociological phenomenon, but their stats might falsely attribute your genotype as a cause.   \n\n\nThere are also so many ways that your genotype often contradicts your phenotype (your DNA code alone often does not dictate the outcome because of something called regulation of gene expression and epigenetics). This is why they have to limit their medical traits to a small number, despite the raw data predicting hundreds of thousands of SNPs they don't show you in the site. Imagine millions of interacting variables that all affect one another and aren't considered. This is why a few things (like the limited medical traits they report on) have some useful information in them, but the vast majority of info to be gained in the future will come from whole-genome and whole-epigenome analysis from samples taken at different times in your life and also from different tissues. No single sample or SNP will be enough to make definitive predictions.\n\nHope this helps shed some light. We are still in the early innings of genetics in society, and I think 23andMe has played an important role as a popularizer of this industry :)",
-        "created_utc": 1611817638,
-        "id": "gl26y36",
-        "score": 2,
-        "subreddit": "SPACs",
-        "created": 1611846438.0
-    },
-    {
         "author": "KetamineOverlord710",
         "body": "i was gonna buy into tsm at 90 but bought snps instead still happy tho got 15% gainz",
         "created_utc": 1610117936,
         "id": "gijntsf",
+        "permalink": "/r/wallstreetbets/comments/kt0a9h/daily_discussion_thread_for_january_08_2021/gijntsf/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1610146736.0
-    },
-    {
-        "author": "DominatingLobster",
-        "body": "Could your elaborate on this? I thought synopsys made hardware.",
-        "created_utc": 1611479086,
-        "id": "gkiqj37",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1611507886.0
-    },
-    {
-        "author": "PhotographMean9731",
-        "body": "synopsys",
-        "created_utc": 1611090041,
-        "id": "gjve6s8",
-        "score": 1,
-        "subreddit": "SPACs",
-        "created": 1611118841.0
     },
     {
         "author": "bankburn10",
         "body": "If you\u2019re not bought in $SNPS that\u2019s a problem",
         "created_utc": 1610288899,
         "id": "girjjgm",
+        "permalink": "/r/stocks/comments/kti848/this_subreddit_stock_picking_is_incredible/girjjgm/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1610317699.0
-    },
-    {
-        "author": "The_Egg_",
-        "body": "OPRX &amp; SNPS",
-        "created_utc": 1610436167,
-        "id": "giz926b",
-        "score": 1,
-        "subreddit": "StockMarket",
-        "created": 1610464967.0
     },
     {
         "author": "MydogisaToelicker",
         "body": "yeah, the article is old.  but the information is still true.  Most of the posts and comments I see on this stock fail to realize that they aren't sequencing genomes.    The success of this company depends on whether structural variants are medically important even in the absence of the ability to detect SNPs or small insertions/deletions.",
         "created_utc": 1609716647,
         "id": "gi0br0g",
+        "permalink": "/r/pennystocks/comments/kpudhm/best_article_ive_found_describing_what_bngo/gi0br0g/",
         "score": -1,
         "subreddit": "pennystocks",
         "created": 1609745447.0
-    },
-    {
-        "author": "Pikaea",
-        "body": "People here don't seem to like this stock, it gets downvoted a lot in other threads. Same thing happened with THCB. The company has good management, with a history of successful companies. I expect Indie to be acquired by another company within a few years, potentially Skyworks.",
-        "created_utc": 1609629030,
-        "id": "ghvgyrb",
-        "score": 3,
-        "subreddit": "SPACs",
-        "created": 1609657830.0
     }
 ]

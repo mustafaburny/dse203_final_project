@@ -1,29 +1,2132 @@
 [
     {
+        "author": "greytoc",
+        "body": "Crowdstrike is primarily known for endpoint protection which are software solutions to protect computers (workstations, laptops, servers) known as NGAV (next gen antivirus) and EDR (endpoint detect and response). They also offer a type of managed service known in the industry as MDR. Their customers will range across all industries and their solutions are appropriate for small to large enterprises. It's actually a pretty crowded market imo. There aren't a lot of comparables in the public market but you may be able to check out Sentinel 1 when they IPO. There are rumors of Cybereason IPO as well. \n\nFireye has an EDR solution but I imagine it's a tiny part of their business. And no one really would bring up Fireeye when talking about endpoint protection. Fireeye/Mandiant is most known for their incident response and forensic products and services. They are usually on top of most people's list to call whenever there is a security breach. \n\nBoth Palo Alto and Fortinet started off as security networking companies competing with traditional firewall companies like Netscreen and Cisco. In fact, the founders of both companies are former Netscreen execs iirc. Both companies have expanded their product and service offerings over the years to support security operations solutions. You tend to see Palo Alto and Fortinet used in larger enterprises who need holistic network security solutions. Normally, if a security team is looking at a Palo Alto solutions, they are probably also comparing it Fortinet and vice-versa. \n\nGenerally speaking - cyber-security industry is very broad. You are not likely to find a single company that would cover the entire gamut of security needs for an enterprise. So if your interest is in broad industry exposure - an ETF is probably a better solution.",
+        "created_utc": 1622907981,
+        "id": "h0p3r3o",
+        "permalink": "/r/investing/comments/nsrkcr/daily_general_discussion_and_spitballin_thread/h0p3r3o/",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1622936781.0
+    },
+    {
+        "author": "greytoc",
+        "body": "The companies that you mentioned are all well respected in the cybersec community and each of them have their pros/cons. Note that Crowdstrike and Fireeye services/products don't necessarily overlap with Palo Alto and Fortinet.",
+        "created_utc": 1622904508,
+        "id": "h0ovpp7",
+        "permalink": "/r/investing/comments/nsrkcr/daily_general_discussion_and_spitballin_thread/h0ovpp7/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1622933308.0
+    },
+    {
+        "author": "InitializedVariable",
+        "body": "100%\n\n5G, yup, good example. Being in the IT/tech sector, I have been watching them sneak up in damn near every area. BI/big data and security are two examples of areas where people don\u2019t realize that MSFT has been undermining the competition silently.\n\nI dumped loads of stock in companies that offer a solution here/there (Fortinet is a great example), and rolled it over to Microsoft. Some of these companies offer good services, and maybe even do a bit better than Microsoft in that particular area. But it\u2019s laughable to choose a set of numerous, disparate vendors in an effort to get a solution that is all of 10% better but doesn\u2019t integrate. Seriously, you\u2019re crazy if you go that route.\n\nOne of these days, the world is going to wake up and realize that they\u2019re paying vendors to solve miscellaneous problems, and yet they could have been paying Microsoft even less to make everything more efficient and secure.",
+        "created_utc": 1624431333,
+        "id": "h2qrf1w",
+        "permalink": "/r/stocks/comments/o5w8ta/msft_closes_at_2_trillion_as_second_us_company/h2qrf1w/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1624460133.0
+    },
+    {
+        "author": "joeabauer",
+        "body": "The chart on FTNT is flawless. Haven\u2019t seen any mention of it here, but it only goes up. Options are very cheap, too. July expiration is only ~30% IV.",
+        "created_utc": 1624926025,
+        "id": "h3duh8f",
+        "permalink": "/r/wallstreetbets/comments/o9s4kb/what_are_your_moves_tomorrow_june_29_2021/h3duh8f/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1624954825.0
+    },
+    {
+        "author": "frshtrx",
+        "body": "CrowdStrike, PAN, Fortinet, all different slices of cybersecurity. BB is unique in the automotive industry, which is a largely untapped cybersecurity problem. When people start losing control of their Teslas and NIOs, having them bricked until they pay ransom, BB should go north. That's just a use case I created out of bananas. There are probably better explanations.",
+        "created_utc": 1623096945,
+        "id": "h0y7u92",
+        "permalink": "/r/wallstreetbets/comments/nujffg/not_every_stock_is_a_short_squeeze/h0y7u92/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1623125745.0
+    },
+    {
+        "author": "jorlev",
+        "body": "FTNT - wtf?\n\nJust heard about them today and the chart is straight arrow for the past 6 months. I guess they've never heard of a pullback.",
+        "created_utc": 1624914992,
+        "id": "h3d7us2",
+        "permalink": "/r/stocks/comments/o9gs5f/rstocks_daily_discussion_monday_jun_28_2021/h3d7us2/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1624943792.0
+    },
+    {
+        "author": "a10430",
+        "body": "Been looking to sell my cybersecurity etf BUG and buy one of the companies with all the proceeds for a long term hold. Anyone with experience in the industry have opinions on Palo Alto, Fortinet, Crowdstrike and/or Fireeye? Valuations are all over the place and I\u2019m still unsure what qualities and products in this industry are worth the current market multiples. Any insight would be extremely helpful!\n\n(I am well diversified outside this fund and the total position will not adversely affect my risk profile significantly)",
+        "created_utc": 1622899326,
+        "id": "h0om8ww",
+        "permalink": "/r/investing/comments/nsrkcr/daily_general_discussion_and_spitballin_thread/h0om8ww/",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1622928126.0
+    },
+    {
+        "author": "Chicano_Ducky",
+        "body": "whats the DD on FTNT?",
+        "created_utc": 1624616853,
+        "id": "h2zbg4l",
+        "permalink": "/r/wallstreetbets/comments/o6x2tk/fraternal_association_of_gambling_gentlemen_and/h2zbg4l/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1624645653.0
+    },
+    {
         "author": "Kay312010",
         "body": "FTNT\n\nMSFT\n\nFB\n\nCROX\n\nVSTO\n\nAMC\n\nBB",
         "created_utc": 1622684988,
         "id": "h0e03a1",
+        "permalink": "/r/investing/comments/nqk9zr/what_are_your_winners_for_2021/h0e03a1/",
         "score": 2,
         "subreddit": "investing",
         "created": 1622713788.0
+    },
+    {
+        "author": "LeocantoKosta_",
+        "body": "haven't done a ton of DD, but FTNT looks healthy",
+        "created_utc": 1623354082,
+        "id": "h1bh7ro",
+        "permalink": "/r/stocks/comments/nwjei1/rstocks_daily_discussion_options_trading_thursday/h1bh7ro/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1623382882.0
+    },
+    {
+        "author": "a10430",
+        "body": "Thank you. Can you expand on the differences between the products/services provided by Crowdstrike and Fireeye compared to Palo Alto and Fortinet?",
+        "created_utc": 1622905319,
+        "id": "h0oxgvs",
+        "permalink": "/r/investing/comments/nsrkcr/daily_general_discussion_and_spitballin_thread/h0oxgvs/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1622934119.0
+    },
+    {
+        "author": "BanjoJourney",
+        "body": "XLE, FTNT, SWK, EMN keep going.",
+        "created_utc": 1622681912,
+        "id": "h0dtzwj",
+        "permalink": "/r/investing/comments/nqk9zr/what_are_your_winners_for_2021/h0dtzwj/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1622710712.0
+    },
+    {
+        "author": "jerryjones-is-smart",
+        "body": "One of the top companies in a strong secular growth area. I\u2019d leave it. Take your original money out if you\u2019re nervous but at minimum leave the rest in HACK or BUG etf\u2019s. I do those etf\u2019s and also own CRWD, FTNT and PANW",
+        "created_utc": 1624997483,
+        "id": "h3h9dj5",
+        "permalink": "/r/investing/comments/oa4hb4/daily_general_discussion_and_spitballin_thread/h3h9dj5/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1625026283.0
+    },
+    {
+        "author": "JRizz8q",
+        "body": "Yes but I want to dabble in on Palo Alto and Fortinet",
+        "created_utc": 1623261233,
+        "id": "h16hyw8",
+        "permalink": "/r/wallstreetbets/comments/nvsynu/daily_popular_tickers_thread_for_june_09_2021/h16hyw8/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623290033.0
+    },
+    {
+        "author": "jetoak",
+        "body": "I am considering investing for longer term gains in a personalized portfolio (and not pay too much attention day to day) and would like to get advice on if this is good or make any adjustments:\nFB, V, TGT, CVX , RVL, INMD, APPN, GS, PYPL, GNRC, DOCU, MSFT, NVDA, STX, FTNT\nThanks in advance",
+        "created_utc": 1624907282,
+        "id": "h3cpws5",
+        "permalink": "/r/stocks/comments/o9gs5f/rstocks_daily_discussion_monday_jun_28_2021/h3cpws5/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1624936082.0
     },
     {
         "author": "LeoBarca-10",
         "body": "I am heavily invested in Fortinet. As for the \u201cwhy\u201d do your DD and just look at the growth in that last 1 year. It\u2019s competitors are the likes of Cisco and paloalto and fortinet is starting to have majority of some markets. Targets for the stock are $350+ usd. This is not financial advice.",
         "created_utc": 1622768599,
         "id": "h0iej60",
+        "permalink": "/r/CanadianInvestor/comments/nrmh2j/after_hours_discussion_thread_for_june_03_2021/h0iej60/",
         "score": 1,
         "subreddit": "CanadianInvestor",
         "created": 1622797399.0
+    },
+    {
+        "author": "HampusKarrlander",
+        "body": "This seems inline with my consensus on the matter as well. I think I'll keep investing in the index funds I have today (which cover various markets and sectors, so it's pretty diversified) and then invest in companies not represented in the funds separately.\n\nFor example, one index fund I have holdings in covers some of the largest companies in the US. So in order to get more spread I would need to find companies who has stable finances and growth potential but not included in the Top Tier yet. \n\nI believe there are a lot of tech companies out there that fit into this category, especially those focusing on core business tech (like servers, firewalls, software, hybrid clouds, etc). Some examples that come to mind are Fortinet, Palo Alto Networks, Oracle, Adobe. \n\nBut I digress, thanks for the info (and the rest in this thread).",
+        "created_utc": 1623665861,
+        "id": "h1ps19k",
+        "permalink": "/r/investing/comments/nzi1je/do_i_need_to_invest_in_stocks_if_i_have_index/h1ps19k/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1623694661.0
+    },
+    {
+        "author": "sirf_trivedi",
+        "body": "Cybersecurity sector. FTNT, CRWD, PANW or a ETFs like HACK, BUG",
+        "created_utc": 1625021398,
+        "id": "h3in3l3",
+        "permalink": "/r/stocks/comments/oai5jy/what_are_your_highest_conviction_plays_for_the/h3in3l3/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1625050198.0
     },
     {
         "author": "LeoBarca-10",
         "body": "Fortinet.",
         "created_utc": 1622604645,
         "id": "h09ud1a",
+        "permalink": "/r/CanadianInvestor/comments/nq32ri/after_hours_discussion_thread_for_june_01_2021/h09ud1a/",
         "score": 1,
         "subreddit": "CanadianInvestor",
         "created": 1622633445.0
+    },
+    {
+        "author": "Reasonable_League_44",
+        "body": "Anyone in FTNT? I like the trend.",
+        "created_utc": 1624315136,
+        "id": "h2l8b43",
+        "permalink": "/r/wallstreetbets/comments/o540ge/what_are_your_moves_tomorrow_june_22_2021/h2l8b43/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1624343936.0
+    },
+    {
+        "author": "joeabauer",
+        "body": "FTNT dip. Get in, free money",
+        "created_utc": 1624973875,
+        "id": "h3fruj8",
+        "permalink": "/r/wallstreetbets/comments/oa56ol/daily_discussion_thread_for_june_29_2021/h3fruj8/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1625002675.0
+    },
+    {
+        "author": "Net-Xpert",
+        "body": "I am a Cyber Consultant for healthcare and work with BB for their Emergency EVAC and facilities alarms management systems. They are spreading themselves too much losing focus on their core competencies, that\u2019s the only problem I see with them you want to know if successful Cyber Sec company look no further than CrowdStrike, Palo Alto networks or Fortinet.",
+        "created_utc": 1624753137,
+        "id": "h35tgfu",
+        "permalink": "/r/wallstreetbets/comments/o81rbm/the_pain_bros_the_pain/h35tgfu/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1624781937.0
+    },
+    {
+        "author": "smokescreen7789",
+        "body": "Late to comment on this, but FTNT is an outstanding company all around.   The stock has made me a small fortune this year.",
+        "created_utc": 1624918583,
+        "id": "h3dfs7i",
+        "permalink": "/r/stocks/comments/o1p4gj/ftnt_crwd_or_panw/h3dfs7i/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1624947383.0
+    },
+    {
+        "author": "GymBruhReddit",
+        "body": "RPD, CRWD, FTNT",
+        "created_utc": 1623469038,
+        "id": "h1hb96j",
+        "permalink": "/r/wallstreetbets/comments/nxosm3/weekend_discussion_thread_for_the_weekend_of_june/h1hb96j/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623497838.0
+    },
+    {
+        "author": "ilongforyesterday",
+        "body": "I like FTNT just based on preliminary stuff like it\u2019s price performance, but I literally just came across it yesterday so haven\u2019t done any research yet",
+        "created_utc": 1623908660,
+        "id": "h224142",
+        "permalink": "/r/stocks/comments/o1p4gj/ftnt_crwd_or_panw/h224142/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1623937460.0
+    },
+    {
+        "author": "sportsmook",
+        "body": "Yellen don\u2019t hold those keys anymore \n\nThey are all Jeromes now",
+        "created_utc": 1623041730,
+        "id": "h0vkqio",
+        "permalink": "/r/stocks/comments/nu31dz/yellen_said_a_slightly_higher_interest_rate/h0vkqio/",
+        "score": 185,
+        "subreddit": "stocks",
+        "created": 1623070530.0
+    },
+    {
+        "author": "red_adept",
+        "body": "game publishers don't want people re-selling their games.  They make no money that way.\n\nIn fact, that's the big thing about Digital downloads, steam keys and all that, you can't resell them.  Game companies LOVE that.",
+        "created_utc": 1623266205,
+        "id": "h16u7hy",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h16u7hy/",
+        "score": 97,
+        "subreddit": "investing",
+        "created": 1623295005.0
+    },
+    {
+        "author": "NadlesKVs",
+        "body": "There is some confusion on whether that happened or not.\n\nWord on Twitter is they took over a Cloud Server that was based in California with a Subpeona and the Ransomer's held the Private Keys to the wallet on that server then they got the BTC on it that way.\n\nThere is people thinking that they may have gotten it from Coinbase with them trying to cash out since they are based in California. Supposedly the, \"Wallet\" was a Coinbase Wallet.\n\nAlso, I haven't seen anyone prove if it was the Ransomer or the person that hired the Ransomer. Darkside was just hired to do the job, manage the negotiations, and get the payment.\n\nAlthough, only the FBI and them know how much the ransom was originally and if it was ever split.\n\nPretty sure this has nothing to do with Price though. Almost everyone knew that BTC would dip eventually and it was barely surviving mid to high 30s recently.",
+        "created_utc": 1623177178,
+        "id": "h124xbm",
+        "permalink": "/r/StockMarket/comments/nv4464/bitcoin_slides_7_after_us_government_was_able_to/h124xbm/",
+        "score": 90,
+        "subreddit": "StockMarket",
+        "created": 1623205978.0
+    },
+    {
+        "author": "BagFullOfKittenBones",
+        "body": "There's rumors of involving NFTs into the GameStop business model. I'm going to assume it'll be NFTs of game registry keys. If the tech is viable, that means digital keys could be tied to NFTs, and bought/sold like physical copies. GameStop would get a residual fee each time the NFT is traded.",
+        "created_utc": 1623282702,
+        "id": "h17w7fx",
+        "permalink": "/r/stocks/comments/nw5703/gamestop_releases_first_quarter_2021_financial/h17w7fx/",
+        "score": 51,
+        "subreddit": "stocks",
+        "created": 1623311502.0
+    },
+    {
+        "author": "Concealus",
+        "body": "For the record, they had their private keys on a RENTED CLOUD SERVER. These guys weren\u2019t geniuses. Bitcoin nor any wallet protocol was hacked, the suspects simply put were idiots with their wallet security.",
+        "created_utc": 1623193983,
+        "id": "h136i5y",
+        "permalink": "/r/StockMarket/comments/nv4464/bitcoin_slides_7_after_us_government_was_able_to/h136i5y/",
+        "score": 45,
+        "subreddit": "StockMarket",
+        "created": 1623222783.0
+    },
+    {
+        "author": "Bintherereddat",
+        "body": "Only American's could hand over the keys and walk away",
+        "created_utc": 1623277452,
+        "id": "h17lbud",
+        "permalink": "/r/CanadianInvestor/comments/nw0tmz/bank_of_canada_says_real_estate_is_expected_to/h17lbud/",
+        "score": 27,
+        "subreddit": "CanadianInvestor",
+        "created": 1623306252.0
+    },
+    {
+        "author": "HotStockSlinger",
+        "body": "They either got the keys off a server they took over or they are lying about recovering the money.  If they could actually crack the encryption and take the money there is no way they'd reveal that capability over a few million dollars.",
+        "created_utc": 1623185612,
+        "id": "h12okpv",
+        "permalink": "/r/StockMarket/comments/nv4464/bitcoin_slides_7_after_us_government_was_able_to/h12okpv/",
+        "score": 25,
+        "subreddit": "StockMarket",
+        "created": 1623214412.0
+    },
+    {
+        "author": "Gigidypaperhands",
+        "body": "Remember these keys to investing:\n\n1. Good jobs report = stocks go down\n2. Bad jobs report = stocks go up\n3. Company you dont own shares in beats earnings = stock goes way up\n4. Company you do own shares in beats earnings = stock drills\n5. Inflation is priced in until it is no longer priced in\n6. Janet Yellen speaks = red",
+        "created_utc": 1622827392,
+        "id": "h0l8rtn",
+        "permalink": "/r/wallstreetbets/comments/ns1gd8/daily_discussion_thread_for_june_04_2021/h0l8rtn/",
+        "score": 24,
+        "subreddit": "wallstreetbets",
+        "created": 1622856192.0
+    },
+    {
+        "author": "whttevrr",
+        "body": "Thank fully there were rocket emojis... my eyes were glazing over and drool was dripping out of my mouth and onto my keybloard. My fingrrd are now slipping on the keys.\n\nDD:\nI boght mor:\n\n\ud83e\udde0 \ud83e\udd2a\ud83e\udd8d \u270b\ud83d\udc8e\ud83e\udd1a \ud83d\ude80\ud83d\ude80\ud83d\ude80 \ud83c\udf16\n\nfor\n\n\ud83d\udcb0\ud83d\udcb8\ud83e\udd11 \ud83d\udd25\ud83e\udd53\ud83d\udc14\ud83e\udd53\ud83d\udd25",
+        "created_utc": 1623274086,
+        "id": "h17dn3l",
+        "permalink": "/r/wallstreetbets/comments/nw6lmm/a_quick_dd_on_clov_borrowing_fee/h17dn3l/",
+        "score": 24,
+        "subreddit": "wallstreetbets",
+        "created": 1623302886.0
+    },
+    {
+        "author": "zachalicious",
+        "body": "They can do that with your bank account too though. They can freeze all of your assets and seize property at any time. If anything this just shows that crypto markets are complying with regulations, and if you truly want security from seizure, you likely need to be using Monero and never store keys on something connected to the internet.",
+        "created_utc": 1623185564,
+        "id": "h12ogw1",
+        "permalink": "/r/StockMarket/comments/nv4464/bitcoin_slides_7_after_us_government_was_able_to/h12ogw1/",
+        "score": 20,
+        "subreddit": "StockMarket",
+        "created": 1623214364.0
+    },
+    {
+        "author": "bonejohnson8",
+        "body": "I almost married the wealthiest JAP you ever saw, billionaire scion, old Russian jeweler family. She was a lunatic, cutter, bulimic, borderline, the whole 9. We did a lot of drugs together, and I had a great patron for my addictions. \n\nHer parents sat me down and offered me the keys to the kingdom, I'd never want for money again, just put on these clothes and submit to a life of nepotism and take care of our crazy daughter. I was with her for 5 years and almost did it, but I had too much pride and turned it all down and left.\n\nShe married some dick that met at a Phish show a few years ago. Today she just barely survived a heroin overdose. She texted me some pictures of cats she's been drawing in coloring books. It's like talking to a shell of the person I remember. \n\nIt's fucking scary seeing how much money doesn't buy happiness.",
+        "created_utc": 1622602766,
+        "id": "h09qt64",
+        "permalink": "/r/wallstreetbets/comments/nq32sc/what_are_your_moves_tomorrow_june_02_2021/h09qt64/",
+        "score": 20,
+        "subreddit": "wallstreetbets",
+        "created": 1622631566.0
+    },
+    {
+        "author": "Lewsor",
+        "body": "&gt; Currently, a digital AAA title earns the publisher X amount of money - once. Per customer. Years down the line, the same title will be sold for a fraction of the price on their own platform... and that's it.\n\nWhy the focus on the amount of times a digital title can earn the publisher money? The incremental costs of producing additional copies of a digital game are near 0.\n\n&gt; A small percentage off tens of thousands of resales of an old or obsolete title that is no longer offered in the publisher's own catalogue vs. buying the game from the publishers' own old game discount bin for a few bucks... again, once? Might not make sense initially, but especially in the used / old game market those small revenue streams would add up: especially when compared to a scenario where users would not otherwise buy the game.\n\nI still don't see the incentive for a publisher to cannibalize their own sales. As an example, Fallout: New Vegas was released in 2010 on Steam and other digital platforms. It cost $59.99 then. \n\nToday, Fallout: New Vegas is available on Steam for $9.99. A person that wants a copy of the game can buy it today. The publisher will receive the same percentage cut of the $9.99 sale that they received from the $59.99 sale.\n\nLet's now assume that Gamestop has a digital NFT token that allows resale of digital games. Someone in 2010 buys the game for $59.99, and today sells its for $9.99. The publisher receives a cut of the $9.99 sale, in addition to the original $59.99 sale.\n\nThe problem here is, what's the difference to the publisher? They receive the same amount of money from the sales. The keys to sell a second copy of the game have already been generated and sent to Steam for resale, so there's no incremental cost there. The NFT resale is basically cannibalizing a new sale.\n\n&gt; drive up scarcity of used titles? Release special NFT collector's versions of certain titles which are unlikely to ever go down in price due to extreme rarity?\n\n&gt; Especially the latter: think Magic the Gathering and take the Black Lotus card as an example. If you could release a fixed amount of those into the wild and get a cut for each and every high-price resale of those decades down the line... wouldn't you?\n\nI can see the argument/value for NFT sales of collectible items intended to be artificially scarce. Maybe not a multibillion dollar market, but definitely a possible avenue for revenue growth.\n\n I don't see the argument for driving artificial scarcity for regular, non collectible digital games. Even in the pre digital games, the games that were scarce were driven by production costs, and not by publishers attempting to drive up prices by limiting availability.",
+        "created_utc": 1623273003,
+        "id": "h17b2pu",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h17b2pu/",
+        "score": 15,
+        "subreddit": "investing",
+        "created": 1623301803.0
+    },
+    {
+        "author": "Moneybags313131",
+        "body": "\"THIS CLOVER IS ON FIREEEEE\" - Alica Keys",
+        "created_utc": 1623245841,
+        "id": "h15gejo",
+        "permalink": "/r/wallstreetbets/comments/nvsynu/daily_popular_tickers_thread_for_june_09_2021/h15gejo/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1623274641.0
+    },
+    {
+        "author": "BC_Jay",
+        "body": "Someone tosses you the keys to a lambo you asking why or driving away",
+        "created_utc": 1622547524,
+        "id": "h06kxtv",
+        "permalink": "/r/wallstreetbets/comments/npqenw/daily_discussion_thread_for_june_01_2021/h06kxtv/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1622576324.0
+    },
+    {
+        "author": "Thewolfofbearstreet",
+        "body": "Thank god blackberry don\u2019t sell phones anymore apes figures to big for the keys",
+        "created_utc": 1622669413,
+        "id": "h0d43wb",
+        "permalink": "/r/wallstreetbets/comments/nquubf/what_are_your_moves_tomorrow_june_03_2021/h0d43wb/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1622698213.0
+    },
+    {
+        "author": "BackThatThangUp",
+        "body": "Where do they keep the monkey that hits the up and down arrow keys on the stocks I want to tear gas that little fucker",
+        "created_utc": 1623164593,
+        "id": "h11b0n6",
+        "permalink": "/r/wallstreetbets/comments/nv1518/daily_discussion_thread_for_june_08_2021/h11b0n6/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1623193393.0
+    },
+    {
+        "author": "gamethe0ry",
+        "body": "And? Publishers don\u2019t care, the standard has set on consumers buying one time keys, why would they miss out on extra revenue.",
+        "created_utc": 1623268296,
+        "id": "h16zden",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h16zden/",
+        "score": 9,
+        "subreddit": "investing",
+        "created": 1623297096.0
+    },
+    {
+        "author": "Fuck_CCIV",
+        "body": "Damn I didn\u2019t realize how many top artists are signed to UMG : \n\nAriana Grande, Taylor Swift, Kendrick Lamar, J Balvin, Megan Thee Stallion, Bob Dylan, Alicia Keys, Justin Bieber, Billie Eilish, Nicki Minaj, Post Malone, U2, Halsey, Coldplay, Elton John, Billy Joel, Adele, Shawn Mendes, Otis Redding, Pearl Jam\n\nKind of wish I held on my seven dollar warrants now",
+        "created_utc": 1622765182,
+        "id": "h0i7e7s",
+        "permalink": "/r/SPACs/comments/nr8h4h/announcements_x_daily_discussion_for_jun032021/h0i7e7s/",
+        "score": 8,
+        "subreddit": "SPACs",
+        "created": 1622793982.0
+    },
+    {
+        "author": "works_best_alone",
+        "body": "G2A does not sell used keys, for obvious reasons. They sell new keys.",
+        "created_utc": 1623266782,
+        "id": "h16vmni",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h16vmni/",
+        "score": 8,
+        "subreddit": "investing",
+        "created": 1623295582.0
+    },
+    {
+        "author": "CrankyMiddleAgeGuy",
+        "body": "BA \u2014 The Keys are overrated. Expensive. Pretty, but everything is overpriced and you drive up to Miami-Dade county whenever you really need something (between 45 min and 3 hours depending on where in the Keys). \n\nBuenos Aires is inexpensive, the women are beautiful, the people are well educated, and Steak + Malbec is the National dish..... Exquisite dining is a fraction of the cost of Miami.",
+        "created_utc": 1622607790,
+        "id": "h0a00l1",
+        "permalink": "/r/wallstreetbets/comments/nq32sc/what_are_your_moves_tomorrow_june_02_2021/h0a00l1/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1622636590.0
+    },
+    {
+        "author": "ubunturd",
+        "body": "The QWERTY keyboard was designed to slow you down.\n\nWhen typewriters were introduced, typing too quickly would jam the keys. To prevent this from happening, QWERTY was introduced which placed common alphabets at a distance from each other and slowed typists down.",
+        "created_utc": 1623136935,
+        "id": "h108zcx",
+        "permalink": "/r/wallstreetbets/comments/num03g/what_are_your_moves_tomorrow_june_08_2021/h108zcx/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1623165735.0
+    },
+    {
+        "author": "suchinsight00",
+        "body": "I didn\u2019t realize you were a medium. Would you let me know where my late grandfather left his Buick keys?",
+        "created_utc": 1623134765,
+        "id": "h106hxd",
+        "permalink": "/r/wallstreetbets/comments/nux7gs/dad_passed_away_last_year_inherited_a_225k/h106hxd/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1623163565.0
+    },
+    {
+        "author": "Spac_a_Cac",
+        "body": "\nPaysafe preps post-Spac\u00a0refi\n\u00a0\n\n02 Jun 2021\n\nFintech payments provider Paysafe has launched a refinancing of its remaining credit facilities, following its $9bn merger with a Bill Foley-controlled Spac, which closed in March. The merger and its accompanying PIPE allowed the firm to pay down debt and cut its leverage, and now it wants to lock in the benefits with a lower-cost refi.\n\nJP Morgan is sole physical bookrunner on the dollar and euro term loans, totalling $1.026bn between the currencies. This will be followed with an equal sized slug of bonds in dollar and euros, yet to be launched.\nTalk on both tranches is 300bp-325bp at 99.5, with a 25bp margin step-down if the firm hits 3.7 times net leverage, half a turn below its present level, according to the loan marketing materials.\nLenders have successfully pushed back on proposed margin ratchet terms \u2014\u00a0including Cerba, for example \u2014 but these are generally deals which started with more aggressive terms, such as multiple step-downs for each quarter-turn of leverage. Deals with 25bp for half a turn have largely sailed through.\n\"It's a real economic term and something investors can easily rally around,\" said a leveraged finance syndicate banker. \"Some of the other docs points can be a bit of a niche interest but this is universal.\"\nPaysafe earmarked \u20ac1.25bn-equivalent of its outstanding debt for repayment as part of the merger, which closed at the end of March. The company said in\u00a0its introduction to equity market analysts\u00a0that it would have net leverage of 3.6-3.8 times on its 2021 earnings following the transaction \u2014 suggesting it intends to activate the margin step-down quickly.\nIt will, however, be going on the acquisition trail as well. Outlining the deal to analysts, Foley said: \u201cOne of the keys to this transaction and value creation for our shareholders is the reduction of Paysafe\u2019s leverage ratio to 3.6 times. As Paysafe continues to grow and generate cash flow, that leverage ratio will continue to come down creating even more opportunity to pursue accretive M&amp;A opportunities.\u201d\nMoody\u2019s estimated leverage at 5.2 times on March 2021 numbers, after backing out some of the company\u2019s adjustments.\nBased on its expected 2021 Ebitda, the business was 6-6.2 times levered at the end of last year, with net debt of $2.99bn, incurred when Blackstone and CVC took the firm private in 2017. The sponsors scored a huge win with the transaction, paying \u00a33bn for the company and selling it on at a valuation of $9bn.\nHowever, both firms will remain invested. They took $2.3bn off the table as part of the Spac deal, but rolled over $3.29bn, while the Spac itself put in $1.467bn.\nThe PIPE investment (private investment in public equity) closed at the same time injected a further $2bn, with cornerstones from Foley-affiliated entities Cannae Holdings and Trasimene Capital Management, and outside capital from Fidelity, Third Point, and Maplelane Asset Management.\nAlongside the term loan and bond refi, the company will have a new $305m revolver in place following the closing of the deal.\nSpac-driven M&amp;A activity is increasingly\u00a0feeding through to leveraged credit markets and to CLO portfolios, as sponsor-owned companies become targets for SPAC acquisitions. The equity raised through this route usually deleverages the company, meaning loan repayments or refinancings tighter \u2014 in some cases, helping take out loans trading at low levels at par.\nPaysafe\u2019s existing euro loan already had a margin of 325bp, the wide end of the new guidance, but it also had outstanding second lien debt of $200m and \u20ac214m in its original LBO capital structure, which paid 725bp and 700bp respectively and have now been repaid.",
+        "created_utc": 1622755207,
+        "id": "h0hm5nn",
+        "permalink": "/r/SPACs/comments/nroa3p/paysafe_preps_postspac_refi/h0hm5nn/",
+        "score": 6,
+        "subreddit": "SPACs",
+        "created": 1622784007.0
+    },
+    {
+        "author": "DancesWithMilfs01",
+        "body": "CLNE to the moon. They don\u2019t want you to have another anthem!! \n\nMajor keys!! \ud83d\udc02\ud83d\udca8\ud83c\udf1d",
+        "created_utc": 1623189138,
+        "id": "h12wdzi",
+        "permalink": "/r/wallstreetbets/comments/nvcwpz/what_are_your_moves_tomorrow_june_09_2021/h12wdzi/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1623217938.0
+    },
+    {
+        "author": "Angry_Wanderlei",
+        "body": "Dude it\u2019s going to 5mil a share ive been collecting energy for days I\u2019m off my meds and taking adderall I\u2019m going to be the biggest motivational speaker since god himself I got the keys I invested my life into this stock it is hitting 1billy and I will save africa I will save the children as god is my witness himself I will change the world my book will be the biggest book ever just #2 under the Bible you don\u2019t believe me it doesn\u2019t matter I believe in myself and we all should we shall bleed the hedge funds dry then we shall give them welfare to take care of their kids we shall take over the world and bring peace and prosperity my family thinks I\u2019m crazy all my friends won\u2019t talk to me but I will turn my cheek when I\u2019m rich and they shall all come for the ride so listen straight when we\u2019re at the top we bring others up I want you to goto your worst enemy and buy his mother a house you are a life force of good will peace power a prosperity",
+        "created_utc": 1623131742,
+        "id": "h102snu",
+        "permalink": "/r/StockMarket/comments/nuqqgs/when_people_see_literally_one_reddit_post_on_amc/h102snu/",
+        "score": 6,
+        "subreddit": "StockMarket",
+        "created": 1623160542.0
+    },
+    {
+        "author": "ConfidenceNo2598",
+        "body": "It looks like the hackers stored the keys to the wallet on a cloud server which the FBI subpoenaed. No blockchain was hacked",
+        "created_utc": 1623181952,
+        "id": "h12g5db",
+        "permalink": "/r/StockMarket/comments/nv4464/bitcoin_slides_7_after_us_government_was_able_to/h12g5db/",
+        "score": 6,
+        "subreddit": "StockMarket",
+        "created": 1623210752.0
+    },
+    {
+        "author": "NonSupportiveCup",
+        "body": "Legitimizing the second-hand market should certainly not be overlooked. If the NFT idea follows the predictions which are currently floating around that would be a lot of potential but I suppose many people just don't see it.\n\nEdit: Maybe because most investors don't see how bad the Steam keys market actually can be.",
+        "created_utc": 1623269559,
+        "id": "h172j96",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h172j96/",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1623298359.0
+    },
+    {
+        "author": "murray_paul",
+        "body": "a) Why would game publishers be interested in doing this, when it would reduce their revenues?\n\nb) Publishers already offer a rental-like model with monthly subscriptions.\n\nc) If publishers wanted to allow resale, they could do that through Steam/Epic keys right now.\n\nSo what does GameStop offer? \n\nThe cannot offer digital resale/rental without publisher agreement.\nDigital publishing for consoles is locked up by the console manufacturers. Digital sales for PCs are dominated by Steam and Epic.\n\nAnd ... what does offering digital resale/rental have to do with owning physical stores?",
+        "created_utc": 1623264789,
+        "id": "h16qosy",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h16qosy/",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1623293589.0
+    },
+    {
+        "author": "-Erasmus",
+        "body": "Not exactly. Hitting too many keys right next to each other could jam the keys so they spread out the common letters and combinations. A good typist can actually go faster on QWERTY because they use different fingers for each area of the keyboard",
+        "created_utc": 1623137200,
+        "id": "h1099sw",
+        "permalink": "/r/wallstreetbets/comments/num03g/what_are_your_moves_tomorrow_june_08_2021/h1099sw/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1623166000.0
+    },
+    {
+        "author": "lovestheasianladies",
+        "body": "&gt;If you buy a physical copy, that game is your property\n\nI guess you don't understand how CD keys work. Those have only been a thing for like 30 years now.",
+        "created_utc": 1623270920,
+        "id": "h175xnt",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h175xnt/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1623299720.0
+    },
+    {
+        "author": "ar_1five",
+        "body": "No its the opposite. Even with smaller keys if they are physical you can feel them and press one only. With an onscreen keyboard you can\u2019t do that. So you end up jamming extra keys.",
+        "created_utc": 1623015599,
+        "id": "h0u8lt2",
+        "permalink": "/r/StockMarket/comments/ntnv11/i_miss_this_kind_of_legend_phones_now_a_days_bb/h0u8lt2/",
+        "score": 4,
+        "subreddit": "StockMarket",
+        "created": 1623044399.0
+    },
+    {
+        "author": "TaftsTummyforTaxes",
+        "body": "Anytime I see this scene of Murphy catching the car keys I think of the hundreds of times they had to redo it because the keys kept bouncing off the rubber hands of the costume \ud83e\udd23",
+        "created_utc": 1622602875,
+        "id": "h09r0y9",
+        "permalink": "/r/wallstreetbets/comments/nq6p5x/id_buy_gme_for_a_dollar/h09r0y9/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1622631675.0
+    },
+    {
+        "author": "Dry-Representative75",
+        "body": "With the Bag holders lies the keys \ud83d\udddd\ud83d\ude80",
+        "created_utc": 1622663981,
+        "id": "h0cr8ik",
+        "permalink": "/r/wallstreetbets/comments/nqi9f6/daily_discussion_thread_for_june_02_2021/h0cr8ik/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1622692781.0
+    },
+    {
+        "author": "ar_1five",
+        "body": "Any male with hands bigger than a 12y/o wants a physical keyboard. Tactile sense of the keys make it easier to type. Most guys i know still cant type on iphone including me simply because my thumbs are too big it just mashes 2 keys at once. You are probably a small person so you don\u2019t realize this.",
+        "created_utc": 1623015396,
+        "id": "h0u86di",
+        "permalink": "/r/StockMarket/comments/ntnv11/i_miss_this_kind_of_legend_phones_now_a_days_bb/h0u86di/",
+        "score": 4,
+        "subreddit": "StockMarket",
+        "created": 1623044196.0
+    },
+    {
+        "author": "LargeHotdog",
+        "body": "Puts on Microsoft. I want a refund on my windows 10 pro keys. Every week I get a call at work that our software isn\u2019t working. Only happens after windows 10 decides to update itself after I said NO.",
+        "created_utc": 1622558731,
+        "id": "h075dzk",
+        "permalink": "/r/wallstreetbets/comments/npqenw/daily_discussion_thread_for_june_01_2021/h075dzk/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622587531.0
+    },
+    {
+        "author": "___alexa___",
+        "body": "\u0274\u1d0f\u1d21 \u1d18\u029f\u1d00\u028f\u026a\u0274\u0262: [The Black Keys - Gold On The](https://www.youtube.com/watch?v=6yCIDkFI7ew) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u26aa\u2500\u2500\u2500\u2500\u2500 \u25c4\u25c4\u2800[\u25b6](https://www.youtube.com/watch?v=6yCIDkFI7ew)\u2800\u25ba\u25ba\u2800 2:30 / 3:46 \u2800 \u2500\u2500\u2500\u25cb \ud83d\udd0a \u1d34\u1d30 \u2699\ufe0f",
+        "created_utc": 1622565128,
+        "id": "h07jtoj",
+        "permalink": "/r/wallstreetbets/comments/npqenw/daily_discussion_thread_for_june_01_2021/h07jtoj/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622593928.0
+    },
+    {
+        "author": "Downtown-Duck-3542",
+        "body": "I\u2019ll second their order. And 2 for my friend, and when I say friend I mean me, and when I say 2 I mean just leave the bottle... actually just leave the keys, I can lock up.",
+        "created_utc": 1622860290,
+        "id": "h0n5qqo",
+        "permalink": "/r/wallstreetbets/comments/nse1dg/weekend_discussion_thread_for_the_weekend_of_june/h0n5qqo/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622889090.0
+    },
+    {
+        "author": "Kimaxw",
+        "body": "Sounds like how people felt about housing in 2005, or stocks in 1929, 2000, 2007. Crashes occur after bubbles. Why do people believe what goes up will just keep going up despite all the historic examples to the contrary? Vegas home prices fell 85% from 2005-2008. Ghost towns popped up all over California as people dropped off their house keys at the bank. The idea that housing cannot crash 85% or more as the Everything Bubble collapses is simply denial",
+        "created_utc": 1622577086,
+        "id": "h08ayne",
+        "permalink": "/r/wallstreetbets/comments/npjoel/housing_2007_again/h08ayne/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622605886.0
+    },
+    {
+        "author": "tobyfatcat",
+        "body": "There is a K Mart in the FL Keys! It will bounce back for sure!!! :(",
+        "created_utc": 1623311380,
+        "id": "h197vwe",
+        "permalink": "/r/RobinHoodPennyStocks/comments/nw6mz6/how_do_i_stop_being_bad_at_stocks/h197vwe/",
+        "score": 3,
+        "subreddit": "RobinHoodPennyStocks",
+        "created": 1623340180.0
+    },
+    {
+        "author": "t76turbo",
+        "body": "They already have the ability to unlock and remote start the car with the watch (or iphone).  It's called 'Car Keys' and is very limited right now.  I think the first was the 2021 BMW 5 series.  But it is out there already.  I agree, should be some exciting stuff around the corner.",
+        "created_utc": 1622756419,
+        "id": "h0hp2o1",
+        "permalink": "/r/wallstreetbets/comments/nrnkge/feel_bearish_about_aapl/h0hp2o1/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622785219.0
+    },
+    {
+        "author": "___alexa___",
+        "body": "\u0274\u1d0f\u1d21 \u1d18\u029f\u1d00\u028f\u026a\u0274\u0262: [DJ Khaled - I Got the Keys (](https://www.youtube.com/watch?v=SFLSOIufuhM) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u26aa\u2500\u2500\u2500\u2500\u2500 \u25c4\u25c4\u2800[\u25b6](https://www.youtube.com/watch?v=SFLSOIufuhM)\u2800\u25ba\u25ba\u2800 2:46 / 4:09 \u2800 \u2500\u2500\u2500\u25cb \ud83d\udd0a \u1d34\u1d30 \u2699\ufe0f",
+        "created_utc": 1623110525,
+        "id": "h0z17mh",
+        "permalink": "/r/wallstreetbets/comments/num03g/what_are_your_moves_tomorrow_june_08_2021/h0z17mh/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623139325.0
+    },
+    {
+        "author": "262Chief",
+        "body": "Somehow I am not seeing handing over the cannabis keys to a crew of Canadian $$$ Billion dollar companies, led by a Russian billionaire oligarch as the solution to the social equity piece.",
+        "created_utc": 1623203435,
+        "id": "h13p32i",
+        "permalink": "/r/weedstocks/comments/nvcwq9/after_hours_discussion_thread_june_08_2021/h13p32i/",
+        "score": 2,
+        "subreddit": "weedstocks",
+        "created": 1623232235.0
+    },
+    {
+        "author": "GapOne2569",
+        "body": "I'd paper hand like a little bitch. I got no loyalty to no ticker. \n\nCash out and fuck off down in the keys looking for bricks of random coke washed up.",
+        "created_utc": 1623191150,
+        "id": "h130pfw",
+        "permalink": "/r/wallstreetbets/comments/nvcwpz/what_are_your_moves_tomorrow_june_09_2021/h130pfw/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623219950.0
+    },
+    {
+        "author": "Flying_madman",
+        "body": "IDK, sometimes it seems like it keys in on things I've never even said. It's weird",
+        "created_utc": 1622924653,
+        "id": "h0q12tb",
+        "permalink": "/r/wallstreetbets/comments/mrzztb/unpinned_daily_discussion_thread_for_april_16_2021/h0q12tb/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622953453.0
+    },
+    {
+        "author": "Kind_Committee8997",
+        "body": "No. It's bad enough they hold the keys to most of the major manufacturing US companies rely on. Not contributing the sale of our independence.",
+        "created_utc": 1623253921,
+        "id": "h15zlvy",
+        "permalink": "/r/stocks/comments/nvy2b3/chinese_grocery_app_dingdong_maicai_files_for_us/h15zlvy/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1623282721.0
+    },
+    {
+        "author": "Stak215",
+        "body": "Yes for specific things like expansions. Console game do not have CD keys.",
+        "created_utc": 1623271146,
+        "id": "h176htb",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h176htb/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1623299946.0
+    },
+    {
+        "author": "RedditF1shBlueF1sh",
+        "body": "If you have the private keys, you have the wallets. If you read the article or other comments, they had the private keys on a rented cloud server, which was subpoenaed",
+        "created_utc": 1623200740,
+        "id": "h13jsr0",
+        "permalink": "/r/StockMarket/comments/nv4464/bitcoin_slides_7_after_us_government_was_able_to/h13jsr0/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1623229540.0
+    },
+    {
+        "author": "legendoftheark",
+        "body": "Big gorilla at the L.A. Zoo\nSnatched the glasses right off my face \nTook the keys to my BMW \nLeft me here to take his place\n\nI wish the ape a lot of success \nI'm sorry my apartment's a mess \nMost of all I'm sorry if I made you blue \nI'm betting the gorilla will, too\n\nThey say Jesus will find you wherever you go \nBut when He'll come looking for you, they don't know \nIn the mean time, keep your profile low \nGorilla, you're a desperado",
+        "created_utc": 1622665310,
+        "id": "h0cug4i",
+        "permalink": "/r/wallstreetbets/comments/nquubf/what_are_your_moves_tomorrow_june_03_2021/h0cug4i/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622694110.0
+    },
+    {
+        "author": "mrojek",
+        "body": "Where do we apply for our yacht keys?",
+        "created_utc": 1623171850,
+        "id": "h11s5z5",
+        "permalink": "/r/wallstreetbets/comments/nv1518/daily_discussion_thread_for_june_08_2021/h11s5z5/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623200650.0
+    },
+    {
+        "author": "eaenberg",
+        "body": "Commenting so the bot keys out through?",
+        "created_utc": 1622601829,
+        "id": "h09p0cj",
+        "permalink": "/r/wallstreetbets/comments/nqb8x6/up_140_on_amc_not_big_money_but_big_for_me_thank/h09p0cj/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622630629.0
+    },
+    {
+        "author": "Inquisitor1",
+        "body": "&gt; What do they have to offer to your average gamer who\u2019s favorite marketplace is steam? \n\nA pc that runs steam. Game keys that you put into steam. And let's not forget the FUCKING BIGGEST THING: steam gift cards. You have a nephew who hates epic game store as much as he hates deodorant? Need something you can wrap into pretty gifting paper? Steam gift card. Thanks to you he can get waifu simulator 3 on his favorite steam without anyone even knowing. Friends of mine went to Germany for vacation from a tiny european country, everyone gave them money to bring back steam gift cards from Germany's gamestops.\n\nAlso, remember how your favorite steam tried to sell movies? Steam isn't even very good at selling things it does sell. Discoverability is down the drain. Greenlight didn't work out, just like that nephew of yours. Shovelware dominates the whole thing. And that valve index, does it have same day delivery from steam? Price matching?",
+        "created_utc": 1623323760,
+        "id": "h19m11e",
+        "permalink": "/r/stocks/comments/nw5703/gamestop_releases_first_quarter_2021_financial/h19m11e/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1623352560.0
+    },
+    {
+        "author": "Belvador",
+        "body": "Long term they\u2019re a failing business I really don\u2019t understand it either. Ive heard talk of GME and NFT\u2019s but I mean people just buy discounted steam keys from 3rd party sites anyways, I don\u2019t think it\u2019s going to be the game changer they think it is. Their core business model of brick and mortar stores are absolutely failing. However they do have a huge stockpile of cash and are a household name so maybe they can do something with that.",
+        "created_utc": 1623265416,
+        "id": "h16s957",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h16s957/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1623294216.0
+    },
+    {
+        "author": "keymone",
+        "body": "&gt; base layer is essentially enough already and always will be, even if the entire world is on the Bitcoin standard\n\nno, it really won't. there's a limit of roughly 2000 transactions every 10 minutes and when you onboard countries and businesses, they will outbid every individual indefinitely. 0-conf won't save you if your every transaction never confirms and just expires after 72 hours.\n\n&gt; People can also trade wallets physically ... preloaded with a set amount of BTC, the private key generated automatically and without human access, and the private key hidden physically, such as covered by a scratch off material, or like the concept OpenDime uses\n\ni doubt this will be very popular. you never know that a person you purchased wallet from didn't make a copy of private keys or a seed. without an expert it's really hard to tell the physical device wasn't tampered with. you'd basically be required to immediately transfer everything out of that wallet, in which case you could just request another party to do that during purchase.\n\n&gt; at the end of the day, I think many will find that the most powerful use of Bitcoin as legal tender or otherwise, is to use it simple as a bank account that you control\n\nyes, that's the main value proposition - the most safe and secure asset that can't be debased from under your feet. and el salvador is a good country to adopt it because they gave up on their own currency long ago, so they are just giving people another option. let's hope it'll work out nicely.",
+        "created_utc": 1623234962,
+        "id": "h14y2w9",
+        "permalink": "/r/investing/comments/nvok95/bitcoin_is_now_legal_tender_in_el_salvador/h14y2w9/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1623263762.0
+    },
+    {
+        "author": "isellamdcalls",
+        "body": "On the off chance I ever get rich should I move to the Keys or Buenos Aires?",
+        "created_utc": 1622607597,
+        "id": "h09zo8y",
+        "permalink": "/r/wallstreetbets/comments/nq32sc/what_are_your_moves_tomorrow_june_02_2021/h09zo8y/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622636397.0
+    },
+    {
+        "author": "fox050181",
+        "body": "Because you memorize where the keys are so you don\u2019t have to look to type and you can feel them. In class at work... etc. all these times were great!",
+        "created_utc": 1622765951,
+        "id": "h0i8xcl",
+        "permalink": "/r/wallstreetbets/comments/nrqifx/new_sheriff_in_town/h0i8xcl/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622794751.0
+    },
+    {
+        "author": "GeorgeTultan",
+        "body": "BABA\nOSTK\nDBX\nEXAS\nDNN\nRKT\nPENN\nAAPL\nREGN\nAMD\nMSTR\nPLTR\nFB\nFISV\nETSY\nNNDM\nWORK\nFNN\nSNAP\nPINS\nMU\nBSX\nCARR\nAMAT\nBAC\nNVDA\nD\nSPGI\nMRNA\nWFC\nKEYS\nPTON\nNOK\nAMC\nSKLZ\nERIC\nWKHS\nVOD\nT\nKR\nEXEL\nNVO\nHLF\nGSK\nMNST\nBMY\nGILD\nVIAC\nROKU\nDIS\nAON\nSHOP\nGOOG\nGOOGL\nThere\u2019s a bunch more but that\u2019s some of them... I\u2019m sitting probably 50% in cash for the moment until I find a fun swing trade to hop on",
+        "created_utc": 1622821739,
+        "id": "h0kvkbe",
+        "permalink": "/r/ValueInvesting/comments/ns6duu/has_anyone_here_done_their_own_stock_analysis_on/h0kvkbe/",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1622850539.0
+    },
+    {
+        "author": "NotSm4rt",
+        "body": "Alexa play I Got The Keys by Jay-Z",
+        "created_utc": 1623110436,
+        "id": "h0z10wu",
+        "permalink": "/r/wallstreetbets/comments/num03g/what_are_your_moves_tomorrow_june_08_2021/h0z10wu/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623139236.0
+    },
+    {
+        "author": "murray_paul",
+        "body": "&gt; Honestly, I will leave you to look into the advantages of leveraging Blockchain technology with these types of real-life use scenarios.\n\nSo ... no answer.\n\nDigital resale could be happening right now. There is no technical problem with it. There is no need for blockchain, Steam could enable trading of game keys right now, if the publishers wanted to allow it.\n\nIt isn't happening because none of the people involved **want** it to happen. Why would publishers allow resale of their digital games? It wouldn't make them more money.",
+        "created_utc": 1623268812,
+        "id": "h170ofn",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h170ofn/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1623297612.0
+    },
+    {
+        "author": "Magnahelix",
+        "body": "*less (not keys...damn autocorrect)",
+        "created_utc": 1623257001,
+        "id": "h167el8",
+        "permalink": "/r/wallstreetbets/comments/nw0a7k/why_such_a_low_amc_volume/h167el8/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623285801.0
+    },
+    {
+        "author": "cd7k",
+        "body": "PC has Steam, Xbox has Microsoft Store, Sony has Playstation store - the latter two being integrated into the console, making it easy to purchase.  How do you see GameStop improving the customer experience?  Game keys like cdkeys etc...?  Genuinely curious.",
+        "created_utc": 1622569858,
+        "id": "h07uqja",
+        "permalink": "/r/wallstreetbets/comments/npso9s/amc_sells_85_million_shares/h07uqja/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622598658.0
+    },
+    {
+        "author": "brutal_farts",
+        "body": "Yeah I didn\u2019t understand that either. I can\u2019t recall one person \u201cturning in their keys\u201d",
+        "created_utc": 1622577555,
+        "id": "h08bzj1",
+        "permalink": "/r/wallstreetbets/comments/npgffv/crashes_occur_after_bubbles/h08bzj1/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622606355.0
+    },
+    {
+        "author": "NotTopherGrace",
+        "body": "&gt;You use a computer but can you even explain how a transistor works? Maybe. Can you explain the physics of a solid state drive or all the kinds of digital communication?\n\nNo, but I'm not investing in that technology and touting how it differs from the current technology. You're saying that NFTs provide a better solution in this case, but can't answer basic questions about why that differs from the current technology. Publishers already issue CD keys that ensure a finite supply of games within their ecosystem, they can already ensure that their digital products are non-fungible because of this. \n\n&gt; You getting angry about random redditors not explaining technical aspects of encryption\n\nI asked you about centralization vs decentralization which is like the basic foundation of crypto and why NFTs are used, literally nobody asked you about encryption, and the fact that you think they did is even more damning.",
+        "created_utc": 1623270406,
+        "id": "h174nkm",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h174nkm/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1623299206.0
+    },
+    {
+        "author": "TheRosineer710",
+        "body": "Keys were stored in a fucking cloud server. They didn't hack a wallet. \n\n\nYou deff can't hack a hardware wallet unless you have the fucking wallet.",
+        "created_utc": 1623197644,
+        "id": "h13dsnn",
+        "permalink": "/r/StockMarket/comments/nv4464/bitcoin_slides_7_after_us_government_was_able_to/h13dsnn/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1623226444.0
+    },
+    {
+        "author": "Justin_ll",
+        "body": "Say no more. Sounds like a great deal, where do I send the keys.",
+        "created_utc": 1622729234,
+        "id": "h0fvywf",
+        "permalink": "/r/wallstreetbets/comments/nreb7h/looking_for_a_house_to_rent_for_a_short_period/h0fvywf/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622758034.0
+    },
+    {
+        "author": "NadlesKVs",
+        "body": "Supposedly, it's still unproven as far as I'm aware.\n\nAlso, I was thinking that could be the person that hired Darkside. I don't think Darkside is that incompetent. They could have been incompetent enough to leave it on a hosted server with the keys though.",
+        "created_utc": 1623241405,
+        "id": "h157s41",
+        "permalink": "/r/StockMarket/comments/nv4464/bitcoin_slides_7_after_us_government_was_able_to/h157s41/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1623270205.0
+    },
+    {
+        "author": "Pizanch",
+        "body": "\nBig Gorilla at the LA zoo\n\nSnatched my glasses off of my face\n\nTook the keys to my BMW\n\nLeft me here to take his place\n\nI wish the Ape a lot of success \n\nI'm sorry my apartment's a mess",
+        "created_utc": 1622655581,
+        "id": "h0c70k7",
+        "permalink": "/r/wallstreetbets/comments/nqi9f6/daily_discussion_thread_for_june_02_2021/h0c70k7/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622684381.0
+    },
+    {
+        "author": "NotSm4rt",
+        "body": "Alexa play I Got The Keys by DJ Khaled\n\n\nEdit;  thanks whore",
+        "created_utc": 1623110496,
+        "id": "h0z15jd",
+        "permalink": "/r/wallstreetbets/comments/num03g/what_are_your_moves_tomorrow_june_08_2021/h0z15jd/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623139296.0
+    },
+    {
+        "author": "Dull-Archer7704",
+        "body": "HEY I no read too good. what were the keys again, get out of what?",
+        "created_utc": 1623255453,
+        "id": "h163hqf",
+        "permalink": "/r/wallstreetbets/comments/nvz2p3/you_are_all_being_ridiculous_with_these_endless/h163hqf/",
+        "score": -1,
+        "subreddit": "wallstreetbets",
+        "created": 1623284253.0
+    },
+    {
+        "author": "LickMyTicker",
+        "body": "As games increasingly become free to play and microtransactions take center stage... \n\nLook at Counter Strike and the skin economy in that game. \n\nRight now, valve holds the keys to the market place. What happens when a few games start supporting the decentralized approach that is NFT? Now it's all about supporting an API. Pulling in users who own NFTs to your environment by supporting them. Other publishers won't have a choice if they want to compete. \n\nThere will continue to be partnerships with NFTs, and gamestop has the clout. At this point it's all marketing. You can't stop  the NFT wave. It's going to continue to happen. It might evolve a little and look different, but it's happening.\n\nYou'll be able to sell licenses to a game as well as dlc that is in the form of an NFT that only gamestop has the exclusive rights to, and they can make it as artificially scarce as they want.",
+        "created_utc": 1623269721,
+        "id": "h172xpb",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h172xpb/",
+        "score": -1,
+        "subreddit": "investing",
+        "created": 1623298521.0
+    },
+    {
+        "author": "SmithRune735",
+        "body": "You just made an argument for why no one wants a physical keyboard, the keys are too small!",
+        "created_utc": 1623015476,
+        "id": "h0u8chy",
+        "permalink": "/r/StockMarket/comments/ntnv11/i_miss_this_kind_of_legend_phones_now_a_days_bb/h0u8chy/",
+        "score": -2,
+        "subreddit": "StockMarket",
+        "created": 1623044276.0
+    },
+    {
+        "author": "NonSupportiveCup",
+        "body": "Stolen credit cards and mysteriously cheap steam keys exist.",
+        "created_utc": 1623269711,
+        "id": "h172wum",
+        "permalink": "/r/investing/comments/nw1smc/i_dont_understand_the_long_term_appeal_of_gme/h172wum/",
+        "score": -5,
+        "subreddit": "investing",
+        "created": 1623298511.0
+    },
+    {
+        "author": "Renaissance007",
+        "body": "Where ma **WISH** bois at",
+        "created_utc": 1623242402,
+        "id": "h159jp3",
+        "permalink": "/r/wallstreetbets/comments/nvs38y/daily_discussion_thread_for_june_09_2021/h159jp3/",
+        "score": 143,
+        "subreddit": "wallstreetbets",
+        "created": 1623271202.0
+    },
+    {
+        "author": "pizza_nightmare",
+        "body": "Hardbody pass from me on investing in Chinese companies, thanks\n\nBaba burned be with the Jack Ma situation",
+        "created_utc": 1622984300,
+        "id": "h0sgpo3",
+        "permalink": "/r/investing/comments/ntj926/undervalued_stocks_in_an_overvalued_market/h0sgpo3/",
+        "score": 133,
+        "subreddit": "investing",
+        "created": 1623013100.0
+    },
+    {
+        "author": "Shawesome_02",
+        "body": "Look ma! I'm famous!\nNext week you'll be needing a video of Alan Shepard playing golf on the moon to represent $BB.\n\ud83c\udf47\ud83d\ude80\ud83c\udf16",
+        "created_utc": 1622842899,
+        "id": "h0m8d20",
+        "permalink": "/r/wallstreetbets/comments/nseozk/bb_today/h0m8d20/",
+        "score": 75,
+        "subreddit": "wallstreetbets",
+        "created": 1622871699.0
+    },
+    {
+        "author": "Gullible-Ad-5793",
+        "body": "I ve seen some BlackBerry juice on the moon, let\u2019s go ma apes \ud83e\udd8d\ud83d\ude80",
+        "created_utc": 1623151739,
+        "id": "h10lt9k",
+        "permalink": "/r/wallstreetbets/comments/nv1ijl/how_it_felt_buying_my_first_share_of_bb_stock/h10lt9k/",
+        "score": 49,
+        "subreddit": "wallstreetbets",
+        "created": 1623180539.0
+    },
+    {
+        "author": "kn1f3party",
+        "body": "Let's see if WISH bounces off the 10 MA again...",
+        "created_utc": 1623181005,
+        "id": "h12dx5t",
+        "permalink": "/r/wallstreetbets/comments/nv1518/daily_discussion_thread_for_june_08_2021/h12dx5t/",
+        "score": 17,
+        "subreddit": "wallstreetbets",
+        "created": 1623209805.0
+    },
+    {
+        "author": "jjd1226",
+        "body": "BB\n\nVery important we hold the 20ma\n\nIf we close above the 20 MA we are in business for tomorrow IMO\n\n[https://www.tradingview.com/x/iCmCCoyW/](https://www.tradingview.com/x/iCmCCoyW/)",
+        "created_utc": 1623090893,
+        "id": "h0xthj6",
+        "permalink": "/r/wallstreetbets/comments/nu8o4x/daily_popular_ticker_thread_for_june_07_2021_bb/h0xthj6/",
+        "score": 17,
+        "subreddit": "wallstreetbets",
+        "created": 1623119693.0
+    },
+    {
+        "author": "Crypto_Nubian",
+        "body": "Very hard for AmC baggers to accept AMC will not be going to the moon. Bias. I was out at 62 with a big shit grin on ma face BB is the new way \u270a\ud83c\udffd",
+        "created_utc": 1622781076,
+        "id": "h0j2yve",
+        "permalink": "/r/wallstreetbets/comments/nrmh2t/what_are_your_moves_tomorrow_june_04_2021/h0j2yve/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1622809876.0
+    },
+    {
+        "author": "Next_Contribution903",
+        "body": "Sndl ma play",
+        "created_utc": 1622740996,
+        "id": "h0go7z9",
+        "permalink": "/r/wallstreetbets/comments/nr9r9t/daily_discussion_thread_for_june_03_2021/h0go7z9/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1622769796.0
+    },
+    {
+        "author": "Sp00dge",
+        "body": "CLOV pre market volume about the same as AMC with a 10day MA like 14x less than AMC, today is looking to be yuuge.",
+        "created_utc": 1623150203,
+        "id": "h10jt84",
+        "permalink": "/r/wallstreetbets/comments/nuxgzr/apes_who_missed_on_gme_listen_up_clov_is_ready_to/h10jt84/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1623179003.0
+    },
+    {
+        "author": "eIImcxc",
+        "body": "Ma boii \ud83d\udc4b\ud83d\udc8e",
+        "created_utc": 1622938805,
+        "id": "h0qruyp",
+        "permalink": "/r/stocks/comments/nszoju/is_naked_shorting_truly_a_common_practice/h0qruyp/",
+        "score": 11,
+        "subreddit": "stocks",
+        "created": 1622967605.0
+    },
+    {
+        "author": "401TCW",
+        "body": "For a 12 months timeframe: Apple, Microsoft, Visa, Mastercard, Costco, Disney",
+        "created_utc": 1622607942,
+        "id": "h0a09w5",
+        "permalink": "/r/stocks/comments/nq9bh1/what_one_stock_do_you_think_has_the_least_risk_in/h0a09w5/",
+        "score": 10,
+        "subreddit": "stocks",
+        "created": 1622636742.0
+    },
+    {
+        "author": "barelyrolling42069v2",
+        "body": "All covid restrictions in MA are gone. covid is over. Bullish AF. was very weird to go out until 2am on Friday night and get trashed and share joints and eat mushrooms with no mask. Loving it!",
+        "created_utc": 1622549978,
+        "id": "h06olih",
+        "permalink": "/r/wallstreetbets/comments/npqenw/daily_discussion_thread_for_june_01_2021/h06olih/",
+        "score": 10,
+        "subreddit": "wallstreetbets",
+        "created": 1622578778.0
+    },
+    {
+        "author": "FelixNoHorizon",
+        "body": "Analysts can suck ma BBalls \nBuy and hold BBois do not sell",
+        "created_utc": 1622726090,
+        "id": "h0fowmi",
+        "permalink": "/r/wallstreetbets/comments/nr9r9t/daily_discussion_thread_for_june_03_2021/h0fowmi/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1622754890.0
+    },
+    {
+        "author": "DatFkIsthatlogic",
+        "body": "Masayoshi Son\u2019s SoftBank Corp $20 million bet on Alibaba funding is now estimated to be worth about $58 billion. - in 2014. The return was there, it was just eaten by those who got in pre-ipo. Even those who joined after IPO, it's still a sizable gain. However those were days when Alibaba was barely making any money compared to present time. Unless there's a political upheaval, it's almost impossible to lose money from a fundamental business perspective given time. As for taxes, isn't that to be expected, Do EU residents not pay taxes on purchases in EU countries? You still gotta buy goods and those are all from China (consumers). You still got manufactur your goods and those capacity are all in China if you want to be competitive (vendors). Also most of Alibaba business are domestic.\n\nThe downside risk is limited to political uncertainty. Politics are lots of posture for very long and little action.\n\nEdit: Jack Ma not involved with Alibaba much anymore, he steps down as both CEO and Chairman.",
+        "created_utc": 1623091387,
+        "id": "h0xunqb",
+        "permalink": "/r/investing/comments/nug7g5/thoughts_on_the_future_of_alibaba/h0xunqb/",
+        "score": 8,
+        "subreddit": "investing",
+        "created": 1623120187.0
+    },
+    {
+        "author": "Joltarts",
+        "body": "Any deal with china will be a one way street to socialism and the wreck of free market economics.\n\nYou only need to see what the CCP did to fuck over Jack Ma and strip him of his own hard work or rather, show who the real puppet master was behind BABA. The CCP government owns all chinese companies. They can do as and what they please, as and when they please.",
+        "created_utc": 1622767987,
+        "id": "h0id87o",
+        "permalink": "/r/stocks/comments/nrjfab/washington_to_bar_us_investors_from_59_chinese/h0id87o/",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1622796787.0
+    },
+    {
+        "author": "recked42",
+        "body": "I bought market open @27.96, order filled. Only down 32% not worried at all. I bought GME at $260 and y\u2019all ma fackas came back for me. \ud83e\udd8d\ud83d\udc8e\u270b",
+        "created_utc": 1623264911,
+        "id": "h16qzs7",
+        "permalink": "/r/wallstreetbets/comments/nvsynu/daily_popular_tickers_thread_for_june_09_2021/h16qzs7/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1623293711.0
+    },
+    {
+        "author": "FlorisAB",
+        "body": "Buying based on MA crossovers? I think you just struck gold! Congratulations with your infinite money glitch!",
+        "created_utc": 1623099515,
+        "id": "h0ydti6",
+        "permalink": "/r/wallstreetbets/comments/nunagh/clov_dnmr_flash_buy_signals/h0ydti6/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1623128315.0
+    },
+    {
+        "author": "SanderVdW",
+        "body": "Look ma, I'm going to be rich!",
+        "created_utc": 1622628620,
+        "id": "h0appue",
+        "permalink": "/r/wallstreetbets/comments/nq32sc/what_are_your_moves_tomorrow_june_02_2021/h0appue/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1622657420.0
+    },
+    {
+        "author": "CursedGarlic",
+        "body": "BB MA Bouncing up that BOLL and we ready to get this BANNA YEAST TO MAKE SOME BREAD",
+        "created_utc": 1623089486,
+        "id": "h0xq737",
+        "permalink": "/r/wallstreetbets/comments/nu8o4x/daily_popular_ticker_thread_for_june_07_2021_bb/h0xq737/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1623118286.0
+    },
+    {
+        "author": "livinittt",
+        "body": "Read the actual DD post.  Medicare Advantage plans get investigated all the times, including the top ones (United, Humana, Cigna, etc.).  It\u2019s either just an inquiry, the case get\u2019s thrown out in court, or the the case get\u2019s settled for $5-$25M for a MA plan.  CLOV is not a provider, so they aren\u2019t at risk for any serious settlements like the one in DD about HealthCare Partners.",
+        "created_utc": 1623022621,
+        "id": "h0umtj6",
+        "permalink": "/r/wallstreetbets/comments/ntx6w8/apes_need_healthcare_apes_need_clov_the_ultimate/h0umtj6/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1623051421.0
+    },
+    {
+        "author": "StonkDoctor1000",
+        "body": "WKHS MA LMT calls\n\nSNAP outs",
+        "created_utc": 1623010702,
+        "id": "h0ty8u5",
+        "permalink": "/r/wallstreetbets/comments/ntu6ur/what_are_your_moves_tomorrow_june_07_2021/h0ty8u5/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1623039502.0
+    },
+    {
+        "author": "AstroMila2019",
+        "body": "5-day MA so close to moving above the 50-day MA. Once it does, and once the 20-day MA does the same, TA traders will be back in full force. (Golden cross)",
+        "created_utc": 1622646574,
+        "id": "h0bkreo",
+        "permalink": "/r/weedstocks/comments/nqi9d6/daily_discussion_thread_june_02_2021/h0bkreo/",
+        "score": 7,
+        "subreddit": "weedstocks",
+        "created": 1622675374.0
+    },
+    {
+        "author": "DLew13",
+        "body": "\u201cHey Ma you want anything from the Pump N\u2019 Dump?\u201d\n\n\u201cGrab me some WKHS on sale and a pack of Tilrays.\u201d\n\n\u201cOk, be back soon to watch Cramer on the TV. BOOYAH!!!\u201d",
+        "created_utc": 1623168306,
+        "id": "h11jmo7",
+        "permalink": "/r/wallstreetbets/comments/nv1518/daily_discussion_thread_for_june_08_2021/h11jmo7/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1623197106.0
+    },
+    {
+        "author": "Facemelter66",
+        "body": "\u201cNo ma, I told you it\u2019s all gone to the Ronald McDonald foundation, now let me introduce you to my 4 very large and very serious friends who all dress them same.\u201d",
+        "created_utc": 1622921741,
+        "id": "h0pvbvz",
+        "permalink": "/r/CanadianInvestor/comments/nt15y4/lets_say_hypothetically_i_won_the_lotto_max/h0pvbvz/",
+        "score": 6,
+        "subreddit": "CanadianInvestor",
+        "created": 1622950541.0
+    },
+    {
+        "author": "VincentTrevane",
+        "body": "I think a huge amount of the uncertainty around alibaba is due to:\n\n* Increased trade tensions with the west\n* Jack Ma out of favor with CCCP and more or less has been disappeared\n* Shitty stock ownership structure",
+        "created_utc": 1622601415,
+        "id": "h09o82j",
+        "permalink": "/r/stocks/comments/nq9dq2/i_bought_wish/h09o82j/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1622630215.0
+    },
+    {
+        "author": "dwdsquared2",
+        "body": "[https://twitter.com/fxmacro/status/1402030021502459906?s=20](https://twitter.com/fxmacro/status/1402030021502459906?s=20)\n\n\n  \n&gt;The Sad End Of Jack Ma Inc. via Forbes\n  \n&gt;Beijing is now doling out some of the most lucrative slices of Ma\u2019s business to new \u201cpartners\u201d of its choosing, including one of the most corrupt and financially shaky companies in all of China.",
+        "created_utc": 1623105795,
+        "id": "h0yrnau",
+        "permalink": "/r/wallstreetbets/comments/num03g/what_are_your_moves_tomorrow_june_08_2021/h0yrnau/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1623134595.0
+    },
+    {
+        "author": "SanderVdW",
+        "body": "Everything is dipping ma boi",
+        "created_utc": 1623177638,
+        "id": "h125znp",
+        "permalink": "/r/wallstreetbets/comments/nv1ig9/daily_popular_ticker_thread_for_june_08_2021_bb/h125znp/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1623206438.0
+    },
+    {
+        "author": "-Silky_Johnson",
+        "body": "Tinfoil hat time. \n\nEveryone in here with flairs is going to be saved from a girthy fucking purge. \n\nMods are going to nuke the sub and ban like 4 million bot accounts and 3 million filthy casuals. \n\nThe only people left will be truly autistic. A utopia of extra chromosomes and loss porn. \n\nCan you feel it? I can. \nAlso BABA Calls because Jack Ma is free I guess?",
+        "created_utc": 1622688737,
+        "id": "h0e7l7d",
+        "permalink": "/r/wallstreetbets/comments/nquubf/what_are_your_moves_tomorrow_june_03_2021/h0e7l7d/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1622717537.0
+    },
+    {
+        "author": "Think_Faithlessness8",
+        "body": "Ikr my ma texted me this morning \u201cget out of amc hurry\u201d I\u2019m just like \u201cma please tell me ur not a paper hands\u201d \ud83d\ude10",
+        "created_utc": 1622722262,
+        "id": "h0fhrpc",
+        "permalink": "/r/wallstreetbets/comments/nr9r9t/daily_discussion_thread_for_june_03_2021/h0fhrpc/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1622751062.0
+    },
+    {
+        "author": "mijiwa",
+        "body": "Bb ma frien r u ded ? I don\u2019t wanna be bag halder",
+        "created_utc": 1622831511,
+        "id": "h0lilfu",
+        "permalink": "/r/wallstreetbets/comments/ns1gd8/daily_discussion_thread_for_june_04_2021/h0lilfu/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1622860311.0
+    },
+    {
+        "author": "hullaballoonist",
+        "body": "Jack Ma is way smarter and harder working than Elon. Elon grew up the son of an emerald mine owner. Jack Ma grew up poor as shit",
+        "created_utc": 1622848541,
+        "id": "h0mjxpg",
+        "permalink": "/r/wallstreetbets/comments/nse1dg/weekend_discussion_thread_for_the_weekend_of_june/h0mjxpg/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1622877341.0
+    },
+    {
+        "author": "BrockaLee",
+        "body": "They said I would get never get far not being able to read but look at me now Ma, I'm an astronaut \ud83d\ude80",
+        "created_utc": 1623085599,
+        "id": "h0xgx0m",
+        "permalink": "/r/wallstreetbets/comments/nu8o4x/daily_popular_ticker_thread_for_june_07_2021_bb/h0xgx0m/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1623114399.0
+    },
+    {
+        "author": "Shyt4brains",
+        "body": "I'm Sampson Simpson and I'm sticking to ma story. Right near the beach!",
+        "created_utc": 1622606944,
+        "id": "h09yjpr",
+        "permalink": "/r/wallstreetbets/comments/nq8c5t/amazon_backs_federal_bill_to_legalize_marijuana/h09yjpr/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1622635744.0
+    },
+    {
+        "author": "Neilson-Milk",
+        "body": "Except Visa and MasterCard are coming out with exclusive rewards cards for BTC?\n\nI trust the big bois over you sir.",
+        "created_utc": 1622566731,
+        "id": "h07njy1",
+        "permalink": "/r/CanadianInvestor/comments/npqemz/daily_discussion_thread_for_june_01_2021/h07njy1/",
+        "score": 4,
+        "subreddit": "CanadianInvestor",
+        "created": 1622595531.0
+    },
+    {
+        "author": "mavagorn64",
+        "body": "I\u2019m with the banana guy. IMO, the only strategy that is is consistent with VIX is buying puts on big spikes and calls when it\u2019s riding along its 20 day MA.",
+        "created_utc": 1622909070,
+        "id": "h0p5xhg",
+        "permalink": "/r/options/comments/nsyetz/strategies_to_take_advantage_of_low_iv/h0p5xhg/",
+        "score": 4,
+        "subreddit": "options",
+        "created": 1622937870.0
+    },
+    {
+        "author": "dvdmovie1",
+        "body": "Financial? ICE, SPGI, MCO, MSCI, BLK, JPM, BAC, KKR, BX\n\nFintech? PYPL, SQ, V, MA",
+        "created_utc": 1623098238,
+        "id": "h0yavah",
+        "permalink": "/r/investing/comments/nu7ukb/daily_advice_thread_all_basic_help_or_advice/h0yavah/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1623127038.0
+    },
+    {
+        "author": "y_angelov",
+        "body": "If you like the high margins, you should check out Visa and MasterCard! But yes, it's hard not to be bullish on Tesla!",
+        "created_utc": 1622576654,
+        "id": "h08a0pa",
+        "permalink": "/r/stocks/comments/npxgbd/facebook_a_bullish_analysis_mix_of_technical_and/h08a0pa/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1622605454.0
+    },
+    {
+        "author": "crosseyedpoobear",
+        "body": "400 @ 3.00.   Round numbers soothe ma tism\u2019s so it made sense.  Very happy where we are now. Boom or bust with this one.",
+        "created_utc": 1622577196,
+        "id": "h08b7eu",
+        "permalink": "/r/wallstreetbets/comments/nq18jr/all_in_on_tell/h08b7eu/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1622605996.0
+    },
+    {
+        "author": "senpailane",
+        "body": "in regards to technical analysis i see this as following a trendline upwads with a small correction but not breaking past the 20 or 50 day MA looking at an expanded 3 month window. in the past week it has gone below the 20 day MA but hit a resistance at the 50 day MA. I expect it to continue trending upwards. so I expect to see a bull flag.",
+        "created_utc": 1623263583,
+        "id": "h16nosy",
+        "permalink": "/r/wallstreetbets/comments/nw21oh/mitt_dd/h16nosy/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1623292383.0
+    },
+    {
+        "author": "uncuckable42069",
+        "body": "Squeeze ma dick",
+        "created_utc": 1623115689,
+        "id": "h0zbrz4",
+        "permalink": "/r/wallstreetbets/comments/nuesau/clov_short_squeeze_is_probably_about_to_start/h0zbrz4/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1623144489.0
+    },
+    {
+        "author": "ThatOneDrunkUncle",
+        "body": "Jack Ma is king of China, right?",
+        "created_utc": 1622732408,
+        "id": "h0g3h5z",
+        "permalink": "/r/wallstreetbets/comments/nr9r9t/daily_discussion_thread_for_june_03_2021/h0g3h5z/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1622761208.0
+    },
+    {
+        "author": "MammothMethod8417",
+        "body": "While we're all depressed by BB: I suggest doing your DD into $BABA. Here's why it will moon:\n1. Jack Ma out of the way. Means less likely the CCP will interfere.\n2. Good news for ANT as they were granted some license thing... idk I didn't bother reading more. But maybe IPO on the horizon.\n3. Chinese Yuan appreciating vs the inflationary king of criminal activity fiat (aka the USD).",
+        "created_utc": 1622828240,
+        "id": "h0laqf9",
+        "permalink": "/r/wallstreetbets/comments/ns1gd8/daily_discussion_thread_for_june_04_2021/h0laqf9/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1622857040.0
+    },
+    {
+        "author": "StreetTripleRider",
+        "body": "Look ma, I earned my first wrinkle YOLOing into meme stonks, u proud?",
+        "created_utc": 1623258886,
+        "id": "h16c4jg",
+        "permalink": "/r/wallstreetbets/comments/nw0y1i/the_unified_theory_of_retardation_and_how_to/h16c4jg/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1623287686.0
+    },
+    {
+        "author": "DopeQc",
+        "body": "Ahhahaaha ca ma prit par surprise ca",
+        "created_utc": 1623099400,
+        "id": "h0ydjx1",
+        "permalink": "/r/pennystocks/comments/nuemwx/asti_stock/h0ydjx1/",
+        "score": 4,
+        "subreddit": "pennystocks",
+        "created": 1623128200.0
+    },
+    {
+        "author": "sobewankanobe",
+        "body": "I miss Ma boy Bourdain. Been watching old A Cook\u2019s Tour episodes on YouTube. Some good early 2000\u2019s nostalgia.",
+        "created_utc": 1622857818,
+        "id": "h0n16rk",
+        "permalink": "/r/wallstreetbets/comments/nse1dg/weekend_discussion_thread_for_the_weekend_of_june/h0n16rk/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1622886618.0
+    },
+    {
+        "author": "SilverAccount57",
+        "body": "Grand Ma?",
+        "created_utc": 1623000265,
+        "id": "h0tbu87",
+        "permalink": "/r/wallstreetbets/comments/ntq5hf/in_bb_we_trust_because_apes_stay_strong/h0tbu87/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1623029065.0
+    },
+    {
+        "author": "jonfromdelocated",
+        "body": "Watching the Elon and Jack Ma event makes me wonder if he truly disappeared for a month or if he just got lost in his house. What a dumb fuck.",
+        "created_utc": 1622562696,
+        "id": "h07e6yn",
+        "permalink": "/r/wallstreetbets/comments/npqenw/daily_discussion_thread_for_june_01_2021/h07e6yn/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622591496.0
+    },
+    {
+        "author": "Embarrassed-End4105",
+        "body": "Ali fucking baba. Jack ma will bring us to the moon",
+        "created_utc": 1623183590,
+        "id": "h12jykj",
+        "permalink": "/r/stocks/comments/nv5tw7/which_stocks_are_you_waiting_to_pull_the_ripcord/h12jykj/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1623212390.0
+    },
+    {
+        "author": "HasLessToSay",
+        "body": "For real? Dang, Ma. I'm jealous.",
+        "created_utc": 1623182578,
+        "id": "h12hnbl",
+        "permalink": "/r/wallstreetbets/comments/nv1518/daily_discussion_thread_for_june_08_2021/h12hnbl/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1623211378.0
+    },
+    {
+        "author": "Skyfall-77",
+        "body": "But this is dated original contract, same as ones made with Paypal, MasterCard &amp; the like. They have since set up shopify payments, which is new stripe partnership deal &amp; different terms to original 3rd party merchants deal. Do you have copy of that?",
+        "created_utc": 1622531439,
+        "id": "h062v6w",
+        "permalink": "/r/wallstreetbets/comments/np2smh/shop_the_biggest_canadian_market_cap_is_the/h062v6w/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622560239.0
+    },
+    {
+        "author": "Charlie2136",
+        "body": "Short term moving average crosses a long term moving average (20 day MA goes up above the 200 day MA)",
+        "created_utc": 1623174498,
+        "id": "h11yjbm",
+        "permalink": "/r/wallstreetbets/comments/nv1ig9/daily_popular_ticker_thread_for_june_08_2021_bb/h11yjbm/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1623203298.0
+    },
+    {
+        "author": "DeeC_ML",
+        "body": "1. Fees are comprised of membership fees and transaction fees to expedite wallet pay-outs \n2. Digital banking, Shake N'Bank, Auto-investing, and Instacash are popular draws \n3. Yes! That's the end goal.  Our digital bank account is built to be a primary bank account with 2 day early paycheck, Mastercard purchase price protection, and other things you'd expect from a full-service bank.   We always look to bring even more enhancements over time \n4.  Paypal, Cash-app, and Ant (China) come to mind.  \n5. Many great business models out there.   We preach diversification.  Instacash is but one of many great features and value propositions at MoneyLion\n\n\u201cImportant Info re: MoneyLion/FUSE transaction: https://www.moneylion.com/investors/disclaimer/\u201d",
+        "created_utc": 1623191627,
+        "id": "h131p7r",
+        "permalink": "/r/SPACs/comments/nuqmt6/ama5_dee_choubey_ceo_moneylionfuse_682021_500_pm/h131p7r/",
+        "score": 3,
+        "subreddit": "SPACs",
+        "created": 1623220427.0
+    },
+    {
+        "author": "MikeJamesBurry",
+        "body": "I would like to add a financial stock in my portfolio.\nVisa , MasterCard or PayPal?\nVisa looks solid, p/e ratio is acceptable.\nPaypal still looks very promising. \nAny recommendations would be very appreciated.",
+        "created_utc": 1623066135,
+        "id": "h0wcv0c",
+        "permalink": "/r/investing/comments/nu7v9c/daily_general_discussion_and_spitballin_thread/h0wcv0c/",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1623094935.0
+    },
+    {
+        "author": "WeenisWrinkle",
+        "body": "Visa and MasterCard are very similar businesses. They are a mix of cash cow value (classic consumer credit card business) and growth (fintech).\n\nPayPal is more of a disruptor and focused more on growth in the fintech space.\n\nI own all 3 of these companies, and don't plan to sell anytime soon.",
+        "created_utc": 1623075253,
+        "id": "h0wsu4t",
+        "permalink": "/r/investing/comments/nu7v9c/daily_general_discussion_and_spitballin_thread/h0wsu4t/",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1623104053.0
+    },
+    {
+        "author": "gigantoir",
+        "body": "DIAMOND HANDS \n\nROCKET\n\nDIAMOND HANDS\n\nROCKET\n\nI GOT THE TENDIES IN MA POCKET \ud83d\ude80 \ud83d\ude80 \ud83d\ude80",
+        "created_utc": 1622664440,
+        "id": "h0cschg",
+        "permalink": "/r/wallstreetbets/comments/nquubf/what_are_your_moves_tomorrow_june_03_2021/h0cschg/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622693240.0
+    },
+    {
+        "author": "MakachuPikachu",
+        "body": "Something something, irrational exuberance.\n\nLook, ma! I\u2019m Alan Greenspan now!",
+        "created_utc": 1622634097,
+        "id": "h0awqdm",
+        "permalink": "/r/wallstreetbets/comments/nqi9f6/daily_discussion_thread_for_june_02_2021/h0awqdm/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1622662897.0
+    },
+    {
+        "author": "bertgrozhen",
+        "body": "Great post - I mostly agree with your fundamentals. What do you think about proxy plays like AXP/V/MA - \n\nMore travel - more points, more transactions, more credit card applications, a bit safer than a pure accommodation play.",
+        "created_utc": 1623177260,
+        "id": "h12543y",
+        "permalink": "/r/wallstreetbets/comments/nv3ebj/abnb_from_fundamentals_to_technicals/h12543y/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1623206060.0
+    },
+    {
+        "author": "SB_DivideByZer0",
+        "body": "How did the sink get outside again ?  MA",
+        "created_utc": 1623036193,
+        "id": "h0vbsas",
+        "permalink": "/r/wallstreetbets/comments/ntu6ur/what_are_your_moves_tomorrow_june_07_2021/h0vbsas/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1623064993.0
+    },
+    {
+        "author": "livinittt",
+        "body": "Dude read the DD lol.  Or better yet do your own DD.  All Medicare data is public because it\u2019s government money.  \n\nThey\u2019re one of the fastest growing MA plans (I shared the link).  I think your 200k comment actually refers to the DC enrollment, not MA.  In the DD you can see they\u2019re larger than all their Direct Contracting competitors which will be the growth engine.",
+        "created_utc": 1623023583,
+        "id": "h0uonmn",
+        "permalink": "/r/wallstreetbets/comments/ntx6w8/apes_need_healthcare_apes_need_clov_the_ultimate/h0uonmn/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1623052383.0
+    },
+    {
+        "author": "Fogfy",
+        "body": "No one knows. It defied the odds from Friday's sell off. Bullish flag on the 1 month chart. Needs to maintain its current MA. Looks promising for the short term, but keep in mind volume and volatility.\n\nLong-term going into next year and years to come it's a cheap and solid investment in its current market of cybersecurity.",
+        "created_utc": 1623155279,
+        "id": "h10rdvx",
+        "permalink": "/r/wallstreetbets/comments/nv1ig9/daily_popular_ticker_thread_for_june_08_2021_bb/h10rdvx/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1623184079.0
+    },
+    {
+        "author": "mattnessss",
+        "body": "I swear I read either MasterCard or Visa was also backing legalization",
+        "created_utc": 1622646862,
+        "id": "h0ble9f",
+        "permalink": "/r/weedstocks/comments/nqled2/is_amazon_the_spark_that_reignites_cannabis/h0ble9f/",
+        "score": 3,
+        "subreddit": "weedstocks",
+        "created": 1622675662.0
+    },
+    {
+        "author": "Ill-Preference-3382",
+        "body": "I\u2019m not selling!  Apes for life!  Ride or die Ape Ape! Ma Ape Ape! \n\nAs I walk through the valley of the shadow of death, I shall fear no hedgie, hodl and buy more AMC!",
+        "created_utc": 1622641383,
+        "id": "h0b9cts",
+        "permalink": "/r/Wallstreetbetsnew/comments/nqj3jw/remember_apes_we_are_in_this_shit_together_dont/h0b9cts/",
+        "score": 3,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1622670183.0
+    },
+    {
+        "author": "livinittt",
+        "body": "CLOV is one of the fastest growing MA plans, and one of the biggest Direct Contracting Entities.  https://www.cloverhealth.com/en/about-us/press/clover-healths-membership-surges-2020-outpacing-medicare\n\nRead the actual DD post.  Medicare Advantage plans get investigated all the times, including the top ones (United, Humana, Cigna, etc.).  It\u2019s either just an inquiry, the case get\u2019s thrown out in court, or the the case get\u2019s settled for $5-$25M for a MA plan.  CLOV is not a provider, so they aren\u2019t at risk for any serious settlements like the one in DD about HealthCare Partners.",
+        "created_utc": 1623023192,
+        "id": "h0unwve",
+        "permalink": "/r/wallstreetbets/comments/ntx6w8/apes_need_healthcare_apes_need_clov_the_ultimate/h0unwve/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623051992.0
+    },
+    {
+        "author": "DreamFodder",
+        "body": "I did wish you the best of luck. Hope you sell and make money man. If you are riding an option just watch that 200 MA as it rides along it. If it goes below it\u2019s a signal to GTFO. Best of luck.",
+        "created_utc": 1622818945,
+        "id": "h0kp4x9",
+        "permalink": "/r/wallstreetbets/comments/nr9r9t/daily_discussion_thread_for_june_03_2021/h0kp4x9/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622847745.0
+    },
+    {
+        "author": "BruceBanning",
+        "body": "I know Sundial is a meme stock, but what else do we know about them? My local dispensary guy said they supply their product, but I\u2019m doubtful. This is Netacare in MA.",
+        "created_utc": 1622670955,
+        "id": "h0d7ipc",
+        "permalink": "/r/weedstocks/comments/nquua0/after_hours_discussion_thread_june_02_2021/h0d7ipc/",
+        "score": 2,
+        "subreddit": "weedstocks",
+        "created": 1622699755.0
+    },
+    {
+        "author": "SanderVdW",
+        "body": "Jeez, you my friend have balls.\n\nI did exactly the same, with 25k, of which 5k is from my Mastercard and 5k loan from my gf.\n\nI like to live dangerously",
+        "created_utc": 1622584554,
+        "id": "h08r4d1",
+        "permalink": "/r/wallstreetbets/comments/nq32sc/what_are_your_moves_tomorrow_june_02_2021/h08r4d1/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622613354.0
+    },
+    {
+        "author": "neveralone2",
+        "body": "Jack Ma giving me that good succcccc this morning.  \n\n\nAlibaba sucked me off, cleaned my house and tucked me in this morning.",
+        "created_utc": 1622552920,
+        "id": "h06tmq1",
+        "permalink": "/r/wallstreetbets/comments/npqenw/daily_discussion_thread_for_june_01_2021/h06tmq1/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622581720.0
+    },
+    {
+        "author": "jjd1226",
+        "body": "testing that 200 MA. [https://www.tradingview.com/x/e1REQ1RU/](https://www.tradingview.com/x/e1REQ1RU/)\n\nwatch VIX. See if it spikes. If it does we break support IMO but lets see. Not financial advice :)",
+        "created_utc": 1622557585,
+        "id": "h072y61",
+        "permalink": "/r/wallstreetbets/comments/nptqx7/i_spy_61_read/h072y61/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622586385.0
+    },
+    {
+        "author": "peterinjapan",
+        "body": "I've done that. Tried to buy Mastercard (MA), but bought MC instead.",
+        "created_utc": 1622553916,
+        "id": "h06vhej",
+        "permalink": "/r/stocks/comments/npc0mc/went_against_general_sentiment_here_and_purchased/h06vhej/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1622582716.0
+    },
+    {
+        "author": "ProReddit2019",
+        "body": "I'm a bisexual atheist who got his covid vaccine not so long ago, I'm not that kind of ancap ma dude, alot of us are progressive as fuck and paleolibertarians can eat my taint!\n\nAnd in relation to your second paragraph you proved my point. People don't find it worth it to buy games from an overbloated corporation that only ripps them of. The only reason EA hasn't collapsed yet is because of their other forms of income besides video games. All that merch is \u20ac\u20ac\u20ac",
+        "created_utc": 1622569590,
+        "id": "h07u48b",
+        "permalink": "/r/Wallstreetbetsnew/comments/npklpj/accurate/h07u48b/",
+        "score": 2,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1622598390.0
+    },
+    {
+        "author": "ShotToNothing",
+        "body": "Watched the video of Elon Musk roasting Jack Ma. What an idiot. He's certainly not intelligent and barely looks human. How did he become a Billionaire in China of all places?",
+        "created_utc": 1622848258,
+        "id": "h0mjdvi",
+        "permalink": "/r/wallstreetbets/comments/nse1dg/weekend_discussion_thread_for_the_weekend_of_june/h0mjdvi/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622877058.0
+    },
+    {
+        "author": "anonyymi",
+        "body": "WKHS is memetier (and Fraudstown Motors just shit-tier), but MA and LMT are legit long term plays.",
+        "created_utc": 1623011331,
+        "id": "h0tzlpz",
+        "permalink": "/r/wallstreetbets/comments/ntu6ur/what_are_your_moves_tomorrow_june_07_2021/h0tzlpz/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623040131.0
+    },
+    {
+        "author": "BackThatThangUp",
+        "body": "Mama met the trucker Big Daddy Bodine when she was fresh outta high school, and had me nine months later after a debauched nighttime hayride involving a cocktail of Budweiser and crystal meth. They took up robbing banks to pay for corn and diapers, and for a time there they got away with it. These was known \u2018round these parts for moonshinin\u2019 and stealing biscuits from gators, but don\u2019t it beat all if I ain\u2019t seen Mama hit a squirrel straight between the eyes from 30 mule tails with a BB gun. Man oh man, she sure were an ace with that BB gun, held up round about 15 banks with that sucker. But one day the sherriff come down to the gravy farm a\u2019hootin\u2019 and hollerin\u2019 bout some business I don\u2019t know what, Ma and Big Daddy fuckin\u2019 a bear down by the corn shack or some nonsense, and well he shot Mama dead right there with the hoe in her hand and the gravy near ready to harvest in the field. On quiet nights I can still hear her strummin\u2019 the banjo on the back porch and pitchin\u2019 a tune bout the biscuits and the gators and the gravy in the field. Sure do miss Mama sometimes.",
+        "created_utc": 1622658323,
+        "id": "h0cdqev",
+        "permalink": "/r/wallstreetbets/comments/nqi9f6/daily_discussion_thread_for_june_02_2021/h0cdqev/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622687123.0
+    },
+    {
+        "author": "Ankerjorgensen",
+        "body": "With how this week is shaping up to look, and my portfolio is in the green for the first time since January, I ma going to fail this 72 hour exam I just got handed.",
+        "created_utc": 1622664381,
+        "id": "h0cs7hq",
+        "permalink": "/r/wallstreetbets/comments/nqi9f6/daily_discussion_thread_for_june_02_2021/h0cs7hq/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622693181.0
+    },
+    {
+        "author": "StockNCryptoGodfathr",
+        "body": "Yes that\u2019s it. I\u2019ve traded full time for 12 years and I learned to keep it simple. Day trading, swing trading and even on my longterm investments knowing within 30 seconds after I look at a chart if I want to buy it is key. Here are what I look for according to importance. \n1. Patterns\n2. Volumn\n3. MA\n4. CCI\n5. Slow Stochastics\n6. Bollinger Bands\nAll the rest of the indicators work too but I found they clutter up my chart and these in tandem can help you make quick fast decisions. I\u2019ve taught this to 100\u2019s of students over the years and everybody agrees it works.",
+        "created_utc": 1622567808,
+        "id": "h07q03t",
+        "permalink": "/r/stocks/comments/noblir/next_vix_spike_estimate/h07q03t/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1622596608.0
+    },
+    {
+        "author": "spyaintnobitch",
+        "body": "Got ma money back bitchez. Moon mission resumes",
+        "created_utc": 1622742803,
+        "id": "h0gsnjc",
+        "permalink": "/r/wallstreetbets/comments/nr9r9t/daily_discussion_thread_for_june_03_2021/h0gsnjc/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622771603.0
+    },
+    {
+        "author": "jblair814",
+        "body": "Hahaha fuckkkk. D\u00e9sol\u00e9 man. Je viens de commencer avec WSB pis apart que BB j'ai pas gagn\u00e9 beaucoup. On verra dans les semaines prochaines. Jsuis d\u00e9finitivement au bout de ma cord. \ud83d\ude2d\ud83d\ude2d Bonne chance mon homme. \u263a\ufe0f\ud83d\udc4d",
+        "created_utc": 1623265955,
+        "id": "h16tlaq",
+        "permalink": "/r/wallstreetbets/comments/nvsynu/daily_popular_tickers_thread_for_june_09_2021/h16tlaq/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623294755.0
+    },
+    {
+        "author": "DPurp4",
+        "body": "Was talking with one of my investing buddies about BABA and why I\u2019m so bullish on it. His response: \u201cyeah, it might be a good buy, so long as the CCP doesn\u2019t kill Jack Ma first\u201d\n\nFirstly, Jack Ma is very much alive - he just disappeared for 3-4 months. Secondly, whatever the Chinese government did to Jack Ma, I kind of wish the US government would do to Elon Musk, no cap",
+        "created_utc": 1623110989,
+        "id": "h0z25vs",
+        "permalink": "/r/wallstreetbets/comments/num03g/what_are_your_moves_tomorrow_june_08_2021/h0z25vs/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623139789.0
+    },
+    {
+        "author": "WeenisWrinkle",
+        "body": "The vast majority of my portfolio is invested in total market index funds. About 5% of my portfolio is allocated to individual stocks.\n\nOf my individual stocks, currently 6.5% is in PayPal, 6% is in Visa, and 4.5% in MasterCard. PayPal and MasterCard started with similar weighting, but PayPal has out-performed over time.",
+        "created_utc": 1623083471,
+        "id": "h0xbsau",
+        "permalink": "/r/investing/comments/nu7v9c/daily_general_discussion_and_spitballin_thread/h0xbsau/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1623112271.0
+    },
+    {
+        "author": "Deep-4-Hamsters",
+        "body": "I sold at 4.25. Volume isn\u2019t crazy today and the buying and selling is focused around the 20 day MA. I wanted out",
+        "created_utc": 1623249468,
+        "id": "h15oqpc",
+        "permalink": "/r/options/comments/nveejr/ride_puts/h15oqpc/",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1623278268.0
+    },
+    {
+        "author": "ZookeepergameOk8887",
+        "body": "Yes, AMC...a Ci'-ne'-ma' chain.",
+        "created_utc": 1622874103,
+        "id": "h0nqzea",
+        "permalink": "/r/wallstreetbets/comments/nsosum/ape_andy/h0nqzea/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622902903.0
+    },
+    {
+        "author": "FaustusC",
+        "body": "One of my favorite Halloweens was about 10 years ago. I bought an expensive Gorilla costume and Sat around town on benches (Salem, MA). Stuffed some straw in the gloves so it looked like I was a stuffed.\n\nPeople would sit next to me for photos and I'd snarl or turn suddenly. One girl pushed me off the  bench. Ironically she and I matched on Tinder like 3 years later and somehow she told me the story of pushing me over.  It didn't work out since it turned out she was a literal nazi but. Still one of those funny moments.",
+        "created_utc": 1622946030,
+        "id": "h0r4jw9",
+        "permalink": "/r/wallstreetbets/comments/nt7ite/back_in_2019_i_dressed_up_as_a_literal_gorilla/h0r4jw9/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622974830.0
+    },
+    {
+        "author": "Bcron",
+        "body": "If you want your 60 bucks back and want to spite the people on the other end of the transaction at the same time, hell yeah it's worth it.\n\nImagine needing a new printer, so you go to a store and buy a new printer, it's the only model they sell, and it turns out the printer is garbage.  Giving you store credit doesn't help you obtain a printer in any way, because their printer sucks, so what can you do?  Do a chargeback, get your cash you had before the transaction, so you can go to a different retailer and get a printer that works.\n\nReplace printer for any other object but if a store won't offer a return they deserve chargebacks and they deserve having Visa and Mastercard breathing down their necks",
+        "created_utc": 1622866748,
+        "id": "h0ngvn8",
+        "permalink": "/r/wallstreetbets/comments/nse1dg/weekend_discussion_thread_for_the_weekend_of_june/h0ngvn8/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622895548.0
+    },
+    {
+        "author": "Soldacki",
+        "body": "Dropped under the 200 MA, not looking great",
+        "created_utc": 1622811556,
+        "id": "h0k945u",
+        "permalink": "/r/wallstreetbets/comments/ns1gd8/daily_discussion_thread_for_june_04_2021/h0k945u/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622840356.0
+    },
+    {
+        "author": "Lavatwlight",
+        "body": "Ma man!",
+        "created_utc": 1623224812,
+        "id": "h14mi4b",
+        "permalink": "/r/wallstreetbets/comments/nvcwpz/what_are_your_moves_tomorrow_june_09_2021/h14mi4b/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623253612.0
+    },
+    {
+        "author": "NaNaNaNaNaNaNaNaNa65",
+        "body": "Oh ma gawd - you were the twat that spit on my pp at wendys",
+        "created_utc": 1623092763,
+        "id": "h0xxy3u",
+        "permalink": "/r/wallstreetbets/comments/nu8oaz/daily_discussion_thread_for_june_07_2021/h0xxy3u/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623121563.0
+    },
+    {
+        "author": "Grouchy_Yam_4857",
+        "body": "Hmm they\u2019re literally nothing like any other MA plan. Like I\u2019ve stated they\u2019re more tech revolving than just a healthcare company. P/s my brother is a surgeon, my good friend is a family physician, and I\u2019ve worked in healthcare industry and we are all invested in clover health so I respectfully disagree here.",
+        "created_utc": 1623052545,
+        "id": "h0vxu6b",
+        "permalink": "/r/wallstreetbets/comments/nty1bd/clov_big_daddy_of_all_squeezes_dd/h0vxu6b/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623081345.0
+    },
+    {
+        "author": "DommyTheTendy",
+        "body": "Eat ma ass bitch",
+        "created_utc": 1622735091,
+        "id": "h0g9z55",
+        "permalink": "/r/wallstreetbets/comments/nr9r9t/daily_discussion_thread_for_june_03_2021/h0g9z55/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622763891.0
+    },
+    {
+        "author": "kerfuddled",
+        "body": "how do you guys feel about ZOM? my ma wanted me to buy 100 shares so I did, but wondering about it's potential as an investment. they help animals and I'm sure animals will always need help but.... why do certain companies just tank sometimes?",
+        "created_utc": 1622850482,
+        "id": "h0mno5x",
+        "permalink": "/r/investing/comments/ns0khc/daily_general_discussion_and_spitballin_thread/h0mno5x/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1622879282.0
+    },
+    {
+        "author": "burnourpants",
+        "body": "There is not.  Majority of residents surveyed want it.  Dems control the legislature and governor.  Gov Lamont has been meeting with NY and NJ governors over the past year to work our a timeline so that the tri-state area are all in alignment.\n\nThe biggest hurdle at this point is between the Dems themselves.  Up to now they were bickering about equity and, in fact, that is what derailed it last year.  This year there is more momentum and a clear need given the state will be surrounded by rec legal counterparts (MA, NJ, and soon NY).",
+        "created_utc": 1623070017,
+        "id": "h0wir3a",
+        "permalink": "/r/weedstocks/comments/ntnt3h/connecticut_unveils_proposal_for_marijuana/h0wir3a/",
+        "score": 1,
+        "subreddit": "weedstocks",
+        "created": 1623098817.0
+    },
+    {
+        "author": "nava_7777",
+        "body": "Though about China indexes too. \n\nAfter all, even Warren Buffet said on the last shareholders conference that \"they expect the top 20 companies in the next 20 years still be dominated by US, but *definitely with more China*\". (Quoting from memory, do not expect to find it on Google).\n\nSo China has surely great potential, but I also see enough risks to scare me out. Government is a huge economic disruptor when it needs it: look at Jack Ma. The whole story is a mess.\n\nAnd last but the most important: I'd like to put my money where my heart is. I am not an american, but I consider every dollar bill a ballot paper, essentially. I don't want to put my money on a system that, honestly, I still don't like enough, politically speaking. I also considered EuroStoxx, as I am european, but that's another story.",
+        "created_utc": 1622995683,
+        "id": "h0t28km",
+        "permalink": "/r/investing/comments/nt3gjx/sp500_vs_russell1000_popularity_vs_stability/h0t28km/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1623024483.0
+    },
+    {
+        "author": "TJMBeav",
+        "body": "Sorry. I didnt have any..so I improvised. Hope my dick hanging out didnt freak your gram ma out too much. Has she recovered?",
+        "created_utc": 1622955147,
+        "id": "h0rig1p",
+        "permalink": "/r/wallstreetbets/comments/nse1dg/weekend_discussion_thread_for_the_weekend_of_june/h0rig1p/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622983947.0
+    },
+    {
+        "author": "HairZealous",
+        "body": "The technical analysis above indicates that CLNE is about to make a bullish outbreak. It's resting on its 200 ma line and testing that support.  will be interesting to see the breaking I've drawn with the upper support along with the 200/50 moving average about to converge,. i aint got no crystal ball. but i'd say big up or big down, but i think we're on the other side of down.",
+        "created_utc": 1622978671,
+        "id": "h0s93o4",
+        "permalink": "/r/wallstreetbets/comments/ntjidi/ok_fuck_another_clne_post/h0s93o4/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623007471.0
+    },
+    {
+        "author": "GetDemBagsYOLO",
+        "body": "Avarahe down looking like we could see a 50 MA bounce... could dip below that too",
+        "created_utc": 1622999342,
+        "id": "h0t9xdj",
+        "permalink": "/r/wallstreetbets/comments/ntbq2o/6000_shares_of_bb_17_per_currently_20000_in_the/h0t9xdj/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623028142.0
+    },
+    {
+        "author": "foodank012018",
+        "body": "When a bear does a short squeeze on ma wiener I do my best to hold, but then I think of 'mo ass and then my inflation bubble bursts",
+        "created_utc": 1623109805,
+        "id": "h0yzqky",
+        "permalink": "/r/wallstreetbets/comments/nujffg/not_every_stock_is_a_short_squeeze/h0yzqky/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623138605.0
+    },
+    {
+        "author": "flymetodamoon69",
+        "body": "Yeah I ma have to burry my face into them melons",
+        "created_utc": 1622776456,
+        "id": "h0iukcu",
+        "permalink": "/r/Wallstreetbetsnew/comments/nr9a6x/_/h0iukcu/",
+        "score": 1,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1622805256.0
+    },
+    {
+        "author": "mcchurch11",
+        "body": "They don\u2019t even need brokers to do it. Just use those automated technological computery thing-a-ma-jigs",
+        "created_utc": 1622857424,
+        "id": "h0n0gom",
+        "permalink": "/r/wallstreetbets/comments/nse1dg/weekend_discussion_thread_for_the_weekend_of_june/h0n0gom/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622886224.0
+    },
+    {
+        "author": "igotta_storytotell",
+        "body": "Lick ma cojones man",
+        "created_utc": 1622821623,
+        "id": "h0kvapb",
+        "permalink": "/r/wallstreetbets/comments/ns1gd8/daily_discussion_thread_for_june_04_2021/h0kvapb/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622850423.0
+    },
+    {
+        "author": "mywifesbox",
+        "body": "Hey look ma I made it!",
+        "created_utc": 1622657742,
+        "id": "h0ccbrh",
+        "permalink": "/r/Wallstreetbetsnew/comments/lq0l68/amc_gang_hold_v2/h0ccbrh/",
+        "score": 1,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1622686542.0
+    },
+    {
+        "author": "SMsVeryOwn",
+        "body": "I had a LEAP on BABA when Jack Ma spoke out and.. rode it to the ground lol",
+        "created_utc": 1622681571,
+        "id": "h0dtba6",
+        "permalink": "/r/options/comments/nqwa9y/baba_leaps/h0dtba6/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1622710371.0
+    },
+    {
+        "author": "vacityrocker",
+        "body": "Bought F way back at 5.81. At the time I read a few analsists articles downgrading them and some on Bloomberg saying stay away etc etc. I've always been a dweeb type doing what others tel me not not do so I bought 2k shares.... few months ago bought some 2023 leap calls \n\nLooking forward to some additional gains and the new electro 150 does look pretty darn good\n\nWhen analsists say sell you know it's really a buy \n\nSchool Daze!",
+        "created_utc": 1623523506,
+        "id": "h1jiwrn",
+        "permalink": "/r/wallstreetbets/comments/nybdqs/f_options_gain_porn_oh_yeah_thisll_pay_for_a_few/h1jiwrn/",
+        "score": 14,
+        "subreddit": "wallstreetbets",
+        "created": 1623552306.0
+    },
+    {
+        "author": "fifthjack_TTV",
+        "body": "Posted this yesterday and I got downvoted\u2026 guess I was kinda right. Tlry going to $24 today\n\nYo so this is my analysis of TLRY and why I think it\u2019s bullish: \n\n 1 year+ chart:\nJust apply the Fibonacci curve. We are way below 38% and got lots to run. We should easily be able to hit $25 and have a run for $30+ (IMO either end of this week or beginning of the next week unless fed tapering screws us or GME ER takes the whole sector down)\n\n1-3 month chart: looks extremely bullish. Key resistances at $20.50 -$21.00 and $30. Strong support at $14, $17 -$18. Overall, bulls are in charge. Growing 4% a day steadily past 2 weeks with maybe 1 Rex day. \n\n1 week chart: we\u2019ve been able to hold the $18 support and forming a new one around $19.90-20.10 range. We are slowly breaking down the $21 wall that was created back in Jan-Feb. in past 3 days we have hit $20.50-$21.00 range over 4 times and bounced back. But you can tel that it\u2019s looking bullish because while we are bouncing back at the same ceiling price, the support price is steadily increasing. This creates an ascending triangle and is a sign of a strong bull coming up",
+        "created_utc": 1623246726,
+        "id": "h15icbf",
+        "permalink": "/r/wallstreetbets/comments/nvs38y/daily_discussion_thread_for_june_09_2021/h15icbf/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1623275526.0
+    },
+    {
+        "author": "MoonPandaBlastOff",
+        "body": "How high do we think CLOV will go? I saw some people say to sell tomorrow even, can\u2019t tel if they were trolling or not",
+        "created_utc": 1623191480,
+        "id": "h131e9w",
+        "permalink": "/r/wallstreetbets/comments/nv1ig9/daily_popular_ticker_thread_for_june_08_2021_bb/h131e9w/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1623220280.0
+    },
+    {
+        "author": "Own_Contribution1108",
+        "body": "Tel your mother, tell your children, tell your doge.... we\u2019re buying clf baby",
+        "created_utc": 1623250205,
+        "id": "h15qh2d",
+        "permalink": "/r/wallstreetbets/comments/nvscvi/clf_crushing_shorts_with_steel_beams/h15qh2d/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1623279005.0
+    },
+    {
+        "author": "SemiConductHer",
+        "body": "I see people calling wish a garbage stock and saying nobody uses its services\u2026 but isn\u2019t that what makes it a good candidate for a squeeze? Institutional short positions on a seemingly dying company that has caused undervaluation and prime squeeze opportunity. Are you going to sit here and tel me that $WISH is a bad stock, but $AMC, $GME and fucking $BB are good stocks!? Absolutely not, they\u2019ve been pumped up due to nothing but internet hype. The same thing can and should happen with $WISH, it\u2019s in a very similar position.",
+        "created_utc": 1623789918,
+        "id": "h1w417o",
+        "permalink": "/r/wallstreetbets/comments/o0feus/wish_yolo_does_this_count/h1w417o/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1623818718.0
+    },
+    {
+        "author": "NohoTwoPointOh",
+        "body": "Re: Cylance, I (also?) worked in that industry for many years and know their folks and folks that compete against them.  Cylance is NOT the first company to do that.  Not by far.  \n\nPre-Dell SecureWorks, Damballa, and a little In-Q-Tel-funded shop in Northern Virginia were all applying machine-learning and AI to cybersecurity.  Roughly so by today's standards (especially in SecureWorks' case), but they were all doing it quite early. Damballa came out of Georgia Tech's ATDC incubator.  They had an interesting Chinese fellow that did machine-learning analysis of covert C&amp;C channels. \n\nI had a red Passport.  That thing had I-beams in the side of it.  Tough as nails and fast as hell.  Miss that phone terribly.  Had to ditch it when they started neutering mainstream apps (as I could run YouTube and multitask without the pro subscription).  My last phone was a KeyOne before I went Samsung.  Ick.",
+        "created_utc": 1622816793,
+        "id": "h0kk611",
+        "permalink": "/r/wallstreetbets/comments/nrorqx/why_do_i_see_10x_as_many_post_about_bb_than_i_do/h0kk611/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1622845593.0
+    },
+    {
+        "author": "WhenMoonsk",
+        "body": "What did I tel you about those trees man",
+        "created_utc": 1623006612,
+        "id": "h0tper3",
+        "permalink": "/r/wallstreetbets/comments/nse1dg/weekend_discussion_thread_for_the_weekend_of_june/h0tper3/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623035412.0
+    },
+    {
+        "author": "fifthjack_TTV",
+        "body": "I understand why you could be saying that. Clearly you are the superior ape who hasn\u2019t tried analyzing a graph ever. \n\n1 year+ chart:\nJust apply the Fibonacci curve. We are way below 38% and got lots to run. \n\n1-3 month chart: looks extremely bullish. Key resistances at $20.50 -$21.00 and $30. Strong support at $14, $17 -$18. \n\n1 week chart: we\u2019ve been able to hold the $18 support and forming a new one around $19.90-20.10 range. We are slowly breaking down the $21 wall that was created back in Jan-Feb. in past 3 days we have hit $20.50-$21.00 range over 4 times and bounced back. But you can tel that it\u2019s looking bullish because while we bounce back at the same ceiling price, the support price is steadily increasing. This creates an ascending triangle and is a sign of a strong bull coming up \ud83d\udca6\ud83d\udca6",
+        "created_utc": 1623221550,
+        "id": "h14ip35",
+        "permalink": "/r/wallstreetbets/comments/nvcwpz/what_are_your_moves_tomorrow_june_09_2021/h14ip35/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1623250350.0
+    },
+    {
+        "author": "supercomplainer",
+        "body": "I assumed he was talking about $tel telcoin.\n\nIt's set to pop this month with the V3 of the app releasing  .  The remittance corridors are open   Canada US Mexico ...  \n\nIt's a \"green\" Crypto",
+        "created_utc": 1622904147,
+        "id": "h0ov1mg",
+        "permalink": "/r/Wallstreetbetsnew/comments/nsbvxr/the_cumspiracy/h0ov1mg/",
+        "score": 1,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1622932947.0
+    },
+    {
+        "author": "znebsays",
+        "body": "Aren\u2019t these guys being investigated? Lately it\u2019s hard to tel in this sub Reddit who is genuine with their DD and recommendations. \n\nI\u2019ll do my own DD, but care to elaborate further as to why you feel this will be rising shortly ? Estimated time line ?",
+        "created_utc": 1622760330,
+        "id": "h0hxixm",
+        "permalink": "/r/wallstreetbets/comments/nrphkm/clov_insanity/h0hxixm/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622789130.0
+    },
+    {
+        "author": "Arboring",
+        "body": "$TEL in corn-land is a better bet (;",
+        "created_utc": 1623101452,
+        "id": "h0yi7aq",
+        "permalink": "/r/wallstreetbets/comments/num03g/what_are_your_moves_tomorrow_june_08_2021/h0yi7aq/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1623130252.0
+    },
+    {
+        "author": "tigolebities",
+        "body": "If it\u2019s good news don\u2019t tel anyone because it will just go down as BB always does.",
+        "created_utc": 1622658852,
+        "id": "h0cezpy",
+        "permalink": "/r/wallstreetbets/comments/nqi9f6/daily_discussion_thread_for_june_02_2021/h0cezpy/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622687652.0
+    },
+    {
+        "author": "Motahababy",
+        "body": "Im going to buy my first options. Can someoen tel me how i should trade it? 7 days ? Or 30 days? Etc",
+        "created_utc": 1622798241,
+        "id": "h0jpqj4",
+        "permalink": "/r/wallstreetbets/comments/nrmh2t/what_are_your_moves_tomorrow_june_04_2021/h0jpqj4/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1622827041.0
+    },
+    {
+        "author": "ricardosanch5",
+        "body": "Somebody needs to tel hector that pimping cars was only cool inthe year 2005",
+        "created_utc": 1623193139,
+        "id": "h134teq",
+        "permalink": "/r/wallstreetbets/comments/nvcwpz/what_are_your_moves_tomorrow_june_09_2021/h134teq/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1623221939.0
+    },
+    {
+        "author": "StrengthObjective659",
+        "body": "Amc is eine nxt Tel all in Weed then all in Blockchain then weit 2 Werks and WE so ist again \ud83d\ude80",
+        "created_utc": 1622732593,
+        "id": "h0g3x19",
+        "permalink": "/r/wallstreetbets/comments/nr9r9t/daily_discussion_thread_for_june_03_2021/h0g3x19/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1622761393.0
+    },
+    {
+        "author": "Caleb0000003",
+        "body": "So your advice is to tel people to trade with their emotions? That\u2019s not very good advice...\nI\u2019m not telling people to be ok with their losses because them and my self included should have bought in at the start of the second impulsive wave, I am just stating this price movement is normal.",
+        "created_utc": 1623280787,
+        "id": "h17scfx",
+        "permalink": "/r/wallstreetbets/comments/nw8ob9/do_what_you_want/h17scfx/",
+        "score": -1,
+        "subreddit": "wallstreetbets",
+        "created": 1623309587.0
+    },
+    {
+        "author": "fifthjack_TTV",
+        "body": "Yo so this is my analysis of TLRY and why I think it\u2019s bullish: \n\n 1 year+ chart:\nJust apply the Fibonacci curve. We are way below 38% and got lots to run. We should easily be able to hit $25 and have a run for $30+ (IMO either end of this week or beginning of the next week unless fed tapering screws us or GME ER takes the whole sector down)\n\n1-3 month chart: looks extremely bullish. Key resistances at $20.50 -$21.00 and $30. Strong support at $14, $17 -$18. Overall, bulls are in charge. Growing 4% a day steadily past 2 weeks with maybe 1 Rex day. \n\n1 week chart: we\u2019ve been able to hold the $18 support and forming a new one around $19.90-20.10 range. We are slowly breaking down the $21 wall that was created back in Jan-Feb. in past 3 days we have hit $20.50-$21.00 range over 4 times and bounced back. But you can tel that it\u2019s looking bullish because while we are bouncing back at the same ceiling price, the support price is steadily increasing. This creates an ascending triangle and is a sign of a strong bull coming up",
+        "created_utc": 1623221816,
+        "id": "h14j10f",
+        "permalink": "/r/wallstreetbets/comments/nvcwpz/what_are_your_moves_tomorrow_june_09_2021/h14j10f/",
+        "score": -4,
+        "subreddit": "wallstreetbets",
+        "created": 1623250616.0
     }
 ]

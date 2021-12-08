@@ -1,992 +1,512 @@
 [
     {
-        "author": "nuttygains",
-        "body": "The oracle just posted. He is up $40,000,000 on this play after his epic double down.. what a legend",
-        "created_utc": 1615241305,
-        "id": "gq9fnrn",
-        "score": 223,
+        "author": "beelo50",
+        "body": "My wife works for ORCL and her stock fully vests in 4 years. What do you guys think ORCL will be worth by then?",
+        "created_utc": 1614706857,
+        "id": "gpfqod6",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfqod6/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1615270105.0
+        "created": 1614735657.0
+    },
+    {
+        "author": "engr_rahman13",
+        "body": "Mogulproductions to launch on mainnet with Chainlink oracle integration, providing transparent profit sharing with future film financing investors. Mogul will integrate Chainlink, the market-leading blockchain oracle network, to bring more transparency and accessibility to film production and financing.",
+        "created_utc": 1614704622,
+        "id": "gpflkhk",
+        "permalink": "/r/CanadianInvestor/comments/lvs0t4/an_etf_is_being_launched_that_will_track/gpflkhk/",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1614733422.0
     },
     {
         "author": "OGColorado",
-        "body": "I knew an oracle would appear\ud83d\ude1c",
-        "created_utc": 1614736886,
-        "id": "gphjsbm",
-        "score": 71,
+        "body": "I am the oracle\ud83e\udd13 wtf",
+        "created_utc": 1614700952,
+        "id": "gpfd8b6",
+        "permalink": "/r/wallstreetbets/comments/lw15gf/a_few_lines_about_gme_please_read/gpfd8b6/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1614765686.0
+        "created": 1614729752.0
     },
     {
-        "author": "jsntx",
-        "body": "A few things to consider: the lockup expired on the 18th, but that meant that the shares could be made available for distribution at the investors' accounts. It would have taken 5-7 days (according to another DD) for the shares to be sellable. \n\nSoros promised to divest their 18.5M shares (as of Jan) on principle. Those should be hitting the market by now. \n\nThe tech selloff has also contributed to keeping PLTR depressed. Cathie, however, has been gobbling up the shares at every dip. \n\nFinally, unless you are an insider and know more than the rest of us, Palantir's software claims are pretty standard for enterprise software. Microsoft, Salesforce, SAP, Oracle, Siemens, etc., make those claims regularly. I don't think Palantir is special but they do have momentum and high profile clients. \n\nOverall I think PLTR is getting ready to take off, but they might find some resistance along the way. I'm in.",
-        "created_utc": 1614820606,
-        "id": "gploiwe",
-        "score": 45,
+        "author": "Kingace__",
+        "body": "All aboard the oracle train",
+        "created_utc": 1614707040,
+        "id": "gpfr3k9",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfr3k9/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1614849406.0
-    },
-    {
-        "author": "bjt777",
-        "body": "I have experience in setting up Snowflake in a Fortune 100 company. And I have also worked on Google Bigquery, AWS Redshift, and Azure DWH in the past. Here are my thoughts on its potentials.\n\n1. Snowflake is a way better product than Bigquery, Redshift, or Azure DWH. It automatically handles all legal database SQL syntax(Oracle, SQL Server, etc.). So data migration from the legacy database is less complex with a minimum learning curve. This is true not just for developers but for all the end-users like Analysts.   \n\n2. Multi-Cloud: It can be hosted in AWS, GCP, or  Azure. This might sound irrelevant. Here is why it's important. Let's say a company started using Bigquery because Google is the preferred partner. After a couple of years, things have changed, and the company decided to make Azure the company's preferred Cloud vendor. Now it's not that easy to migrate your Data warehouse from Bigquery to Azure DHW. With Snowflake, you are not tied up to a particular vendor. The point here is Snowflake gives flexibility, and enterprise companies love this flexibility. \n\n3. Snowflake integration is pretty neat. It integrates with GCS, AWS S3, etc., and with other APIs natively.  Sample use case. Running an ML model(API) on top of Snowflake data using SQL. You don't need to be an ML expert to run a model. Anyone with basic SQL can do this.  This is one example, Applications are endless.\n\n4. Data sharing and Data marketplace. They are building a data catalog complemented by the data sharing feature\u2014essentially data as a service. More data demand -&gt; More data listed in catalog -&gt;  Network effect growth through sharing-&gt; Customer exponential growth-&gt;More money. I believe this will be huge, which is the main reason I'm bullish on Snowflake. Because snowflake supports multi-cloud,  it's not easy for other companies like Google/AWS to replicate this.\n\n5. Snowflake Customer retention is really high, and I strongly believe this will continue to remain so. Most of Snowflake's customers are Enterprises.  In my experience, companies switch or change databases for 3 main reasons. 1. Scaling or maintenance issue 2. License or hardware end of life or no longer supports 3\u2014cost savings. Snowflake is highly scalable and utilizes cloud infrastructure with zero maintenance. So issues 1 and 2 do not exist. For the cost, it is charged per usage. It's way cheaper than any other legacy database like Oracle, HANA, etc. Basically, once an enterprise adopts Snowflake as their data warehouse, I don't see any reason for switching unless something terrible goes wrong.  Many companies still bear Oracle because of the complexity and cost of migration even though they really want to.\n\n6. They have some unique features. One that stands out for me is the feature called Time travel. ( Read about it https://docs.snowflake.com/en/user-guide/data-time-travel.html. This is mind-blowing. They also have the ability to create, schedule, run data pipelines without the need for any ELT/ETL tools. ( Including setting up dependencies). For enterprise companies, this may not be valid but definitely useful for startups.",
-        "created_utc": 1614822314,
-        "id": "gplrumx",
-        "score": 37,
-        "subreddit": "investing",
-        "created": 1614851114.0
-    },
-    {
-        "author": "autismogranturismo",
-        "body": "Just hold you damn dirty apes! The end game is near! DFV is a mythical oracle and holds the April calls. The man has had more discipline than a fucking Jedi knight through this whole thing! This is the way! \ud83d\udc8e\ud83d\ude4c\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80",
-        "created_utc": 1617128734,
-        "id": "gstthu9",
-        "score": 25,
-        "subreddit": "wallstreetbets",
-        "created": 1617157534.0
-    },
-    {
-        "author": "andrewsucks",
-        "body": "DFV telling yall to stop looking to him as an oracle, he just likes the stock.",
-        "created_utc": 1615906801,
-        "id": "gr4n8zv",
-        "score": 15,
-        "subreddit": "wallstreetbets",
-        "created": 1615935601.0
-    },
-    {
-        "author": "ShaidarHaran2",
-        "body": "The Oracle of Brockton",
-        "created_utc": 1615243387,
-        "id": "gq9k0lf",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1615272187.0
-    },
-    {
-        "author": "whatwhatj",
-        "body": "let me ask the fucking oracle",
-        "created_utc": 1614720412,
-        "id": "gpgme6q",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1614749212.0
-    },
-    {
-        "author": "imurvariance",
-        "body": "Do NOT paper hands your tiny profits... it\u2019s happening, just as the Oracle predicted...",
-        "created_utc": 1615220106,
-        "id": "gq829u8",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1615248906.0
-    },
-    {
-        "author": "StartFast1",
-        "body": "in the words of the Oracle from Omaha, trading is money changing hands from the impatient to the patient ones. To all my fella apps, come back to GME, be patient!!! Together we strong!",
-        "created_utc": 1614786098,
-        "id": "gpjkzxs",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1614814898.0
-    },
-    {
-        "author": "ceskanda",
-        "body": "This morning, I literally posted that us tech/chadsdaq bros we were all too excited pre market and that we would be crying after the bond auction. In typical retard fashion, I ignored my own comments/analysis and decided to buy SNOW 3/12 235C (down 35%) and Oracle FDs (will be 0 tmrw). Love you fuckers.",
-        "created_utc": 1615419075,
-        "id": "gqiataw",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1615447875.0
-    },
-    {
-        "author": "UsernameTaken_123",
-        "body": "Burry was right once and now thinks he's a fucking Oracle\n\nI bet he's a pain in the ass to be around",
-        "created_utc": 1615590505,
-        "id": "gqqshq6",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1615619305.0
-    },
-    {
-        "author": "Boss1010",
-        "body": "My move tomorrow is to short the boomer stock Oracle to send a message",
-        "created_utc": 1615431179,
-        "id": "gqixsz1",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1615459979.0
-    },
-    {
-        "author": "Boss1010",
-        "body": "If you tards want to make money tomorrow, buy puts on Oracle. Overvalued with trash guidance",
-        "created_utc": 1615431331,
-        "id": "gqiy31j",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1615460131.0
-    },
-    {
-        "author": "No-Heart4574",
-        "body": "Yo if thou Oracle Ryan C-dawg is saying he's about to shit all over the hedges this is going to be legendary",
-        "created_utc": 1615502333,
-        "id": "gqmkdzf",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1615531133.0
-    },
-    {
-        "author": "JayLearn",
-        "body": "Hey oracle, if you are so sure it\u2019s a wonderful opportunity to spend all savings to by puts and you will be a billionaire in a year or so. Either you have the balls to do that or STFU.",
-        "created_utc": 1617049932,
-        "id": "gsq6y69",
-        "score": 7,
-        "subreddit": "stocks",
-        "created": 1617078732.0
-    },
-    {
-        "author": "PorkchopSquats",
-        "body": "I just farted and it smelled like chicken nuggets.  Taking it as a sign that we about to start shitting tendies today friends, the oracle has spoken.",
-        "created_utc": 1614861803,
-        "id": "gpnasmq",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1614890603.0
-    },
-    {
-        "author": "FelixJuggl3r",
-        "body": "My god boomer tech stock ORCL is making me money. I will go through earnings with it and inevitably lose the gains like a good retard.",
-        "created_utc": 1615316654,
-        "id": "gqczvg2",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1615345454.0
-    },
-    {
-        "author": "TheIncredibleNurse",
-        "body": "Will we close at 5% gain like Oracle Market Watch predicted this morning.",
-        "created_utc": 1617132370,
-        "id": "gsu1l48",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1617161170.0
-    },
-    {
-        "author": "NrdRage",
-        "body": "I'm not allowed to trade $ORCL because of a conflict of interest involving my VC, but...y'all should definitely type ORCL into your trading platform of choice, do the appropriate DD, and make a decision about $ORCL",
-        "created_utc": 1615484459,
-        "id": "gqlfx1e",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1615513259.0
-    },
-    {
-        "author": "Strongest-There-Is",
-        "body": "Goddamnit! How the fuck do you guys keep doing this? GME, AMC, now RKT... is there an Oracle somewhere dropping prophecy to a select few Apes via Reddit DMs?",
-        "created_utc": 1614721358,
-        "id": "gpgok29",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1614750158.0
-    },
-    {
-        "author": "Vyruz2",
-        "body": "For anyone who cares, theirs a rumor ORCL is pulling a TSLA today and announcing they bought shit-corn. Larry Ellison is on ORCL and TSLAs C-Suite. Earnings is today AH",
-        "created_utc": 1615391309,
-        "id": "gqgfylx",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1615420109.0
-    },
-    {
-        "author": "littlegreenfern",
-        "body": "Can someone tell me how ORCL beats expectations and is doing a buyback and increasing dividends but the price tanks?!  Wtf?!",
-        "created_utc": 1615433098,
-        "id": "gqj196b",
-        "score": 5,
-        "subreddit": "stocks",
-        "created": 1615461898.0
-    },
-    {
-        "author": "Dmoan",
-        "body": "Boomers \u201clet\u2019s sell Apple and pile on Oracle since it\u2019s value stock\u201d after ER \u201c damn only 3% growth how come they are not growing at 20% like Apple\u201d",
-        "created_utc": 1615411629,
-        "id": "gqhuyj9",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1615440429.0
-    },
-    {
-        "author": "Heymaaaan",
-        "body": "It's like the Dali Lama, they select a new baby to become the oracle of Omaha",
-        "created_utc": 1615864725,
-        "id": "gr3372b",
-        "score": 4,
-        "subreddit": "stocks",
-        "created": 1615893525.0
+        "created": 1614735840.0
     },
     {
         "author": "Mr-turtlefucker",
         "body": "y u no predict 2k wise oracle ape",
         "created_utc": 1614710142,
         "id": "gpfy9n6",
+        "permalink": "/r/wallstreetbets/comments/lw4qgi/fuck_it_heres_your_daily_gme_threadmegathread_3221/gpfy9n6/",
         "score": 4,
         "subreddit": "wallstreetbets",
         "created": 1614738942.0
     },
     {
-        "author": "redditmodsRrussians",
-        "body": "I left the entire industry after a series of events at work that blackpilled me a few years ago.  Eventually, you realize that all the month/year end reporting is just bullshit and SAP/Oracle/any of the smaller potential acquisition targets can and will automate that shit away sooner than later.  From recon to write offs, if the company is big enough, most of that shit can be auto scripted to the point where only 1 or 2 people need to see the report and even then they have virtually no real interaction with it beyond asking HP's help desk in Manila what some of the numbers mean.",
-        "created_utc": 1615950977,
-        "id": "gr775mh",
-        "score": 4,
+        "author": "beelo50",
+        "body": "My wife works for ORCL and her stock fully vests in 4 years. What do you guys think ORCL will be worth by then?",
+        "created_utc": 1614706857,
+        "id": "gpfqod6",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfqod6/",
+        "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1615979777.0
-    },
-    {
-        "author": "timforbroke",
-        "body": "Holy shit 100% what I expected!  I\u2019m an oracle.",
-        "created_utc": 1616886828,
-        "id": "gsits2s",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1616915628.0
-    },
-    {
-        "author": "Illenaz",
-        "body": "Short Cathy, long the Oracle of Omaha",
-        "created_utc": 1614881760,
-        "id": "gpoh1wj",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1614910560.0
-    },
-    {
-        "author": "IT_KID_AT_WORK",
-        "body": "got halted 12 times on flash crash predicted by oracle MarketWatch man",
-        "created_utc": 1615586421,
-        "id": "gqqkoml",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1615615221.0
-    },
-    {
-        "author": "MiscellaneousClutter",
-        "body": "All hail the oracle DFV! Living the american wet dream!",
-        "created_utc": 1615393948,
-        "id": "gqgmnsh",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1615422748.0
-    },
-    {
-        "author": "Linuxifer",
-        "body": "The Oracle of Delphi just called. The prophecy is real bois!",
-        "created_utc": 1614888266,
-        "id": "gpowrbz",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1614917066.0
-    },
-    {
-        "author": "Boss1010",
-        "body": "Why did Oracle get beat down so bad",
-        "created_utc": 1615417454,
-        "id": "gqi7kcs",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1615446254.0
-    },
-    {
-        "author": "Utopia_Bot",
-        "body": "Doubled my money catching the falling ORCL knife by buying calls after it settled this morning. Might have sold them early as they already were at break even, but 100% gain in a day...im ok with that.",
-        "created_utc": 1615494650,
-        "id": "gqm3foq",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1615523450.0
-    },
-    {
-        "author": "blandcole_mazdaboi",
-        "body": "She is the oracle, she'll lead us all to greatness",
-        "created_utc": 1615595032,
-        "id": "gqr0mn7",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1615623832.0
-    },
-    {
-        "author": "duTemplar",
-        "body": "I asked the great oracle.\n\n[It said \u201cwithout a doubt\u201d](https://magic-8ball.com/)",
-        "created_utc": 1614847571,
-        "id": "gpmunl6",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1614876371.0
-    },
-    {
-        "author": "steeztalex",
-        "body": "thinking of picking up some orcl calls",
-        "created_utc": 1615484369,
-        "id": "gqlfphq",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1615513169.0
-    },
-    {
-        "author": "isospeedrix",
-        "body": "[https://i.redd.it/ajzqfiksfel61.png](https://i.redd.it/ajzqfiksfel61.png)\n\nmost zzz earnings week.\n\nnotable: AMC, ORCL JD DOCU GoodRX ULTA",
-        "created_utc": 1615325768,
-        "id": "gqdkd6t",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1615354568.0
-    },
-    {
-        "author": "Ouiju",
-        "body": "I like orcl for their tools anyway, long orcl",
-        "created_utc": 1615391399,
-        "id": "gqgg694",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615420199.0
-    },
-    {
-        "author": "ImprovisedTaxShelter",
-        "body": "&gt;You've basically said they have software that solves complicated problems.\n\nLOL for real. The post you're replying to is a generic description of every single enterprise software company's business. You could Find/Replace \"PLTR\" with SAP, IBM, Oracle, Salesforce, Azure, or AWS and it'd still be accurate (and not unique). As far as I can tell, Palantir's only differentiation is that it's tailored for Intelligence and Law Enforcement domains (and since I know pretty much nothing about those market segments I choose not to invest).",
-        "created_utc": 1615404788,
-        "id": "gqhf0hi",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1615433588.0
-    },
-    {
-        "author": "AirborneReptile",
-        "body": "lets go ORCL earnings!!!",
-        "created_utc": 1615409715,
-        "id": "gqhql5g",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615438515.0
-    },
-    {
-        "author": "gottheguapp321",
-        "body": "orcl calls the move?",
-        "created_utc": 1615476678,
-        "id": "gqky8us",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615505478.0
-    },
-    {
-        "author": "flyingmoose0913",
-        "body": "So my perspective is that those two are actually in very different places from a regulation perspective.  \n\nGoogle is likely to get continually more regulated as time goes on and data privacy becomes a bigger issue.  I would say it doesn't actually fall under most current anti-trust legislation which is related to price competition and its revenue area is actually advertising where there is lots of competition BUT I agree that practically it is enough of a monopoly that it will likely get dragged into it.  I sold my Google and FB a few months ago, both just to take profits and because I think there's a solid chance they spend the next 2-4 years in continuous litigation and hearings over how to manage data more responsibly and how they should be regulated.  Doubt anyone can agree to anything, but it will put a damper on their acquisition and expansion sprees.\n\nAmazon is a very different case as Amazon isn't really a monopoly in any way, they just compete in SO MANY categories that it feels that way.  But when you look at it...in e-commerce, its hard to call someone a monopoly when Walmart, Target, Costco Best Buy and every other big box compete with them; AWS is fighting tooth and nail with Microsoft Azure, Google could, IBM, Oracle etc.; \n\nWe can keep going down the list - Prime video competes with Netflix and Hulu; Amazon logistics competes with UPS and Fedex and Uber Cargo...so while their everpresence in our lives makes it feel like it MUST be a monopoly, its actually hard to identify anywhere specifically that Amazon isn't subject to pretty intense competition by big players, thus hard to make a case for anti-competitive behavior or anti-trust violations.",
-        "created_utc": 1615478145,
-        "id": "gql1hkp",
-        "score": 2,
-        "subreddit": "ValueInvesting",
-        "created": 1615506945.0
-    },
-    {
-        "author": "JPowsBestie",
-        "body": "I use oracle at work and can tell you it's absolutely dogshit...so buy as many OTM calls as possible",
-        "created_utc": 1615489690,
-        "id": "gqls6ow",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615518490.0
-    },
-    {
-        "author": "threecatsdancing",
-        "body": "Good time to get ORCL or more free fall coming?",
-        "created_utc": 1615473633,
-        "id": "gqkro5d",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615502433.0
-    },
-    {
-        "author": "steeztalex",
-        "body": "am i the only one buyingg orcl calls",
-        "created_utc": 1615494398,
-        "id": "gqm2v1e",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615523198.0
-    },
-    {
-        "author": "Imnotfckingselling",
-        "body": "Bought the dip on calls for ORCL today hope my courage pays off",
-        "created_utc": 1615500346,
-        "id": "gqmg7ya",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615529146.0
-    },
-    {
-        "author": "Citigroup_CEO",
-        "body": "Mogul\u00a0will integrate\u00a0Chainlink, the market-leading blockchain oracle network, to bring more transparency and accessibility to film production and financing.",
-        "created_utc": 1615911270,
-        "id": "gr4x5ny",
-        "score": 2,
-        "subreddit": "investing_discussion",
-        "created": 1615940070.0
-    },
-    {
-        "author": "chcknbscts",
-        "body": "Woke up to 330% on ORCL calls. Nothin better than tendies on your bday week. Especially while on vacay at the casino.",
-        "created_utc": 1617032388,
-        "id": "gsp4gio",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1617061188.0
-    },
-    {
-        "author": "Wrappa_",
-        "body": "So you say $ORCL will be next weeks fud dildo that \u2018all the retail investors that lost interest in GME are now buying up instead\u2019. \ud83d\ude02",
-        "created_utc": 1614812806,
-        "id": "gpla6h5",
-        "score": 2,
-        "subreddit": "Wallstreetbetsnew",
-        "created": 1614841606.0
-    },
-    {
-        "author": "steeztalex",
-        "body": "oracle calls anyone",
-        "created_utc": 1615489473,
-        "id": "gqlro9c",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615518273.0
-    },
-    {
-        "author": "StrictDefinition4",
-        "body": "My best stocks I\u2019ve bought with the largest % gains. MGM INO MRNA RCL DIS AMD RKT SBUX FB APPL AMZN ORCL ABNB TMUS COST V BAC SNOW.",
-        "created_utc": 1615512630,
-        "id": "gqn4cdj",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1615541430.0
-    },
-    {
-        "author": "EternityWeasel",
-        "body": "ORCL wants to turn green so much!",
-        "created_utc": 1615565274,
-        "id": "gqpan6b",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615594074.0
-    },
-    {
-        "author": "bdavid21wnec",
-        "body": "Only thing keeping me even right now after this bloodbath. $ORCL, $GE, $XLE",
-        "created_utc": 1614830410,
-        "id": "gpm7nxn",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1614859210.0
-    },
-    {
-        "author": "AmenophisCat",
-        "body": "This is a B2B service, not for small businesses.\n\nThe database is queried with SQL indeed, and that's a strength, and the output on screen like all databases will be boring rows of results. However that's not what matters for that part of the business: Everything's plumbed together with ETL stages, and queries that feed into other tools as needed. It's all about crunching TB or PB of data to make complicated correlations. The user interfaces are just there to prototype and run one-of queries, not run a business.\n\nFor data scientists the data would be fed into 3rd party, like python, R or GUI tools like Tableau to generate charts, via existing \"connectors\".\n\nThe things I consider is there's a vast amount of legacy data and processes in companies that are all databases and SQL scripts that need to be migrated. You can't move any of that without the compatibility.\n\nI think that's why there's no direct comparison to PLTR which offers tools to build from scratch your analytics. Furthermore I don't believe a small business would be the target customer for Palantir either. If anything Palantir will pull data from Snowflake as one of its many inputs.\n\nIf anything  small businesses would buy integrated solutions. These solutions can be implemented on top of Snowflake. In fact companies are created on top of Snowflake's infrastructure now. Would you expect a small business to run Oracle. no. A fortune 500 company? yes.",
-        "created_utc": 1614903395,
-        "id": "gppttfb",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1614932195.0
-    },
-    {
-        "author": "Alepman",
-        "body": "From now on I\u2019m buying what Burry\u2019s buying the man is an oracle",
-        "created_utc": 1614857559,
-        "id": "gpn55ag",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1614886359.0
-    },
-    {
-        "author": "Strangerdanger8812",
-        "body": "Quote me some Oracle of Omaha",
-        "created_utc": 1615233881,
-        "id": "gq8ytx0",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615262681.0
-    },
-    {
-        "author": "Canuck0987",
-        "body": "Those eyes look like those of a wise rpg oracle that can see the future. Ask her what the ceiling will be. $10,000 per 1 bark",
-        "created_utc": 1615347124,
-        "id": "gqepow9",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615375924.0
-    },
-    {
-        "author": "Goddess_Peorth",
-        "body": "Nobody hates Oracle more than their customers.\n\nThey still exist, they had a great year, but I won't be surprised when they end up back at 35 after the bubble bursts.\ud83d\udc7c",
-        "created_utc": 1615440526,
-        "id": "gqjddfi",
-        "score": 2,
-        "subreddit": "StockMarket",
-        "created": 1615469326.0
-    },
-    {
-        "author": "Boss1010",
-        "body": "Oracle puts tomorrow are literally free money",
-        "created_utc": 1615442049,
-        "id": "gqjg3ny",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615470849.0
-    },
-    {
-        "author": "BigBeezy905",
-        "body": "Anyone else buying the Oracle dip?",
-        "created_utc": 1615481738,
-        "id": "gql9ltv",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615510538.0
-    },
-    {
-        "author": "Utopia_Bot",
-        "body": "Tempted to try and catch the falling knife on ORCL. They crushed earnings and tanked anyway...",
-        "created_utc": 1615475105,
-        "id": "gqkusyu",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615503905.0
-    },
-    {
-        "author": "the_GuelahPapyrus",
-        "body": "$ORCL after-hours will leave you wishing you did",
-        "created_utc": 1615492623,
-        "id": "gqlyvk6",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615521423.0
-    },
-    {
-        "author": "steeztalex",
-        "body": "oracle 70 3/19",
-        "created_utc": 1615491638,
-        "id": "gqlwm8x",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615520438.0
-    },
-    {
-        "author": "luoyuke",
-        "body": "Oracle was right lol",
-        "created_utc": 1615399481,
-        "id": "gqh1smy",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615428281.0
-    },
-    {
-        "author": "Ice_Business",
-        "body": "If I had listened to boomers, I would have bought into ORCL and GM last week. Sold ORCL a while ago when the tiktok deal wasn't happening.",
-        "created_utc": 1615501975,
-        "id": "gqmjncp",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615530775.0
-    },
-    {
-        "author": "Soda444",
-        "body": "Please report back to us about what the Oracle of EYES picks",
-        "created_utc": 1615596110,
-        "id": "gqr2iub",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615624910.0
-    },
-    {
-        "author": "EternityWeasel",
-        "body": "is anyone holding ORCL calls over the weekend? It almost did it today, I wonder if the breakout starts early next week...",
-        "created_utc": 1615580081,
-        "id": "gqq7fk3",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615608881.0
-    },
-    {
-        "author": "WeaponizedAutism12",
-        "body": "Lmao i loaded up heavy on oracle, what a joke that was",
-        "created_utc": 1615316761,
-        "id": "gqd03qq",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615345561.0
-    },
-    {
-        "author": "Pirate_Redbeard",
-        "body": "More like Oracle Team USA vs Emirates Team New Zealand after a fucking 1-8 streak",
-        "created_utc": 1615917060,
-        "id": "gr5ad19",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1615945860.0
-    },
-    {
-        "author": "crazyk2007",
-        "body": "No cloud stocks?  Take your pick:\n\nAMZN, CRM, WDAY, MSFT, ORCL, or the smaller more aggressive niche ones.\n\nI\u2019d drop INTC, add TSM and/or NVDA",
-        "created_utc": 1615861841,
-        "id": "gr2xz63",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1615890641.0
+        "created": 1614735657.0
     },
     {
         "author": "engr_rahman13",
-        "body": "I am in the favor of Moghul. Mogulproductions to launch on mainnet with Chainlink oracle integration, providing transparent profit sharing with future film financing investors. Mogul will integrate Chainlink, the market-leading blockchain oracle network, to bring more transparency and accessibility to film production and financing.",
-        "created_utc": 1615297158,
-        "id": "gqbqkmd",
+        "body": "Mogulproductions to launch on mainnet with Chainlink oracle integration, providing transparent profit sharing with future film financing investors. Mogul will integrate Chainlink, the market-leading blockchain oracle network, to bring more transparency and accessibility to film production and financing.",
+        "created_utc": 1614704622,
+        "id": "gpflkhk",
+        "permalink": "/r/CanadianInvestor/comments/lvs0t4/an_etf_is_being_launched_that_will_track/gpflkhk/",
         "score": 1,
-        "subreddit": "investing_discussion",
-        "created": 1615325958.0
+        "subreddit": "CanadianInvestor",
+        "created": 1614733422.0
     },
     {
-        "author": "KyivComrade",
-        "body": "I didnt know we had a certified oracle here, what an honour! Oh enlightened one, since you claim to know what the stocks will do can you tell us when the market will go up? How deep will it go? How many millions did you make timing the market?\n\n\n\nOr are you just another perma-bear getting excited by a few red days and, as always, saying the sky is falling when it isn't.",
-        "created_utc": 1615296030,
-        "id": "gqbokz7",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1615324830.0
-    },
-    {
-        "author": "Serious-Mobile",
-        "body": "Yea, I got some extra stock today.\n\nOracle has quarterly report this week (will buy more), and SONOS. They have a potential product unveil and will report finances today at the \"investor event\", which is 4 PM today (post-market). I don't see any risk of the stock going south today or tomorrow, provided the market as a whole is stable.",
-        "created_utc": 1615302456,
-        "id": "gqc1ls1",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1615331256.0
-    },
-    {
-        "author": "Risingsunsphere",
-        "body": "I\u2019ve made an 11.26% return on ORCL this year. Any suggestions on how long I should hold this. It seems like it just goes up every day. I mostly hold ETFs but have a few individual stocks. This one has panned out really well but it makes up about 5% of my short term investing portfolio and I\u2019m starting to think about an exit strategy.",
-        "created_utc": 1615227374,
-        "id": "gq8jq0d",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1615256174.0
-    },
-    {
-        "author": "nmsjeat",
-        "body": "Exact dates might give slightly different values, but I get quite different results from Eikon for some of the companies. 860USD investment with reinvested dividends would be: (1998/06/09 - 2021/03/09, later IPO's from first month value) \n\nAAPL: $479,359\nAMZN: $308,377\nORCL: $16,792\nEBAY: $92,533\nMNST: $912,710\n\nF: $712\nENRON: $1\nANF: $1881\nTGLO: $5\nGE: $817",
-        "created_utc": 1615368782,
-        "id": "gqfh5di",
+        "author": "OGColorado",
+        "body": "I am the oracle\ud83e\udd13 wtf",
+        "created_utc": 1614700952,
+        "id": "gpfd8b6",
+        "permalink": "/r/wallstreetbets/comments/lw15gf/a_few_lines_about_gme_please_read/gpfd8b6/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1615397582.0
+        "created": 1614729752.0
     },
     {
-        "author": "plautusitmeltwater",
-        "body": "BTFD on ORCL!",
-        "created_utc": 1615433577,
-        "id": "gqj24e0",
+        "author": "sunlisun",
+        "body": "got there today, my oracle friend",
+        "created_utc": 1614710552,
+        "id": "gpfz8ec",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfz8ec/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1615462377.0
+        "created": 1614739352.0
     },
     {
-        "author": "UsefulReplacement",
-        "body": "I like the main product (Dropbox), but I never paid for it and don't know anyone that has. It's missing the easy integration of iCloud / OneDrive / Google Drive with a broader ecosystem of apps and tools.\n\nI think they missed the time to be competitive and are probably going to get acquired by one of the old school large corps like Oracle / IBM within a decade.",
-        "created_utc": 1615445584,
-        "id": "gqjlvon",
-        "score": 1,
-        "subreddit": "ValueInvesting",
-        "created": 1615474384.0
-    },
-    {
-        "author": "Zoiberginadress",
-        "body": "ORCL 4/16 67.5c, I like it. Dropped too much for my liking off of earnings.",
-        "created_utc": 1615478741,
-        "id": "gql2tj4",
+        "author": "Kingace__",
+        "body": "All aboard the oracle train",
+        "created_utc": 1614707040,
+        "id": "gpfr3k9",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfr3k9/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1615507541.0
+        "created": 1614735840.0
     },
     {
-        "author": "the_GuelahPapyrus",
-        "body": "ORCL",
-        "created_utc": 1615491818,
-        "id": "gqlx0t7",
-        "score": 1,
+        "author": "Kingace__",
+        "body": "ORACLE",
+        "created_utc": 1614710240,
+        "id": "gpfyhu6",
+        "permalink": "/r/wallstreetbets/comments/lvzh9h/daily_discussion_thread_for_march_02_2021/gpfyhu6/",
+        "score": 0,
         "subreddit": "wallstreetbets",
-        "created": 1615520618.0
+        "created": 1614739040.0
     },
     {
-        "author": "Mikos_Enduro",
-        "body": "Put on my fuckin' wizard hat and had an oracle on Roblox: will stay at $70-$75 then pop over $120 when school is out for summer...",
-        "created_utc": 1615467279,
-        "id": "gqkga14",
-        "score": 1,
+        "author": "Rumpooo",
+        "body": "I have $1600 buying power. Someone tel me what to do to turn it into $10k+ so I can put a down payment on a house",
+        "created_utc": 1619385954,
+        "id": "gvuzyai",
+        "permalink": "/r/wallstreetbets/comments/myg8yx/what_are_your_moves_tomorrow_april_26_2021/gvuzyai/",
+        "score": 13,
         "subreddit": "wallstreetbets",
-        "created": 1615496079.0
+        "created": 1619414754.0
     },
     {
-        "author": "Moral_Insanity",
-        "body": " \n\n## Research Calls II20 minutes ago\n\n* **Upgrades:**\n   * KE Holdings (BEKE) upgraded to Buy from Neutral at Goldman; tgt $69\n   * Shift4 Payments (FOUR) upgraded to Buy from Neutral at BofA Securities\n   * Lumos Pharma (LUMO) upgraded to Buy from Hold at Stifel; tgt raised to $24\n   * Tyler Tech (TYL) upgraded to Buy from Neutral at Northcoast; tgt $500\n* **Downgrades:**\n   * OGE Energy (OGE) downgraded to Neutral from Buy at BofA Securities; tgt $34\n   * Grupo Aeroportuario (OMAB) downgraded to Neutral from Buy at UBS\n   * Oracle (ORCL) downgraded to Hold from Buy at Societe Generale\n   * Sally Beauty (SBH) downgraded to Perform from Outperform at Oppenheimer\n   * Schneider National (SNDR) downgraded to Neutral from Buy at UBS; tgt raised to $27\n   * Talend (TLND) downgraded to Hold from Buy at Needham\n   * Unicredit S.p.A (UNCFF) downgraded to Hold from Buy at Deutsche Bank\n   * Werner Enterprises (WERN) downgraded to Neutral from Buy at UBS; tgt raised to $50\n   * Wartsila (WRTBY) downgraded to Underperform from Neutral at Credit Suisse\n   * WSFS Financial (WSFS) downgraded to Neutral from Buy at DA Davidson; tgt raised to $54\n* **Others:**\n   * Colonnade Acquisition (CLA) initiated with a Buy at Craig Hallum; tgt $25\n   * Intl Flavors (IFF) initiated with a Buy at Jefferies; tgt $155\n   * Rodgers Silicon Valley Acquisition Corp (RSVA) initiated with an Outperform at Northland Capital; tgt $25\n   * Shoals Technologies (SHLS) initiated with a Buy at ROTH Capital; tgt $38\n   * Tesla (TSLA) initiated with a Buy at Mizuho; tgt $775",
-        "created_utc": 1615470155,
-        "id": "gqkkyuw",
-        "score": 1,
+        "author": "Ryykur",
+        "body": "Ima be real I put everything on Viac after seeing one post and I can\u2019t tell if I\u2019m retarded or not. Guess time will tel",
+        "created_utc": 1619674322,
+        "id": "gw9jl1r",
+        "permalink": "/r/wallstreetbets/comments/n0ne5w/what_are_your_moves_tomorrow_april_29_2021/gw9jl1r/",
+        "score": 11,
         "subreddit": "wallstreetbets",
-        "created": 1615498955.0
+        "created": 1619703122.0
     },
     {
-        "author": "steeztalex",
-        "body": "orcl",
-        "created_utc": 1615493294,
-        "id": "gqm0ehz",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615522094.0
+        "author": "Positive_mind_set",
+        "body": "Ok I applaud you autists  but I don\u2019t even have a computer. Can you just tel me where to set my money on fire when you use these secret websites?",
+        "created_utc": 1619207655,
+        "id": "gvlric9",
+        "permalink": "/r/StockMarket/comments/mx21vu/move_over_bloomberg_terminal_here_comes_gamestonk/gvlric9/",
+        "score": 8,
+        "subreddit": "StockMarket",
+        "created": 1619236455.0
     },
     {
-        "author": "north_canadian_ice",
-        "body": "ORCL reminds me of IBM. Strong moat, low growth.",
-        "created_utc": 1615481996,
-        "id": "gqla776",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1615510796.0
-    },
-    {
-        "author": "El-cid-98",
-        "body": "ORCL is the only thing in my portfolio that is red right now.  So I bought more.  I've held it for years and this year's performance has been great.  Long term investment for sure.  Second largest software company on the planet with a PE of 21?  No brainer.",
-        "created_utc": 1615482047,
-        "id": "gqlabfu",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1615510847.0
-    },
-    {
-        "author": "Hour-Welder-2011",
-        "body": "Possibly INTC, SBUX, ORCL",
-        "created_utc": 1615684735,
-        "id": "gqut9g2",
-        "score": 1,
-        "subreddit": "options",
-        "created": 1615713535.0
-    },
-    {
-        "author": "Citigroup_CEO",
-        "body": "Mogulproductions to launch on mainnet with Chainlink oracle integration, providing transparent profit sharing with future film financing investors.",
-        "created_utc": 1615713148,
-        "id": "gqvv49s",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1615741948.0
-    },
-    {
-        "author": "Upper_Piano1809",
-        "body": "*cough* u/HeyItsPixeL did. But that\u2019s not to say he\u2019s an oracle. He was probably smoking crack. His next prediction is that due to the events next week: The concept of Ides of March, GameStop 2nd hearing (and all the media attention that it comes with), stimmy cheque, quadruple witching day, XRT and other ETFs rebalancing their ETF and making GameStop smaller in their holding due to the manipulation they saw (meaning Shitadel has been shorting through XRT and with them being closed on the 19th they will have to buy back), DTCC rule coming becoming activated around the 19th and quite a few other reasons. Next week has a higher than usual chance for the squeeze to happen. That doesn\u2019t mean that it\u2019s guaranteed though. But keeping a positive mindset that with each day passes, we are getting closer to the squeeze regardless of a date, that will do us good and keep our spirits strong. HODL \ud83d\ude80\ud83d\ude80\ud83d\ude80",
-        "created_utc": 1615642124,
-        "id": "gqsoys7",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615670924.0
-    },
-    {
-        "author": "tossserouttt3483726",
-        "body": "You gotta be a full blown retard to buy orcl right now\ud83d\ude02\ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
-        "created_utc": 1615761379,
-        "id": "gqycdig",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615790179.0
-    },
-    {
-        "author": "Citigroup_CEO",
-        "body": "Mogulproductions to launch on mainnet with Chainlink oracle integration, providing transparent profit sharing with future film financing investors.",
-        "created_utc": 1615798766,
-        "id": "gqztup2",
-        "score": 1,
-        "subreddit": "investing_discussion",
-        "created": 1615827566.0
-    },
-    {
-        "author": "Toooolie",
-        "body": "Really good DD! Imma SAP ERP consultant and Palantir is about take Oracle and SAP market share. 100 contracts 27c may 21...\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80",
-        "created_utc": 1615816771,
-        "id": "gr0gtaw",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615845571.0
-    },
-    {
-        "author": "Ready2gambleboomer",
-        "body": "GME share price &gt; BRK  share price.  \"But I'm the Oracle of Omaha!--- Warren Buffett\n\nGME shareholder: \"We're just retarded autist apes with a fondness for crayons.\"",
-        "created_utc": 1615807643,
-        "id": "gr02uco",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615836443.0
-    },
-    {
-        "author": "NeuroticENTJ",
-        "body": "what is he basing this on? Unless he has solid numbers and reasoning then I would not take it seriously...unless his wife is an oracle",
-        "created_utc": 1615908104,
-        "id": "gr4q3jb",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1615936904.0
-    },
-    {
-        "author": "lagavulin_16_neat",
-        "body": "You are an oracle of spy. I follow.",
-        "created_utc": 1615833257,
-        "id": "gr1gy1e",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615862057.0
-    },
-    {
-        "author": "steeztalex",
-        "body": "orcl 70 eow",
-        "created_utc": 1615824916,
-        "id": "gr0y48o",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615853716.0
-    },
-    {
-        "author": "the_GuelahPapyrus",
-        "body": "Long calls on ORCL. Can't go tits up, but may be considered a boomer move",
-        "created_utc": 1615528018,
-        "id": "gqnuufh",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615556818.0
-    },
-    {
-        "author": "plautusitmeltwater",
-        "body": "I\u2019m stacked to the tits with ORCL on this dip.",
-        "created_utc": 1615570990,
-        "id": "gqpnhzm",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615599790.0
-    },
-    {
-        "author": "cdch61112",
-        "body": "The Oracle himself...",
-        "created_utc": 1615611483,
-        "id": "gqrrw39",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615640283.0
-    },
-    {
-        "author": "tehcraz",
-        "body": "I'm new to trading and I have started to get into the short term swing trades and options part and utilizing TA has significantly helped me find entry and exit positions along with expectations of how things move after my research showed that there is a play to be made. \n\nI bought a quick daily call for ORCL on Wed after earnings because I was told they had a decent set of earnings but dropped way below the dividend price. Low and behold, half hour past the bell, there was no significant rebound and the RSI indicator showed that it was excessively oversold. So I bought a call and watched. It followed Fibonacci resistances and support with an upward support line and a much flatter resistance line. It was trading over VWAP, the net inflow into the NYSE was strong that day, ORCL constantly staying in the upper sections of the Fibonacci LINES, SAR showed bullish signs and nearly every time it broke resistance and ran up. \n\nAll of that TA gave me information and likely trends to inform if I should stay in or where to look to get out. But it took the fundamentals of knowing how to skim an earnings report, understanding pricing in dividends, and other understandings of fundamental research showed me that there is a play to be had. TA isn't an end all be all, not even close. But to say it's bullshit is as dumb as using it to try and find every pattern that shows up. Stocks run and there *are* patterns to when they will when no other external catalysts are on it. TA helps me see which direction is more likely and if I should wait or take action .",
-        "created_utc": 1615620548,
-        "id": "gqs2u4h",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1615649348.0
-    },
-    {
-        "author": "yolo_invest",
-        "body": "I dont know man, not an oracle. You should try to do your own dd.\n\nI have a small position on XLE mostly to diversify from the tech stuff.",
-        "created_utc": 1615637210,
-        "id": "gqsivyg",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1615666010.0
-    },
-    {
-        "author": "suhdanny",
-        "body": "QCOM. It currently trades at a historic low in terms of its P/S ratio and also is cheap compated to other chip companies in terms of P/E. The growth potential is huge regarding 5G, AR/VR, autonomous driving ... etc. It\u2019s been on a downhill since the earning\u2019s report, but I think this stock deserves at least a double of current price.",
-        "created_utc": 1614782760,
-        "id": "gpjdmyd",
-        "score": 12,
-        "subreddit": "stocks",
-        "created": 1614811560.0
-    },
-    {
-        "author": "Psychological_Dot541",
-        "body": "$GSAT = buyout target \n\n   QUALCOMM- and -ERICSSON \n\nAPR 2, 2019:\nFormer Qualcomm boss pivots toward 5G startup XCOM.\n\nSEP 17, 2020: \nEricsson, Qualcomm, and U.S. Cellular announce first ever successful extended range 5G NR millimeter Wave (mmWave) data call in the U.S. on a commercial network.\n\nOCT 9, 2020:\nEricsson selected for U.S .DOD 5G testing.\n\nNOV 11, 2020:\nEricsson stock growth is tied to 5G expansion.\n\nFEB 9, 2021: \nQualcomm includes Globalstar's Band n53 in its new 5G X65 modem. The X65 is Qualcomm's flagship 5G modem and adds global 5G band support for n53.\n\nFEB 17, 2021:\nGLOBALSTAR ANNOUNCES STRATEGIC ALLIANCE WITH XCOM LABS.",
-        "created_utc": 1614746978,
-        "id": "gpi2hsu",
+        "author": "PalekSow",
+        "body": "TFW you tel your friends your positions and they think it\u2019s an April Fool\u2019s joke.\n\n*No one has THAT many TSLA 1000Cs for real...*",
+        "created_utc": 1617311896,
+        "id": "gt2qhgp",
+        "permalink": "/r/wallstreetbets/comments/mi3t1v/weekend_discussion_thread_for_the_weekend_of/gt2qhgp/",
         "score": 5,
         "subreddit": "wallstreetbets",
-        "created": 1614775778.0
+        "created": 1617340696.0
     },
     {
-        "author": "maddogenglish",
-        "body": "Finally a warm day in Colorado so I'm going golfing tomorrow. I would appreciate it if PLTR, SNDL, QCOM, FCEL, QQQ and CAM bring in some ![img](emote|wsb_emojis|tendies) while I am away. Please make that happen.",
-        "created_utc": 1614737247,
-        "id": "gphkh88",
-        "score": 4,
+        "author": "ecrane2018",
+        "body": "This guy is a fraud it\u2019s a paper trading account on Webull you can tel by the contests option",
+        "created_utc": 1617855071,
+        "id": "gtrthsf",
+        "permalink": "/r/wallstreetbets/comments/mmjkp2/bought_my_seat_on_the_moon_rocket/gtrthsf/",
+        "score": 5,
         "subreddit": "wallstreetbets",
-        "created": 1614766047.0
+        "created": 1617883871.0
     },
     {
-        "author": "Psychological_Dot541",
-        "body": "5G is a fiercely competitive market. The United States will beat Huawei to establish the global standards and commercial market for security reasons - ergo the most prominent U.S. company is in Globalstar given that it already has trusted partners in both Qualcomm (and Ericsson by association) - both of which bring integrated services to 190+ countries.",
-        "created_utc": 1614748269,
-        "id": "gpi4hvy",
+        "author": "boatclubballer",
+        "body": "Smooth brain here. I think wrinkle brain is trying to tel us to double down.",
+        "created_utc": 1618882839,
+        "id": "gv5jsbj",
+        "permalink": "/r/RobinHoodPennyStocks/comments/muc5dh/after_3_months_im_prepared_to_admit_that_i_am_bad/gv5jsbj/",
+        "score": 4,
+        "subreddit": "RobinHoodPennyStocks",
+        "created": 1618911639.0
+    },
+    {
+        "author": "kent_eh",
+        "body": "&gt; Because aren't they also privately owned, just managed by a public regulatory board?\n\nSasktel and Manitoba Hydro are crown corporations. \nFully owned by the province, but operated at arms length.\n\nMTS, Telus and BC Tel (among others) used to be the same until a former government sold off that public asset.",
+        "created_utc": 1619305028,
+        "id": "gvrcv81",
+        "permalink": "/r/CanadianInvestor/comments/mxr5ir/rogers_outbid_bell_for_shaw_was_willing_to_go/gvrcv81/",
+        "score": 4,
+        "subreddit": "CanadianInvestor",
+        "created": 1619333828.0
+    },
+    {
+        "author": "richtofin115",
+        "body": "Tel me a joke",
+        "created_utc": 1618965098,
+        "id": "gv9q117",
+        "permalink": "/r/wallstreetbets/comments/muyz0m/what_are_your_moves_tomorrow_april_21_2021/gv9q117/",
         "score": 3,
         "subreddit": "wallstreetbets",
-        "created": 1614777069.0
+        "created": 1618993898.0
     },
     {
-        "author": "Flam3Shot_",
-        "body": "With all due respect, I do not agree with your statement about there being direct competitors for most companies between the NASDAQ and NYSE. Strong, long lasting companies like Apple, Microsoft, Nvidia, Qualcomm, etc. hardly have any competition whatsoever in reference to the companies listed in the NYSE (unless you count stagnant/dying firms like Oracle or Nokia, but that\u2019s really stretching it). Only thing I can really think of is Facebook v Twitter and some e-commerce stuff like Alibaba v Amazon. Either way, the examples are seldom. \n\nThat said, I appreciate your advice immensely. Thank you :)",
-        "created_utc": 1614747255,
-        "id": "gpi2xv4",
+        "author": "bonafidetree",
+        "body": "some dude in the apartment hallway yelling YAH WAH WUH\n\n\nquick someone tel me what ticker that is\n\nplay of a lifetime right here",
+        "created_utc": 1618429971,
+        "id": "guix058",
+        "permalink": "/r/wallstreetbets/comments/mqndra/daily_discussion_thread_for_april_14_2021/guix058/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1618458771.0
+    },
+    {
+        "author": "Trump_Ate_My_Ass",
+        "body": "Tell her you really appreciate the gesture, but that you aren\u2019t really feeling like going out to dinner and would rather just order pizzas and have a chill night in. Also tel her to wear your favorite lingerie",
+        "created_utc": 1618770589,
+        "id": "guzt51f",
+        "permalink": "/r/wallstreetbets/comments/msb6mb/weekend_discussion_thread_for_the_weekend_of/guzt51f/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1618799389.0
+    },
+    {
+        "author": "BigDaddySwooth",
+        "body": "Please tel us what\u2019s the other,",
+        "created_utc": 1618876854,
+        "id": "gv584e7",
+        "permalink": "/r/wallstreetbets/comments/mu949r/what_are_your_moves_tomorrow_april_20_2021/gv584e7/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1618905654.0
+    },
+    {
+        "author": "atticaburrito",
+        "body": " \n\n**SHAREHOLDER ALERT: Levi**  \n**3:40 PM ET 3/24/21 | Dow Jones**  \nNew York, New York--(Newsfile Corp. - March 24, 2021) - Levi &amp; Korsinsky announces it has commenced an investigation of Greenwich LifeSciences, Inc. (NASDAQ: GLSI) concerning possible breaches of fiduciary duty. To obtain additional information, go to:  \n\n\nhttps://www.zlk.com/compensation2/greenwich-lifesciences-inc-information-request-form  \n\n\nor contact Joseph E. Levi, Esq. either via email at jlevi@levikorsinsky.com or by telephone at (212) 363-7500. There is no cost or obligation to you.  \n\n\nLevi &amp; Korsinsky is a nationally recognized firm with offices in New York, Connecticut, California, and Washington D.C. The firm's attorneys have extensive expertise in prosecuting securities litigation involving financial fraud, representing investors throughout the nation in securities lawsuits and have recovered hundreds of millions of dollars for aggrieved shareholders. For more information, please feel free to contact any of the attorneys listed below. Attorney advertising. Prior results do not guarantee similar outcomes.  \n\n\nLevi &amp; Korsinsky, LLP  \n\n\nJoseph E. Levi, Esq.  \n\n\n55 Broadway, 10th Floor  \n\n\nNew York, NY 10006  \n\n\njlevi@levikorsinsky.com  \n\n\nTel: (212) 363-7500  \n\n\nFax: (212) 363-7171  \n\n\nwww.zlk.com  \n\n\nTo view the source version of this press release, please visit https://www.newsfilecorp.com/release/78487  \n\n\n\\&gt; Dow Jones Newswires  \n\n\nMarch 24, 2021 15:40 ET (19:40 GMT)  \nfrom E-Trade, just looked it up. not sure what it means because im so new to this.",
+        "created_utc": 1617659412,
+        "id": "gti266n",
+        "permalink": "/r/stocks/comments/mkmrn8/glsi_dd_for_greenwich_lifesciences_huge_catalyst/gti266n/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1617688212.0
+    },
+    {
+        "author": "DAseaword",
+        "body": "Oh dear, should we tel them?",
+        "created_utc": 1619706616,
+        "id": "gwat27e",
+        "permalink": "/r/RobinHoodPennyStocks/comments/n0s9ts/daily_discussion_thread/gwat27e/",
+        "score": 2,
+        "subreddit": "RobinHoodPennyStocks",
+        "created": 1619735416.0
+    },
+    {
+        "author": "Molaka_",
+        "body": "It traded 20 cents away from a dollar lmao and that was without any publicity. Don\u2019t be salty cause you decided to buy near a top and don\u2019t have patience to watch it climb back.\n\nThe company has been moving 100% in the right direction, they\u2019ve opened over a store a week and they beat on their last earnings. \n\nBUT I\u2019ll make sure to tel you I told you so in a year from now\n\nRemindme! 1 year",
+        "created_utc": 1617942412,
+        "id": "gtw9eum",
+        "permalink": "/r/pennystocks/comments/mn76fl/hitif_files_preliminary_base_shelf_prospectus/gtw9eum/",
         "score": 1,
-        "subreddit": "investing",
-        "created": 1614776055.0
+        "subreddit": "pennystocks",
+        "created": 1617971212.0
     },
     {
         "author": "Robot_of_Sherwood",
-        "body": "# Today is Wednesday, the  3rd of March\n\n\n\n## Upcoming events for Wednesday, March  3rd\n\n - Stock splits:\n\n    - CLWT @ **3:2** (Payable date: 03/02/2021)\n\n - Expected earnings:\n\n  ACU, AEGN, AEO, AMPE, APT, ASM, ATTO, BBSI, BDR, BF.A, BF.B, BKCC, BKTI, BLCT, BMA, BQ, BXC, CECE, CETX, CFMS, CIX, CLMT, CMTL, CNR, CORR, CTRM, CULP, CZZ, DAKT, DLTR, DPW, DSGX, DY, ENIC, EQX, EVGN, EYE, EYEG, FLMN, FTHM, GHLD, GIFI, GMRE, GPRK, GRP.U, HBB, HDSN, HGEN, HPR, HRTG, IMTX, ISEE, ITRN, JILL, KERN, KIDS, KRON, LINC, MDRR, MESO, MLR, MRVL, MTLS, MYRG, NAV, NC, NEWT, NFH, NM, NMCI, NWPX, OGEN, OKTA, OM, ONCR, OPTN, OSW, OXSQ, PASG, PCOM, PDCO, PNRG, PW, RAIL, RCMT, RDHL, RMNI, RNET, RPTX, RRGB, SBBP, SBOW, SD, SID, SINA, SLNO, SMHI, SNOW, SPKE, SPLK, SPRB, SQM, STKL, SUPV, TAC, TAST, TCOM, TPCO, TPVG, TSHA, UFPT, USDP, VNET, VRM, VRTV, WB, WEN, WHLR, WMC, WPG, WTI, YEXT\n\n - Ex-div:\n\n  ALL, AWI, EQH, ES, ESBK, FANG, FWRD, GLOG, LEA, LZB, MBCN, MOS, NLSN, PTEN, QCOM, RMBI, SSTK, VNOM\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 177K, previous: 174K)\n    - Beige Book\n    - Chicago Fed President Evans Speaks\n    - Crude Oil Imports (previous: 0.249M)\n    - Crude Oil Inventories (consensus: -0.928M, previous: 1.285M)\n    - Cushing Crude Oil Inventories (previous: 2.807M)\n    - Distillate Fuel Production (previous: -0.953M)\n    - EIA Refinery Crude Runs  (previous: -2.589M)\n    - EIA Weekly Distillates Stocks (consensus: -3.035M, previous: -4.969M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 4.6%, previous: -14.5%)\n    - FOMC Member Bostic Speaks\n    - FOMC Member Kaplan Speaks\n    - Gasoline Inventories (consensus: -2.300M, previous: 0.012M)\n    - Gasoline Production (previous: -1.295M)\n    - Heating Oil Stockpiles (previous: 0.093M)\n    - ISM Non-Manufacturing Business Activity (consensus: 60.0, previous: 59.9)\n    - ISM Non-Manufacturing Employment (previous: 55.2)\n    - ISM Non-Manufacturing New Orders (previous: 61.8)\n    - ISM Non-Manufacturing PMI (consensus: 58.7, previous: 58.7)\n    - ISM Non-Manufacturing Prices (previous: 64.2)\n    - MBA 30-Year Mortgage Rate (previous: 3.08%)\n    - MBA Mortgage Applications (previous: -11.4%)\n    - MBA Purchase Index (previous: 264.9)\n    - Markit Composite PMI (consensus: 58.8, previous: 58.7)\n    - Mortgage Market Index (previous: 790.6)\n    - Mortgage Refinance Index (previous: 3,848.1)\n    - OPEC Meeting\n    - Services PMI (consensus: 58.9, previous: 58.3)\n\n## Upcoming events for Thursday, March  4th\n\n - Stock splits:\n\n    - MYBF @ **105:100** (Payable date: 03/15/2021)\n    - TR @ **103:100** (Payable date: 04/02/2021)\n    - TROLB @ **103:100** (Payable date: 03/26/2021)\n\n - Expected earnings:\n\n  ABUS, ACOR, ADCT, AE, AFIB, AGS, AHCO, AIV, AJX, AKUS, ALXO, AMC, AMTI, ANIK, AQN, ARGX, ASPS, AT, ATC, ATEC, ATHA, AUTL, AVGO, AVGR, BALY, BCOW, BJ, BPMP, BSGM, BURL, BYFC, BZUN, CBIO, CBMB, CCCC, CDAK, CELP, CERT, CHMA, CHMI, CHUY, CIB, CIEN, CIR, CLLS, CLPT, CLXT, CNQ, COHN, COO, COST, CRAI, CRD.A, CRD.B, CRVS, CTSO, CVV, CZNC, DBVT, DMTK, DNN, DRRX, DSSI, DXYN, DYN, EGLE, ELOX, ENZ, ESGC, ETON, EVC, EVFM, EVLO, EYPT, FBRX, FCRD, FIZZ, FLGT, FMTX, FOUR, FPRX, FRGI, FTSI, FULC, GAU, GBLI, GCP, GDYN, GMS, GOL, GPL, GPMT, GPS, GRAY, GSAT, GSL, GWRE, GWRS, HCM, HEAR, HOLI, HRMY, IDT, IMAX, IMMR, INMB, INVE, INZY, ISDR, ISIG, ITOS, JAMF, JG, JW.A, JW.B, JYNT, KBNT, KDMN, KR, KYMR, LRMR, LTRN, MANU, MAXN, MAYS, MCS, MDLA, MEG, MEI, MIK, MLVF, MMX, MOSY, MTCR, MWK, MYSZ, NCMI, NEW, NKSH, NKTX, NNA, NRP, NTCO, NTST, NVIV, NX, OBLN, OBSV, ODC, OPEN, OPNT, ORIC, ORTX, PACK, PBLA, PCVX, PHI, PLYA, PQG, PRPL, PSTX, PVAC, QTT, QUMU, RFL, RLH, RVMD, SALM, SCM, SCOR, SCPE, SDC, SDGR, SENS, SFE, SHG, SHIP, SIGA, SMLP, SMSI, SOHO, SOLY, SPPI, SQFT, SRG, SRLP, STLA, STON, SWBI, SYN, SYRS, TARA, THRY, TLS, TMBR, TOMZ, TRIN, TTC, TTOO, TWI, VBIV, VERI, VLGEA, VNRX, VRAY, VSEC, VTRS, VYNE, WPP, WRAP, WVE, XFOR, YPF\n\n - Ex-div:\n\n  AFB, AGR, AJG, AMNB, BAC, BBL, BLK, BOTJ, BRKR, BRKS, CASS, CHRW, D, DAN, DEA, DRD, EPC, FLIR, FLO, FNB, FRME, GBDC, GPC, HSII, ICBK, KMB, KNX, LIN, MBWM, NAVI, NCB, NUW, NVS, OC, PCH, PEP, PTVCA, PTVCB, RF, RIO, SAFT, SCL, SEE, SLM, TEX, TFX, TGNA, TR, TRST, TT, UFCS, WEN, WING, WY\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.035%)\n    - 8-Week Bill Auction (previous: 0.040%)\n    - Challenger Job Cuts (previous: 79.552K)\n    - Continuing Jobless Claims (consensus: 4,300K, previous: 4,419K)\n    - Durables Excluding Defense (previous: 2.3%)\n    - Factory Orders (consensus: 2.1%, previous: 1.1%)\n    - Factory orders ex transportation (previous: 1.4%)\n    - Initial Jobless Claims (consensus: 750K, previous: 730K)\n    - Jobless Claims 4-Week Avg. (previous: 807.75K)\n    - Natural Gas Storage (consensus: -333B, previous: -338B)\n    - Nonfarm Productivity (consensus: -4.7%, previous: -4.8%)\n    - OPEC Meeting\n    - Unit Labor Costs (consensus: 6.6%, previous: 6.8%)\n\n## Upcoming events for Friday, March  5th\n\n - Stock splits:\n\n    - APH @ **2:1** (Payable date: 03/04/2021)\n\n - Expected earnings:\n\n  AAMC, AIM, ALUS, ANAT, ARDX, ATLC, ATLO, AYRO, BH.A, BHAT, BIG, BORR, BPTH, BRID, CCNC, CEI, CHEK, CLPS, CMPI, COE, COMS, CRH, DS, DXPE, EML, EXN, FENC, FGBI, FHTX, FSEA, FSTX, GGAL, GLP, GSX, HIBB, HMG, HURC, HUSA, IMRA, INBX, INTT, IPDN, ITCB, KB, KMPH, KVHI, MIST, NBAC, NWLI, OFS, OLB, ONCY, PCSA, PDLB, PLPC, PMVP, PNBK, PPSI, PRPO, PSO, PTMN, RUTH, SAMG, SPLP, STRR, STTK, SUP, TGS, UBOH, VET, VSTA\n\n - Ex-div:\n\n  ANAT, BF.A, BF.B, CCBG, CDK, CNS, EVRG, EXC, FAF, FDX, GE, HBB, HL, HTGC, HWC, JBT, JKHY, JOE, KSU, LUMN, LYB, NC, OAS, OMP, PATK, PBIP, RTLR, STRA, SVBI, SYX, TPL, TROX, UGP, VALE\n\n - Economic events and announcements:\n\n    - Average Hourly Earnings (YoY) (consensus: 5.3%, previous: 5.4%)\n    - Average Hourly Earnings (consensus: 0.2%, previous: 0.2%)\n    - Average Weekly Hours (consensus: 34.9, previous: 35.0)\n    - CFTC Aluminium speculative net positions (previous: 4.7K)\n    - CFTC Copper speculative net positions (previous: 75.4K)\n    - CFTC Corn speculative net positions (previous: 529.8K)\n    - CFTC Crude Oil speculative net positions (previous: 511.8K)\n    - CFTC Gold speculative net positions (previous: 215.7K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -5.4K)\n    - CFTC Natural Gas speculative net positions (previous: 28.1K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -31.3K)\n    - CFTC Silver speculative net positions (previous: 47.6K)\n    - CFTC Soybeans speculative net positions (previous: 239.8K)\n    - CFTC Wheat speculative net positions (previous: 27.4K)\n    - Consumer Credit (consensus: 12.00B, previous: 9.73B)\n    - Exports (previous: 184.20B)\n    - Government Payrolls (previous: 43.0K)\n    - Imports (previous: 252.30B)\n    - Manufacturing Payrolls (consensus: 12K, previous: -10K)\n    - Nonfarm Payrolls (consensus: 180K, previous: 49K)\n    - Participation Rate (previous: 61.4%)\n    - Private Nonfarm Payrolls (consensus: 194K, previous: 6K)\n    - Trade Balance (consensus: -67.50B, previous: -66.60B)\n    - U.S. Baker Hughes Oil Rig Count (previous: 305)\n    - U.S. Baker Hughes Total Rig Count (previous: 397)\n    - U6 Unemployment Rate (previous: 11.1%)\n    - US Federal Budget (previous: -430.0B)\n    - Unemployment Rate (consensus: 6.3%, previous: 6.3%)\n\n^^^^2021-03-03",
-        "created_utc": 1614769221,
-        "id": "gpisq8x",
+        "body": "# Today is Wednesday, the 21st of April\n\n\n\n## Upcoming events for Wednesday, April 21st\n\n - Expected earnings:\n\n  ANTM, ASML, BANR, BDN, BEDU, BKR, BOKF, BXS, CACI, CATC, CCI, CHDN, CLB, CMG, CNS, CP, CPSS, CSV, CVBF, CVCY, DFS, EFX, EGBN, ERIC, FCFS, FHN, FR, GGG, GL, GSBC, HAL, HBMD, HCSG, INBK, KMI, KNX, LAD, LOB, LRCX, LSTR, LVS, MMLP, NBN, NDAQ, NEE, NEP, NEU, NTGR, NWE, OFG, PLBC, PLXS, RCI, REXR, RHI, RLI, RUSHA, RUSHB, SAVE, SBNY, SEIC, SLG, SLM, SNBR, STC, STRM, STXB, TBK, TCBI, TEL, TRST, TSC, UBFO, UFPI, UMPQ, UNB, USAP, VMI, VZ, WASH, WHR, XM\n\n - Ex-div:\n\n  AGX, APA, BGH, CFBK, DX, FUL, LTC\n\n - Economic events and announcements:\n\n    - 20-Year Bond Auction (previous: 1.920%)\n    - Crude Oil Imports (previous: 0.443M)\n    - Crude Oil Inventories (consensus: -2.975M, previous: -5.889M)\n    - Cushing Crude Oil Inventories (previous: 0.346M)\n    - Distillate Fuel Production (previous: 0.004M)\n    - EIA Refinery Crude Runs  (previous: 0.007M)\n    - EIA Weekly Distillates Stocks (consensus: -0.956M, previous: -2.083M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.7%, previous: 1.0%)\n    - Gasoline Inventories (consensus: 0.464M, previous: 0.309M)\n    - Gasoline Production (previous: 0.336M)\n    - Heating Oil Stockpiles (previous: -0.028M)\n    - MBA 30-Year Mortgage Rate (previous: 3.27%)\n    - MBA Mortgage Applications (previous: -3.7%)\n    - MBA Purchase Index (previous: 279.5)\n    - Mortgage Market Index (previous: 667.7)\n    - Mortgage Refinance Index (previous: 2,916.7)\n\n## Upcoming events for Thursday, April 22nd\n\n - Expected earnings:\n\n  AAL, ABCB, ACBI, AEP, AFI, ALK, ALLE, AMAL, AMNB, ARCH, ARD, ARI, ASB, ASR, AUB, BANC, BIIB, BJRI, BKU, BMTC, BOOM, BPRN, BX, CADE, CAJ, CAMP, CASS, CCBG, CE, CFB, CFFI, CLF, CLFD, CS, CSL, CSTR, CVLY, DGX, DHI, DHR, DOW, EIG, EWBC, FAF, FBIZ, FBRX, FCX, FE, FFBC, FFIN, FRBK, FRME, FVCB, GBCI, GFED, GPC, GRC, GTLS, HBAN, HCA, HFWA, HRI, HTBK, HTH, HZO, ICBK, IIIN, INDB, INDT, INTC, IQV, ISTR, KB, KN, LMST, LUV, LYTS, MAT, MBIN, MCBC, MKTX, MNOV, MOFG, MSBI, MYFW, NBHC, NUE, NURO, NVR, NWFL, ODFL, OFLX, OPBK, ORI, OZK, PBCT, PDS, PINE, PNR, POOL, PSTV, PWOD, RBCAA, RBNC, RS, SAFE, SAM, SAP, SASR, SBCF, SCKT, SITC, SIVB, SKX, SNA, SNAP, SON, SRCE, STBA, STRT, STX, T, TAL, TPH, TRN, TSCO, TZOO, UNP, USX, UTMD, VICR, VLO, VLRS, VRSN, WNS, WSFS, WSO, WSO.B, WWE\n\n - Ex-div:\n\n  ACP, AGD, AOD, ASGI, AWP, BGB, BGX, BSAC, BSL, BUSE, BWG, COKE, CVS, DEX, DFP, DMO, EFF, EFR, EFT, EHI, EMD, EOI, EOS, EOT, ETB, ETG, ETJ, ETO, ETV, ETW, ETX, ETY, EVG, EVT, EXD, EXG, FFC, FLC, FMN, GAIN, GDO, GLAD, GOOD, HFRO, HGLB, HIE, HIO, HIX, HYI, IGI, KALU, LAND, LKFN, MGU, MMU, NHF, NVT, PFD, PG, PNR, PPT, SBI, SCD, SM, TPZ, USA, WEA, WIA, WIW, WSM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.010%)\n    - 5-Year TIPS Auction (previous: -1.320%)\n    - 8-Week Bill Auction (previous: 0.015%)\n    - Chicago Fed National Activity (previous: -1.09)\n    - Continuing Jobless Claims (consensus: 3,667K, previous: 3,731K)\n    - Existing Home Sales (consensus: 0.8%, previous: -6.6%)\n    - Existing Home Sales (consensus: 6.19M, previous: 6.22M)\n    - Initial Jobless Claims (consensus: 617K, previous: 576K)\n    - Jobless Claims 4-Week Avg. (previous: 683.00K)\n    - KC Fed Composite Index (previous: 26)\n    - KC Fed Manufacturing Index (previous: 23)\n    - Natural Gas Storage (previous: 61B)\n    - US Leading Index (consensus: 1.0%, previous: 0.2%)\n\n## Upcoming events for Friday, April 23rd\n\n - Stock splits:\n\n    - VXX @ **1:4**\n\n - Expected earnings:\n\n  ALV, AROW, AXP, AZZ, BCML, BOTJ, BRID, CBAN, CIVB, CIZN, CWBC, E, ESQ, ESXB, FHB, FMAO, FSBW, GCBC, GNTX, HON, KMB, LFC, LSBK, MCBS, MOG.A, MOG.B, PBIP, PFIS, RF, SBSI, SLB, SXT\n\n - Ex-div:\n\n  ACI, CAT, CE, DHC, FAST, ILPT, OKE, OPI, RMR, RMRM, SLP, SVC, TRMT, USAC, VALU\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 3.4K)\n    - CFTC Copper speculative net positions (previous: 36.0K)\n    - CFTC Corn speculative net positions (previous: 543.3K)\n    - CFTC Crude Oil speculative net positions (previous: 492.7K)\n    - CFTC Gold speculative net positions (previous: 180.9K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -6.1K)\n    - CFTC Natural Gas speculative net positions (previous: -51.3K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -40.1K)\n    - CFTC Silver speculative net positions (previous: 36.4K)\n    - CFTC Soybeans speculative net positions (previous: 224.0K)\n    - CFTC Wheat speculative net positions (previous: 5.5K)\n    - Manufacturing PMI (consensus: 60.5, previous: 59.1)\n    - Markit Composite PMI (previous: 59.7)\n    - New Home Sales (consensus: 12.8%, previous: -18.2%)\n    - New Home Sales (consensus: 886K, previous: 775K)\n    - Services PMI (consensus: 61.9, previous: 60.4)\n    - U.S. Baker Hughes Oil Rig Count (previous: 337)\n    - U.S. Baker Hughes Total Rig Count (previous: 432)\n\n^^^^2021-04-21",
+        "created_utc": 1618999220,
+        "id": "gvb2g0z",
+        "permalink": "/r/RobinHood/comments/mvccju/daily_discussion_thread_april_21st_2021/gvb2g0z/",
         "score": 1,
         "subreddit": "RobinHood",
-        "created": 1614798021.0
+        "created": 1619028020.0
     },
     {
-        "author": "Psychological_Dot541",
-        "body": "$GSAT = buyout target \n\n   QUALCOMM- and -ERICSSON \n\nAPR 2, 2019:\nFormer Qualcomm boss pivots toward 5G startup XCOM.\n\nSEP 17, 2020: \nEricsson, Qualcomm, and U.S. Cellular announce first ever successful extended range 5G NR millimeter Wave (mmWave) data call in the U.S. on a commercial network.\n\nOCT 9, 2020:\nEricsson selected for U.S .DOD 5G testing.\n\nNOV 11, 2020:\nEricsson stock growth is tied to 5G expansion.\n\nFEB 9, 2021: \nQualcomm includes Globalstar's Band n53 in its new 5G X65 modem. The X65 is Qualcomm's flagship 5G modem and adds global 5G band support for n53.\n\nFEB 17, 2021:\nGLOBALSTAR ANNOUNCES STRATEGIC ALLIANCE WITH XCOM LABS.",
-        "created_utc": 1614746978,
-        "id": "gpi2hsu",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1614775778.0
-    },
-    {
-        "author": "maddogenglish",
-        "body": "Finally a warm day in Colorado so I'm going golfing tomorrow. I would appreciate it if PLTR, SNDL, QCOM, FCEL, QQQ and CAM bring in some ![img](emote|wsb_emojis|tendies) while I am away. Please make that happen.",
-        "created_utc": 1614737247,
-        "id": "gphkh88",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1614766047.0
-    },
-    {
-        "author": "Psychological_Dot541",
-        "body": "5G is a fiercely competitive market. The United States will beat Huawei to establish the global standards and commercial market for security reasons - ergo the most prominent U.S. company is in Globalstar given that it already has trusted partners in both Qualcomm (and Ericsson by association) - both of which bring integrated services to 190+ countries.",
-        "created_utc": 1614748269,
-        "id": "gpi4hvy",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1614777069.0
-    },
-    {
-        "author": "Flam3Shot_",
-        "body": "With all due respect, I do not agree with your statement about there being direct competitors for most companies between the NASDAQ and NYSE. Strong, long lasting companies like Apple, Microsoft, Nvidia, Qualcomm, etc. hardly have any competition whatsoever in reference to the companies listed in the NYSE (unless you count stagnant/dying firms like Oracle or Nokia, but that\u2019s really stretching it). Only thing I can really think of is Facebook v Twitter and some e-commerce stuff like Alibaba v Amazon. Either way, the examples are seldom. \n\nThat said, I appreciate your advice immensely. Thank you :)",
-        "created_utc": 1614747255,
-        "id": "gpi2xv4",
+        "author": "death_by_paper_cut",
+        "body": "I don\u2019t tel people about the quarter I found behind the Wendy\u2019s",
+        "created_utc": 1619532976,
+        "id": "gw1wgrl",
+        "permalink": "/r/wallstreetbets/comments/mzl0cz/daily_discussion_thread_for_april_27_2021/gw1wgrl/",
         "score": 1,
-        "subreddit": "investing",
-        "created": 1614776055.0
+        "subreddit": "wallstreetbets",
+        "created": 1619561776.0
+    },
+    {
+        "author": "SpinDocktor",
+        "body": "I'm very bullish on CHPT. They're either the largest or one of the largest providers of charging stations. It's heavily shorted last I checked. (Not the 'next GME' as other articles might say). But I've seen projections for it to go up to $40 to $50. And looking at the trade volume seems to me like it's really trying hard to break the barrier around $32. \n\nTEL and APH might be a good play too.",
+        "created_utc": 1617925807,
+        "id": "gtvfae1",
+        "permalink": "/r/RobinHood/comments/mn36m9/do_you_think_the_infrastructure_bill_will_be_big/gtvfae1/",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1617954607.0
+    },
+    {
+        "author": "fauxmaulder",
+        "body": "lol tel that to the still growing industry in legal areas of the world.",
+        "created_utc": 1617338278,
+        "id": "gt40i6j",
+        "permalink": "/r/weedstocks/comments/mi8hco/marijuana_legalization_framed_as_inevitability_at/gt40i6j/",
+        "score": 1,
+        "subreddit": "weedstocks",
+        "created": 1617367078.0
+    },
+    {
+        "author": "Ill_Excuse2225",
+        "body": "We did. Slick Willy via Tel Aviv",
+        "created_utc": 1617280525,
+        "id": "gt0wdax",
+        "permalink": "/r/wallstreetbets/comments/mhu0cb/biden_planning_an_executive_order_on/gt0wdax/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617309325.0
+    },
+    {
+        "author": "parker2020",
+        "body": "Better ROI than SPY 420 I\u2019ll tel you that \ud83d\ude1b\ud83d\udc48\ud83d\udc49 ayooo",
+        "created_utc": 1618777002,
+        "id": "gv06db6",
+        "permalink": "/r/wallstreetbets/comments/msb6mb/weekend_discussion_thread_for_the_weekend_of/gv06db6/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1618805802.0
+    },
+    {
+        "author": "pickleslicesforall",
+        "body": "walker walker walker walker walker\n\nIt was only right that you take the tel.",
+        "created_utc": 1618936420,
+        "id": "gv7vy2v",
+        "permalink": "/r/wallstreetbets/comments/mub6t7/scam_alert_wallstreetbets_telegram_crypto/gv7vy2v/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1618965220.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Tuesday, the 20th of April\n\n\n\n## Upcoming events for Tuesday, April 20th\n\n - Stock splits:\n\n    - VONG @ **4:1** (Payable date: 04/19/2021)\n    - VONV @ **2:1** (Payable date: 04/19/2021)\n    - VTWO @ **2:1** (Payable date: 04/19/2021)\n\n - Expected earnings:\n\n  ABT, AN, ASRV, BFIN, BMI, CIT, CMA, CSX, DOV, EBSB, EDU, EQBK, EW, FCBP, FITB, FMBI, FOR, FULT, GATX, GRFS, HNP, HOG, HTLD, HWC, IBKR, IRDM, ISRG, JNJ, KEY, LMT, LRN, MAN, MBWM, MLI, MNSB, NCBS, NFLX, NTRS, OMC, ORRF, PACW, PCAR, PEBO, PFBC, PFC, PG, PKBK, PM, PTSI, PZN, SFNC, SI, SMBK, SMIT, SNV, TFII, THC, TRV, UCBI, WBS, WRB, XRX\n\n - Ex-div:\n\n  CL, CLX, CMTL, EGBN, GBX, LEN, LEN.B, LOW, PCF, RMBI, SUNS, WST, ZTS\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.070%)\n    - API Weekly Crude Oil Stock (previous: -3.608M)\n    - Redbook (previous: -17.2%)\n    - Redbook (previous: 13.2%)\n\n## Upcoming events for Wednesday, April 21st\n\n - Expected earnings:\n\n  ANTM, ASML, BANR, BDN, BEDU, BKR, BOKF, BXS, CACI, CATC, CCI, CHDN, CLB, CMG, CNS, CP, CPSS, CSV, CVBF, CVCY, DFS, EFX, EGBN, ERIC, FCFS, FHN, FR, GGG, GL, GSBC, HAL, HBMD, HCSG, INBK, KMI, KNX, LAD, LOB, LRCX, LSTR, LVS, MMLP, NDAQ, NEE, NEP, NEU, NTGR, NWE, OFG, PLBC, PLXS, RCI, REXR, RHI, RLI, RUSHA, RUSHB, SBNY, SEIC, SLG, SLM, SNBR, STC, STL, STRM, STXB, TBK, TCBI, TEL, TRST, TSC, UBFO, UFPI, UMPQ, UNB, USAP, VMI, VZ, WASH, WHR, XM\n\n - Ex-div:\n\n  AGX, APA, BGH, CFBK, DX, FUL, LTC\n\n - Economic events and announcements:\n\n    - 20-Year Bond Auction (previous: 1.920%)\n    - Crude Oil Imports (previous: 0.443M)\n    - Crude Oil Inventories (consensus: -2.860M, previous: -5.889M)\n    - Cushing Crude Oil Inventories (previous: 0.346M)\n    - Distillate Fuel Production (previous: 0.004M)\n    - EIA Refinery Crude Runs  (previous: 0.007M)\n    - EIA Weekly Distillates Stocks (consensus: -0.898M, previous: -2.083M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.7%, previous: 1.0%)\n    - Gasoline Inventories (consensus: 0.650M, previous: 0.309M)\n    - Gasoline Production (previous: 0.336M)\n    - Heating Oil Stockpiles (previous: -0.028M)\n    - MBA 30-Year Mortgage Rate (previous: 3.27%)\n    - MBA Mortgage Applications (previous: -3.7%)\n    - MBA Purchase Index (previous: 279.5)\n    - Mortgage Market Index (previous: 667.7)\n    - Mortgage Refinance Index (previous: 2,916.7)\n\n## Upcoming events for Thursday, April 22nd\n\n - Expected earnings:\n\n  AAL, ABCB, ACBI, AEP, AFI, ALK, ALLE, AMAL, AMNB, ARCH, ARD, ARI, ASB, ASR, AUB, BANC, BIIB, BJRI, BKU, BMTC, BOOM, BPRN, BX, CADE, CAJ, CAMP, CASS, CCBG, CE, CFB, CFFI, CLF, CLFD, CS, CSL, CSTR, CTS, CVLY, CYBE, DGX, DHI, DHR, DOW, EIG, EWBC, FAF, FBIZ, FBRX, FCX, FE, FFBC, FFIN, FRME, FVCB, GBCI, GFED, GPC, GRC, GTLS, HBAN, HCA, HFWA, HRI, HTBK, HTH, HZO, ICBK, IIIN, INDB, INDT, INTC, IQV, ISTR, KB, KN, LUV, LYTS, MAT, MBIN, MCBC, MKTX, MNOV, MSBI, MYFW, NBHC, NUE, NURO, NVR, NWFL, ODFL, OPBK, ORI, OZK, PBCT, PDS, PINE, PNR, POOL, PSTV, PWOD, RBCAA, RBNC, RNGR, RS, SAFE, SAM, SAP, SASR, SBCF, SBFG, SCKT, SITC, SIVB, SKX, SNA, SNAP, SON, SRCE, STBA, STRT, STX, T, TAL, TPH, TRN, TSCO, TZOO, UNP, USX, UTMD, VICR, VLO, VLRS, VRSN, WNS, WSFS, WSO, WSO.B, WWE\n\n - Ex-div:\n\n  ACP, AGD, AOD, ASGI, AWP, BGB, BGX, BSAC, BSL, BUSE, BWG, COKE, CVS, DEX, DFP, DMO, EFF, EFR, EFT, EHI, EMD, EOI, EOS, EOT, ETB, ETG, ETJ, ETO, ETV, ETW, ETX, ETY, EVG, EVT, EXD, EXG, FFC, FLC, FMN, GAIN, GDO, GLAD, GOOD, HFRO, HGLB, HIE, HIO, HIX, HYI, IGI, KALU, LAND, LKFN, MGU, MMU, NHF, NVT, PFD, PG, PNR, PPT, SBI, SCD, SM, TPZ, USA, WEA, WIA, WIW, WSM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.010%)\n    - 5-Year TIPS Auction (previous: -1.320%)\n    - 8-Week Bill Auction (previous: 0.015%)\n    - Chicago Fed National Activity (previous: -1.09)\n    - Continuing Jobless Claims (consensus: 3,667K, previous: 3,731K)\n    - Existing Home Sales (consensus: 0.8%, previous: -6.6%)\n    - Existing Home Sales (consensus: 6.19M, previous: 6.22M)\n    - Initial Jobless Claims (consensus: 617K, previous: 576K)\n    - Jobless Claims 4-Week Avg. (previous: 683.00K)\n    - KC Fed Composite Index (previous: 26)\n    - KC Fed Manufacturing Index (previous: 23)\n    - Natural Gas Storage (previous: 61B)\n    - US Leading Index (consensus: 1.0%, previous: 0.2%)\n\n## Upcoming events for Friday, April 23rd\n\n - Expected earnings:\n\n  ALV, AROW, AXP, AZZ, BCML, BOTJ, BRID, CBAN, CIVB, CIZN, CWBC, E, ESQ, ESXB, FHB, FMAO, FSBW, GCBC, GNTX, HON, KMB, LFC, LSBK, MCBS, MOG.A, MOG.B, PFIS, RF, SBSI, SLB, SXT\n\n - Ex-div:\n\n  ACI, CAT, CE, DHC, FAST, ILPT, OKE, OPI, RMR, RMRM, SLP, SVC, TRMT, USAC\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 3.4K)\n    - CFTC Copper speculative net positions (previous: 36.0K)\n    - CFTC Corn speculative net positions (previous: 543.3K)\n    - CFTC Crude Oil speculative net positions (previous: 492.7K)\n    - CFTC Gold speculative net positions (previous: 180.9K)\n    - CFTC Nasdaq 100 speculative net positions (previous: -6.1K)\n    - CFTC Natural Gas speculative net positions (previous: -51.3K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -40.1K)\n    - CFTC Silver speculative net positions (previous: 36.4K)\n    - CFTC Soybeans speculative net positions (previous: 224.0K)\n    - CFTC Wheat speculative net positions (previous: 5.5K)\n    - Manufacturing PMI (consensus: 60.5, previous: 59.1)\n    - Markit Composite PMI (previous: 59.7)\n    - New Home Sales (consensus: 12.8%, previous: -18.2%)\n    - New Home Sales (consensus: 886K, previous: 775K)\n    - Services PMI (consensus: 61.9, previous: 60.4)\n    - U.S. Baker Hughes Oil Rig Count (previous: 337)\n    - U.S. Baker Hughes Total Rig Count (previous: 432)\n\n^^^^2021-04-20",
+        "created_utc": 1618912816,
+        "id": "gv6o88o",
+        "permalink": "/r/RobinHood/comments/mumzid/daily_discussion_thread_april_20th_2021/gv6o88o/",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1618941616.0
+    },
+    {
+        "author": "alext78",
+        "body": "Can someone tel me how much of a percentage increase $260 to $300 is?",
+        "created_utc": 1618822411,
+        "id": "gv282l4",
+        "permalink": "/r/wallstreetbets/comments/mtk7tt/what_are_your_moves_tomorrow_april_19_2021/gv282l4/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1618851211.0
+    },
+    {
+        "author": "Marco_Monte77",
+        "body": "From this AM-\n\n TEL AVIV, Israel and HOUSTON, April 19, 2021 /PRNewswire/ -- [Arbe](https://arberobotics.com/), a global leader in next-generation 4D Imaging Radar Solutions, today announced that AutoX\u00a0has chosen its 4D Imaging Radar Platform for their Level 4 autonomous vehicles, RoboTaxis, as well as other autonomous driving projects...\n\n Over the next five years, AutoX is expected to integrate 400,000 Arbe-based ultra-high resolution radar systems in their Level 4 fleet. Multiple radar units will be included as an integral component of the sensor suite\u00a0for safety application development, AI-based perception algorithms, and sensor fusion.  In the city of Shenzhen, AutoX has deployed the world's second, and China's first and only fully driverless RoboTaxi service to the public.  \n\nI like the news so far and will be buying more this AM if it doesn't pop.",
+        "created_utc": 1618834585,
+        "id": "gv2n1i9",
+        "permalink": "/r/SPACs/comments/mqay8r/ddnew_dealscatalysts_and_product_launch_for_itac/gv2n1i9/",
+        "score": 1,
+        "subreddit": "SPACs",
+        "created": 1618863385.0
+    },
+    {
+        "author": "artikokus",
+        "body": "If you ever visit Tel-Aviv, Israel, I got you covered! Thanks, Keith, you're a modern inspiration!",
+        "created_utc": 1618668848,
+        "id": "guuov1l",
+        "permalink": "/r/wallstreetbets/comments/msfw2x/cheers_everyone/guuov1l/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1618697648.0
+    },
+    {
+        "author": "diggonomics",
+        "body": "Some of the info is public (+/-30% spot price, +/-300% volatility change) but there are hidden factors (proprietary risk model) they won\u2019t tel you (meaning a simple test using TIMS will not match IBKR margin requirements in edge cases)",
+        "created_utc": 1618755131,
+        "id": "guyxlgh",
+        "permalink": "/r/wallstreetbets/comments/mtag2u/notbillhwang_trading_hedged_at_21x_leverage_with/guyxlgh/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1618783931.0
+    },
+    {
+        "author": "bwn69",
+        "body": "Lol please tel me that big ole shrek dick that just popped up was you\ud83d\ude02",
+        "created_utc": 1619537327,
+        "id": "gw26iw1",
+        "permalink": "/r/wallstreetbets/comments/mzl0cz/daily_discussion_thread_for_april_27_2021/gw26iw1/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1619566127.0
+    },
+    {
+        "author": "DangerStranger138",
+        "body": "[SOS LIMITED CLASS ACTION ALERT: Wolf Haldenstein Adler Freeman &amp; Herz LLP announces that a securities class action lawsuit has been filed in the United States District Court for the District of New Jersey against SOS Limited](https://finance-yahoo-com.cdn.ampproject.org/v/s/finance.yahoo.com/amphtml/news/sos-limited-class-action-alert-192100670.html?amp_js_v=a6&amp;amp_gsa=1&amp;usqp=mq331AQHKAFQArABIA%3D%3D#aoh=16177684350762&amp;amp_ct=1617768469067&amp;referrer=https%3A%2F%2Fwww.google.com&amp;amp_tf=From%20%251%24s&amp;ampshare=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fsos-limited-class-action-alert-192100670.html)\n\nYahoo Finance\n\nGlobeNewswire\nSOS LIMITED CLASS ACTION ALERT: Wolf Haldenstein Adler Freeman &amp; Herz LLP announces that a securities class action lawsuit has been filed in the United States District Court for the District of New Jersey against SOS Limited\nWolf Haldenstein Adler Freeman &amp; Herz LLP\nApril 6, 2021, 12:21 pm\nLead Plaintiff Deadline Is June 1, 2021\n\nNEW YORK, April 06, 2021 (GLOBE NEWSWIRE) -- Wolf Haldenstein Adler Freeman &amp; Herz LLP announces that a federal securities class action lawsuit has been filed in the United States District Court for the District of New Jersey on behalf of those who acquired SOS Limited (\u201cSOS\u201d or the \u201cCompany\u201d) (NYSE: SOS) American Depositary Receipts (\u201cADR\u2019s) during the period from July 22, 2020, through February 25, 2021, inclusive (the ''Class Period'').\n\nAll investors who purchased the ADR\u2019s of SOS Limited and incurred losses are urged to contact the firm immediately at classmember@whafh.com or (800) 575-0735 or (212) 545-4774. You may obtain additional information concerning the action or join the case on our website, www.whafh.com.\n\n\nIf you have incurred losses in the ADR\u2019s of SOS Limited., you may, no later than June 1, 2021, request that the Court appoint you lead plaintiff of the proposed class. Please contact Wolf Haldenstein to learn more about your rights as an investor in the ADR\u2019s of SOS Limited.\n\nPLEASE CLICK HERE TO JOIN CASE\n\nThe filed complaint alleges that throughout the Class Period, defendants made materially false and/or misleading statements, as well as failed to disclose to investors:\n\n\nSOS had misrepresented the true nature, location, and/or existence of at least one of the principal executive offices listed in its SEC filings;\n\n\nHY and FXK were either undisclosed related parties and/or entities fabricated by the Company;\n\n\nthe Company had misrepresented the type and/or existence of the mining rigs that it claimed to have purchased; and (iv) as a result, the Company\u2019s public statements were materially false and misleading at all relevant times.\n\nOn February 26, 2021 Hindenburg Research (\u201cHindenburg\u201d) and Culper Research (\u201cCulper\u201d) released commentary on SOS, claiming that the Company was an intricate \u201cpump and dump\u201d scheme that used fake addresses and doctored photos of crypto rigs to create an illusion of success.\n\nOn this news, SOS\u2019s ADR price declined by $1.27 per ADR, or approximately 21.03%, to close at $4.77 per ADR on February 26, 2021.\n\nWolf Haldenstein has extensive experience in the prosecution of securities class actions and derivative litigation in state and federal trial and appellate courts across the country. The firm has attorneys in various practice areas; and offices in New York, Chicago and San Diego. The reputation and expertise of this firm in shareholder and other class litigation has been repeatedly recognized by the courts, which have appointed it to major positions in complex securities multi-district and consolidated litigation.\n\nIf you wish to discuss this action or have any questions regarding your rights and interests in this case, please immediately contact Wolf Haldenstein by telephone at (800) 575-0735, via e-mail at classmember@whafh.com, or visit our website at www.whafh.com.\n\nContact:\n\nWolf Haldenstein Adler Freeman &amp; Herz LLP\nKevin Cooper, Esq.\nGregory Stone, Director of Case and Financial Analysis\nEmail: gstone@whafh.com, kcooper@whafh.com or classmember@whafh.com\nTel: (800) 575-0735 or (212) 545-4774\n\nThis press release may be considered Attorney Advertising in some jurisdictions under the applicable law and ethical rules.\n\n\n\nView more on Yahoo Finance\nUpdate privacy choices\n  \nReactions",
+        "created_utc": 1617770889,
+        "id": "gtnlmku",
+        "permalink": "/r/Wallstreetbetsnew/comments/mi2vwc/sos_short_question/gtnlmku/",
+        "score": 1,
+        "subreddit": "Wallstreetbetsnew",
+        "created": 1617799689.0
+    },
+    {
+        "author": "IOspac",
+        "body": "Just FYI...\n\nTWCT/Cellebrite last available valuation was June 2019 = $440M. Now $2.4B per the DA = &gt;5x in 22 months.\n\nSource: https://m.calcalistech.com/Article.aspx?guid=3764425\n\n\u201cIn June, Calcalist reported that mobile data and entertainment company Sun Corporation has sold a 25% stake in Cellbrite to Tel Aviv-based Israel Growth Partners (IGP) Ltd. for $110 million.\u201d",
+        "created_utc": 1617890835,
+        "id": "gtt8egn",
+        "permalink": "/r/SPACs/comments/mmpead/cellebrite_da_with_twct_investor_presentation_pr/gtt8egn/",
+        "score": 1,
+        "subreddit": "SPACs",
+        "created": 1617919635.0
+    },
+    {
+        "author": "dft-salt-pasta",
+        "body": "That\u2019d be a sell order. But let\u2019s say we were at 2000 and you had a stop loss at 1000 if there was a buyer at 1000 for that many shares at 1000 it would fill. If there\u2019s 9 to 1 sellers to buyers at that point it might fill. Not sure if you could do a market sell stop loss then but it\u2019ll be moving fast so no tel what it\u2019d sell at.",
+        "created_utc": 1617634673,
+        "id": "gtgk0y0",
+        "permalink": "/r/wallstreetbets/comments/mkih9q/gme_megathread_for_april_05_2021/gtgk0y0/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617663473.0
+    },
+    {
+        "author": "migijc123",
+        "body": "$Tel is better than $Tell. Look it up for yourself if you don't believe me.",
+        "created_utc": 1618925729,
+        "id": "gv77cro",
+        "permalink": "/r/pennystocks/comments/munohc/tell_where_are_all_the_buyers/gv77cro/",
+        "score": 1,
+        "subreddit": "pennystocks",
+        "created": 1618954529.0
+    },
+    {
+        "author": "PerfectSnakeFire",
+        "body": "Everyone who is commenting on this company needs to search two things.\n\n\"In-Q-Tel\" + \"Palantir.\"\n\nhttps://en.wikipedia.org/wiki/In-Q-Tel\n\n&gt;Originally named Peleus and known as In-Q-It, In-Q-Tel was founded by Norm Augustine, a former CEO of Lockheed Martin. Michael Crow served as In-Q-Tel's first CEO. In-Q-Tel's mission is to identify and invest in companies developing cutting-edge technologies that serve United States national security interests. Origins of the corporation can be traced to Ruth A. David, who headed the Central Intelligence Agency Directorate of Science &amp; Technology in the 1990s and promoted the importance of rapidly advancing information technology for the CIA. In-Q-Tel now engages with entrepreneurs, growth companies, researchers, and venture capitalists to deliver technologies that provide superior capabilities for the CIA, DIA, NGA, and the wider intelligence community. In-Q-Tel concentrates on three broad commercial technology areas: software, infrastructure and materials sciences.\n\n&gt;Former CIA director George Tenet says,\n\n&gt;&gt;We [the CIA] decided to use our limited dollars to leverage technology developed elsewhere. In 1999 we chartered ... In-Q-Tel. ... While we pay the bills, In-Q-Tel is independent of CIA. CIA identifies pressing problems, and In-Q-Tel provides the technology to address them. The In-Q-Tel alliance has put the Agency back at the leading edge of technology ... This ... collaboration ... enabled CIA to take advantage of the technology that Las Vegas uses to identify corrupt card players and apply it to link analysis for terrorists the parallel data-mining effort by the SOCOM-DIA operation Able Danger, and to adapt the technology that online booksellers use and convert it to scour millions of pages of documents looking for unexpected results.\n\nA few hits:\n\nhttps://www.reddit.com/r/conspiracy/comments/jk3mhd/palantir/\n\n&gt;This patriotism is almost the fundamental idea of Palantir. The company's filed to go public says it \"does not work with clients or governments whose positions or actions are incompatible with the mission to support Western liberal democracy and its strategic allies.\" The fact that the main clients of Palantir are precisely the US security forces and intelligence services fully reflects the company's commitment to this mission.\n\nhttps://www.cnet.com/news/aoc-calls-for-investigation-on-palantir-before-surveillance-company-goes-public/\n\n&gt;\"Palantir's numerous transparency and governance issues have been flying completely under the radar as they launch their public offering,\" Jacinta Gonzalez, a senior campaign organizer at Mijente, said in a statement. \"We're glad Representatives Ocasio-Cortez and Garcia tasked the SEC with investigating and are eager to find out why the agency has not done so.\"\n\nhttps://www.forbesindia.com/article/100-most-innovative-companies/how-a-deviant-philosopher-built-palantir-a-ciafunded-data-miner/36101/1\n\n&gt;The bottom line: A CIA-funded firm run by an eccentric philosopher has become one of the most valuable private companies in tech, priced at between $5 billion and $8 billion in a round of funding the company is currently pursuing. Karp owns roughly a tenth of the firm\u2014just less than its largest stakeholder, Peter Thiel, the PayPal and Facebook billionaire. (Other billionaire investors include Ken Langone and hedge fund titan Stanley Druckenmiller.) That puts Karp on course to become Silicon Valley\u2019s latest billionaire\u2014and Thiel could double his fortune\u2014if the company goes public, a possibility Karp says Palantir is reluctantly considering.\n\nhttps://www.forbes.com/sites/petercohan/2020/10/01/2-reasons-you-should-avoid-palantir-stock/?sh=1b90fae7485a\n\n&gt;For example, Ocasio-Cortez is concerned that in 2009, Palantir\u2019s shareholder report revealed that the CIA\u2019s venture arm \u2014 In-Q-Tel \u2014 held 10% of Palantir. However, she noted, its S-1 \u201cdid not say whether that investment was still in play or how many Palantir shares In-Q-Tel held.\u201d\n\nhttps://www.iqt.org/\n\nHere is the In-Q-Tel website. Palantir is under Analytics in their Portfolio section. There is honestly not much on the site, as you might expect.\n\nLong PLTR.",
+        "created_utc": 1618953027,
+        "id": "gv904pf",
+        "permalink": "/r/wallstreetbets/comments/mu55t5/pltr_love_the_company_hate_the_short_term_stonk/gv904pf/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1618981827.0
+    },
+    {
+        "author": "XxSCRAPOxX",
+        "body": "Tbh I think you\u2019re somewhat liable for advice. When my fellow gambling addicts I mean uh friends ask me for tips I always tell them idk, I go for high risk and lose more than I win. I\u2019ll give them my plays, but, tel them it\u2019s at their own risk and treat it like it\u2019s a roulette table.",
+        "created_utc": 1619288611,
+        "id": "gvqgrth",
+        "permalink": "/r/stocks/comments/mxg32x/dont_accept_requests_to_invest_other_peoples_money/gvqgrth/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1619317411.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the 19th of April\n\n\n\n## Upcoming events for Monday, April 19th\n\n - Stock splits:\n\n    - BBD @ **110:100** (Payable date: 04/27/2021)\n    - BBDO @ **110:100** (Payable date: 04/27/2021)\n    - ILCV @ **2:1** (Payable date: 04/16/2021)\n    - ILCB @ **4:1** (Payable date: 04/16/2021)\n    - ILCG @ **5:1** (Payable date: 04/16/2021)\n    - IMCB @ **4:1** (Payable date: 04/16/2021)\n    - IMCG @ **6:1** (Payable date: 04/16/2021)\n    - IMCV @ **3:1** (Payable date: 04/16/2021)\n    - ISCB @ **4:1** (Payable date: 04/16/2021)\n    - ISCG @ **6:1** (Payable date: 04/16/2021)\n    - ISCV @ **3:1** (Payable date: 04/16/2021)\n    - MONOY @ **2:1** (Payable date: 04/16/2021)\n\n - Expected earnings:\n\n  ACC, ACU, BMRC, BSRR, CCK, CCNE, DIT, EBF, ELS, FNB, GNTY, HMNF, HXL, IBM, KO, LCNB, MCB, MSB, MTB, ONB, PEBK, PLD, PNFP, SFBS, STLD, UAL, WTFC, ZION\n\n - Ex-div:\n\n  ATCO, CIVB, CMRE, DMB, HRZN, IGR, THQ, THW, VCIF\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.020%)\n    - 6-Month Bill Auction (previous: 0.040%)\n    - Investing.com Gold Index (actual: 48.9%, previous: 56.4%)\n    - Investing.com S&amp;P 500 Index (actual: 39.6%, previous: 40.2%)\n\n## Upcoming events for Tuesday, April 20th\n\n - Stock splits:\n\n    - VONG @ **4:1** (Payable date: 04/19/2021)\n    - VONV @ **2:1** (Payable date: 04/19/2021)\n    - VTWO @ **2:1** (Payable date: 04/19/2021)\n\n - Expected earnings:\n\n  ABT, AN, ASRV, BFIN, BMI, CIT, CMA, CSX, CTG, DOV, EBSB, EDU, EQBK, EW, FCBP, FITB, FMBI, FOR, FULT, GATX, GRFS, HNP, HOG, HTLD, HWC, IBKR, IRDM, ISRG, JNJ, KEY, LMT, LRN, MAN, MBWM, MLI, MNSB, NCBS, NFLX, NTRS, OMC, ORRF, PACW, PCAR, PEBO, PFBC, PFC, PG, PKBK, PM, PTSI, PZN, SFNC, SI, SMBK, SMIT, SNV, TER, TFII, THC, TRV, UCBI, WBS, WRB, XRX\n\n - Ex-div:\n\n  CL, CLX, CMTL, EGBN, GBX, LEN, LEN.B, LOW, PCF, RMBI, SUNS, WST, ZTS\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.070%)\n    - API Weekly Crude Oil Stock (previous: -3.608M)\n    - Redbook (previous: -17.2%)\n    - Redbook (previous: 13.2%)\n\n## Upcoming events for Wednesday, April 21st\n\n - Expected earnings:\n\n  ANTM, ASML, BANR, BDN, BEDU, BKR, BLX, BOKF, BXS, CACI, CATC, CCI, CHDN, CLB, CMG, CNS, CP, CPSS, CVBF, CVCY, DFS, EFX, EGBN, ERIC, FCFS, FHN, FR, GGG, GL, GSBC, HAL, HBMD, HCSG, INBK, KMI, KNX, LAD, LOB, LRCX, LSTR, LVS, MMLP, NDAQ, NEE, NEP, NEU, NTGR, NWE, OFG, PLBC, PLXS, RCI, REXR, RHI, RLI, RUSHA, RUSHB, SEIC, SLG, SLM, SNBR, STC, STL, STRM, STXB, TBK, TCBI, TEL, TRST, TSC, UBFO, UFPI, UMPQ, UNB, USAP, VMI, VZ, WASH, WHR, XM\n\n - Ex-div:\n\n  AGX, APA, BGH, CFBK, DX, FUL, LTC\n\n - Economic events and announcements:\n\n    - 20-Year Bond Auction (previous: 1.920%)\n    - Crude Oil Imports (previous: 0.443M)\n    - Crude Oil Inventories (previous: -5.889M)\n    - Cushing Crude Oil Inventories (previous: 0.346M)\n    - Distillate Fuel Production (previous: 0.004M)\n    - EIA Refinery Crude Runs  (previous: 0.007M)\n    - EIA Weekly Distillates Stocks (previous: -2.083M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.4%, previous: 1.0%)\n    - Gasoline Inventories (previous: 0.309M)\n    - Gasoline Production (previous: 0.336M)\n    - Heating Oil Stockpiles (previous: -0.028M)\n    - MBA 30-Year Mortgage Rate (previous: 3.27%)\n    - MBA Mortgage Applications (previous: -3.7%)\n    - MBA Purchase Index (previous: 279.5)\n    - Mortgage Market Index (previous: 667.7)\n    - Mortgage Refinance Index (previous: 2,916.7)\n\n## Upcoming events for Thursday, April 22nd\n\n - Expected earnings:\n\n  AAL, ABCB, ACBI, AEP, AFI, ALK, ALLE, AMAL, AMNB, ARCH, ARD, ARI, ASB, ASR, AUB, BANC, BIIB, BJRI, BKU, BMTC, BOOM, BPRN, BX, CADE, CAJ, CAMP, CASS, CCBG, CE, CFB, CFFI, CLF, CLFD, CS, CSL, CSTR, CTS, CVLY, CYBE, DGX, DHI, DHR, DOW, EIG, EWBC, FAF, FBIZ, FBRX, FCX, FE, FFBC, FFIN, FRME, FVCB, GBCI, GFED, GPC, GRC, GTLS, HBAN, HCA, HFWA, HRI, HTBK, HTH, HZO, ICBK, IIIN, INDB, INDT, INTC, IQV, ISTR, KB, KN, LUV, LYTS, MAT, MBIN, MCBC, MKTX, MNOV, MSBI, MYFW, NBHC, NUE, NURO, NVR, NWFL, ODFL, OPBK, ORI, OZK, PBCT, PDS, PINE, PNR, POOL, PSTV, PWOD, RBCAA, RBNC, RNGR, RS, SAFE, SAM, SAP, SASR, SBCF, SBFG, SBNY, SCKT, SITC, SIVB, SKX, SNA, SNAP, SON, SRCE, STBA, STRT, STX, T, TAL, TPH, TRN, TSCO, TZOO, UNP, USX, UTMD, VICR, VLO, VLRS, VRSN, VVV, WNS, WSFS, WSO, WSO.B, WST, WWE\n\n - Ex-div:\n\n  ACP, AGD, AOD, ASGI, AWP, BGB, BGX, BSAC, BSL, BUSE, BWG, COKE, CVS, DEX, DFP, DMO, EFF, EFR, EFT, EHI, EMD, EOI, EOS, EOT, ETB, ETG, ETJ, ETO, ETV, ETW, ETX, ETY, EVG, EVT, EXD, EXG, FFC, FLC, FMN, GAIN, GDO, GLAD, GOOD, HFRO, HGLB, HIE, HIO, HIX, HYI, IGI, KALU, LAND, LKFN, MGU, MMU, NHF, NVT, PFD, PG, PNR, PPT, SBI, SCD, SM, TPZ, USA, WEA, WIA, WIW, WSM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.010%)\n    - 5-Year TIPS Auction (previous: -1.320%)\n    - 8-Week Bill Auction (previous: 0.015%)\n    - Chicago Fed National Activity (previous: -1.09)\n    - Continuing Jobless Claims (consensus: 3,667K, previous: 3,731K)\n    - Existing Home Sales (consensus: 0.8%, previous: -6.6%)\n    - Existing Home Sales (consensus: 6.19M, previous: 6.22M)\n    - Initial Jobless Claims (consensus: 617K, previous: 576K)\n    - Jobless Claims 4-Week Avg. (previous: 683.00K)\n    - KC Fed Composite Index (previous: 26)\n    - KC Fed Manufacturing Index (previous: 23)\n    - Natural Gas Storage (previous: 61B)\n    - US Leading Index (consensus: 1.0%, previous: 0.2%)\n\n^^^^2021-04-19",
+        "created_utc": 1618826420,
+        "id": "gv2cdwb",
+        "permalink": "/r/RobinHood/comments/mtxal5/daily_discussion_thread_april_19th_2021/gv2cdwb/",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1618855220.0
+    },
+    {
+        "author": "TheCrick",
+        "body": "I can tel you she is. We spoke for 30 minutes today as I reached out when she was announced. I had a poor experience with GME during the holidays and also are in customer service and want to join her team.",
+        "created_utc": 1617670023,
+        "id": "gtin3uj",
+        "permalink": "/r/wallstreetbets/comments/mkyhwh/another_svp_after_my_heart/gtin3uj/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1617698823.0
+    },
+    {
+        "author": "RnGesus14",
+        "body": "Good Morning Everyone....spreading awareness...I think Jeffrey Epstein was about to tel congress the \u201ctrue\u201d short interest on GME",
+        "created_utc": 1617971313,
+        "id": "gtx8ptf",
+        "permalink": "/r/wallstreetbets/comments/mnf6e4/gme_megathread_for_april_09_2021/gtx8ptf/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1618000113.0
+    },
+    {
+        "author": "IOspac",
+        "body": "Just FYI...\nTWCT last availability valuation was June 2019 = $440M. Now $2.4B\n\n\u201cIn June, Calcalist reported that mobile data and entertainment company Sun Corporation has sold a 25% stake in Cellbrite to Tel Aviv-based Israel Growth Partners (IGP) Ltd. for $110 million.\u201d\nSource: https://m.calcalistech.com/Article.aspx?guid=3764425",
+        "created_utc": 1617884938,
+        "id": "gtswqa3",
+        "permalink": "/r/SPACs/comments/mmpf9h/cellebrite_the_leading_digital_intelligence/gtswqa3/",
+        "score": 1,
+        "subreddit": "SPACs",
+        "created": 1617913738.0
+    },
+    {
+        "author": "cdhollan",
+        "body": "When is the pullback going to happen that you speak of? Oh that\u2019s right you can\u2019t tel the future. It could happen this summer, it could happen today it could happen in 2024. We have no clue. And that\u2019s why advising people to sit on cash is poor investment strategy. Rain or shine contribute your set about on your set dates. In the long run this will outperform trying to time corrections/crashes. \n\nI don\u2019t know OPs entire situation, but if these speculative stocks are a tiny % of his portfolio then just let it ride. If they are the bulk of his portfolio, welp he\u2019s got some hard lessons ahead of him.\n\n\u201cFar more money has been lost by investors preparing for a correction, or trying to anticipate corrections, then has been lost in corrections themselves\u201d - Peter Lynch. \n\nBuffet is 90 years old. His investment duration has changed drastically. He is in a much different situation then someone with 30+ years of investing ahead of them.",
+        "created_utc": 1618583591,
+        "id": "guq8dlg",
+        "permalink": "/r/stocks/comments/mrzmk2/rstocks_daily_discussion_fundamentals_friday_apr/guq8dlg/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1618612391.0
+    },
+    {
+        "author": "longandthickx",
+        "body": "holy shit let\u2019s fucking go. i was sad because my girl is leaving for tel aviv, but i just found out JPM and Goldman Sachs have offices there \ud83d\ude0d",
+        "created_utc": 1618430769,
+        "id": "guiyuug",
+        "permalink": "/r/wallstreetbets/comments/mqyoy9/what_are_your_moves_tomorrow_april_15_2021/guiyuug/",
+        "score": -2,
+        "subreddit": "wallstreetbets",
+        "created": 1618459569.0
+    },
+    {
+        "author": "BigDaddySwooth",
+        "body": "Tesla faithfuls please tel me what\u2019s going on, my 800C are going tits up",
+        "created_utc": 1618841161,
+        "id": "gv2zdgi",
+        "permalink": "/r/wallstreetbets/comments/mtxaus/daily_discussion_thread_for_april_19_2021/gv2zdgi/",
+        "score": -2,
+        "subreddit": "wallstreetbets",
+        "created": 1618869961.0
     }
 ]

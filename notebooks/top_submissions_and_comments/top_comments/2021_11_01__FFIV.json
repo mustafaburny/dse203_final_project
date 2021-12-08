@@ -4,6 +4,7 @@
         "body": "I investigated a bit and it seems \\`zeronaught.com\\` is part of a service from F5 known as Device ID+ (see [https://f5cloudservices.zendesk.com/hc/en-us/articles/360060301673-Getting-Started-with-F5-Device-ID-#h\\_01EW8BH6C9TRHE5RTEG4E29D8S](https://f5cloudservices.zendesk.com/hc/en-us/articles/360060301673-Getting-Started-with-F5-Device-ID-#h_01EW8BH6C9TRHE5RTEG4E29D8S)). F5 suggest reverse-proxying related requests to their server but it seems the CRA decided to link to their backend directly.\n\nSo in short, it doesn't look compromised. However, I'd say the amount of external JavaScript loaded from external domains is concerning (hCaptcha, Device ID+, Adobe Dynamic Tag Manager) and posses a risk. But it's a risk the CRA has decided to take and isn't a vulnerability on its own.",
         "created_utc": 1636398673,
         "id": "hju71yd",
+        "permalink": "/r/CanadianInvestor/comments/qpi31j/cra_login_goes_through_zeronaughtcom_is_it_some/hju71yd/",
         "score": 43,
         "subreddit": "CanadianInvestor",
         "created": 1636427473.0
@@ -13,6 +14,7 @@
         "body": "&gt; But I'm an old gen-x'er, and I have to admit - I hate talking to people on the phone - that's the last way I want to solve that problem.\n&gt; \n&gt; \n\nBizarre. First way I'd want to solve it. I want to be on the line in real time with someone who can solve the issue or escalate me to a supervisor. Not F5 with no clue when you'll get any kind of response like a junkie waiting for their crack fix.",
         "created_utc": 1635818436,
         "id": "hiyncvu",
+        "permalink": "/r/options/comments/qkrg72/7mil_margin_call/hiyncvu/",
         "score": 9,
         "subreddit": "options",
         "created": 1635847236.0
@@ -22,15 +24,37 @@
         "body": "People be watching 20 mins videos just to learn one thing. I press F5 here and learn more shit in 5 minutes.",
         "created_utc": 1636421665,
         "id": "hjvpjct",
+        "permalink": "/r/wallstreetbets/comments/qpn2qq/what_are_your_moves_tomorrow_november_09_2021/hjvpjct/",
         "score": 7,
         "subreddit": "wallstreetbets",
         "created": 1636450465.0
+    },
+    {
+        "author": "SrAccident",
+        "body": "F5 this page for Jpow and friends statement: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "created_utc": 1635962129,
+        "id": "hj6dmkh",
+        "permalink": "/r/wallstreetbets/comments/qlr721/daily_discussion_thread_for_november_03_2021/hj6dmkh/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1635990929.0
+    },
+    {
+        "author": "radarbot",
+        "body": "Here are some topics that should be important:\n\n* Find out whether the company is a hardware or software play. Do they sell physical boxes or do they sell software that runs on servers/applications/hosts?\n\n* Find our their revenue models. Do they do subscription? Do they sell support? Do they do paid upgrades?\n\n* Find out their target market for security. There are many types of security including: endpoint security, host security, mobile security, identity, API security, hybrid cloud security\n\n* Find out how they do security. Are they primarily providing encryption for data in transit or data at rest? Do they perform some form of identity tracking? Do they do security scans on endpoints to track for malware? Do they do deep packet inspection to understand network based attacks? Do they do quarantining and isolation when a node is compromised?\n\n* Find out partnerships. Security companies are only as valuable as the endpoints they can protect. Do they partner with AWS? GCP? How easy is it to run their software on your local server and also on cloud native applications running as containers on a hosting provider?\n\nCyber security is a huge field with lots of niches. There are also players in the periphery like FFIV and CSCO and ORCL. They aren't directly involved in cyber security, but these companies are huge conglomerates with strong security products in their portfolios.",
+        "created_utc": 1637066314,
+        "id": "hkuhdrq",
+        "permalink": "/r/stocks/comments/qv3ji8/is_crwd_still_good_for_security_stocks_should_i/hkuhdrq/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1637095114.0
     },
     {
         "author": "Lilpoony",
         "body": "CRWD, PANW, FFIV, ZS, VMW.OKTA, FTNT, CHKP, or etf UCYB",
         "created_utc": 1637946233,
         "id": "hm681b1",
+        "permalink": "/r/CanadianInvestor/comments/r2oufj/what_are_good_companies_for_exposure_to/hm681b1/",
         "score": 4,
         "subreddit": "CanadianInvestor",
         "created": 1637975033.0
@@ -40,6 +64,7 @@
         "body": "Press F5 to vote kick CEO of pton.",
         "created_utc": 1636125853,
         "id": "hjfbijv",
+        "permalink": "/r/wallstreetbets/comments/qn7rh0/daily_discussion_thread_for_november_05_2021/hjfbijv/",
         "score": 3,
         "subreddit": "wallstreetbets",
         "created": 1636154653.0
@@ -49,6 +74,7 @@
         "body": " Retried  EDGAR link for a second bad result.  \n\n---  \n\nThis XML file does not appear to have any style information associated with it. The document tree is shown below.\n&lt;Error&gt;\n&lt;Code&gt;NoSuchKey&lt;/Code&gt;\n&lt;Message&gt;The specified key does not exist.&lt;/Message&gt;\n&lt;Key&gt;edgar/data/719413/000143774921003217/hl20201231/hl20201231/_10k.htm&lt;/Key&gt;\n&lt;RequestId&gt;9KZFX4MQFZKVR8K2&lt;/RequestId&gt;\n&lt;HostId&gt;qBvCBr9iTqmwxw7I+tgzb/z8cdiHNEtoB3V5gm0VbmXjbrbRu/yP1bJP/0+MI/+Uo5XBeN4OidE=&lt;/HostId&gt;\n&lt;/Error&gt;   \n\n---\n\nI am viewing near the end of the filing..  \n10K  HL  Dec 2020. \n\nURL. (Let's see if it works for you)  \n\nhttps://www.sec.gov/ix?doc=/Archives/edgar/data/0000719413/000143774921003217/hl20201231_10k.htm#Operations. \n\n---  \n\nPage F5.  \nYes, they do call it NET LOSS.  \nThere is a line  OPERATING INCOME.  \n\n ---",
         "created_utc": 1637222178,
         "id": "hl3hvnc",
+        "permalink": "/r/options/comments/queksj/options_questions_safe_haven_thread_nov_1521_2021/hl3hvnc/",
         "score": 2,
         "subreddit": "options",
         "created": 1637250978.0
@@ -58,6 +84,7 @@
         "body": "Please do me a solid, why are banks down?\n\nI was on a call cause someone introduced the wrong ip address to the pool. Fuck you F5 team.",
         "created_utc": 1636041111,
         "id": "hjan7ll",
+        "permalink": "/r/wallstreetbets/comments/qmh95a/daily_discussion_thread_for_november_04_2021/hjan7ll/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1636069911.0
@@ -67,971 +94,429 @@
         "body": "F5.  \n\nIncome (loss) from operations.  \n\nLower,  on page, \nNet loss overall.  \n\n\n---  \n\nOperating expenses are distinct from other general corporate expenditures, such as taxes",
         "created_utc": 1637323922,
         "id": "hl8v45d",
+        "permalink": "/r/options/comments/queksj/options_questions_safe_haven_thread_nov_1521_2021/hl8v45d/",
         "score": 1,
         "subreddit": "options",
         "created": 1637352722.0
-    },
-    {
-        "author": "themostcanadianguy",
-        "body": "It\u2019s kinda funny that fidelity sends you these letters lol sorry to hear dude",
-        "created_utc": 1636131956,
-        "id": "hjfrcm3",
-        "score": 2173,
-        "subreddit": "wallstreetbets",
-        "created": 1636160756.0
-    },
-    {
-        "author": "The_Hindu_Hammer",
-        "body": "Fidelity is like \u201cUhh you good bro?\u201d",
-        "created_utc": 1636134360,
-        "id": "hjfxkwl",
-        "score": 1001,
-        "subreddit": "wallstreetbets",
-        "created": 1636163160.0
-    },
-    {
-        "author": "Not-a-Banker",
-        "body": "out of curiosity what was he doing that he didnt feel that he offered a valuable service? if fidelity is considered risk averse and they want to help you protect/grow your assets, they are a major player in the retirement accounts game, and they stepped up in a lot of ways over the past year (things related to Covid, GME, etc), what was not valuable about what your brother in law was doing?",
-        "created_utc": 1636138811,
-        "id": "hjg979p",
-        "score": 132,
-        "subreddit": "wallstreetbets",
-        "created": 1636167611.0
-    },
-    {
-        "author": "whomcanthisbe",
-        "body": "Tbh I still use Robinhood to check out the market Bc the UIUX is just miles ahead of everything else. I use fidelity to actually buy/sell.",
-        "created_utc": 1635875572,
-        "id": "hj1dx6h",
-        "score": 113,
-        "subreddit": "StockMarket",
-        "created": 1635904372.0
-    },
-    {
-        "author": "Splaishe",
-        "body": "+1 for Fidelity, -1 for Robinhood",
-        "created_utc": 1636039895,
-        "id": "hjak2e7",
-        "score": 106,
-        "subreddit": "StockMarket",
-        "created": 1636068695.0
-    },
-    {
-        "author": "norwegianmorningw00d",
-        "body": "Mate just download any app with fractional shares and buy Tesla from there \n\nFidelity Webull Stash M1 Sofi Robinhood Schwab CashApp",
-        "created_utc": 1636037519,
-        "id": "hjae0q7",
-        "score": 81,
-        "subreddit": "StockMarket",
-        "created": 1636066319.0
-    },
-    {
-        "author": "flibbidygibbit",
-        "body": "I bought in after that. I only wish I had a crystal ball to average down when it hit the upper 30s in february. I averaged up once and down again.\n\nI've DRS'd most of my shares. I left a few in Fidelity for the Tendieman.",
-        "created_utc": 1636059851,
-        "id": "hjbzao5",
-        "score": 67,
-        "subreddit": "wallstreetbets",
-        "created": 1636088651.0
-    },
-    {
-        "author": "cdevon95",
-        "body": "I was mainly referring to the fallacy of doing it again.  \nAll of sudden you're taking 20% out every week pretending you didn't get lucky this one time. Next thing you know you're opening a margin account with $8.67 in your bank account thinking \"this is it. This is the winner\". Now you owe Fidelity $54,000 and you're not sure how you got here.  because nobody seems to believe the first one is always free",
-        "created_utc": 1636138224,
-        "id": "hjg7nqf",
-        "score": 64,
-        "subreddit": "wallstreetbets",
-        "created": 1636167024.0
-    },
-    {
-        "author": "Firemanbets99",
-        "body": "I have fidelity to hold my shares but I use robinhood for option trading. It\u2019s far more simple than all the other apps and fidelity won\u2019t even give me access to option trading",
-        "created_utc": 1635817637,
-        "id": "hiylkw8",
-        "score": 64,
-        "subreddit": "wallstreetbets",
-        "created": 1635846437.0
-    },
-    {
-        "author": "poolandapondforyou",
-        "body": "Fidelity doesn\u2019t have a fiduciary responsibility toward you either.   No broker does.",
-        "created_utc": 1635829732,
-        "id": "hiz7xr3",
-        "score": 57,
-        "subreddit": "wallstreetbets",
-        "created": 1635858532.0
-    },
-    {
-        "author": "tired_trotter",
-        "body": "Yep, Fidelity does send these. I've lost 10k and got such a letter from them. Also they've stripped my options trading permissions lol",
-        "created_utc": 1636154414,
-        "id": "hjhdlxm",
-        "score": 55,
-        "subreddit": "wallstreetbets",
-        "created": 1636183214.0
-    },
-    {
-        "author": "throwatworkay",
-        "body": "Until the legit brokers like TDA or Fidelity make a non boomer, easy to read and digest app, I'll stay with RH. \n\nI'll put big money in the legit brokers for a long hold, but RH is my meme/ what if account.",
-        "created_utc": 1636045711,
-        "id": "hjaz736",
-        "score": 54,
-        "subreddit": "wallstreetbets",
-        "created": 1636074511.0
-    },
-    {
-        "author": "horizons59",
-        "body": "Fidelity and Schwab are .65 to open and zero to close for Fidelity under 1.00 per contract. \n\nFills on RH is how they give you free trades. You are just paying a fee with slow and crappy fills.",
-        "created_utc": 1636256793,
-        "id": "hjmvvhr",
-        "score": 45,
-        "subreddit": "options",
-        "created": 1636285593.0
-    },
-    {
-        "author": "Runner20mph",
-        "body": "I have moved to Fidelity",
-        "created_utc": 1635814925,
-        "id": "hiyflad",
-        "score": 42,
-        "subreddit": "wallstreetbets",
-        "created": 1635843725.0
-    },
-    {
-        "author": "SetzerWithFixedDice",
-        "body": "The weirdest shit just happened to me at Fidelity. \n\nOh, wait, no it didn\u2019t, because it doesn\u2019t fuck up like Robinhood.",
-        "created_utc": 1635976145,
-        "id": "hj7dzh3",
-        "score": 39,
-        "subreddit": "wallstreetbets",
-        "created": 1636004945.0
-    },
-    {
-        "author": "lucky5150",
-        "body": "I do, everyday. In my defense I have more in Fidelity, But.. and in true WSB fashion, I can't leave RH until I pay off margin. And to do that I'd need to sell. And well. \ud83d\udc8e\ud83e\udd1a",
-        "created_utc": 1635798593,
-        "id": "hixds40",
-        "score": 37,
-        "subreddit": "wallstreetbets",
-        "created": 1635827393.0
-    },
-    {
-        "author": "Jangande",
-        "body": "Say fidelity one more time",
-        "created_utc": 1636081649,
-        "id": "hjdddyw",
-        "score": 36,
-        "subreddit": "investing",
-        "created": 1636110449.0
-    },
-    {
-        "author": "FinalDevice",
-        "body": "They almost certainly have called about margin calls in the past, only to be told not to call.\n\nWhile I don't have experience with Schwab, I know fidelity has picked up the phone to call me about much smaller amounts.",
-        "created_utc": 1635818518,
-        "id": "hiynj85",
-        "score": 30,
-        "subreddit": "options",
-        "created": 1635847318.0
-    },
-    {
-        "author": "ovomin",
-        "body": "fidelity now has a beta option and it transforms the app into a better lookalike robinhood",
-        "created_utc": 1635942106,
-        "id": "hj50t1r",
-        "score": 27,
-        "subreddit": "wallstreetbets",
-        "created": 1635970906.0
-    },
-    {
-        "author": "gadzookery12",
-        "body": "Fidelity",
-        "created_utc": 1636199731,
-        "id": "hjjgnyc",
-        "score": 27,
-        "subreddit": "StockMarket",
-        "created": 1636228531.0
-    },
-    {
-        "author": "Leroy--Brown",
-        "body": "First off:\n\nCheck the cost of certificates for Disney stock that sell online. Not the value of the shares, but the paper certificates themselves. These are collectors items, and look into this first before you get rid of the certificates.\n\nSecondly, do you have a broker? Like, a real broker that isn't Robinhood? Contact Charles Schwab, vanguard, fidelity, or one of the many other real brokerages and see (if you have an account) how much these certs would be in real value today if redeemed, with dividends.",
-        "created_utc": 1635911976,
-        "id": "hj3vcba",
-        "score": 27,
-        "subreddit": "stocks",
-        "created": 1635940776.0
-    },
-    {
-        "author": "InsertCleverNameHur",
-        "body": "I make a deposit into fidelity and I can make a trade 30 seconds later. Multiple brokerage accounts for different purposes.",
-        "created_utc": 1636206082,
-        "id": "hjjscla",
-        "score": 24,
-        "subreddit": "StockMarket",
-        "created": 1636234882.0
-    },
-    {
-        "author": "thisismyeighthtry",
-        "body": "Fidelity has a beta app rn where they basically just lifted the RH UI. That's what I've been using",
-        "created_utc": 1636050792,
-        "id": "hjbc6hh",
-        "score": 21,
-        "subreddit": "wallstreetbets",
-        "created": 1636079592.0
-    },
-    {
-        "author": "JonathanL73",
-        "body": "1.) High rate of accounts getting hacked, some even with 2FV enabled.\n\n2.) For the longest time they didn't even have a customer support phone number, they're difficult to get ahold of if a problem arises.\n\n3.) Unstable and unreliable app, RH became completely unusable, multiple times during the Covid March 2020 crash. When other brokers stayed operational\n\n4.) Payment for order flow. RH makes money buy selling your buy orders to high frequency trade hedge funds, who are then able to \"frontrun\" the stock, meaning they can buy the stock a milisecond before you do, thus raising the price your market orders get filled. So you're actually paying more for stocks on RH than if you used another broker.\n\n5.) Conflict of interest, RH primary customer, Citadel was caught illegally naked shorting meme stock. During the meme stock frenzy, RH users weren't allowed to buy shares of certain companies, whereas with other brokers you could.\n\n6.) RH has history of being fined by the SEC, and countless lawsuits regarding not having the best user's interest in mind.\n\n7.) Glitchy Options display. RH falsely displayed losses for a young options trader who was actually in the green. He ended up committing suicide because of it.\n\n8.) If you care about margin %, Interactive Brokers and M1 Finance both have cheaper margin %\n\n9.) Not good for buying Crypto. You don't have access to your wallet keys, and you're not allowed to transfer your crypto to anew wallet, so you're forced to liquidate it if you want to move it elsewhere, which creates a taxable event. Also questions have raised if RH really holds the crypto that you \"own\" on their app.\n\nAlso it's not 2019 anymore, it's 2021. Countless apps have clean simple UI. SoFi &amp; Fidelity Beta both have clean UI",
-        "created_utc": 1636202763,
-        "id": "hjjlpp6",
-        "score": 20,
-        "subreddit": "StockMarket",
-        "created": 1636231563.0
-    },
-    {
-        "author": "boskle",
-        "body": "Perhaps, with enough people and if purchasing through Fidelity with IEX routing or directly from GameStop via its transfer agent, Computershare.",
-        "created_utc": 1635999504,
-        "id": "hj8srs1",
-        "score": 19,
-        "subreddit": "wallstreetbets",
-        "created": 1636028304.0
-    },
-    {
-        "author": "xanre_",
-        "body": "Lol. I got denied for margin on my new fidelity account. Then i applied again but exaggerated my net worth/liquidity and i was instantly approved",
-        "created_utc": 1635942871,
-        "id": "hj5285g",
-        "score": 19,
-        "subreddit": "wallstreetbets",
-        "created": 1635971671.0
-    },
-    {
-        "author": "vanillagorillamints",
-        "body": "Fidelity",
-        "created_utc": 1636082871,
-        "id": "hjdfr41",
-        "score": 18,
-        "subreddit": "investing",
-        "created": 1636111671.0
-    },
-    {
-        "author": "Is_ael",
-        "body": "Now what do you do when you can\u2019t be approved for options trading on fidelity?",
-        "created_utc": 1636116532,
-        "id": "hjepzmj",
-        "score": 17,
-        "subreddit": "wallstreetbets",
-        "created": 1636145332.0
-    },
-    {
-        "author": "Homesober",
-        "body": "How do I make Fidelity let me buy 0dte options \ud83d\ude2d\ud83d\ude2d",
-        "created_utc": 1636150640,
-        "id": "hjh4arl",
-        "score": 15,
-        "subreddit": "wallstreetbets",
-        "created": 1636179440.0
-    },
-    {
-        "author": "zentechinc",
-        "body": "I'm a high up software dude at Fidelity.\n\nBest company I've ever worked at.\n\nCharismatic ceo, friendly staff, no yelling (been here a little while now and never heard anyone get snippy during a code release or troubleshooting issue).\n\nNot sure what your brother in laws issue was.",
-        "created_utc": 1636162303,
-        "id": "hjhvek5",
-        "score": 15,
-        "subreddit": "wallstreetbets",
-        "created": 1636191103.0
-    },
-    {
-        "author": "chicasparagus",
-        "body": "Precisely why some people find it funny. \n\nBut sending these doesn\u2019t help Fidelity in any way shape or form, so why else would they be doing it other than to warn a person. \n\nI mean you\u2019re awfully cynical and nothing can change that, so you do you.",
-        "created_utc": 1636137799,
-        "id": "hjg6jlq",
-        "score": 14,
-        "subreddit": "wallstreetbets",
-        "created": 1636166599.0
-    },
-    {
-        "author": "Fog_Juice",
-        "body": "I got into Robinhood after GME squeezed. It's just easier than Fidelity plus crypto. Applying for options took 30 seconds compared to 3 weeks.",
-        "created_utc": 1636048541,
-        "id": "hjb6ha3",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1636077341.0
-    },
-    {
-        "author": "Poopdicks69",
-        "body": "Only 54k in debt to fidelity? I would feel like a millionaire.",
-        "created_utc": 1636143684,
-        "id": "hjgm88v",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1636172484.0
-    },
-    {
-        "author": "Rick420-",
-        "body": "Fidelity Pro. This is the unreleased beta version so u wont be able to get it yet",
-        "created_utc": 1636161759,
-        "id": "hjhu8lo",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1636190559.0
-    },
-    {
-        "author": "GoddamnRelapse",
-        "body": "Was supposed to buy $3000 worth of AMC yesterday, but FUCKING FIDELITY can't settle money fast enough. \ud83e\udd2c",
-        "created_utc": 1635887900,
-        "id": "hj29x87",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1635916700.0
-    },
-    {
-        "author": "Big-Toe6215",
-        "body": "Got my letter from Fidelity saying that I lost a lot of money.  My account gets restricted in 30 days without a signed consent to continue.\n\n&amp;#x200B;\n\nDon't they know that I'm in a trade that can 40X and I'll make it all back up and then some?",
-        "created_utc": 1636031773,
-        "id": "hja0tir",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1636060573.0
-    },
-    {
-        "author": "gayforgoblin",
-        "body": "If my account is 100% in CROX shares but it's split across my Fidelity, Vanguard, and Schwab accounts, am I diversified?\n\nSaw some guy named kevin o leary on youtube telling me to diversify so it's got me thinkin",
-        "created_utc": 1635992727,
-        "id": "hj8fwu8",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1636021527.0
     },
     {
         "author": "therealJcrusin",
         "body": "A list of buyers for this stock\n\nGoogle\nFidelity \nLockheed Martin \nKia\nHyundai \nBill Gates\nRobert Bosch\nSamsung \nMicheal Dell\nAmazon\nHewlett Packard\n\n\nStill not convinced? Look any of those up to see their investments.",
         "created_utc": 1636200537,
         "id": "hjjhy2e",
+        "permalink": "/r/wallstreetbets/comments/qnweov/welcome_ionq_investors_to_getting_rich_off_of/hjjhy2e/",
         "score": 12,
         "subreddit": "wallstreetbets",
         "created": 1636229337.0
     },
     {
-        "author": "OuthouseBacksplash",
-        "body": "Fidelity has a great new mobile app that had a beta Vue similar to RH. That is what I would look at.",
-        "created_utc": 1636207035,
-        "id": "hjjuc38",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1636235835.0
+        "author": "thundergodsnake",
+        "body": "If you trust the numbers from China, Alibaba is a steal at this price point of  $162. I picked this up recently alongside Intel, Foot Locker, Sleep Number. Walgreens, Facebook, Best Buy, VMWare, Hewlett Packard, NVR, Malibu Boats, and Medifast all undervalued with margins between 11% and some over 20% at current prices and projections. Also a little bit of Bristol Myers.",
+        "created_utc": 1636425961,
+        "id": "hjvz5ja",
+        "permalink": "/r/ValueInvesting/comments/qp7bww/weekly_megathread_markets_and_value_stock_ideas/hjvz5ja/",
+        "score": 8,
+        "subreddit": "ValueInvesting",
+        "created": 1636454761.0
     },
     {
-        "author": "onat_akosha_",
-        "body": "So funny!!! Fidelity (mis) calculates all deposits as gains, so dumb - and don\u2019t get me started on how they screw up margin calculations",
-        "created_utc": 1636220063,
-        "id": "hjkohgy",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1636248863.0
+        "author": "China_shop_BULL",
+        "body": "The Apple 1 home pc was rejected by Hewlett-Packard and look at them now. Petroteq has achieved net zero pollution in its field almost 30 years ahead of government climate agreements and as far as I know the only one to achieve it. They\u2019ve proven to keep production costs the same as now if they don\u2019t sell the clean sand byproduct, around half of current cost if they do sell the sand. The oil extracted is also viable for Quadrise Fuel MSAR and bioMSAR. Personally, I think these guys are going to be dug into the sector ( much like Apple to PC ) in the future.",
+        "created_utc": 1636506213,
+        "id": "hk0dffu",
+        "permalink": "/r/pennystocks/comments/qqdhti/pqeff_major_catalysts_incoming_buyout_offer_on/hk0dffu/",
+        "score": 4,
+        "subreddit": "pennystocks",
+        "created": 1636535013.0
     },
     {
-        "author": "Cow_Interesting",
-        "body": "Fidelity all the way\u2026. No I don\u2019t work for them! How dare you",
-        "created_utc": 1636059588,
-        "id": "hjbyn03",
-        "score": 10,
-        "subreddit": "StockMarket",
-        "created": 1636088388.0
-    },
-    {
-        "author": "HiIAmFromTheInternet",
-        "body": "I had been with Etrade for like\u202610 years? 7 digit account balance. Moved the whole fucking thing to Fidelity because they couldn\u2019t DRS my shares in a timely manner. Fidelity did 5000 shares in 3 days, Etrade couldn\u2019t do 3000 in 30 days. \n\nNot sure what the fuck up is on ETrades end, but oh man they are fucking up.",
-        "created_utc": 1635805741,
-        "id": "hixuw6m",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1635834541.0
-    },
-    {
-        "author": "NoleScole",
-        "body": "Idk what wells fargo has been doing but settled cash applies to all brokerages unless you have a margin account. You can\u2019t set up market trade at any brokerages. You can set up a limit order. I think you might be saying you can\u2019t buy or sell at market, after hours. With fidelity you have to sign up for after hours trading. Then you have to go to their website to trade after hours or pre market hours. It isn\u2019t available in the app.\n\nI use fidelity for long term I\u2019ve been with them for years. They\u2019re not my favorite to navigate though. I prefer others for trading and watchlist.",
-        "created_utc": 1636084489,
-        "id": "hjdisue",
-        "score": 9,
+        "author": "KayneGirl",
+        "body": "Or even anything with a small Chinese motor.  We bought a Honda generator for an emergency at work with a motor made in China by HPE.  It seized in less than three hours of runtime.",
+        "created_utc": 1636219283,
+        "id": "hjkmmj4",
+        "permalink": "/r/stocks/comments/qo16cu/this_week_will_be_massive/hjkmmj4/",
+        "score": 4,
         "subreddit": "stocks",
-        "created": 1636113289.0
+        "created": 1636248083.0
     },
     {
-        "author": "FreeEuropeYouCunts",
-        "body": "[How I dress up before logging into Fidelity, knowing that TSLA had greater gains in one month than my portfolio's entire YTD](https://i.imgur.com/xEcrowX.jpg)",
-        "created_utc": 1635805927,
-        "id": "hixvbj9",
-        "score": 9,
-        "subreddit": "stocks",
-        "created": 1635834727.0
-    },
-    {
-        "author": "SnowInTheTundra",
-        "body": "Brokerage firms should send you souvenirs and shit if you hit milestones in your investment. Like get a 100k net worth and Fidelity sends you a mug in the mail.",
-        "created_utc": 1636153268,
-        "id": "hjhau7z",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1636182068.0
-    },
-    {
-        "author": "Jello_Available",
-        "body": "People hate RH, because they restricted trading when it was profitable for retail investors like you and I. I didn\u2019t personally invest in GME or AMC, but I moved the amount I had (10k) over to Fidelity, where I already have my 401k and Roth, on that principle alone. Can\u2019t trust a brokerage that restricts trading when it\u2019s convenient for them\u2026.the fact that people miss this HUGE red flag is alarming.",
-        "created_utc": 1636055393,
-        "id": "hjbnw5a",
-        "score": 8,
-        "subreddit": "StockMarket",
-        "created": 1636084193.0
-    },
-    {
-        "author": "cw8950",
-        "body": "Good luck to all those who hold BTTX today!! Wanted to fomo in but fidelity doesn\u2019t let me trade until 7am so looks like I missed the boat lol. Just curious what brokers allow trading for during early premarket?",
-        "created_utc": 1635759657,
-        "id": "hiv78eb",
-        "score": 8,
-        "subreddit": "SPACs",
-        "created": 1635788457.0
-    },
-    {
-        "author": "seb_a",
-        "body": "WeBull too restricted trading just like RH. E*TRADE did as well. To Fidelity I went.",
-        "created_utc": 1636043633,
-        "id": "hjatslg",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1636072433.0
-    },
-    {
-        "author": "Helpy-Mchelperton",
-        "body": "I got a FED call during the Columbus day thing on fidelity and they let me take care of it myself instead of liquidating my stuff. Pretty cool of them. Just saying. \ud83e\udd37\u200d\u2642\ufe0f",
-        "created_utc": 1636282543,
-        "id": "hjns0qj",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1636311343.0
-    },
-    {
-        "author": "MythrowawayAcc5678",
-        "body": "I'm still with RH but not very much money is it in. for example, RH has a really nice and simple layout combined with the DRIP option, something webull doesn't have. on top of that, RH's graphs are super easy to read, and show all the info without it being cluttered. Fidelity doesn't live stream stocks meaning unlike with RH, you need to refresh every 5 seconds to see the price movements. \n\nI use fidelity for my Roth, RH for my second smaller portfolio, and webull for day trading and other stuff. Coinbase is for crypto. typically I find it better to separate portfolios and some layouts are better than others. you wouldn't use robinhood for extreme technical analysis and you wouldn't use webull for long term buy and hold.",
-        "created_utc": 1635877167,
-        "id": "hj1hz2x",
-        "score": 7,
-        "subreddit": "StockMarket",
-        "created": 1635905967.0
-    },
-    {
-        "author": "SnowInTheTundra",
-        "body": "What can Robinhood or Fidelity even do if you get margin called? Do people go to court over this shit?",
-        "created_utc": 1636072373,
-        "id": "hjct4v8",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1636101173.0
-    },
-    {
-        "author": "Peelboy",
-        "body": "I have been using Fidelity for a while now and love the customer service and there is a physical location a couple miles from me.  I'm in the process of moving all my random retirement and other accounts over there now.",
-        "created_utc": 1636207456,
-        "id": "hjjv92p",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1636236256.0
-    },
-    {
-        "author": "rotaercz",
-        "body": "Everyone is using Fidelity because they didn't turn off buys during the GME sneeze.",
-        "created_utc": 1636108670,
-        "id": "hjedfq9",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1636137470.0
-    },
-    {
-        "author": "sorengard123",
-        "body": "Simple, quality of investor base. A CFO's dream is blue-chip long only funds like Fidelity and Wellington which buy and hold forever. Management doesn't want hedge funds grilling them every quarter over why the margin isn't 20bp higher or activists threatening to fire them. They want investors who trust them to run the business well over the long-term. There's a reason why Charter Communications is bullet proof. It has the highest institutional ownership on the Street and spends zero time courting investors or investment banks.",
-        "created_utc": 1636084218,
-        "id": "hjdibof",
-        "score": 7,
-        "subreddit": "SPACs",
-        "created": 1636113018.0
-    },
-    {
-        "author": "trump2024_3312",
-        "body": "If the fidelity app is right this isn't a bad dividend stock",
-        "created_utc": 1636271020,
-        "id": "hjnfnp4",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1636299820.0
-    },
-    {
-        "author": "wordyplayer",
-        "body": "Weird.   Fidelity provides a great service.    What was his job there??",
-        "created_utc": 1636161291,
-        "id": "hjht7wt",
-        "score": 7,
-        "subreddit": "wallstreetbets",
-        "created": 1636190091.0
-    },
-    {
-        "author": "Neo1331",
-        "body": "I\u2019m at about $8,000 in commissions in Fidelity and they told me to go pound sand\u2026\u2639\ufe0f",
-        "created_utc": 1636260906,
-        "id": "hjn2xok",
-        "score": 7,
+        "author": "m00z9",
+        "body": "Or T or HPE.",
+        "created_utc": 1636733096,
+        "id": "hkcguin",
+        "permalink": "/r/options/comments/qs920c/selling_naked_puts/hkcguin/",
+        "score": 3,
         "subreddit": "options",
-        "created": 1636289706.0
+        "created": 1636761896.0
     },
     {
-        "author": "I_love_avocados1",
-        "body": "It\u2019s most payment processors, not just PayPal. Look what\u2019s happening to old school competitors like $EEFT, $FIS, $FISV, $GPN, not to mention $MA, and $V.",
-        "created_utc": 1635864325,
-        "id": "hj0m8a9",
-        "score": 6,
-        "subreddit": "stocks",
-        "created": 1635893125.0
-    },
-    {
-        "author": "hellohi1994",
-        "body": "I kept buying and selling if you wanna see the trades I bought it\u2019ll take me some work but look at my post I jus made, I kept half sent to fidelity still hodling",
-        "created_utc": 1635978535,
-        "id": "hj7jtoo",
-        "score": 6,
-        "subreddit": "StockMarket",
-        "created": 1636007335.0
-    },
-    {
-        "author": "Jonnydoo",
-        "body": "Why didn't you just lie to fidelity to get higher options levels.",
-        "created_utc": 1636149132,
-        "id": "hjh0j7j",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1636177932.0
-    },
-    {
-        "author": "MrEwThatsGross",
-        "body": "Robinhood to get fucked. Fidelity for SPY",
-        "created_utc": 1635970820,
-        "id": "hj709qw",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1635999620.0
-    },
-    {
-        "author": "McKoijion",
-        "body": "There's a legit investing lesson here. I used to say that Robinhood had a well designed app UI, but a terrible back end infrastructure. Meanwhile, Vanguard, Fidelity, and Schwab have great back end infrastructure, but terrible, outdated UIs. I used to think what those companies did was the hard part, and Robinhood just put some paint on a pig. I joked it was a race to see who could fix themselves up faster. But it's been almost a year, and those old school websites are as bad as ever.\n\nVanguard's bad UI is somewhat on purpose, and Schwab bought TDA and Thinkorswim. But Fidelity is an embarrassment. Active Trader Pro is the single oldest and worst performing piece of software I've had the misfortune of interacting with in the past decade. Their mobile app is terrible as well, though I commend them for trying to introduce a nicer looking, but still barely functional Robinhood knockoff beta.\n\nBasically, good design is priceless. But since an investor's job is to put a price on things, I'll just say it's very valuable. Haters always said that Steve Jobs was just the pretty boy frontman, but there are a lot of computer companies and only one is the largest corporation on the planet by simply coasting on Jobs's designs. It's hard to write good code or build a brokerage, but it's almost impossible to create good design.\n\nBasically, leaps on $MLKN",
-        "created_utc": 1636085115,
-        "id": "hjdjwq9",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1636113915.0
-    },
-    {
-        "author": "havestickswilltravel",
-        "body": "I am with Fidelity. Can I register thru them? Ape not smart.",
-        "created_utc": 1636050755,
-        "id": "hjbc39e",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1636079555.0
-    },
-    {
-        "author": "I_need_my_fix_damnit",
-        "body": "Also on fidelity",
-        "created_utc": 1635903489,
-        "id": "hj3c863",
-        "score": 6,
-        "subreddit": "pennystocks",
-        "created": 1635932289.0
-    },
-    {
-        "author": "dahhb",
-        "body": "I got a response from one of those guys on Twitter, CannaVestments, yesterday. \n\nI carefully searched for all Reddit posts about this tweet. The best response I have is this is not a big deal. My takeaway: it is unlikely that less conservative, larger brokers like TD and Fidelity will start to block MSO OTC trades due to it still being a schedule one drug.\n\nHere's the thread from yesterday:\n\nhttps://www.reddit.com/r/weedstocks/comments/qiyczy/daily\\_discussion\\_thread\\_october\\_30\\_2021/?utm\\_source=share&amp;utm\\_medium=web2x&amp;context=3",
-        "created_utc": 1635812675,
-        "id": "hiyajy9",
-        "score": 5,
-        "subreddit": "weedstocks",
-        "created": 1635841475.0
-    },
-    {
-        "author": "BuffMaltese",
-        "body": "Last bearish bet I made I lost 11k the next day and Fidelity sent me a letter.",
-        "created_utc": 1636060922,
-        "id": "hjc1z77",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1636089722.0
-    },
-    {
-        "author": "alexgalt",
-        "body": "Still Robinhood for new people. Fidelity is fine, but there is a reason why Robinhood remains ultra popular with people who are just learning.",
-        "created_utc": 1636053591,
-        "id": "hjbjazv",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1636082391.0
-    },
-    {
-        "author": "hunter994",
-        "body": "I'm pretty sure you need to be a high net worth individual and a customer of the brokerage firm that publishes them, alternatively independent analysts offer subscriptions I think. Fidelity and Robinhood usually have (what I assume to be automatically generated) reports that have comps and such, but they aren't that great. I'm sure the others do to, but I haven't checked them out. \n\nThis is mostly speculation based off what I see other people talking about, I'm not a high net worth individual, and I don't value analyst reports.",
-        "created_utc": 1636140213,
-        "id": "hjgcyq1",
-        "score": 5,
-        "subreddit": "SPACs",
-        "created": 1636169013.0
-    },
-    {
-        "author": "TCB47",
-        "body": "Fidelity.  And as a post below states, it's not margin when cash secured.",
-        "created_utc": 1636151336,
-        "id": "hjh61h4",
-        "score": 5,
-        "subreddit": "options",
-        "created": 1636180136.0
-    },
-    {
-        "author": "bigdogc",
-        "body": "You need to get a rep. Ask them to match IBKR. I\u2019m at 0.85% with fidelity",
-        "created_utc": 1636226679,
-        "id": "hjl3o3b",
-        "score": 5,
-        "subreddit": "stocks",
-        "created": 1636255479.0
-    },
-    {
-        "author": "tebedam",
-        "body": "Just move your money to Interactive Brokers, that's what I did. It takes about 10 business days, the process is automated. Whatever margin you already have will also transfer.\n\nI tried margin on Fidelity for a month, had ~$350k on margin and kept trying to negotiate a better deal with multiple phone calls. All I got in the end was 5.5%. After that I moved the account and now my blended rate is ~1.2%. \n\nI set up a PRO account on IBKR, you pay a few fees and commissions this way, but overall get massive value due to low margin rates.",
-        "created_utc": 1636221615,
-        "id": "hjks3e9",
-        "score": 5,
-        "subreddit": "stocks",
-        "created": 1636250415.0
-    },
-    {
-        "author": "AutisticDravenMain",
-        "body": "IIRC, there\u2019s 5K minimum for margin. There\u2019s also fees on options. I just use Fidelity for my long positions and IRA, if you want to play with options, there are better choices.",
-        "created_utc": 1635826938,
-        "id": "hiz3qxd",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1635855738.0
-    },
-    {
-        "author": "Sven1542",
-        "body": "I have no used the TDA app, but fidelity is kind of a pain for an option novice.",
-        "created_utc": 1636046691,
-        "id": "hjb1q14",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1636075491.0
-    },
-    {
-        "author": "redbaronx",
-        "body": "I\u2019m on Fidelity, you have to agree to some terms to trade penny stocks tho.",
-        "created_utc": 1635795103,
-        "id": "hix52rn",
-        "score": 5,
-        "subreddit": "pennystocks",
-        "created": 1635823903.0
-    },
-    {
-        "author": "joethearchitect3",
-        "body": "This 401k plan had a Brokerage link option where you could buy individual stocks. Fidelity and Merrill Lynch have this option, but not every company 401k plan gives you the brokerage link option. It\u2019s a powerful tool for your retirement investment accounts if you\u2019re an active investor",
-        "created_utc": 1635938224,
-        "id": "hj4udwi",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1635967024.0
-    },
-    {
-        "author": "Conscious-Soil9055",
-        "body": "Webull (Their app and desktop program are by far the best I've used. they lack a couple of features but they release weekly updates)\n\nFidelity (They are by far the most conservative and least risky, they will frustrate you at times but its really to stop you from doing dumb things.) Fidelity is also nice because i manage 5 different retirement accounts there.\n\nE-Trade (I've heard great things, never used or seen, but people that do rave)\n\nI just opened an account with IBKR only for the low margin rate for my long term taxable account. It is very clunky. Fidelity's simple web version blows IBKR out of the water.",
-        "created_utc": 1636206432,
-        "id": "hjjt2kj",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1636235232.0
-    },
-    {
-        "author": "drwhiskeyscarn429",
-        "body": "Fidelity has become a bunch of bitches lately\u2026\n\nIt\u2019s like they don\u2019t understand option arbitrage",
-        "created_utc": 1635935855,
-        "id": "hj4qz23",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1635964655.0
-    },
-    {
-        "author": "dh4645",
-        "body": "I like fidelity",
-        "created_utc": 1636143164,
-        "id": "hjgktu1",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1636171964.0
-    },
-    {
-        "author": "internet_humor",
-        "body": "\"Hello Fucktard,\n\nYou good?\n\nIte, cool\"\n\n~Fidelity",
-        "created_utc": 1636168475,
-        "id": "hji88ha",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1636197275.0
-    },
-    {
-        "author": "code_man_",
-        "body": "Fidelity has the zero expense ratio index mutual funds.\n\nBut most people tend to argue that the Vanguard equivalent ETFs are better because they are more liquid and proven over time.",
-        "created_utc": 1635829242,
-        "id": "hiz78qa",
-        "score": 4,
-        "subreddit": "stocks",
-        "created": 1635858042.0
-    },
-    {
-        "author": "positronicsubprocess",
-        "body": "I am slowly moving to fidelity but I do love the simplicity of the interface. Also I made decent money in the post IPO pop/volatility by selling covered calls on my IPO allotment",
-        "created_utc": 1635976466,
-        "id": "hj7es6t",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1636005266.0
-    },
-    {
-        "author": "momofuku18",
-        "body": "Yup!  Plus, OP, welcome to Fidelity!",
-        "created_utc": 1635974766,
-        "id": "hj7aiil",
-        "score": 4,
-        "subreddit": "StockMarket",
-        "created": 1636003566.0
-    },
-    {
-        "author": "CHERCK_FLOKI",
-        "body": "Fidelity won't let me trade 0dte options. Wtf.",
-        "created_utc": 1636130498,
-        "id": "hjfnk2m",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1636159298.0
-    },
-    {
-        "author": "sockalicious",
-        "body": "&gt; He said he couldn't stand taking peoples money and not really offering a valuable service.\n\nYeah, he got fired.  I've been with Fidelity for 25 years and they've been nothing but great.",
-        "created_utc": 1636166131,
-        "id": "hji3jwu",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1636194931.0
-    },
-    {
-        "author": "Banabak",
-        "body": "Yea , ton of money directed into vanguard / fidelity in 401k/ iras every two weeks",
-        "created_utc": 1636079340,
-        "id": "hjd8lx7",
-        "score": 4,
-        "subreddit": "stocks",
-        "created": 1636108140.0
-    },
-    {
-        "author": "Grundle_Monster",
-        "body": "You know what fidelity didn\u2019t do? Expose that capital to the kind of risk that you took to make $3k",
-        "created_utc": 1635978557,
-        "id": "hj7jvl5",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1636007357.0
-    },
-    {
-        "author": "mandykayte",
-        "body": "Fidelity as well. Just make sure you enable penny stocks.",
-        "created_utc": 1635878104,
-        "id": "hj1keuk",
-        "score": 4,
-        "subreddit": "pennystocks",
-        "created": 1635906904.0
-    },
-    {
-        "author": "GiveMeMyM0ney",
-        "body": "3 minute conversation with fidelity. They will know why you are calling.",
-        "created_utc": 1636079452,
-        "id": "hjd8uqo",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1636108252.0
-    },
-    {
-        "author": "GaylrdFocker",
-        "body": "Not all Fidelity 401Ks allow that, mine did not.  Your plan still needs to make that an option, it isn't by default because you're at Fidelity.  And there are a lot more 401K companies than Fidelity, they never said they were with Fidelity.",
-        "created_utc": 1636081139,
-        "id": "hjdcd7b",
-        "score": 4,
+        "author": "Amori_A_Splooge",
+        "body": "they announced it likely wont happen until early 2023. But yes, you don't have to do anything. I had HP at the time and one day I had shares of HPE and HPQ.",
+        "created_utc": 1636501012,
+        "id": "hk01s9l",
+        "permalink": "/r/investing/comments/qq6xn4/ge_to_split_into_three_separate_businesses/hk01s9l/",
+        "score": 2,
         "subreddit": "investing",
-        "created": 1636109939.0
+        "created": 1636529812.0
     },
     {
-        "author": "LonelyGirlNeedsLove",
-        "body": "Mann the fidelity app is just.... \ud83d\ude02 everytime i click on my account the little circle will spin forever and my info can never seem to load. If only Robinghood wasn't sketchy.",
-        "created_utc": 1635910464,
-        "id": "hj3s7dq",
-        "score": 4,
-        "subreddit": "StockMarket",
-        "created": 1635939264.0
+        "author": "According-2-Me",
+        "body": "I like $HPQ (9.97 P/E) and $HPE (18.72 P/E) much better than $T right now. HP has great value and a solid company. Another company on my list is $INTC (P/E 9.75), their new Alder Lake chips really makes Intel competitive again (as Linus Tech Tips\u2019 review/tests). I really like how Pat (New-ish CEO) is an engineer and is ready to invest in becoming the market leader again. Intel also has a leg up because it designs AND fabs chips, unlike many others. Just for reference, right now $AMD has a P/E of 45.6, $QCOM 20.9, $NXPI 39, and $NVDA at a whopping 108.85. I\u2019m actually in on $MU, who has a P/E of 15",
+        "created_utc": 1636942817,
+        "id": "hko4qbp",
+        "permalink": "/r/smallstreetbets/comments/qu2e6x/who_the_fuck_sold_me_these_dirt_cheap_25c_t_call/hko4qbp/",
+        "score": 2,
+        "subreddit": "smallstreetbets",
+        "created": 1636971617.0
     },
     {
-        "author": "WeenisWrinkle",
-        "body": "Fidelity, Schwab, Vanguard are my 3 favorite.",
-        "created_utc": 1636129790,
-        "id": "hjflofi",
-        "score": 4,
-        "subreddit": "investing",
-        "created": 1636158590.0
-    },
-    {
-        "author": "x11onMac",
-        "body": "You forgot the $150 transfer fee Robinhood eats as you transfer to fidelity hence you\u2019ll lose 100% \ud83d\ude02",
-        "created_utc": 1636231411,
-        "id": "hjlef1a",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1636260211.0
-    },
-    {
-        "author": "sirachah",
-        "body": "Well, I\u2019m happy today. I was watching live and I never saw anything above that on fidelity. Although I do see now there was a peak of 29.10, I\u2019m not sure if that\u2019s a price correction. Either way, thanks to OP for hooking us up! I\u2019m looking forward to his next play.",
-        "created_utc": 1635787336,
-        "id": "hiwm5ln",
-        "score": 3,
-        "subreddit": "SPACs",
-        "created": 1635816136.0
-    },
-    {
-        "author": "StarfishSpencer",
-        "body": "Put money in my Fidelity account to buy some NMG last week, but the cash didn't clear in time. Price went up over fifty cents this morning before I could nab some, and then promptly dropped ten after I did so. Somehow it always seems to work out like this for me, lol.",
-        "created_utc": 1635781945,
-        "id": "hiw9gz2",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1635810745.0
-    },
-    {
-        "author": "MajorKeyBro",
-        "body": "What am I faking? I have DRS shares in the pool, and Fidelity shares I bought via IEX. But im also a retard that buys calls before the big runs.",
-        "created_utc": 1635799701,
-        "id": "hixgj6y",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1635828501.0
-    },
-    {
-        "author": "DudelyMore",
-        "body": "It's fine. And insured. Just keep using Fidelity for everything else and pretend it's not there for a decade. That said, they charged me zero to close an outside account and transfer to them, so get on the phone and talk to one of their support staff.",
-        "created_utc": 1636006796,
-        "id": "hj935e4",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1636035596.0
-    },
-    {
-        "author": "Praughfet",
-        "body": "Depending on the trade and reserve capital,  if  iam out of settled funds and complete a trade for say $500 profit or more,  ill wire money right back in and take the 30 fee as cost of business to have those funds ready again in 15 minutes.\n\nGFV was tricky.. i did get pinged at first , which made no sense to me\n\n i had an hour long phone call with fidelity about the GFV and the guy could flat out not answer me..   For OTC you have to trade with settled funds, a GFV is a trade made without settled funds, so how can that be....after an hour back and forth with the lackey i finally got transferred to a senior broker and was told to look at my cash available to withdraw to gauge if a GFV is possible.  no further problems.",
-        "created_utc": 1635976783,
-        "id": "hj7fl2d",
-        "score": 3,
-        "subreddit": "pennystocks",
-        "created": 1636005583.0
-    },
-    {
-        "author": "LastPotato1214",
-        "body": "$900m pipe... I might regret holding, but I wouldn't mind adding on any dip.   No anpan analysis, but these dudes look long...  Janus Henderson Investors, Fidelity, BlackRock, Neuberger Berman funds, and Goldman Sachs for 200m of it.",
-        "created_utc": 1636061883,
-        "id": "hjc4chq",
-        "score": 3,
-        "subreddit": "SPACs",
-        "created": 1636090683.0
-    },
-    {
-        "author": "_hiddenscout",
-        "body": "NRDS is available to buy on Fidelity. Still on the fence on this IPO.",
-        "created_utc": 1636043719,
-        "id": "hjau0s6",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1636072519.0
-    },
-    {
-        "author": "kft99",
-        "body": "Fidelity is very quick.",
-        "created_utc": 1635951385,
-        "id": "hj5lbdj",
-        "score": 3,
-        "subreddit": "SPACs",
-        "created": 1635980185.0
-    },
-    {
-        "author": "Difficult_Delay_8604",
-        "body": "If you want to learn about technical analysis\n\n* Learn about trend indicators e.g. moving averages, momentum indicators e.g. Oscillators, volatility indicators e.g. Bollinger Bands, Volume indicators e.g. Chaikin Money Flow\n* Support and resistance lines\n* Read some books about technical analysis. This one is a good overview but it focuses more on futures but the stuff is generally applicable to stocks as well: \"Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications\". Use z-lib or some other book pirating sites\n* Try and stay away from price action because that's the most suspect of all technical analysis. On the other hand, algorithmic/system trading is arguably the most rigorous of technical analysis based strategies.\n\nIf you want to learn about fundamental analysis\n\n* Learn about multipliers and other fundamentals e.g. P/E, EBITA, EV.\n* Learn how to make financial models e.g. Here's Martin Shkreli teaching how to build a financial model with IBM as an example [https://www.youtube.com/watch?v=fASInVKShnM](https://www.youtube.com/watch?v=fASInVKShnM) (disclaimer, I think this particular valuation turned out to be wrong so focus more on the techniques/models used rather than specifics about the companies) and here's DeepFuckingValue valuing GME [https://www.youtube.com/watch?v=GZTr1-Gp74U](https://www.youtube.com/watch?v=GZTr1-Gp74U). I think they make this type of dry stuff more \"accessible\" for the average person?\n* Read some books. I've heard intelligent investor by Benjamin Graham is good, although I haven't read it so see what the others here think\n\nBut honestly, just buy ETFs and save enough to retire.",
-        "created_utc": 1635755257,
-        "id": "hiv2qos",
-        "score": 9,
-        "subreddit": "stocks",
-        "created": 1635784057.0
-    },
-    {
-        "author": "Afrofreak1",
-        "body": "We are talking multiple years here if not decades. Companies like Exxon. a.) They are in a dying industry and have been unsuccessful in pivoting away from fossil fuels to alternative sources of revenue. b.) They are a poorly run company that has had multiple CEOs in the past 10 years. c.) They have had declining revenue since 2014. d.) They are not reinvesting a lot of their profits back into the business because so much of it is released to shareholders as dividends. They know that that is one of the few reasons they are still in a lot of portfolios and ETFs. \"tHey pAy a HeAlThY dIvIdEnD.\" Yes, but as a result they are backed into a corner and their business plan is basically: Extract as much value from the business as possible while we still can. \n\nDoes that mean that you can't make money off Exxon stock? No, ofc not, and in fact it's one of the best performing stocks in the S&amp;P500 this year. However, a company that has peaked without any contingency plan to continued growth will never be able to match the returns of a company like Microsoft or Google that are growing 20+% Y-o-Y top and bottom line. I will happily pay a premium to companies that have an outstanding track record and ample room to grow and, more importantly, *the proven ability to seek out alternative sources of revenue*. That is not priced in because we don't even know where these companies are headed until they tell us. I am putting my faith in Nadella and Pichai to lead those companies to growth opportunities that investors hadn't even considered yet. \n\nMeanwhile back at Exxon they are just doing damage control to make sure that their dividend is paid at all costs. That is a terrible investment strategy and the difference in returns over the past decade show it. How likely is it do you think that Exxon will continue down this path and likewise for Microsoft and Google? I do not want companies that don't have a bright future ahead because the potential for sizeable returns is just so much smaller. Unfortunately, companies like Exxon still occupy a sizeable chunk in the S&amp;P500 because once-upon-a-time Exxon in particular was the largest company in the world by market cap. As a result, it drops the S&amp;P500s total return hence why I went with the NASDAQ-100. \n\nIt's not that I'm actively *picking* tech stocks, it's that I'm *removing* chronically underperforming companies like Exxon, Chevron, Wells Fargo, IBM, Ford, GM, etc. and the NASDAQ is the most similar to what an ideal portfolio would look like.",
-        "created_utc": 1635773029,
-        "id": "hivqasw",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1635801829.0
-    },
-    {
-        "author": "LegitimateShameHands",
-        "body": "Gus Richard upgraded AMD on October 27th and downgraded them today while upgrading INTC. How can you change your mind and upgrade and again downgrade within 4 days wtf",
-        "created_utc": 1635768886,
-        "id": "hivj5jc",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1635797686.0
-    },
-    {
-        "author": "mrlumpus98",
-        "body": "My intel $47.50c for 11/5 might actually print",
-        "created_utc": 1635768922,
-        "id": "hivj7im",
+        "author": "remdesivir2020",
+        "body": "Thanks to Goldman and HPE\n\nDUMP BEFORE WEEKEND",
+        "created_utc": 1636727941,
+        "id": "hkc4olh",
+        "permalink": "/r/wallstreetbets/comments/qs8s63/daily_discussion_thread_for_november_12_2021/hkc4olh/",
         "score": 2,
         "subreddit": "wallstreetbets",
-        "created": 1635797722.0
+        "created": 1636756741.0
     },
     {
-        "author": "mrkaluzny",
-        "body": "Don\u2019t sell AAPL. I think they\u2019re going to 200 in 22 (depends on chips shortage) new MacBooks are flying off the shelves AAPL is supply bound but the margin on their own devices is higher then Intel-based ones. And this is not priced in IMO.",
-        "created_utc": 1635753576,
-        "id": "hiv110b",
+        "author": "MvCSpiderman",
+        "body": "Hpe?",
+        "created_utc": 1636728159,
+        "id": "hkc55wf",
+        "permalink": "/r/wallstreetbets/comments/qs8s63/daily_discussion_thread_for_november_12_2021/hkc55wf/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1636756959.0
+    },
+    {
+        "author": "therealJcrusin",
+        "body": "A list of buyers for this stock\n\nGoogle\nFidelity \nLockheed Martin \nKia\nHyundai \nBill Gates\nRobert Bosch\nSamsung \nMicheal Dell\nAmazon\nHewlett Packard\n\n\nStill not convinced? Look any of those up to see their investments.",
+        "created_utc": 1636200537,
+        "id": "hjjhy2e",
+        "permalink": "/r/wallstreetbets/comments/qnweov/welcome_ionq_investors_to_getting_rich_off_of/hjjhy2e/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1636229337.0
+    },
+    {
+        "author": "thundergodsnake",
+        "body": "If you trust the numbers from China, Alibaba is a steal at this price point of  $162. I picked this up recently alongside Intel, Foot Locker, Sleep Number. Walgreens, Facebook, Best Buy, VMWare, Hewlett Packard, NVR, Malibu Boats, and Medifast all undervalued with margins between 11% and some over 20% at current prices and projections. Also a little bit of Bristol Myers.",
+        "created_utc": 1636425961,
+        "id": "hjvz5ja",
+        "permalink": "/r/ValueInvesting/comments/qp7bww/weekly_megathread_markets_and_value_stock_ideas/hjvz5ja/",
+        "score": 8,
+        "subreddit": "ValueInvesting",
+        "created": 1636454761.0
+    },
+    {
+        "author": "Longjumping_College",
+        "body": "Yeah I saw it, but was waiting on a catalyst instead of a slow bleed. Congrats on the cheap SP. Pretty happy with mine too. This kind of tech is the future along with [things like this](https://www.globenewswire.com/news-release/2021/08/05/2275911/0/en/HPQ-Gen-1-Nano-Silicon-Reactor-Successfully-Produces-First-Sample-of-Nano-Silicon-Material.html) are how we stop pulling so much shit out of the ground just to add to more piles of trash.",
+        "created_utc": 1636397761,
+        "id": "hju4s8c",
+        "permalink": "/r/pennystocks/comments/qpemw0/abml_partnering_with_mnsef_ev_battery_production/hju4s8c/",
+        "score": 6,
+        "subreddit": "pennystocks",
+        "created": 1636426561.0
+    },
+    {
+        "author": "China_shop_BULL",
+        "body": "The Apple 1 home pc was rejected by Hewlett-Packard and look at them now. Petroteq has achieved net zero pollution in its field almost 30 years ahead of government climate agreements and as far as I know the only one to achieve it. They\u2019ve proven to keep production costs the same as now if they don\u2019t sell the clean sand byproduct, around half of current cost if they do sell the sand. The oil extracted is also viable for Quadrise Fuel MSAR and bioMSAR. Personally, I think these guys are going to be dug into the sector ( much like Apple to PC ) in the future.",
+        "created_utc": 1636506213,
+        "id": "hk0dffu",
+        "permalink": "/r/pennystocks/comments/qqdhti/pqeff_major_catalysts_incoming_buyout_offer_on/hk0dffu/",
+        "score": 4,
+        "subreddit": "pennystocks",
+        "created": 1636535013.0
+    },
+    {
+        "author": "ble2716",
+        "body": "Hpq.  You can buy 3 shares with $2.",
+        "created_utc": 1635953415,
+        "id": "hj5qhla",
+        "permalink": "/r/CanadianInvestor/comments/qlr6y3/daily_discussion_thread_for_november_03_2021/hj5qhla/",
+        "score": 3,
+        "subreddit": "CanadianInvestor",
+        "created": 1635982215.0
+    },
+    {
+        "author": "axel-07",
+        "body": "I am trying to build a balanced stocks portofolio and until know this is what I have:\n\nAAPL\t8.71%\r  \nMSFT\t8.12%\r  \nJNJ\t        6.44%\r  \nO     \t5.65%\r  \nADM\t5.05%\r  \nAPPS\t5.03%\r  \nENPH\t4.78%\r  \nINTC\t4.59%\r  \nPEP  \t4.56%\r  \nCAG\t4.47%\r  \nSQ\t        4.31%\r  \nSNY\t        4.04%\r  \nCRSR\t3.58%\r  \nTM\t        3.57%\r  \nVICI\t        3.51%\r  \nARCC\t3.34%\r  \nHPQ\t3.12%\r  \nMDLZ\t2.45%\r  \nSBSW\t2.38%\r  \nCVX \t2.28%\r  \nPATH\t2.23%\r  \nBTG \t2.16%\r  \nPAAS\t2.09%\r  \nKMI \t2.00%\r  \nARCT\t1.53%",
+        "created_utc": 1636465870,
+        "id": "hjxo7qr",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hjxo7qr/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1636494670.0
+    },
+    {
+        "author": "Amori_A_Splooge",
+        "body": "they announced it likely wont happen until early 2023. But yes, you don't have to do anything. I had HP at the time and one day I had shares of HPE and HPQ.",
+        "created_utc": 1636501012,
+        "id": "hk01s9l",
+        "permalink": "/r/investing/comments/qq6xn4/ge_to_split_into_three_separate_businesses/hk01s9l/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1636529812.0
+    },
+    {
+        "author": "OptionSalary",
+        "body": "Today I sold CSP in ABBV, XLNX, SLV, HPQ, GM. \nI have others open as well. Find names you will hold \"for a long time\", sell for an acceptable yield. Repeat.",
+        "created_utc": 1635805992,
+        "id": "hixvgwr",
+        "permalink": "/r/options/comments/qkfdy8/ideas_for_cash_covered_puts/hixvgwr/",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1635834792.0
+    },
+    {
+        "author": "OSdan508",
+        "body": "AAPL\nMMM\nT\nBABA\nINTC\nWBA\nKFRC\nDIS\nFB\nRUSHB\nHPQ\nBBY\nCI\nTAP\nQCOM\nPHM",
+        "created_utc": 1636256962,
+        "id": "hjmw6cn",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hjmw6cn/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1636285762.0
+    },
+    {
+        "author": "According-2-Me",
+        "body": "\nNo clue what it is. But after a quick search on my broker, it\u2019s got a sell rating and they haven\u2019t been profitable for as far back as I can view (Q2 2020). Not a good company. Cash flows and profits with fundamentals is what values a company in the long term. I only buy LEAPS options on companies I am 100% are going to do well/appreciate on the stock market within the next 90-365 days. This includes AAPL, HPQ, GM, and F. Even though I am fully confident in Palantir the company, PLTR the stock has been slow to gain. I will hold shares until I see steady and faster growth in the share price.",
+        "created_utc": 1636079662,
+        "id": "hjd9b2g",
+        "permalink": "/r/stocks/comments/qn162y/any_thoughts_on_akts/hjd9b2g/",
         "score": 1,
         "subreddit": "stocks",
-        "created": 1635782376.0
+        "created": 1636108462.0
     },
     {
-        "author": "Wazoo_destroyer",
-        "body": "1. Intel has been heavily supporting their share price, where would it be without them? Sub $40?\n2. Their p/e ratio reflects their market saturation, who are they going to steal market share from? They are the incumbent.\n3. And they will need every cent to build new fabs.\n4. Never say never, Intel is going to have to take on massive debt, in addition to the 30B they carry at present, to fund IDM2.0. If the CFO is looking for cash the dividend is easy pickings.\n\nTheir new weird CEO has stated intc is aiming for leadership in 2025, 3-4 years away. One thing to remember is this super cycle aside, the semiconductor biz is cyclical, boom and bust. In 3 or 4 years when demand drops off and both TSMC and INTC have built massive chip foundry capacity, where will the customers go? To the foundry with the best process. Whoever has overbuilt will suffer.",
-        "created_utc": 1635760375,
-        "id": "hiv80az",
+        "author": "TitaniumWhite00",
+        "body": "HPQ. PYR",
+        "created_utc": 1635953518,
+        "id": "hj5qr48",
+        "permalink": "/r/stocks/comments/qlmwjf/what_stock_do_you_think_is_most_likely_to_10x_in/hj5qr48/",
         "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1635789175.0
+        "subreddit": "stocks",
+        "created": 1635982318.0
     },
     {
-        "author": "Wazoo_destroyer",
-        "body": "&gt; The nm stuff isn't really accurate for any of them anymore so not worried about a rebrand.\n\nGate leakage and ultimately performance per watt is the real measure of a process. If one compares Tsmc and Intel fabbed processors on what both call 7nm, the tsmc silicon is easily better.",
-        "created_utc": 1635759591,
-        "id": "hiv75y6",
+        "author": "therealJcrusin",
+        "body": "A list of buyers for this stock\n\nGoogle\nFidelity \nLockheed Martin \nKia\nHyundai \nBill Gates\nRobert Bosch\nSamsung \nMicheal Dell\nAmazon\nHewlett Packard\n\n\nStill not convinced? Look any of those up to see their investments.",
+        "created_utc": 1636200537,
+        "id": "hjjhy2e",
+        "permalink": "/r/wallstreetbets/comments/qnweov/welcome_ionq_investors_to_getting_rich_off_of/hjjhy2e/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1636229337.0
+    },
+    {
+        "author": "thundergodsnake",
+        "body": "If you trust the numbers from China, Alibaba is a steal at this price point of  $162. I picked this up recently alongside Intel, Foot Locker, Sleep Number. Walgreens, Facebook, Best Buy, VMWare, Hewlett Packard, NVR, Malibu Boats, and Medifast all undervalued with margins between 11% and some over 20% at current prices and projections. Also a little bit of Bristol Myers.",
+        "created_utc": 1636425961,
+        "id": "hjvz5ja",
+        "permalink": "/r/ValueInvesting/comments/qp7bww/weekly_megathread_markets_and_value_stock_ideas/hjvz5ja/",
+        "score": 8,
+        "subreddit": "ValueInvesting",
+        "created": 1636454761.0
+    },
+    {
+        "author": "Longjumping_College",
+        "body": "Yeah I saw it, but was waiting on a catalyst instead of a slow bleed. Congrats on the cheap SP. Pretty happy with mine too. This kind of tech is the future along with [things like this](https://www.globenewswire.com/news-release/2021/08/05/2275911/0/en/HPQ-Gen-1-Nano-Silicon-Reactor-Successfully-Produces-First-Sample-of-Nano-Silicon-Material.html) are how we stop pulling so much shit out of the ground just to add to more piles of trash.",
+        "created_utc": 1636397761,
+        "id": "hju4s8c",
+        "permalink": "/r/pennystocks/comments/qpemw0/abml_partnering_with_mnsef_ev_battery_production/hju4s8c/",
+        "score": 6,
+        "subreddit": "pennystocks",
+        "created": 1636426561.0
+    },
+    {
+        "author": "China_shop_BULL",
+        "body": "The Apple 1 home pc was rejected by Hewlett-Packard and look at them now. Petroteq has achieved net zero pollution in its field almost 30 years ahead of government climate agreements and as far as I know the only one to achieve it. They\u2019ve proven to keep production costs the same as now if they don\u2019t sell the clean sand byproduct, around half of current cost if they do sell the sand. The oil extracted is also viable for Quadrise Fuel MSAR and bioMSAR. Personally, I think these guys are going to be dug into the sector ( much like Apple to PC ) in the future.",
+        "created_utc": 1636506213,
+        "id": "hk0dffu",
+        "permalink": "/r/pennystocks/comments/qqdhti/pqeff_major_catalysts_incoming_buyout_offer_on/hk0dffu/",
+        "score": 4,
+        "subreddit": "pennystocks",
+        "created": 1636535013.0
+    },
+    {
+        "author": "gogglesvancouver",
+        "body": "Nah. \n\nPyrogenesis\nHPQ\nBB\nTesla\nCP\n\nAnd other small miners/oil\n\nJust luck honestly. And right timing and flipping\n\nOnly recently starting to dabble in crypto\n\nJust don't get caught in fomo and don't be too greedy. Granted I still make those mistakes",
+        "created_utc": 1636935022,
+        "id": "hknnt1i",
+        "permalink": "/r/CanadianInvestor/comments/qtxdbh/overnight_discussion_thread_to_kick_off_the_week/hknnt1i/",
+        "score": 3,
+        "subreddit": "CanadianInvestor",
+        "created": 1636963822.0
+    },
+    {
+        "author": "ble2716",
+        "body": "Hpq.  You can buy 3 shares with $2.",
+        "created_utc": 1635953415,
+        "id": "hj5qhla",
+        "permalink": "/r/CanadianInvestor/comments/qlr6y3/daily_discussion_thread_for_november_03_2021/hj5qhla/",
+        "score": 3,
+        "subreddit": "CanadianInvestor",
+        "created": 1635982215.0
+    },
+    {
+        "author": "axel-07",
+        "body": "I am trying to build a balanced stocks portofolio and until know this is what I have:\n\nAAPL\t8.71%\r  \nMSFT\t8.12%\r  \nJNJ\t        6.44%\r  \nO     \t5.65%\r  \nADM\t5.05%\r  \nAPPS\t5.03%\r  \nENPH\t4.78%\r  \nINTC\t4.59%\r  \nPEP  \t4.56%\r  \nCAG\t4.47%\r  \nSQ\t        4.31%\r  \nSNY\t        4.04%\r  \nCRSR\t3.58%\r  \nTM\t        3.57%\r  \nVICI\t        3.51%\r  \nARCC\t3.34%\r  \nHPQ\t3.12%\r  \nMDLZ\t2.45%\r  \nSBSW\t2.38%\r  \nCVX \t2.28%\r  \nPATH\t2.23%\r  \nBTG \t2.16%\r  \nPAAS\t2.09%\r  \nKMI \t2.00%\r  \nARCT\t1.53%",
+        "created_utc": 1636465870,
+        "id": "hjxo7qr",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hjxo7qr/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1636494670.0
+    },
+    {
+        "author": "Amori_A_Splooge",
+        "body": "they announced it likely wont happen until early 2023. But yes, you don't have to do anything. I had HP at the time and one day I had shares of HPE and HPQ.",
+        "created_utc": 1636501012,
+        "id": "hk01s9l",
+        "permalink": "/r/investing/comments/qq6xn4/ge_to_split_into_three_separate_businesses/hk01s9l/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1636529812.0
+    },
+    {
+        "author": "OptionSalary",
+        "body": "Today I sold CSP in ABBV, XLNX, SLV, HPQ, GM. \nI have others open as well. Find names you will hold \"for a long time\", sell for an acceptable yield. Repeat.",
+        "created_utc": 1635805992,
+        "id": "hixvgwr",
+        "permalink": "/r/options/comments/qkfdy8/ideas_for_cash_covered_puts/hixvgwr/",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1635834792.0
+    },
+    {
+        "author": "OSdan508",
+        "body": "AAPL\nMMM\nT\nBABA\nINTC\nWBA\nKFRC\nDIS\nFB\nRUSHB\nHPQ\nBBY\nCI\nTAP\nQCOM\nPHM",
+        "created_utc": 1636256962,
+        "id": "hjmw6cn",
+        "permalink": "/r/stocks/comments/pfpyxc/rate_my_portfolio_rstocks_quarterly_thread/hjmw6cn/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1636285762.0
+    },
+    {
+        "author": "According-2-Me",
+        "body": "I like $HPQ (9.97 P/E) and $HPE (18.72 P/E) much better than $T right now. HP has great value and a solid company. Another company on my list is $INTC (P/E 9.75), their new Alder Lake chips really makes Intel competitive again (as Linus Tech Tips\u2019 review/tests). I really like how Pat (New-ish CEO) is an engineer and is ready to invest in becoming the market leader again. Intel also has a leg up because it designs AND fabs chips, unlike many others. Just for reference, right now $AMD has a P/E of 45.6, $QCOM 20.9, $NXPI 39, and $NVDA at a whopping 108.85. I\u2019m actually in on $MU, who has a P/E of 15",
+        "created_utc": 1636942817,
+        "id": "hko4qbp",
+        "permalink": "/r/smallstreetbets/comments/qu2e6x/who_the_fuck_sold_me_these_dirt_cheap_25c_t_call/hko4qbp/",
+        "score": 2,
+        "subreddit": "smallstreetbets",
+        "created": 1636971617.0
+    },
+    {
+        "author": "VisualNoiz",
+        "body": "Peter seems like a maniac but I think it will be in decent shape in 5 years, for some reason I trust him  . This is only my Pennies profile ,  the heart of my main account $7K is BDRBF, RKT, HPQ, FAT and WWW",
+        "created_utc": 1636996692,
+        "id": "hkqp0yy",
+        "permalink": "/r/pennystocks/comments/qu0fmo/i_moved_all_my_pennies_into_one_account_together/hkqp0yy/",
+        "score": 2,
+        "subreddit": "pennystocks",
+        "created": 1637025492.0
+    },
+    {
+        "author": "Andrew_RH",
+        "body": "Yes. \n\nNMG - Nouveau Monde Graphite - A Canadian company rumored to have a deal with Tesla, or at least another major EV manufacturer, for Li-Ion battery anode graphite. Telsa just took delivery of Anode equipment in TX and the timeline for both companies seems to line up. They could have Ford, VW, or whatever as a customer but it doesnt matter. The point is that NMG is on the verge of major revenue very soon. I'm expecting an announcement of who their customer is by Q1 or Q2 but it could be sooner or it could be later.  \n\nPYR - Pyrogenesis - This is a company who's about to break out with an order of magnitudes revenue increase from any one of many verticals such as 1. Their partnership with HPQ Silicon and their battery anode material. 2. The iron ore pelletization industry. 3. They're in the last stages of qualification with a tier1 aerospace manufacturer for their titanium powder. Other things like their waste to energy systems and other things will continue to add revenue gains to their bottom line. \n\nAXU - Alexco Resources -  This is a Canadian Silver mine that just began production, but is still valued as a non-producer, and they are about to report earnings. Silver itself would appear to be on the verge of a price increase due to inflation and other things and silver mines trade at a high beta to the price of Silver, generally they move in price by 2X-5X of whatever Silver does. \n\nDo your DD!",
+        "created_utc": 1636737253,
+        "id": "hkcr5qj",
+        "permalink": "/r/smallstreetbets/comments/qs1ebv/started_this_acct_with_103_bucks_now_i_just_need/hkcr5qj/",
+        "score": 1,
+        "subreddit": "smallstreetbets",
+        "created": 1636766053.0
+    },
+    {
+        "author": "Andrew_RH",
+        "body": "Roughly equal. \r\n\r\nIf I had to cut one, I\u2019d cut Alexco... Silver is a different kind of play. \r\n\r\nI'd split between PYR and NMG. \r\n\r\nWhat if you bet hard on PYR because it's got a list of massive things that can make it pop any day, but NMG announces who their big EV customer is and it jumps to something like $30-$50? Then what? \r\n\r\nWhy couldn't it do at least that? Look at what PLL did when they announced. That's Piedmont Lithium. You never know how the market will react, it could take longer. \r\n\r\nLithium is 1% of the Cathode in a Li-Ion battery, Graphite is typically over 95% of the Anode. \r\n\r\nJust like PYR, NMG has some massive things about to happen.  \r\n\r\nFurthermore, you could peel off maybe 25% and give birth to a Fidelity account. With it you can access the OTC. That\u2019s a different kind of wild, be careful and stick to the fundamentals. Do deep DD, YouTube is your friend. HPQ Silicon's ticker is HPQFF. They've figured out how to efficiently and responsibly process and form Silicon in a way where it can be used in the Anode and displace up to 20% of the Graphite. HPQ's partner is PYR. Silicon adds a lot of performance to a battery. \r\n\r\nTesla just received their anode equipment at Texas. If Tesla is the customer of NMG and HPQFF, with how quickly they move, its hard to know when we'll know something. It could be tomorrow or it could be months, perhaps quarters. Both NMG and HPQ have signed NDAs with major battery/auto manufacturer(s). At minimum they\u2019ll tell us when every last detail is finalized or when there\u2019s a material change to the business and they\u2019re required to disclose.\r\n\r\nI'm eager to find out who it is... it might not be Tesla, it could be Ford, VW, or someone else. Maybe it\u2019s more than one? No one knows. \r\n\nDiversity is really important. It's better to have more than one moon shot. \n\nHave you looked at Dogecoin? Things go up when there's more buyers. Usually there's more buyers during peak media. When SpaceX launches the DOGE-1 mission in 1Q22 and sends a satellite in orbit around the moon, what do you think the media cycle will be like around Dogecoin?",
+        "created_utc": 1636768716,
+        "id": "hkepvq6",
+        "permalink": "/r/smallstreetbets/comments/qs1ebv/started_this_acct_with_103_bucks_now_i_just_need/hkepvq6/",
+        "score": 1,
+        "subreddit": "smallstreetbets",
+        "created": 1636797516.0
+    },
+    {
+        "author": "According-2-Me",
+        "body": "\nNo clue what it is. But after a quick search on my broker, it\u2019s got a sell rating and they haven\u2019t been profitable for as far back as I can view (Q2 2020). Not a good company. Cash flows and profits with fundamentals is what values a company in the long term. I only buy LEAPS options on companies I am 100% are going to do well/appreciate on the stock market within the next 90-365 days. This includes AAPL, HPQ, GM, and F. Even though I am fully confident in Palantir the company, PLTR the stock has been slow to gain. I will hold shares until I see steady and faster growth in the share price.",
+        "created_utc": 1636079662,
+        "id": "hjd9b2g",
+        "permalink": "/r/stocks/comments/qn162y/any_thoughts_on_akts/hjd9b2g/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1636108462.0
+    },
+    {
+        "author": "TitaniumWhite00",
+        "body": "HPQ. PYR",
+        "created_utc": 1635953518,
+        "id": "hj5qr48",
+        "permalink": "/r/stocks/comments/qlmwjf/what_stock_do_you_think_is_most_likely_to_10x_in/hj5qr48/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1635982318.0
+    },
+    {
+        "author": "zxcv46",
+        "body": "I think the semi sector is interesting, however I do not like AMD because their devices are largely manufactured by Taiwanese fabs like TSMC. I dislike Taiwanese companies because 1/3 of Taiwanese identify as Chinese and 99% of the remaining 2/3 are not willing to sacrifice their lives to fight the Chinese, which has big implications for the future viability and shareholder returns of these companies. I am more interested in companies operating within western business norms that can contribute to western manufacturing. I own a basket of stocks for diversification, but currently I have AMAT, LCRX, ASML, KLAC as core names, and WOLF and AEHR as more speculative names.",
+        "created_utc": 1635914479,
+        "id": "hj3zy51",
+        "permalink": "/r/investing/comments/qkaphs/amat_amd_instead_of_nio_qs_is_this_a_good_bet/hj3zy51/",
+        "score": -1,
+        "subreddit": "investing",
+        "created": 1635943279.0
+    },
+    {
+        "author": "FlorianNV",
+        "body": "Jim Cramer's email confirmed this morning (11/2/21) that there are 33 stocks in his charitable trust. In addition to the 30 listed above, and Dupont and Norton Lifelock, which are listed elsewhere in this thread, the 33rd stock is Cisco.\n\nAlso, Cramer this morning on CNBC mentioned again that Ford is his top holding at the moment.\n\nI took a screen shot of his list of holdings, but I can't figure out how to add an image to this post.",
+        "created_utc": 1635866355,
+        "id": "hj0r247",
+        "permalink": "/r/investing/comments/qfopi1/which_30_or_so_stocks_are_in_jim_kramers/hj0r247/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1635895155.0
+    },
+    {
+        "author": "BrownieKhan",
+        "body": "Pure Storage Cocks!!! Raising q3 guidance. Such a better stock than Nutanix or Netapp. PSTG",
+        "created_utc": 1635953682,
+        "id": "hj5r6eo",
+        "permalink": "/r/wallstreetbets/comments/qlr721/daily_discussion_thread_for_november_03_2021/hj5r6eo/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1635788391.0
+        "created": 1635982482.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the  1st of November\n\n\n\n## Upcoming events for Monday, November  1st\n\n - Expected earnings:\n\n  ABIO, ADC, ADTN, ADUS, AKTS, ALX, AMC, AMG, AMRC, ANAT, ANET, APEN, APLS, AWR, BEN, BNL, BRKR, BRX, BWXT, CACC, CAR, CCLP, CEA, CHGG, CLDB, CLX, CNA, CORR, CPLP, CRNT, CRUS, CSR, CSWC, CURO, CVI, CWBC, DSPG, DSS, DZSI, EC, EEX, EGRX, ENBL, EPRT, EVER, FANG, FEDU, FGBI, FN, GAIA, GAME, GSS, GTE, GXO, HLIT, HNRG, HOLX, IPI, ISEE, IVAC, IVT, IX, JELD, KFRC, KLDO, KMT, KOF, L, LDI, LEG, LKCO, LTRN, LXU, MCK, MFIN, MGP, MNOV, MOS, MRBK, MVBF, NBIX, NERV, NRIM, NSP, NSSC, NTR, NXPI, O, OGS, OIS, ON, ONVO, OTTR, PCG, PDLB, PLOW, PSA, RHP, RIG, RMBS, RRX, RYAAY, SBAC, SBT, SKT, SMLR, SNDX, SOI, SPG, SUNW, SXC, TA, TKR, TRVG, TRVN, TTI, UAN, UNVR, VBIV, VNO, VNOM, VRNS, WBK, WLFC, WMB, WMK, WTRG, XENT, ZI\n\n - Ex-div:\n\n  AES, BANR, BKR, ETRN, FAM, FCCO, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, FTHY, HIHO, IGD, ITUB, LMRK, O, OMF, SHLX, SPH, SRCE, VER, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.055%)\n    - 6-Month Bill Auction (previous: 0.060%)\n    - Construction Spending (consensus: 0.4%, previous: 0.3%)\n    - ISM Manufacturing Employment (previous: 50.2)\n    - ISM Manufacturing New Orders Index (previous: 66.7)\n    - ISM Manufacturing PMI (consensus: 60.5, previous: 61.1)\n    - ISM Manufacturing Prices (consensus: 78.5, previous: 81.2)\n    - Investing.com Gold Index (actual: 59.9%, previous: 54.3%)\n    - Investing.com S&amp;P 500 Index (actual: 57.5%, previous: 47.2%)\n    - Loan Officer Survey\n    - Manufacturing PMI (consensus: 59.2, previous: 60.7)\n    - Total Vehicle Sales (previous: 9.66M)\n\n## Upcoming events for Tuesday, November  2nd\n\n - Expected earnings:\n\n  AAIC, ACH, ACOR, ACT, ADCT, ADXN, AFG, AGRX, AHH, AIZ, AKAM, AMCR, AME, AMED, AMGN, ANDE, APO, APPS, AQB, AQST, ARCB, ARGO, ARNC, AROC, ATVI, AVNS, AWK, AYX, BBGI, BCC, BFAM, BGFV, BHC, BKH, BLD, BLMN, BP, BRY, BSBR, BTG, BXC, CASA, CDK, CDLX, CEIX, CERS, CHCT, CHK, CIGI, CINR, CLNN, CLW, CMI, COP, COUR, CRK, CRSR, CRVL, CSLT, CTLT, CZR, DAR, DCO, DCP, DCPH, DD, DEA, DEI, DENN, DHT, DOX, DRRX, DS, DVN, EARN, EDU, EGHT, EIX, EKSO, EL, ELVT, ENLC, EOLS, EPD, ESPR, ETN, ETRN, EXAS, EXEL, EXLS, EXPD, EXTN, EXTR, FMC, FNF, FRG, FRSH, FSP, FSTR, GAIN, GIC, GLDD, GLT, GLYC, GNRC, GNW, GPN, GPOR, GRBK, HALO, HCC, HEES, HEP, HLF, HLNE, HRB, HSC, HSIC, HURN, HY, IAA, IART, ICD, ICFI, ICHR, IDXX, IEP, INCY, INFI, INGR, INSP, INTG, INVE, IOSP, IPGP, IT, JBGS, JRVR, KAI, KAMN, KAR, KKR, KOPN, KTCC, LCII, LDOS, LEA, LGIH, LILA, LILAK, LIND, LPI, LPSN, LPX, LRFC, LSCC, LSI, LUNG, LYFT, MANT, MCY, MDLZ, MDXG, MEC, METC, MG, MGNX, MGY, MIME, MINM, MKL, MLM, MMP, MOD, MPC, MPLX, MRCC, MRCY, MTCH, MTRN, MYGN, NAUT, NCSM, NE, NETI, NMIH, NNN, NP, NR, NRC, NRZ, NSA, NXRT, NXST, NYMT, OCFT, OCN, OKE, OMCL, OMIC, ORTX, OSPN, OVV, PAA, PACB, PAGP, PAHC, PAYC, PEAK, PEG, PFE, PINC, PIRS, PKI, PKOH, PMTS, PRO, PRTS, PRU, PTRS, PUMP, QUAD, RACE, RAMP, RARE, RCKY, RCM, RDN, RGNX, RIGL, RL, RM, ROK, RRD, RRR, RYAM, RYTM, SABR, SAGE, SEB, SEDG, SEE, SEVN, SFST, SGRY, SHIP, SKY, SKYT, SMCI, SNCY, SPLP, SPT, SQNS, SRC, SRCL, SREV, SRG, SRT, STAR, STE, STRL, TCS, TECH, TMUS, TMX, TNC, TRC, TRI, TRNS, TRTX, TSLX, TSQ, TTM, TVTY, TX, UA, UAA, UBCP, UFPT, UIS, UNM, USAC, USDP, UTL, VAL, VECO, VMD, VOYA, VRSK, VRTX, WAT, WBT, WEC, WEYS, WFRD, WLK, WLKP, WTI, WTTR, WU, XHR, XPO, XYL, Z, ZBRA, ZG, ZYME\n\n - Ex-div:\n\n  ASML, BRO, CAPL, CBAN, DSX, HFWA, LUB, MCBS, MKTX, MTX, NTIC, SSBK, TACO, TRS, USDP, VSEC\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.090%)\n    - API Weekly Crude Oil Stock (previous: 2.318M)\n    - IBD/TIPP Economic Optimism (previous: 46.8)\n    - Redbook (previous: 15.6%)\n\n## Upcoming events for Wednesday, November  3rd\n\n - Expected earnings:\n\n  AAWW, ACA, ACEL, ACLS, ACRE, ACRS, ADPT, AEE, AFIN, AGIO, ALB, ALL, ALTM, AMOT, AMRN, AMSC, ANAB, ANSS, ANVS, APA, ARAY, ARC, ARTL, ARTNA, ASC, ASTE, ASXC, ATEX, ATGE, ATH, ATRC, ATXI, ATY, AUPH, AUTL, AVA, AVNW, AXGN, BBSI, BCRX, BCSF, BDC, BDSI, BGCP, BGSF, BIP, BKCC, BKNG, BLKB, BLUE, BNFT, BR, BRSP, BVH, BWA, CAKE, CCRN, CCU, CDAY, CDEV, CDW, CDXC, CENX, CF, CFMS, CGBD, CHNG, CIA, CIM, CIO, CIX, CKPT, CLH, CLR, CLVS, CMLS, CMP, COHN, CORT, CPE, CPK, CPRI, CPS, CRL, CRTO, CSGS, CSTE, CSWI, CTRA, CTVA, CUTR, CVE, CVGI, CVS, CW, CWAN, CWH, CYTK, DFIN, DIOD, DISCA, DISCB, DISCK, DMAC, DNOW, DRTT, DXC, DXYN, EA, EAT, ECPG, EGY, ELA, ELF, EMR, EPR, EQH, EQIX, EQX, ES, ET, ETR, ETSY, EVA, EVH, EVOP, EVRG, EVRI, EXC, EXPI, EYPT, FDP, FLMN, FLT, FLXN, FNV, FOE, FORR, FOX, FOXA, FRGI, FRPH, FSLY, FSR, FUN, FYBR, GCP, GDDY, GDEN, GFL, GHC, GHL, GLBZ, GLRE, GMAB, GMRE, GNK, GRP.U, GTHX, H, HARP, HBB, HBIO, HBM, HBP, HDSN, HFC, HLMN, HMN, HOFV, HR, HRTX, HST, HUBS, HUM, HZNP, IAG, ICLR, ICPT, ICUI, IDN, IIPR, IMXI, INFN, INMB, INN, INSG, IO, IONS, IR, ITI, ITIC, ITT, ITUB, IVR, JLL, KE, KIDS, KL, KLTR, KNBE, KPTI, KRO, KTOS, KW, LAMR, LANC, LAND, LBTYA, LBTYB, LBTYK, LCI, LCTX, LEXX, LHCG, LIVN, LL, LNC, LPG, LUMN, LUMO, LYTS, MAC, MAR, MATX, MAXR, MCHX, MCS, MDU, MET, MFC, MGM, MGNI, MGPI, MGYR, MLNK, MLP, MLR, MNKD, MNRL, MPLN, MRO, MRTX, MTG, MTTR, MTW, NC, NCLH, NESR, NEXT, NFE, NHTC, NI, NL, NMFC, NODK, NRP, NUS, NVST, NYT, OAS, OCDX, ODP, OLP, OM, OMI, OMP, ONCT, ONEM, OPRT, ORA, ORCC, OSUR, OSW, OTIC, PARR, PBI, PBPB, PCRX, PEN, PETQ, PFIE, PING, PK, PLMR, PLTK, PLYA, PRAX, PRG, PRTA, PSN, PTC, PTGX, PTVE, PXD, QCOM, QGEN, QLYS, QMCO, QNST, QRVO, QTWO, QUOT, RADA, RC, RCII, RCKT, RDWR, REGI, RGLD, RGR, RMNI, RNWK, ROCC, ROKU, RPD, RPT, RTLR, RVI, RVLV, RVPH, RYI, RYN, SAFT, SANA, SAND, SBGI, SBOW, SBRA, SD, SENEA, SENEB, SGC, SGMO, SHOO, SITE, SITM, SJI, SKLZ, SLF, SLRC, SMG, SNSE, SPNS, SPNT, SPPI, SPR, SPWR, SPXC, SRDX, SRPT, SSRM, SSSS, STAA, STCN, STGW, STN, SUM, SUN, SUNS, SUP, SUPN, SWM, SWN, SYN, SYNH, TALO, TARS, TBPH, TCON, TCPC, TGB, TISI, TLK, TNDM, TPC, TPVG, TREC, TRMB, TRNO, TRUE, TRUP, TS, TSP, TT, TTGT, TTWO, TUP, TWNK, TXG, UBX, UE, UGP, UHAL, UMH, UPLD, VAPO, VEL, VGR, VIRT, VKTX, VMAR, VMEO, VNDA, VNTR, VRTV, VSH, VTOL, VVNT, VVV, WHD, WING, WK, WTS, YELL, ZD, ZY\n\n - Ex-div:\n\n  AWI, BBD, BBDO, BSMX, CATC, FELE, FMX, HESM, HOPE, NEP, STBA, WSFS\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 400K, previous: 568K)\n    - Crude Oil Imports (previous: 0.702M)\n    - Crude Oil Inventories (previous: 4.267M)\n    - Cushing Crude Oil Inventories (previous: -3.899M)\n    - Distillate Fuel Production (previous: 0.164M)\n    - Durables Excluding Defense (previous: -2.0%)\n    - EIA Refinery Crude Runs  (previous: 0.058M)\n    - EIA Weekly Distillates Stocks (consensus: -2.311M, previous: -0.432M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.3%, previous: 0.4%)\n    - FOMC Press Conference\n    - FOMC Statement\n    - Factory Orders (consensus: 0.1%, previous: 1.2%)\n    - Factory orders ex transportation (previous: 0.5%)\n    - Fed Interest Rate Decision (previous: 0.25%)\n    - Gasoline Inventories (previous: -1.994M)\n    - Gasoline Production (previous: 0.012M)\n    - Heating Oil Stockpiles (previous: -0.031M)\n    - ISM Non-Manufacturing Business Activity (consensus: 59.5, previous: 62.3)\n    - ISM Non-Manufacturing Employment (previous: 53.0)\n    - ISM Non-Manufacturing New Orders (previous: 63.5)\n    - ISM Non-Manufacturing PMI (consensus: 62.1, previous: 61.9)\n    - ISM Non-Manufacturing Prices (previous: 77.5)\n    - MBA 30-Year Mortgage Rate (previous: 3.30%)\n    - MBA Mortgage Applications (previous: 0.3%)\n    - MBA Purchase Index (previous: 275.6)\n    - Markit Composite PMI (consensus: 57.3, previous: 57.3)\n    - Mortgage Market Index (previous: 645.1)\n    - Mortgage Refinance Index (previous: 2,763.8)\n    - Services PMI (consensus: 58.2, previous: 58.2)\n    - Trade Balance (consensus: -80.30B, previous: -73.30B)\n\n^^^^2021-11-01",
+        "created_utc": 1635760818,
+        "id": "hiv8hui",
+        "permalink": "/r/RobinHood/comments/qkan8y/daily_discussion_thread_november_1st_2021/hiv8hui/",
+        "score": 2,
+        "subreddit": "RobinHood",
+        "created": 1635789618.0
+    },
+    {
+        "author": "_grapevan",
+        "body": "Anyone else playing NXPI earnings?",
+        "created_utc": 1635795956,
+        "id": "hix76ry",
+        "permalink": "/r/wallstreetbets/comments/qkanjp/daily_discussion_thread_for_november_01_2021/hix76ry/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635824756.0
+    },
+    {
+        "author": "krzen",
+        "body": "Same. Loving my 2021 STX. My next truck will be electric, but that\u2019ll be 5-10 years from now.",
+        "created_utc": 1635791336,
+        "id": "hiwvw8n",
+        "permalink": "/r/wallstreetbets/comments/qkanjp/daily_discussion_thread_for_november_01_2021/hiwvw8n/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1635820136.0
     }
 ]

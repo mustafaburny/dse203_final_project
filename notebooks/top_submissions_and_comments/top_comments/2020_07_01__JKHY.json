@@ -1,1 +1,82 @@
-[]
+[
+    {
+        "author": "AveenoFresh",
+        "body": "I'm using \"get_yahoo_stockdata6\" to get stock data from yahoo's database. I'm specifically interested in market cap. \n\nhttps://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method?focused=5235823&amp;tab=function\n\nBut it doens't work with a bunch of stock tickers for some reason. Most are fine but tickers like CRUS, JKHY, RBC just dont register despite being large companies. I was looking for another function that can collect stock information from a separate data base, but I haven't found any :/",
+        "created_utc": 1594577970,
+        "id": "fxung7x",
+        "permalink": "/r/wallstreetbets/comments/how5ir/weekend_discussion_thread_for_the_weekend_of_july/fxung7x/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594606770.0
+    },
+    {
+        "author": "AveenoFresh",
+        "body": "I'm trying to use the function \"[get_yahoo_stockdata6](https://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method?focused=5235823&amp;tab=function)\" to get stock data from yahoo's database so I can collect a specific ticker's market cap.\n\nBut it doens't work at all with a bunch of stock tickers for some reason. Most are fine but stocks like CRUS, JKHY, RBC just dont register despite being fairly large companies. I was looking for another function that can collect stock information from a separate data base, but I haven't found any.",
+        "created_utc": 1594590286,
+        "id": "fxvact0",
+        "permalink": "/r/wallstreetbets/comments/hq11ao/what_are_your_moves_tomorrow_july_13_2020/fxvact0/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594619086.0
+    },
+    {
+        "author": "Waterme1one",
+        "body": "Jack Henry",
+        "created_utc": 1594874549,
+        "id": "fy80s52",
+        "permalink": "/r/wallstreetbets/comments/hrorfa/i_will_invest_100000_into_whatever_is_the_top/fy80s52/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594903349.0
+    },
+    {
+        "author": "AveenoFresh",
+        "body": "Wanna help me out a bit? I'm using \"get_yahoo_stockdata6\" to get stock data from yahoo's database. I'm specifically interested in market cap.\n\nhttps://www.mathworks.com/matlabcentral/fileexchange/37502-historical-stock-data-download-alternate-method?focused=5235823&amp;tab=function\n\nBut it doens't work with a bunch of stock tickers for some reason. Most are fine but tickers like CRUS, JKHY, RBC just dont register despite being large companies. I was looking for another function that can collect stock information from a separate data base, but I haven't found any :/",
+        "created_utc": 1594590224,
+        "id": "fxva8lr",
+        "permalink": "/r/wallstreetbets/comments/hq11ao/what_are_your_moves_tomorrow_july_13_2020/fxva8lr/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1594619024.0
+    },
+    {
+        "author": "Vast_Cricket",
+        "body": "In the past the internet technology stocks were ahead of the economy. Search engine, browser, social media, online stores were premature. When the dot com came unexpectedly most companies evaporated. Twenty years later, we are still playing technology is the way to go with very much similar ideas how to make our life better.\n\nYou can own AOL, Info Seek, Lucent, At Home, Nokia, Nexttel,  Nortel, Ariba, Blaze, JDSU, Sun, Verisign. But most are no longer around. The list is long. Very few companies in America will not be taken over or bought out garage sale style, stripped and became a total different company.  Google sits where Silicon Graphics sat. It went bankrupt. Apple had all kinds of problems trying to survive as a computer company.\n\nThere are brick and mortar companies you need everyday, Clorox, coffee, diapers that pays you dividend unstopped for 30-40 years. Clorox is a 120 year old company. They are predicable and you can hold them another 30 years if you want. Good luck.",
+        "created_utc": 1594519668,
+        "id": "fxsa2it",
+        "permalink": "/r/stocks/comments/hpkp0d/how_to_diversify_out_of_tech_when_portfolio_is/fxsa2it/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1594548468.0
+    },
+    {
+        "author": "midlifedisaster",
+        "body": "I don't typically give advice (beyond saying to add msft) as I honestly don't understand what I'm doing. I can't read a chart. I don't know if a stock is too \"expensive\" or not. I hold mostly nvda and AMD both in my robinhood and my IRA in td and rarely sell. I have a little msft and wdc in the mix. That's it. I doubt anyone with more knowledge would approve of my allocations. It makes me money, but is probably on the risky side. Hopefully someone with more knowledge will step in and answer for you.",
+        "created_utc": 1593732759,
+        "id": "fwr33ma",
+        "permalink": "/r/stocks/comments/hk76bf/what_do_you_think_about_having_direct_competitors/fwr33ma/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1593761559.0
+    },
+    {
+        "author": "mayormcsleaze",
+        "body": "Why is $WDC so beat up on a green day?",
+        "created_utc": 1593623708,
+        "id": "fwloe00",
+        "permalink": "/r/wallstreetbets/comments/hj7ixd/daily_discussion_thread_for_july_01_2020/fwloe00/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1593652508.0
+    },
+    {
+        "author": "midlifedisaster",
+        "body": "You must have read the same investing book as me. Hahaha. I used to build computers in the early 90s. In my builds I used AMD processors, nvda graphic cards, wdc hard drives, and msft os.  Those companies are still going strong today so I figured I'd do pretty well with those companies in my portfolio. I was correct. I'm doing way better than I would have ever expected. That was my strategy.  :)",
+        "created_utc": 1593733609,
+        "id": "fwr4knt",
+        "permalink": "/r/stocks/comments/hk76bf/what_do_you_think_about_having_direct_competitors/fwr4knt/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1593762409.0
+    }
+]

@@ -1,56 +1,12 @@
 [
     {
-        "author": "tomis8",
-        "body": "It fell by.25% and AMD dropped 4.43%, NVDA 4.46%, MU 1.52%, WDC 1.95%.  Outlier is WDC whose gone up.",
-        "created_utc": 1638630378,
-        "id": "hn78z9a",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1638659178.0
-    },
-    {
         "author": "earthWindFI",
         "body": "SIMO designs the NAND flash controllers. Actual manufacturing is outsourced to TSMC. The product is then sold to storage companies like Intel, Kioxia, Micron, Samsung, SK Hynix, Western Digital and YMTC.\n\nFair question on securing enough supply. Management seems confident they can get enough supply to generate strong sales growth in 2022.\n\n[https://www.fool.com/earnings/call-transcripts/2021/10/28/silicon-motion-technology-corporation-simo-q3-2021/](https://www.fool.com/earnings/call-transcripts/2021/10/28/silicon-motion-technology-corporation-simo-q3-2021/)\n\n&gt;Our order book remains strong and continues to be well in excess of $1.5 billion for next year. We are seeing, however, some adjustment in our order book with the softening of orders for channel market products and strengthening our product for OEM customers. For example, we are seeing demand for SSD by global PC OEM continue to strengthen. While client SSD for retail markets, especially in China, softening. **Since we are supply constrained, we have been looking at our revenue run rate for annualized sales targeting. In the third quarter, we delivered $1 billion in revenue run rate a quarter ahead of when we had previously communicated and expect our revenue run rate to increase further in the fourth quarter** as we focus on managing our product mix, customer allocation and pricing. We have already received foundry wafer allocation for 2022. That is incremental to what we have this year, and **we are confident we can grow ourselves next year toward our $1.5 billion order book**.  \n&gt;  \n&gt;**We believe demand will continue to exceed supply next year. But even under this scenario, our revenue growth next year will still be very strong.**",
         "created_utc": 1638392080,
         "id": "hmue7co",
+        "permalink": "/r/wallstreetbets/comments/r6isiq/simo_dd_an_undervalued_play_in_computer_memory/hmue7co/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1638420880.0
-    },
-    {
-        "author": "off_by_two",
-        "body": "The xlnx merger might/should close this month too",
-        "created_utc": 1638379565,
-        "id": "hmthiwm",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1638408365.0
-    },
-    {
-        "author": "AA92",
-        "body": "Yeah, definitely strange. I just took a look and of those leaving the list, 7 were for debt coverage. \n\nThis score is a pass if (3\\*Net Income) &lt; (Long-term debt). I just quickly scanned AVY and it took on a lot of debt during its last report while CERN had a significant drop in net income as some examples. \n\nMPX does not have positive FCF over the TTM, so that one dropped out. \n\nXLNX left because its earnings yield is not greater than the treasury. \n\nSo it's definitely a mix between the scores, but primarily debt related this month. \n\n\\---\n\nThis is the third time I've run the list, so I don't have a way other than scanning the older lists and seeing the outcome. I'll see if I can come up with a solution for this though.",
-        "created_utc": 1638390026,
-        "id": "hmu8nor",
-        "score": 1,
-        "subreddit": "ValueInvesting",
-        "created": 1638418826.0
-    },
-    {
-        "author": "agentpoopers",
-        "body": "Short XLNX",
-        "created_utc": 1638356303,
-        "id": "hms6tz0",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1638385103.0
-    },
-    {
-        "author": "prettyboyv",
-        "body": "Lisa Su said yesterday at a Credit Suisse conference, that she is confident that the merger with XLNX should be officially announced at the end if the year. The arbitrage between the 2 companies is nearly 20 percent as of today.",
-        "created_utc": 1638355825,
-        "id": "hms695c",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1638384625.0
     }
 ]

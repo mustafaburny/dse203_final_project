@@ -1,27 +1,870 @@
 [
     {
+        "author": "DeliberateDonkey",
+        "body": "I'm not sure how much you can really draw from this. NVDA doesn't manufacture anything, and its margins are entirely dependent on favorable pricing from a rapidly consolidating industry which, at the leading edge, basically consists of TSM, INTC, and Samsung. TSM, on the other hand, is manufacturing physical goods using specialized processes that require billions of dollars of investment to advance and maintain, and they can sell their capacity to NVDA just as readily as they can AAPL, AMD, QCOM, etc.",
+        "created_utc": 1629737646,
+        "id": "ha1vtkv",
+        "permalink": "/r/investing/comments/pa0kix/as_im_writing_this_nvda_has_overtaken_tsm_as_the/ha1vtkv/",
+        "score": 159,
+        "subreddit": "investing",
+        "created": 1629766446.0
+    },
+    {
+        "author": "az2123",
+        "body": "China is a major consumer of semiconductors. While companies don't have to win approval in their end markets, that would entail losing access to that consumer market, which would be terrible for business and almost certainly override any positives from the deal going thru. By the way, the US and EU do the exact same thing to foreign companies that export there. Recently, more deals are being held up for geopolitical and national security reasons. Read up on Qualcomm-NXP and Nvidia-ARM.",
+        "created_utc": 1628097890,
+        "id": "h7p8nl5",
+        "permalink": "/r/investing/comments/oxuz0n/xilinx_is_now_trading_at_about_a_thirds_discount/h7p8nl5/",
+        "score": 30,
+        "subreddit": "investing",
+        "created": 1628126690.0
+    },
+    {
+        "author": "rattleandhum",
+        "body": "Don't forget AAPL's entry into this space, which I think is being vastly underestimated.\n\nARM-architecture chips are probably going to supplant x86 architecture in the next few years. I'm betting on Qualcomm for this, alongside Apple.\n\nAlso have a stake in TSMC, AMD, NVDA, ASML, AMAT, ON and ACLS. Of those, only ON and TSMC have less than stellar returns (though I bought TSMC at the Jan/Feb peak).\n\nNot so sure I actually want to go in on Intel. Good cash flow, but they're a dinosaur. Maybe they can surprise in the next few years, but I doubt it.",
+        "created_utc": 1628213768,
+        "id": "h7vsma7",
+        "permalink": "/r/smallstreetbets/comments/oyozf5/what_is_next_for_the_semiconductor_industry_tsmc/h7vsma7/",
+        "score": 20,
+        "subreddit": "smallstreetbets",
+        "created": 1628242568.0
+    },
+    {
+        "author": "CatSE---ApeX---",
+        "body": "Qualcomm implementing 3GPP release 16 in the x60 chip (widely communicated last 24h as it will go inside the iPhone) AND in the x65 chip that will go into other phones (Android) starting in 2022 brings a lot of features that improve the user experience when connecting between a standard unmodified cellphone and a purpose built LEO very high throughput satellite VHTS constellation. This includes support for beams (sats use them), mu mimo (multiple sat connectivity), multiple carrier, seemless handover, better power consumption, support for LEO connectivity and many more fearures increasing throughput and robustness of the communication system.\n\nIt is beyond me how these news moved Globalstar more today, than AST SpaceMobile as the latter is purposebuilding a constellation to exploit these features of 5g protoccol release 16 that launches starting 2022 just as these chips become available for all cellular phones. Not just iphones.\n\nGlobalstar doesn\u2019t even plan to do mu-mimo and their sats were not built to, nor can they, connect to unmodified cellular phones at broadband speeds. While AST plans to do just that.",
+        "created_utc": 1630338780,
+        "id": "haxwtss",
+        "permalink": "/r/wallstreetbets/comments/peijxg/gsat_asts_irdm_aapl_thoughts_on_kuo_iphone_13_leo/haxwtss/",
+        "score": 17,
+        "subreddit": "wallstreetbets",
+        "created": 1630367580.0
+    },
+    {
+        "author": "HeartfireSR",
+        "body": "I like that Gelsinger became CEO because he's more tech focused, I like that they're expanding their manufacturing capabilities in the US and the EU and more focus on partnerships with companies like Qualcomm and ASML, I like the new naming scheme of their chips because the more straightforward naming scheme isn't simply easy for consumers but it also keeps them accountable to themselves instead of hiding behind fluff terms but I think the real trump card is the 20A node with RibbonFET tecnnology for 2024 which if they succeed can put them on top again when it comes to technological innovation.\n\nI'd say keep an eye on their roadmap from July 26th. The more goals they hit the higher the chance the goals further away are going to be hit. Considering how much they have struggled with 7nm chips it seems they've set the bar pretty high but they must be confident when they know they are going to get dumpstered if they miss their targets.",
+        "created_utc": 1628434165,
+        "id": "h86ac6l",
+        "permalink": "/r/stocks/comments/p0aylx/which_stock_currently_well_below_a_1_trillion/h86ac6l/",
+        "score": 17,
+        "subreddit": "stocks",
+        "created": 1628462965.0
+    },
+    {
+        "author": "shadowpawn",
+        "body": "stocks of products I was loving from say 2007.  Netflix, FB, NVDA, QCOM.\n\nListen too much to pundits \"These are priced too high\" all of which went on to greater glory.\n\nGlad I've held my $MSFT since '92.",
+        "created_utc": 1628329136,
+        "id": "h81f89i",
+        "permalink": "/r/stocks/comments/ozkpgh/if_only_i_wouldve_put_my_money_in/h81f89i/",
+        "score": 16,
+        "subreddit": "stocks",
+        "created": 1628357936.0
+    },
+    {
+        "author": "mundane_marietta",
+        "body": "There isn't good reasoning. It's a company with a lot of promise, but the current market cap is 4b when the company made a little over 100m in revenue last year. This year is going to be a lot better with the qualcomm partnership, but you could argue that it's overpriced right now.",
+        "created_utc": 1630347901,
+        "id": "hayiw6h",
+        "permalink": "/r/pennystocks/comments/pej702/gsat_rallying_todayheres_the_news/hayiw6h/",
+        "score": 14,
+        "subreddit": "pennystocks",
+        "created": 1630376701.0
+    },
+    {
+        "author": "newaxetrader",
+        "body": "QCOM is very undervalued. I see it going up 20% in the next year based on their revenue and growth forecasts...",
+        "created_utc": 1628789201,
+        "id": "h8ofp15",
+        "permalink": "/r/investing/comments/p2v8y4/thirteen_stocks_possibly_worth_attention_a/h8ofp15/",
+        "score": 13,
+        "subreddit": "investing",
+        "created": 1628818001.0
+    },
+    {
+        "author": "Mevaboo",
+        "body": "Tesla and then I'd love for an outsider just to hit on something huge and take off, maybe Palintir or QCOM",
+        "created_utc": 1628425175,
+        "id": "h85ujth",
+        "permalink": "/r/stocks/comments/p0aylx/which_stock_currently_well_below_a_1_trillion/h85ujth/",
+        "score": 13,
+        "subreddit": "stocks",
+        "created": 1628453975.0
+    },
+    {
+        "author": "Speeeeedislife",
+        "body": "In no particular order:\n\nNVDA\nTSM\nAMAT\nASML\nAAPL\nNXPI\nQCOM\nLWLG\nAMD\nMSFT\nSTM\nADSK\nPLTR\nBIO\nTMO\nGOOGL\nEDIT\nCRSP\nLRCX\nUCTT\nMU\nBEAM\nNTLA\nNVTS (IPO soon ish)\nSKYT\nSNPS\nCDNS\nMRVL\nDE",
+        "created_utc": 1630160486,
+        "id": "haoo64l",
+        "permalink": "/r/wallstreetbets/comments/pd45fl/mvis_bet/haoo64l/",
+        "score": 12,
+        "subreddit": "wallstreetbets",
+        "created": 1630189286.0
+    },
+    {
+        "author": "Dwigt_Schroot",
+        "body": "Qualcomm doesn\u2019t have foundries. This contract is specifically for securing cutting-edge manufacturing in US (designed/manufactured/assembled)",
+        "created_utc": 1629778367,
+        "id": "ha4g2nj",
+        "permalink": "/r/investing/comments/pa402l/intel_wins_us_government_project/ha4g2nj/",
+        "score": 11,
+        "subreddit": "investing",
+        "created": 1629807167.0
+    },
+    {
+        "author": "BearsGetRekt",
+        "body": "Lpt: never buy a stock right after a big double digit loss, give it a week or so, they usually dip a bit more, at the very least go with monthlies/leaps. Source: tried catching the knife on crm, qcom, baba, Intel last year. They recover but it takes months, not days or weeks.",
+        "created_utc": 1628806525,
+        "id": "h8plo6g",
+        "permalink": "/r/wallstreetbets/comments/p37krv/what_are_your_moves_tomorrow_august_13_2021/h8plo6g/",
+        "score": 11,
+        "subreddit": "wallstreetbets",
+        "created": 1628835325.0
+    },
+    {
+        "author": "jumpijehosaphat",
+        "body": "This is in part Intel thinking they had a monopoly on chips and didn't fully invest in the future of microchips while companies like AMD and Qualcomm exceeded further.",
+        "created_utc": 1629902187,
+        "id": "haapmi0",
+        "permalink": "/r/stocks/comments/pb8j64/wth_is_wrong_with_intel/haapmi0/",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1629930987.0
+    },
+    {
+        "author": "manfromfuture",
+        "body": "They have and spend plenty of money for R&amp;D. They bet wrong on GPU's and they screwed the pooch on mobile phone processors. Crazy to think that Qualcomm and MediaTek produce stuff that Intel can't keep up with.",
+        "created_utc": 1629947560,
+        "id": "hadokza",
+        "permalink": "/r/investing/comments/pbmbzk/department_of_energy_will_buy_an_nvidiaamd/hadokza/",
+        "score": 9,
+        "subreddit": "investing",
+        "created": 1629976360.0
+    },
+    {
+        "author": "sahukhala",
+        "body": "&gt;k right after a big double digit loss, give it a week or so, they usually dip a bit more, at the very least go with monthlies/leaps. Source: tried catching the knife on crm, qcom, baba, Intel last year. They recover but it takes months, not days or weeks.\n\nMore bad news follows after ER miss, such as downgrades, driving the price further down.",
+        "created_utc": 1628806690,
+        "id": "h8pm1g2",
+        "permalink": "/r/wallstreetbets/comments/p37krv/what_are_your_moves_tomorrow_august_13_2021/h8pm1g2/",
+        "score": 9,
+        "subreddit": "wallstreetbets",
+        "created": 1628835490.0
+    },
+    {
+        "author": "htrak10",
+        "body": "I feel like I fucked up investing my money- first time investor. I bought 10 stocks in Apple/PayPal/Qualcomm and like PayPal dropped 20 dollars a share a week after I bought and Qualcomm is trading lower too. I\u2019m kinda regretting not starting in March instead of July.",
+        "created_utc": 1629392158,
+        "id": "h9jxeo3",
+        "permalink": "/r/stocks/comments/p7bitj/rstocks_daily_discussion_options_trading_thursday/h9jxeo3/",
+        "score": 8,
+        "subreddit": "stocks",
+        "created": 1629420958.0
+    },
+    {
+        "author": "SoyFuturesTrader",
+        "body": "Without CA you\u2019d live in the stone ages. You\u2019re on a San Francisco App (chances are) on a Cupertino phone. Your layer 2 and 3 hardware is most likely Qualcomm, another CA company. IaaS is a little more diversified - AWS and Azure are Seattle, but GCP is MV / San Francisco \n\nCoastal blue states shoulder the financial burden of the country and coastal productivity is redistributed through the federal government to rural areas systematically. \n\nEven shit like the rural air service still exists. I want my free market.",
+        "created_utc": 1629515752,
+        "id": "h9qx5oa",
+        "permalink": "/r/wallstreetbets/comments/p8io3f/californias_gig_worker_prop_22_ruled/h9qx5oa/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1629544552.0
+    },
+    {
+        "author": "Careless_Owl_9244",
+        "body": "I think it\u2019s a failure to adapt. Intel chips work on x86 architecture. They are capable of producing a ton of processing power, but also draw a ton of electricity in the process. This isn\u2019t that big an issue when electricity is cheap and if you\u2019re on a desktop computer. \n\nThe market seems to be shifting more and more to mobile and laptop devices which demand both power and energy efficiency. ARM architecture has advantages in power efficiency. The mobile industry has been headed that way for years. \n\nIntel solution has been to stay with their old architecture rather than redesigning, and developing more power efficient x86 chips. This is the case with their Core2Duo Mobile line. These however come at the expense of processing power. The advantage is that there is a lot more native compatibility for apps in operating systems that does not require software emulation. Software emulation eats up processing power, but Apple\u2019s new Rosetta 2 software emulation looks extremely promising. \n\nCompetitors such as Apple/TSMC and Qualcomm have been optimizing this energy use/processor power curve for years. If I recall correctly TSMC latest process uses 3 nm transistors, while Intel is locked on 5 or 6 nm process. Smaller transistors essentially means more processor power/clock speed in the same size package. \n\nIf Moore\u2019s Law holds true, then the number of transistors on a given circuit will double every two years, essentially doubling processing power. It\u2019s a more complicated concept, but you get the idea. Short of Intel having a secret project in their pocket, I think the train has left without them. \n\nTL;DR: Even if their fundamentals and technicals look alright, Intel is peddling an outdated product that is quickly being passed by competitors. \n\nLook up ARM vs x86 on Wikipedia and look at the dates introduced for the original standards and then the current 64 bit version. ARM is almost a decade newer in both instances. \n\nCaveat: I\u2019m a hobbyist that reads a lot, but am by no means a financial expert or engineer. Please correct me if there\u2019s any errors.",
+        "created_utc": 1629903810,
+        "id": "haatiws",
+        "permalink": "/r/stocks/comments/pb8j64/wth_is_wrong_with_intel/haatiws/",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1629932610.0
+    },
+    {
+        "author": "CatSE---ApeX---",
+        "body": "Yes. ASTS partner Samsung is going to build the next Qualcomm x65 chip. Guess what type of phone that 3GPP rekease 16 chip goes into in 2022?\n\nhttps://www.google.se/amp/s/www.techradar.com/amp/news/samsung-to-manufacture-qualcomms-5g-modem-chips-snapdragon-x65-and-snapdragon-x62 this is a fully capable 3GPP release 16 chip.",
+        "created_utc": 1630346343,
+        "id": "hayf4s9",
+        "permalink": "/r/wallstreetbets/comments/peijxg/gsat_asts_irdm_aapl_thoughts_on_kuo_iphone_13_leo/hayf4s9/",
+        "score": 7,
+        "subreddit": "wallstreetbets",
+        "created": 1630375143.0
+    },
+    {
+        "author": "Tototodayjr",
+        "body": "I rule I have applied is very basic but easy to forget. ONLY MAKE PLAYS ON STOCK YOU KNOW AND UNDERSTAND. I for example made big time losses making plays on companies I didn\u2019t know much about like Qualcomm, palantir, sofi, lumn. But made big gains playing stocks I know like KO,tjx,dicks, &amp; ely. The sexy play isn\u2019t always the best play. More time than not you will pay for betting instead of making a smart play. Simple rule but easy to get lost in fomo",
+        "created_utc": 1629940110,
+        "id": "had8nd9",
+        "permalink": "/r/options/comments/pbmihi/number_one_rule_for_trading_options/had8nd9/",
+        "score": 7,
+        "subreddit": "options",
+        "created": 1629968910.0
+    },
+    {
+        "author": "hippogang",
+        "body": "Format: XYL had a positive September 88% of times since 2005 CDW had a positive September 87,5% of the times and so on\n\n88.0 XYL\n\n87.5 CDW\n\n80.0 DUK\n\n75.0 DPZ\n\n75.0 NVDA \n\n75.0 UNP \n\n72.0 DG\n\n68.8 COST\n\n68.8 ALGN \n\n68.8 JPM \n\n68.0 ADSK \n\n66.0 NKE \n\n63.0 GOOG \n\n62.5 GS\n\n62.5 DOV\n\n62.5 GRMN \n\n56.0 WFC\n\n55.0 QCOM \n\n53.0 CROC\n\n50.0 TGT \n\n50.0 LLY",
+        "created_utc": 1628799442,
+        "id": "h8p45qy",
+        "permalink": "/r/stocks/comments/p2y0fp/best_performing_stocks_in_september/h8p45qy/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1628828242.0
+    },
+    {
+        "author": "csklmf",
+        "body": "The ETF I have created so far is giving me 45% return so far. I have invested since April 2020\n\nTSLA - 20%\n\nSQ - 10%\n\nAAPL -  5.6%\n\nGOOGL - 3.6%\n\nMSFT - 2.6%\n\nFB - 1.5%\n\nCELH - 5.6%\n\nSOFI - 2.7%\n\nTTCF - 2.5%\n\nPLTR - 3.1%\n\nCHPT - 2.2%\n\nAMD - 3%\n\nQCOM - 3%\n\nSE - 3%\n\nNET - 3.4%\n\nDIS - 4.6%\n\nU - 2.1%\n\nRTX - 2.2%\n\nUPST - 1.2%",
+        "created_utc": 1630107185,
+        "id": "hamcfz3",
+        "permalink": "/r/stocks/comments/nppkp4/rate_my_portfolio_rstocks_quarterly_thread_june/hamcfz3/",
+        "score": 6,
+        "subreddit": "stocks",
+        "created": 1630135985.0
+    },
+    {
+        "author": "industrial_trust",
+        "body": "GSAT Update: I wrote the original comprehensive  GSAT DD here  so consider that to be my qualifier. \n\nit won\u2019t be voice calling on IPhone. It will just be text. No special antenna required, solves the physics problem.\n\nThe payment to GSAT will likely come from QCOM, not Apple. This is great news for GSAT because if it was Apple then they would likely be prohibited from working with other handset manufacturers in the future. This chip is a modified Snapdragon x60 that allows Apple to leapfrog google/Samsung/ whoever was already planning for this service with the x65.\n\nThis is the real deal Bois.",
+        "created_utc": 1630328342,
+        "id": "hax9kra",
+        "permalink": "/r/wallstreetbets/comments/pef0nj/daily_discussion_thread_for_august_30_2021/hax9kra/",
+        "score": 6,
+        "subreddit": "wallstreetbets",
+        "created": 1630357142.0
+    },
+    {
+        "author": "sleepyunindividual",
+        "body": "*It's worth noting that Qualcomm is partnering with Globalstar for Band 53 in the X65 modem, which is not the modem that Apple is using this year. Apple is using the X60, but it seems that there may be a special variant designed for Apple that does support n53. That doesn't mean the iPhone 13 will get satellite communication functionality, and signs suggest that this instead points toward the possibility of 5G connectivity improvements.*",
+        "created_utc": 1630358974,
+        "id": "haz9jif",
+        "permalink": "/r/wallstreetbets/comments/pepvqb/what_are_your_moves_tomorrow_august_31_2021/haz9jif/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1630387774.0
+    },
+    {
+        "author": "Equivalent-Koala-415",
+        "body": "What does everyone think of $MG.TO right now? Q2 miss and lowering of outlook sending the stock for tumble today, plus a competing bid on Veoneer from Qualcomm that they probably won't match. Meanwhile POTUS announces 50% of vehicles sold in 2030 will be EVs. \n\nI am in with a small position at $114.21/share and easily my worst performer. Do I buy this dip to average down or hold for now as the stock keeps getting hammered?",
+        "created_utc": 1628249746,
+        "id": "h7x9d5g",
+        "permalink": "/r/CanadianInvestor/comments/oz3mry/daily_discussion_thread_for_august_06_2021/h7x9d5g/",
+        "score": 5,
+        "subreddit": "CanadianInvestor",
+        "created": 1628278546.0
+    },
+    {
+        "author": "JRshoe1997",
+        "body": "INTC, the one company that you didnt even bother to mention for no reason. Not only that but the one company that makes more revenue than AMD, NVDA, and QCOM combined and the biggest chip maker than the three of them. Even though they make more they are trading at a way lower valuation. So yeah.",
+        "created_utc": 1630043374,
+        "id": "haiv8zc",
+        "permalink": "/r/stocks/comments/pcf16a/is_the_semiconductorprocessor_industry_nvda_amd/haiv8zc/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1630072174.0
+    },
+    {
+        "author": "BackgroundJudge2896",
+        "body": "Semis with low multiples and plenty of growth potential (QCOM, TSM, INTC come to mind)",
+        "created_utc": 1629251366,
+        "id": "h9d1b7q",
+        "permalink": "/r/stocks/comments/p66xn0/what_sectors_do_you_think_will_perform_best_in/h9d1b7q/",
+        "score": 5,
+        "subreddit": "stocks",
+        "created": 1629280166.0
+    },
+    {
+        "author": "cloud9ineteen",
+        "body": "Intel is not in that market. The loser there is Qualcomm.",
+        "created_utc": 1629901833,
+        "id": "haaos2h",
+        "permalink": "/r/stocks/comments/pb8j64/wth_is_wrong_with_intel/haaos2h/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1629930633.0
+    },
+    {
+        "author": "awoeoc",
+        "body": "I don't think this is fully correct. I think it's less that AMD and Qualcomm exceeded as much as it was TSMC and Samsung.\n\nConsider people were still buying 14nm Intel chips as AMD released 7nm ones made by TSMC. Once Intel's on 7nm it'll be much better than AMD's 7nm was. \n\nIntel's main problem is in manufacturing, and companies like AMD don't manufacture.",
+        "created_utc": 1629947715,
+        "id": "hadovuv",
+        "permalink": "/r/stocks/comments/pb8j64/wth_is_wrong_with_intel/hadovuv/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1629976515.0
+    },
+    {
+        "author": "CCWWFF",
+        "body": "Digital advertising (Facebook, Google, Apple, Amazon, Pinterest)\n \nRetail (Amazon, target, Costco)\n\nEdge computing (cloud flare)\n\nCloud ( Microsoft, Amazon, Google)\n\nSemis ( AMD, NVDA, TSM, Intel, QCOM) \n\nHere\u2019s the best 3 steps for finding companies, find a company with a growing product, in a growing segment, in a growing industry. Either in the high single or low double digit growth.",
+        "created_utc": 1630096663,
+        "id": "halp7b5",
+        "permalink": "/r/stocks/comments/pcqyx0/what_stocks_you_would_suggest_to_a_fledgling/halp7b5/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1630125463.0
+    },
+    {
+        "author": "JayArlington",
+        "body": "To be fair\u2026\n\nIf you were talking a full year out, TSM, QCOM, and SKWS are all better calls than MU.  \n\nMemory is not the place to be in.",
+        "created_utc": 1628871682,
+        "id": "h8srklk",
+        "permalink": "/r/wallstreetbets/comments/p3kdnr/daily_discussion_thread_for_august_13_2021/h8srklk/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1628900482.0
+    },
+    {
+        "author": "Insomniac7",
+        "body": "YUM, NKE, QCOM, PLD, NVDA",
+        "created_utc": 1629917646,
+        "id": "habrwef",
+        "permalink": "/r/investing/comments/pbhhu4/if_you_could_invest_in_only_5_stocks_which_ones/habrwef/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1629946446.0
+    },
+    {
+        "author": "Trade_Theory",
+        "body": "My overweighted positions like TSLA and ARKK definitely didn\u2019t start with this large of an allocation. They\u2019ve grown over the years and I usually trim these whenever I need to raise funds. Instead of investing in an ETF, I like to pick and choose various companies that I think have more potential to grow. The only company I really want to add but haven\u2019t already is GOOG. I used to own a pretty large position but liquidated it in 2018 to finance a real estate investment and still haven\u2019t bought back in.\n\nTSLA\t9.27%\n\nARKK\t9.27%\n\nMSFT\t7.88%\n\nSTWD\t5.16%\n\nLRCX\t4.49%\n\nV\t3.40%\n\nNVDA\t3.35%\n\nAAPL\t2.81%\n\nUAL\t2.72%\n\nNEE\t2.53%\n\nADBE\t2.44%\n\nJPM\t2.44%\n\nABBV\t2.20%\n\nGBTC\t1.70%\n\nCRSP\t1.59%\n\nARKF\t1.58%\n\nARKQ\t1.55%\n\nCME\t1.51%\n\nWMT\t1.36%\n\nANSS\t1.35%\n\nPG\t1.34%\n\nTD\t1.33%\n\nXLU\t1.23%\n\nC\t1.21%\n\nINTC\t1.21%\n\nBABA\t1.17%\n\nWM\t1.15%\n\nQCOM\t1.12%\n\nRDFN\t1.12%\n\nETHE\t1.11%\n\nJD\t1.10%\n\nARKG\t1.10%\n\nTSM\t1.09%\n\nBRK/B\t1.05%\n\nNFLX\t1.04%\n\nXHB\t1.03%\n\nDIS\t.99%\n\nAVGO\t.98%\n\nILMN\t.84%\n\nUNH\t.78%\n\nMDT\t.76%\n\nTXN\t.72%\n\nO\t.66%\n\nMA\t.65%\n\nSBUX\t.65%\n\nMLHR\t.64%\n\nUSB\t.64%\n\nPSX\t.54%\n\nCOIN\t.48%\n\nTGT\t.47%\n\nPENN\t.45%\n\nMPC\t.41%\n\nAMD\t.41%\n\nBA\t.40%\n\nLOW\t.39%\n\nJNJ\t.33%\n\nXLB\t.33%\n\nTDOC\t.27%\n\nATVI\t.15%\n\nCASH\t.04%",
+        "created_utc": 1630334951,
+        "id": "haxntak",
+        "permalink": "/r/stocks/comments/nppkp4/rate_my_portfolio_rstocks_quarterly_thread_june/haxntak/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1630363751.0
+    },
+    {
+        "author": "CaptMercaptan",
+        "body": "QRVO and QCOM have been two of my long plays since they went on sale in late January.  I couldn't fully understand why they struggled so much throughout the year since, but I kept buying because they still feel undervalued to me.\n\nSo excited to see some actual analysis that supports my hunches!",
+        "created_utc": 1628799410,
+        "id": "h8p42pt",
+        "permalink": "/r/investing/comments/p2v8y4/thirteen_stocks_possibly_worth_attention_a/h8p42pt/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1628828210.0
+    },
+    {
+        "author": "a6project",
+        "body": "I bought a lot last yr and ended up waiting for almost a year. Good to see Qcom moving quite nicely. Guess patience pays off",
+        "created_utc": 1628798932,
+        "id": "h8p2uc3",
+        "permalink": "/r/investing/comments/p2v8y4/thirteen_stocks_possibly_worth_attention_a/h8p2uc3/",
+        "score": 4,
+        "subreddit": "investing",
+        "created": 1628827732.0
+    },
+    {
+        "author": "csklmf",
+        "body": "TSLA SQ AAPL GOOGL AMZN MSFT FB CELH SOFI PLTR CHPT AMD QCOM SE U ABNB NET SNOW DKNG UPWK PLUG ETSY PINS DIS RTX BA WMT PYPL UPST TTD MU",
+        "created_utc": 1628200026,
+        "id": "h7uzu9s",
+        "permalink": "/r/stocks/comments/oye0n5/rstocks_daily_discussion_options_trading_thursday/h7uzu9s/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1628228826.0
+    },
+    {
+        "author": "endtime",
+        "body": "Yeah I'll take your word for it, you follow the industry much more closely than I do.  I held TSM for a couple months and sold it for just above break even after getting frustrated that it just traded sideways.  Sold AMD at 110 on the run up, didn't time the peak perfectly but feel good about the trade despite some badly timed CCs.\n\nI've been looking for an entry point on AMAT for a bit, and today seemed good based on MACD and the 128 support line from low points in April, May, and June (it gapped below in June over a weekend, but moved back up the same day, and was also went below it in mid-May when everything was down for a week, which IMO doesn't count).\n\nNo opinion on QCOM but would love to read DD if you write something up. :)",
+        "created_utc": 1628872045,
+        "id": "h8sshw0",
+        "permalink": "/r/wallstreetbets/comments/p3kdnr/daily_discussion_thread_for_august_13_2021/h8sshw0/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1628900845.0
+    },
+    {
+        "author": "spellbadgrammargood",
+        "body": "i sold my AAPL and bought QCOM, AAPL is up but QCOM isn't.",
+        "created_utc": 1629136621,
+        "id": "h96o9y1",
+        "permalink": "/r/wallstreetbets/comments/p5d0wj/daily_discussion_thread_for_august_16_2021/h96o9y1/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1629165421.0
+    },
+    {
+        "author": "C2theC",
+        "body": "Everyone hates Qualcomm, but they have no choice.",
+        "created_utc": 1629955322,
+        "id": "hae1v89",
+        "permalink": "/r/investing/comments/pbmbzk/department_of_energy_will_buy_an_nvidiaamd/hae1v89/",
+        "score": 3,
+        "subreddit": "investing",
+        "created": 1629984122.0
+    },
+    {
+        "author": "shinystacks",
+        "body": "From my portfolio, in order of highest div yield to lowest: AVGO (2.89%), JPM, BX, DAC, TXN, CG, HD, TROW, ALLY, QCOM, NEE, TGT, UNH, TSM, ACN, CARR, MSFT, COST, EL (.62%).\n\nI chose these positions as I felt they had a good blend of company growth, dividend growth, and current yield.",
+        "created_utc": 1630434246,
+        "id": "hb36hwn",
+        "permalink": "/r/stocks/comments/pf5iaf/dividend_stocks_to_park_in/hb36hwn/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1630463046.0
+    },
+    {
+        "author": "Zachjsrf",
+        "body": "So yall know its Apple using QCom chips that Apple uses that would connect to GSATs satellite network, that's why its flying, still a rumor. Glad some are making money but there's gonna be mad bagholders today",
+        "created_utc": 1630329464,
+        "id": "haxbrr8",
+        "permalink": "/r/wallstreetbets/comments/pef0nj/daily_discussion_thread_for_august_30_2021/haxbrr8/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1630358264.0
+    },
+    {
+        "author": "sweetleef",
+        "body": "Selling puts is the same as a CC, risk wise.  And there are no \"safe buys\".\n\nThe problem with your thesis is that we're in the biggest bull market blowoff in decades.  It may help to look at what happened in 2000, which is similar to now.  Wild bullish euphoria, massive fed flooding, \"new paradigm\", market-wide parabolic moves, etc.  \n\nWhen it finally broke, it really broke, and a ton of those names people \"wouldn't mind owning\" fell 90% and stayed there for decades.  MSFT and ORCL took 17 years to regain the dot-com highs. QCOM took 20.  \"Safe\" names, the same - WMT, HD, and KMB took 12+ years.  Many of the biggest names of that era never came back at all, like LU and SUNW.   \n\nIf you're talking about wheeling and holding the underlying long term, the question isn't whether you'd be happy to own CLX at 160, it's whether you'd be happy to own it at 40, and wait 15-20 years for it to get back to 160.",
+        "created_utc": 1629042469,
+        "id": "h91jbsq",
+        "permalink": "/r/options/comments/p4er10/2nd_post_on_selling_options_could_it_be_this_easy/h91jbsq/",
+        "score": 3,
+        "subreddit": "options",
+        "created": 1629071269.0
+    },
+    {
+        "author": "throwwawayyy688",
+        "body": "What are your thoughts on Qualcomm? \n\nI got into investing earlier this year, and they were on the first things I (probably naively) picked up.\n\nI held through all the dips, and now I'm back to even on them, and wondering if I should keep or sell?",
+        "created_utc": 1629200829,
+        "id": "h9a1cxi",
+        "permalink": "/r/stocks/comments/p60dqm/rstocks_daily_discussion_technicals_tuesday_aug/h9a1cxi/",
+        "score": 3,
+        "subreddit": "stocks",
+        "created": 1629229629.0
+    },
+    {
+        "author": "MonoDun",
+        "body": "&gt; \nGoogle announced it will build its own smartphone processor, called Google Tensor, that will power its new Pixel 6 and Pixel 6 Pro phones this fall. It's another example of a Big Tech company building its own chips instead of relying on a traditional chipmaker like Qualcomm or Intel.  \n  \nGuhbye chip shortage, chip stocks, QCOM is a OG pos stock, they always hype up their patents which are now probably worthless. Imagine if everyone just went to the foundries and told them give me a million of these and cut the middleperson out.",
+        "created_utc": 1630136157,
+        "id": "hanp6hq",
+        "permalink": "/r/wallstreetbets/comments/pcsn53/45k_loss_am_i_qualified_to_join_yet/hanp6hq/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1630164957.0
+    },
+    {
+        "author": "Kindly-Somewhere-14",
+        "body": "I work circuit engineer in qcom",
+        "created_utc": 1630105699,
+        "id": "ham9cjl",
+        "permalink": "/r/wallstreetbets/comments/pcuv2j/weekend_discussion_thread_for_the_weekend_of/ham9cjl/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1630134499.0
+    },
+    {
+        "author": "happierdayz4me2",
+        "body": "Bought the fuck out of the dip on weeklys for QCOM. They be printing. Swapped my cheap hedges for more ATM soon to be moderately ITM calls.",
+        "created_utc": 1628031249,
+        "id": "h7m006y",
+        "permalink": "/r/wallstreetbets/comments/oxbkl9/what_are_your_moves_tomorrow_august_04_2021/h7m006y/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1628060049.0
+    },
+    {
+        "author": "YeMothor2457",
+        "body": "iShares S&amp;P500 ISSP 15.39%  \nNXP Semiconductors NXPI 9.69%  \nCoca-Cola KO 7.56%  \nApple AAPL 6.50%  \nInvesco Nasdaq-100 QQQ 5.80%  \nAdvanced Micro Devices AMD 5.65%  \nPayPal PYPL 5.55%  \nJohnson&amp;Johnson JNJ 5.15%  \nAmerican Express AXP 4.67%  \nQualcomm QCOM 4.66%  \nHeijmans HEIJM 4.47%  \nMicrosoft MSFT 4.34%  \nCorsair CRSR 4.27%  \nVisa V 3.95%  \nDaVita DVA 3.82%  \nVestas Wind Systems VWSB 3.33%  \nAkzo Nobel AKZA 2.82%  \nCresco Labs 6CQ 2.37%\n\nHolding for two months now, what do you think about my portfolio?",
+        "created_utc": 1628068285,
+        "id": "h7nouey",
+        "permalink": "/r/stocks/comments/nppkp4/rate_my_portfolio_rstocks_quarterly_thread_june/h7nouey/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1628097085.0
+    },
+    {
         "author": "jerryjones-is-smart",
         "body": "$QCOM still excellent value",
         "created_utc": 1627912129,
         "id": "h7ffvvy",
+        "permalink": "/r/wallstreetbets/comments/owbfjf/daily_discussion_thread_for_august_02_2021/h7ffvvy/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1627940929.0
+    },
+    {
+        "author": "NodeDotSwift",
+        "body": "Run any screen.\n\nAnd it\u2019s fluky because QCOM has grown at less than a 7% annual rate the last decade.",
+        "created_utc": 1629294634,
+        "id": "h9eqbp5",
+        "permalink": "/r/ValueInvesting/comments/p6k18m/thoughts_on_qcom_right_now/h9eqbp5/",
+        "score": 2,
+        "subreddit": "ValueInvesting",
+        "created": 1629323434.0
+    },
+    {
+        "author": "slaphandsbumpfists",
+        "body": "Here's my current list for actively investing in puts and put spreads. You'll need to screen this for your own criteria and assess what market conditions to enter and exit trades. \n\nAAPL,AEP,AFL,ALL,AMC,AMGN,AQN,ATO,BB,BBY,BLK,CAH,CB,CHRW,CLX,CMI,CSCO,ED,F,FDX,GD,HD,HIG,HPQ,INTC,IP,JNJ,K,KMB,KO,KR,LAZ,LEG,LMT,LNT,LOW,MDT,MMM,MO,OMC,PFE,PFG,PG,PM,PRU,QCOM,SJM,SNA,SPY,SRE,T,TRV,UBSI,UNM,VIAC,VIX,VZ,WBA,WDC,WHR,WRK",
+        "created_utc": 1629810412,
+        "id": "ha5o3br",
+        "permalink": "/r/options/comments/pad2yc/good_stocks_to_sell_puts/ha5o3br/",
+        "score": 2,
+        "subreddit": "options",
+        "created": 1629839212.0
+    },
+    {
+        "author": "Not_FinancialAdvice",
+        "body": "&gt; TSM, which is a pure fab play is spending $30B this year alone in CapEx\n\nThat's fair, but I think we should note that INTC's CapEx for 2020 is 27.8B in 2020 per their 10-K (similar for past years, 29.6B in 2019 for example), so they're not exactly lagging hugely in CapEx (assuming equal investment yields relatively equal results). \n\nSee Page 9:\nhttps://www.intc.com/filings-reports/all-sec-filings/content/0000050863-21-000010/0000050863-21-000010.pdf\n\nDisclosure: INTC, AMD, AAPL, QCOM shareholder (not sure what other applicable companies in my portfolio to include here because so many have some sort of semi involvement)",
+        "created_utc": 1629575535,
+        "id": "h9tpq5i",
+        "permalink": "/r/ValueInvesting/comments/p8o02l/intel/h9tpq5i/",
+        "score": 2,
+        "subreddit": "ValueInvesting",
+        "created": 1629604335.0
+    },
+    {
+        "author": "curiousprovisions",
+        "body": "The only thing confirmed so far is that GSAT is working w/ QCOM to make AAPL's chips",
+        "created_utc": 1630359186,
+        "id": "haza174",
+        "permalink": "/r/wallstreetbets/comments/pepvqb/what_are_your_moves_tomorrow_august_31_2021/haza174/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1630387986.0
+    },
+    {
+        "author": "thatsOKbro",
+        "body": "Short term calls on SPY (let\u2019s say one week out expiration date) and calls for QCOM",
+        "created_utc": 1630328420,
+        "id": "hax9q31",
+        "permalink": "/r/wallstreetbets/comments/pef0nj/daily_discussion_thread_for_august_30_2021/hax9q31/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1630357220.0
     },
     {
         "author": "Omorphya",
         "body": "BUY QCOM $155 thank me later",
         "created_utc": 1627917337,
         "id": "h7fqzal",
+        "permalink": "/r/wallstreetbets/comments/owbfjf/daily_discussion_thread_for_august_02_2021/h7fqzal/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1627946137.0
+    },
+    {
+        "author": "happierdayz4me2",
+        "body": "QCOM ready to run",
+        "created_utc": 1628257105,
+        "id": "h7xmhug",
+        "permalink": "/r/wallstreetbets/comments/oz3mrm/daily_discussion_thread_for_august_06_2021/h7xmhug/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1628285905.0
+    },
+    {
+        "author": "OlyBomaye",
+        "body": "Same!  In recent memory:  PLUG, CleanSpark, SPWR, QCOM, AYX, FSLY, CHWY....",
+        "created_utc": 1628383280,
+        "id": "h847vkg",
+        "permalink": "/r/wallstreetbets/comments/ozebic/weekend_discussion_thread_for_the_weekend_of/h847vkg/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1628412080.0
+    },
+    {
+        "author": "kaposai",
+        "body": "QCOM and NXP deal was killed by China. This deal is much more significant. Wonder if its going to get killed.",
+        "created_utc": 1628356102,
+        "id": "h82ow68",
+        "permalink": "/r/stocks/comments/ozpbob/what_news_headline_are_you_currently/h82ow68/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1628384902.0
+    },
+    {
+        "author": "Estake",
+        "body": "Didn\u2019t Qualcomm publicly deny their \u201cpartnership\u201d with intel? It might still happen but Intel jumped the gun a bit on that announcement.",
+        "created_utc": 1628441471,
+        "id": "h86prev",
+        "permalink": "/r/stocks/comments/p0aylx/which_stock_currently_well_below_a_1_trillion/h86prev/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1628470271.0
+    },
+    {
+        "author": "Sad_Ad_6345",
+        "body": "Social media meme and smart phone app base trading crowds have changed stock market flow. It is so much harder to predict, Solid financial report meant nothing for QCOM for awhile as soon as Citi group\u2019s news. Some stocks riding record high has absolutely no valid reason besides the social media chat. Starting in 2021 with 15k seed money is much much complicated then before internet and social media.",
+        "created_utc": 1628807107,
+        "id": "h8pmyor",
+        "permalink": "/r/StockMarket/comments/p2iv61/warren_buffett_how_to_invest_small_sum_of_money/h8pmyor/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1628835907.0
+    },
+    {
+        "author": "soUNTOUCHABLE",
+        "body": "ive been hearing about intel and amazon building new foundries lately.\n\nhttps://www.reuters.com/technology/intel-build-qualcomm-chips-aims-catch-foundry-rivals-by-2025-2021-07-26/",
+        "created_utc": 1628696122,
+        "id": "h8jmnul",
+        "permalink": "/r/StockMarket/comments/p2d08l/intelintc_the_oncepopular_kid_whos_left_behind_now/h8jmnul/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1628724922.0
+    },
+    {
+        "author": "adambrukirer",
+        "body": "why qcom over any other semiconductor company",
+        "created_utc": 1628500027,
+        "id": "h89m2se",
+        "permalink": "/r/stocks/comments/p0aylx/which_stock_currently_well_below_a_1_trillion/h89m2se/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1628528827.0
+    },
+    {
+        "author": "happierdayz4me2",
+        "body": "Tomorrow make or break for qualcomm. If markets keep lightly selling off and qualcomm doesn't buy whatever it takes to hold 140, the stock is dead money rest of year. I'll be broke af too. @cristianoamon",
+        "created_utc": 1629326711,
+        "id": "h9gp7n5",
+        "permalink": "/r/wallstreetbets/comments/p6yxxc/what_are_your_moves_tomorrow_august_19_2021/h9gp7n5/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1629355511.0
+    },
+    {
+        "author": "Not_FinancialAdvice",
+        "body": "&gt; But how big of a percentage of the market space is high end servers and super computers? \n\nI'd argue that the big money maker is cloud/datacenter for Intel. They have the highest margin at volume on these chips. AMD is making inroads, but I'd argue doesn't have the institutional support/momentum (in a \"nobody got fired buying IBM\" sense) that Intel has.\n\nDisclosure: INTC, AMD, AAPL, QCOM shareholder.",
+        "created_utc": 1629947922,
+        "id": "hadpae2",
+        "permalink": "/r/investing/comments/pbmbzk/department_of_energy_will_buy_an_nvidiaamd/hadpae2/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1629976722.0
+    },
+    {
+        "author": "happierdayz4me2",
+        "body": "QCOM  let's goo",
+        "created_utc": 1630093655,
+        "id": "halhzux",
+        "permalink": "/r/wallstreetbets/comments/pckb9m/daily_discussion_thread_for_august_27_2021/halhzux/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1630122455.0
+    },
+    {
+        "author": "dilroopgill",
+        "body": "Idk shit but when I had qualcomm shares itd give me dividends pretty often, id park money there if I had it, their last article from 5 hours ago was about bigger dividends this year lol",
+        "created_utc": 1630422129,
+        "id": "hb2cg52",
+        "permalink": "/r/stocks/comments/pf5iaf/dividend_stocks_to_park_in/hb2cg52/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1630450929.0
+    },
+    {
+        "author": "Total-Metal420",
+        "body": "#confirmation bias:\nhttps://www.qualcomm.com/news/releases/2021/05/19/qualcomm-announces-new-features-snapdragon-x65-5g-modem-rf-system-global-5g\nhttps://investors.globalstar.com/news-releases/news-release-details/globalstars-band-n53-qualcomms-x65-modem\nhttps://www.google.com/amp/s/www.macworld.com/article/331893/qualcomm-announces-snapdragon-x65-modem-likely-headed-to-iphone-14.html/amp",
+        "created_utc": 1630363822,
+        "id": "hazkfsy",
+        "permalink": "/r/RobinHoodPennyStocks/comments/pelxf4/gsat_price_predictions/hazkfsy/",
+        "score": 2,
+        "subreddit": "RobinHoodPennyStocks",
+        "created": 1630392622.0
+    },
+    {
+        "author": "Omorphya",
+        "body": "Qcom 155 this weekkkkk",
+        "created_utc": 1627918156,
+        "id": "h7fsso1",
+        "permalink": "/r/wallstreetbets/comments/owbfjf/daily_discussion_thread_for_august_02_2021/h7fsso1/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1627946956.0
+    },
+    {
+        "author": "CKraft11",
+        "body": "They have an arguably better manufacturing process 5 nanometers vs Intel's (rebranded) 7 nm. How much this difference translates into chip performance is arguable but the main reason it has a higher market cap is that they make chips for almost everyone, Nvidia, AMD, Qualcomm, Apple, etc as opposed to Intel who makes chips for themselves. \n\nFurthermore while Intel is making strides to catch up to TSMC they were stuck at their 14nm process for the entire time that TSMC iterated from 14 to 12 to 10 to 7. They did finally develop a successful 10nm process that they controversially rebranded to 7nm. Again it is important to note that while many people equate smaller number=better this does directly impact performance.\n\nOne thing to research more into would be President Biden's passed proposal to increase domestic chip manufacturing and as TSMC is a Taiwanese company. This could favour Intel more, them being a US company, but I would be interested if someone has any more insight. I do know TSMC has plans to expand manufacturing to Japan and the US and I am unsure if these will be subsidized.",
+        "created_utc": 1628865737,
+        "id": "h8sdkcl",
+        "permalink": "/r/stocks/comments/p30zyt/tsm_is_now_a_good_entry_point_to_buy/h8sdkcl/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1628894537.0
+    },
+    {
+        "author": "zatrades",
+        "body": "Yeah, Qualcomm, I will watch it!",
+        "created_utc": 1629067156,
+        "id": "h934t87",
+        "permalink": "/r/StockMarket/comments/p51yn3/chip_stocks_smh_nvda_asml_intc_mu/h934t87/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1629095956.0
+    },
+    {
+        "author": "coolcomfort123",
+        "body": "tsm, pypl, amat, lrcx, sbux and qcom.",
+        "created_utc": 1629606936,
+        "id": "h9vhbrc",
+        "permalink": "/r/stocks/comments/p94bz0/suggestions_on_what_fairly_lowrisk_shares_to_pick/h9vhbrc/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1629635736.0
+    },
+    {
+        "author": "frshprincenelair",
+        "body": "Exactly my thoughts. Looking at the QCOM chart it\u2019s been uptrending on the 1Y, 3M, 1M charts\u2026 had to be a very special ape to buy at the top and lose money on a stock that has mostly gone up lol.",
+        "created_utc": 1630159814,
+        "id": "haomp7j",
+        "permalink": "/r/wallstreetbets/comments/pcsn53/45k_loss_am_i_qualified_to_join_yet/haomp7j/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1630188614.0
+    },
+    {
+        "author": "InvestmentUnlikely32",
+        "body": "SMH has all included in original comment. It seems to be a perfect way to benefit from a trend for rather clueless person regarding ins and outs of an industry. No need to worry about NVDA or AMD decisions, just get both. And TSMC, Qualcomm and many more. Even if payoff is not that great it's still much better than ignorant like myself would hope to get on my own.  \n\n\nIt's growth is not as ecstatic to watch like NVDA or others, but still I think it has a fair, well proportioned mixture. I've bought some in March @ 218 with intention to hold for many years to come. I just threw all at once as the sale was crazy, If I'd be to start position anew I'd probably buy in weekly-biweekly tranches to DCA. If you fell like being patient I'd wait till it goes into 260-265 area. \n\nJust don't wait too long ;)",
+        "created_utc": 1630084031,
+        "id": "hakuib6",
+        "permalink": "/r/stocks/comments/pcf16a/is_the_semiconductorprocessor_industry_nvda_amd/hakuib6/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1630112831.0
+    },
+    {
+        "author": "Omorphya",
+        "body": "QCOM 155 \ud83d\udc38\ud83d\udc38\ud83d\udc38",
+        "created_utc": 1627917508,
+        "id": "h7frcsp",
+        "permalink": "/r/wallstreetbets/comments/owbfjf/daily_discussion_thread_for_august_02_2021/h7frcsp/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1627946308.0
+    },
+    {
+        "author": "Leroy--Brown",
+        "body": "BAM\n\nQCOM\n\nBLUE, SGMO, QURE",
+        "created_utc": 1628224979,
+        "id": "h7we4jn",
+        "permalink": "/r/investing/comments/oytnbj/what_are_some_of_your_less_popular_stocks_that/h7we4jn/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1628253779.0
+    },
+    {
+        "author": "_yu_7out",
+        "body": "I own QCOM and believe still a good buy at 150",
+        "created_utc": 1629063224,
+        "id": "h92w619",
+        "permalink": "/r/stocks/comments/p527ui/thoughts_on_my_buys_for_the_week/h92w619/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1629092024.0
+    },
+    {
+        "author": "senecadocet1123",
+        "body": "Intel is great value. Slightly different, but I also like Qualcomm",
+        "created_utc": 1629066139,
+        "id": "h932mxj",
+        "permalink": "/r/StockMarket/comments/p51yn3/chip_stocks_smh_nvda_asml_intc_mu/h932mxj/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1629094939.0
+    },
+    {
+        "author": "Indep-guy",
+        "body": "Sure, that could be the 5th stock.  When I said \"all angles\", I meant that, for example, what LRCX does is a lynch pin to the entire semiconductor industry - any company building chips has to use some of what LRCX offers.  Same for NVDA, AMAT, and QCOM",
+        "created_utc": 1628628174,
+        "id": "h8gdn5p",
+        "permalink": "/r/stocks/comments/p1qwnz/when_a_portfolio_becomes_an_etf_should_you_just/h8gdn5p/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1628656974.0
+    },
+    {
+        "author": "BeTheNarrative",
+        "body": "650 to 4K right now:\nQS earnings, calls up about 109%\nQualcomm earnings, calls were up 70%\nCLOV calls the other day netted 100%\nSysco earnings, calls netted about 100%\nMVST calls brought a little over 150%\n\nDidn\u2019t YOLO my entire account on each play",
+        "created_utc": 1628632413,
+        "id": "h8gnass",
+        "permalink": "/r/wallstreetbets/comments/p1x08o/what_are_your_moves_tomorrow_august_11_2021/h8gnass/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1628661213.0
+    },
+    {
+        "author": "Indep-guy",
+        "body": "There are around five companies that collectively cover all angles of the semiconductor market:  LRCX, NVDA, QCOM, AMAT, and you could add any other like AMD.  These could be your own \"ETF\".",
+        "created_utc": 1628607976,
+        "id": "h8f1rne",
+        "permalink": "/r/stocks/comments/p1qwnz/when_a_portfolio_becomes_an_etf_should_you_just/h8f1rne/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1628636776.0
+    },
+    {
+        "author": "OutlandishnessDue500",
+        "body": "That is a must read, thank you!\n\nI think that semiconductors have matured to a point that can be a separate sector, the market cap of nvidia, amd, qualcomm and intel adds up to more than the market cap of utility sector",
+        "created_utc": 1628965198,
+        "id": "h8xshzj",
+        "permalink": "/r/StockMarket/comments/p4b8cb/follow_the_money_understanding_sectors_and/h8xshzj/",
+        "score": 2,
+        "subreddit": "StockMarket",
+        "created": 1628993998.0
+    },
+    {
+        "author": "vacalicious",
+        "body": "Yes. I own AMD and QCOM, personally. Add on dips.",
+        "created_utc": 1630074977,
+        "id": "hak7t6a",
+        "permalink": "/r/stocks/comments/pcf16a/is_the_semiconductorprocessor_industry_nvda_amd/hak7t6a/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1630103777.0
+    },
+    {
+        "author": "rotflolmaomgeez",
+        "body": "Yes, they delayed the decision until Qualcomm lost interest.  \nIt's never free money, successful merger is just \\*very likely\\*. The discount is disproportionate to the amount of risk (by current pricing the risk is evaluated at about 50%. That's NVDA/ARM levels of uncertainty).",
+        "created_utc": 1628050325,
+        "id": "h7n1qk6",
+        "permalink": "/r/wallstreetbets/comments/oxf19e/way_to_acquire_amd_stocks_at_25_discount/h7n1qk6/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1628079125.0
+    },
+    {
+        "author": "t33po",
+        "body": "This google \"Tensor\" silicon thing is really interesting to me. We all know they control most of the internet search and ads and whatnot and the market cap shows that. But what if they got control of the Android space to even half the extent that AAPL has of the IOS marketplace. Globally, Android dominates AAPL in terms of market share but GOOG makes barely anything on the hardware. What if they were able to wrangle more profits with optimized hardware and less reliance on third party manufacturers? Yes, they have some contracts with Samsung, Qualcomm, and others but what if this is a major signal of them bringing the hardware in house?\n\nThe Nexus/Pixel lines have been mostly outsourced with wildly different levels of success. Could optimizing software and hardware from the silicon level be the thing that makes pure Android profitable for papa GOOG? I really hope so because stock Android is glorious.\n\nJust thinking out loud here. But if GOOG is successful at manufacturing good phone and general mobile hardware, then another trillion in market cap is not too crazy. It's a big if based on how GOOG has botched so many other promising projects/acquisitions. But this Tensor chip could be a massive disruptor. Thoughts?",
+        "created_utc": 1628057011,
+        "id": "h7nbs59",
+        "permalink": "/r/wallstreetbets/comments/oxbkl9/what_are_your_moves_tomorrow_august_04_2021/h7nbs59/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1628085811.0
+    },
+    {
+        "author": "Martin4fun92",
+        "body": "Down 30% on these October QCOM calls.  Fuck!",
+        "created_utc": 1628172512,
+        "id": "h7t2nxu",
+        "permalink": "/r/wallstreetbets/comments/oyeeib/daily_discussion_thread_for_august_05_2021/h7t2nxu/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1628201312.0
+    },
+    {
+        "author": "WolfPackWSB",
+        "body": "WISH is moving!! Should stay on that \ud83d\ude80\ud83d\ude80 even long term projections $20-$35.. QCOM lost its most profitable partnership, I\u2019m watching that tank played puts last week cause they were cheap expiring 8/6, definitely due to watch a 10% losses overall next 5 trading days easy",
+        "created_utc": 1627992256,
+        "id": "h7jkre7",
+        "permalink": "/r/wallstreetbets/comments/owthu5/wish_vs_amzn_mau_comps_hint_at_a_sprigged_coil/h7jkre7/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1628021056.0
+    },
+    {
+        "author": "happierdayz4me2",
+        "body": "Qualcomm is ready after a 6 month cup.",
+        "created_utc": 1628081391,
+        "id": "h7o6t0x",
+        "permalink": "/r/wallstreetbets/comments/oxpeqa/daily_discussion_thread_for_august_04_2021/h7o6t0x/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1628110191.0
     },
     {
         "author": "z06dro",
         "body": "QCOM calls",
         "created_utc": 1627880604,
         "id": "h7ea9qb",
+        "permalink": "/r/wallstreetbets/comments/ovz58g/what_are_your_moves_tomorrow_august_02_2021/h7ea9qb/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1627909404.0
@@ -31,6 +874,7 @@
         "body": "155 this week QCOM",
         "created_utc": 1627917374,
         "id": "h7fr28d",
+        "permalink": "/r/wallstreetbets/comments/owbfjf/daily_discussion_thread_for_august_02_2021/h7fr28d/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1627946174.0
@@ -40,53 +884,179 @@
         "body": "Bro QCOM looks good",
         "created_utc": 1627917365,
         "id": "h7fr1i5",
+        "permalink": "/r/wallstreetbets/comments/owbfjf/daily_discussion_thread_for_august_02_2021/h7fr1i5/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1627946165.0
     },
     {
-        "author": "dmitsuki",
-        "body": "They didn't. When I spoke to an Intel product lead around 2012 he told me flat out that Intel, as a company didn't even consider AMD competition. He said that the only focus on the company was fighting companies like Qualcomm. This was obvious with their push of things like Atom. They didn't care about HPC because they didn't see any competition in it. Almost all of the money and research was poured elsewhere because everybody went to them for HPC anyway. Once Ryzen was released, which had obvious buy signals about it at the time, they still didn't give a shit, because first gen wasn't as good as Intels established product. \n\nThen it got better.\n\nThen it got even better.\n\nThen it got even better.\n\nAnd at that point it was too late, because Intel had focused all of it's energy trying to make atom processors and things of the like nobody wanted, they could no longer trivially keep up in HPC.",
-        "created_utc": 1627916566,
-        "id": "h7fpabl",
+        "author": "BeTheNarrative",
+        "body": "Bought Sysco and Qualcomm calls for earnings, both made me about 100%",
+        "created_utc": 1628632205,
+        "id": "h8gmtxt",
+        "permalink": "/r/wallstreetbets/comments/p1x08o/what_are_your_moves_tomorrow_august_11_2021/h8gmtxt/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1627945366.0
+        "created": 1628661005.0
     },
     {
-        "author": "miscsubs",
-        "body": "On the earnings call they did mention the major cloud provider being a IFS packaging solutions customer but Pat himself talked about collaborative effort and I don\u2019t know, it sounded a bigger deal at the time. But I guess they picked their words just right.\n\nStill doesn\u2019t justify the QCOM statement. At best, it was misleading IMO. that\u2019s one thing that was frustrating about Intel in the previous regime. Always putting a spin on things with carefully crafted words.",
-        "created_utc": 1627840122,
-        "id": "h7c4fb6",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1627868922.0
-    },
-    {
-        "author": "Equivalent_Style4790",
-        "body": "I guess your study would show u that none are neither over nor underevaluated if u add some more parameter in it. \n\n- Microsoft and visa are there to last \n- apple have only 1 product  that made most of its revenue\n- facebook and google are being fought by all the government for tax evasion and stuff. \n- qualcomm and intel are suffering the semiconducter crsis and they are only \"supliers\" and thus are heavily dependant on other big companies. \n- amazon was heavily sollicitaed during the pandemic and now ppl want to shop in the physical shops\n\nI beleive that those ideas can provide some insight of why a stock is under or over evaluated. \n\nNot to mention how the pandemic made all the money flow being very \"special\" during the last year and thus, all the number that are related on it are not even remotly indicating \"companie's health\". \n\nThx for sharing ur study with us",
-        "created_utc": 1627851067,
-        "id": "h7crf9a",
-        "score": 1,
-        "subreddit": "StockMarket",
-        "created": 1627879867.0
-    },
-    {
-        "author": "z06dro",
-        "body": "Qcom calls",
-        "created_utc": 1627875396,
-        "id": "h7e21ya",
+        "author": "happierdayz4me2",
+        "body": "Qualcomm is your answer then.",
+        "created_utc": 1628906993,
+        "id": "h8v298e",
+        "permalink": "/r/wallstreetbets/comments/p3kdnr/daily_discussion_thread_for_august_13_2021/h8v298e/",
         "score": 1,
         "subreddit": "wallstreetbets",
-        "created": 1627904196.0
+        "created": 1628935793.0
     },
     {
-        "author": "miscsubs",
-        "body": "I was cautiously optimistic about Gelsinger but this QCOM deal announcement did make me question things. Intel said QCOM to make chips in their foundries, QCOM then said no commitment yet, they\u2019re just evaluating.\n\nThey also said they signed up a major cloud customer and sure, they did, but only for packaging (Amazon).\n\nNot sure if they\u2019re intentionally misleading or being sloppy but I don\u2019t like it.",
-        "created_utc": 1627836077,
-        "id": "h7bvq0p",
+        "author": "arupra",
+        "body": "It does not matter where QCOM has been in the past, where does it stand relative to avg P/E of the S&amp;P and vs its peers is what matters. Expensive relative to S&amp;P. It has a 98% growth in earnings 2010 vs 2020, which tells me that it is an amazing business to hold for the long term.\n\nI would hold here not buy. I am a holder of the stock, bought it last year March during the dip.",
+        "created_utc": 1629390920,
+        "id": "h9judu8",
+        "permalink": "/r/ValueInvesting/comments/p6k18m/thoughts_on_qcom_right_now/h9judu8/",
         "score": 1,
-        "subreddit": "investing",
-        "created": 1627864877.0
+        "subreddit": "ValueInvesting",
+        "created": 1629419720.0
+    },
+    {
+        "author": "debussyxx",
+        "body": "I care What other people paid for the company back then because it wasn\u2019t as good of a company back then and was higher valued. Meanwhile, P/E for\nThe S&amp;P500 P/E is 34 currently, sector median is 32 and 29 for TTM and FWD And QCOM has a lowly 17 and 19 TTM and FWD respectively which is way below its median and the sector median. \n\nWhy does the FCF matter most in your eyes in the totality? It would seem as well it\u2019s strength should continue given the demand.",
+        "created_utc": 1629393367,
+        "id": "h9k0bxf",
+        "permalink": "/r/ValueInvesting/comments/p6k18m/thoughts_on_qcom_right_now/h9k0bxf/",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1629422167.0
+    },
+    {
+        "author": "debussyxx",
+        "body": "https://www.marketbeat.com/stocks/NASDAQ/QCOM/",
+        "created_utc": 1629398397,
+        "id": "h9kcd5d",
+        "permalink": "/r/ValueInvesting/comments/p6k18m/thoughts_on_qcom_right_now/h9kcd5d/",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1629427197.0
+    },
+    {
+        "author": "thetathunberg",
+        "body": "Qcom you piece of shit",
+        "created_utc": 1629406339,
+        "id": "h9kvvyi",
+        "permalink": "/r/wallstreetbets/comments/p7mehd/what_are_your_moves_tomorrow_august_20_2021/h9kvvyi/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1629435139.0
+    },
+    {
+        "author": "NodeDotSwift",
+        "body": "Isn\u2019t their moat far worse now because Apple is a hairs breadth from dumping them, and possibly competing with them? \n\nUsing relative valuations is a recipe for disaster. The SP500 is at a nearly unprecedented valuation by Schiller, which adjusts for recent earnings volatility through last year and this year. Today interest rates are at record lows, so most stocks are at record highs PE ratios. That may last as long as low interest rates do . \n\nBut if interest rates spike the stock market will fall, guaranteed. If your comps are overvalued, it never justifies overpaying for your target.\n\nWhat QCOM traded for years prior is heavily dependent upon interest rates, market perception of its growth rates and moat. \n\nThat QCOM has a lower PE is a sign market isn\u2019t enamored of its historical slow growth rates and concerns about its moat.",
+        "created_utc": 1629394096,
+        "id": "h9k23fx",
+        "permalink": "/r/ValueInvesting/comments/p6k18m/thoughts_on_qcom_right_now/h9k23fx/",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1629422896.0
+    },
+    {
+        "author": "debussyxx",
+        "body": "I am comparing its P/E relatively. The S&amp;P500 P/E is 34 currently, sector median is 32 and 29 for TTM and FWD And QCOM has a lowly 17 and 19 TTM and FWD respectively. \n\nWhat would make you think this is expensive relative to S&amp;P500  ?",
+        "created_utc": 1629392749,
+        "id": "h9jyucs",
+        "permalink": "/r/ValueInvesting/comments/p6k18m/thoughts_on_qcom_right_now/h9jyucs/",
+        "score": 1,
+        "subreddit": "ValueInvesting",
+        "created": 1629421549.0
+    },
+    {
+        "author": "flicter22",
+        "body": "Google and Samsung are launching their new chips ok Pixel phones this fall. It's a new Samsung / Google SOC including a Samsung modem. There is no Qualcomm parts present except an under screen fingerprint reader. This will essentially be a blueprint for other OEMs to follow if it's successful. We're literally talking an October/November 2021 launch.\n\nThen Apple is predicted to be leaving Qualcomm in 2023 with their own modem which they purchased from Intel. They didn't have to start from the ground up. Intel had a functioning modem that was being sold in iPhones prior to Apple purchasing the division.",
+        "created_utc": 1630097614,
+        "id": "halrfwt",
+        "permalink": "/r/stocks/comments/pcf16a/is_the_semiconductorprocessor_industry_nvda_amd/halrfwt/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1630126414.0
+    },
+    {
+        "author": "merlinsbeers",
+        "body": "Areas with shitty wireless service will always have shitty wireless service as long as minimum service levels aren't mandated by law. I.e., don't expect Nebraska to be a big deal just because there's a hole in the map. The carriers still don't guarantee 4G much less LTE along all of the interstate highway system.\n\n5G infrastructure buildout peaked a while ago and is slacking. Some places are still installing, but they're add-on, not the major effort. You may find niche companies making profit for you, but trading Qualcomm or Verizon on the premise of a 5G growth spurt is a mistake. Handset replacement is the cashflow now.",
+        "created_utc": 1630081055,
+        "id": "hakmyx4",
+        "permalink": "/r/stocks/comments/pcf16a/is_the_semiconductorprocessor_industry_nvda_amd/hakmyx4/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1630109855.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Wednesday, the  4th of August\n\n\n\n## Upcoming events for Wednesday, August  4th\n\n - Expected earnings:\n\n  AAU, ABC, ABIO, AC, ACA, ACAD, ACEL, ACIU, ACLS, ACR, ADMA, ADPT, ADT, ADTN, AEIS, AERI, AFIN, AGL, AIRI, ALB, ALE, ALG, ALIM, ALKT, ALL, ALLO, ALNA, ALRN, ALTM, AMED, AMOT, AMPE, AMPY, AMSC, ANGI, ANSS, APA, APO, ARLO, ARTNA, ASMB, ASTE, ASYS, ATO, ATRC, ATTO, AVA, AXGN, BAK, BBSI, BCLI, BCOR, BCSF, BCYC, BDC, BDSI, BE, BFAM, BGCP, BKNG, BKTI, BLPH, BLUE, BNGO, BOOT, BRSP, BTG, BVH, BWA, CAMT, CCMP, CCRN, CCU, CDAY, CDW, CENT, CENTA, CENX, CFMS, CHNG, CIA, CIB, CIGI, CIM, CKPT, CLH, CLVS, CLW, CMLS, CMP, CPA, CPK, CPS, CRL, CRTO, CSGS, CSII, CSTE, CSWI, CUTR, CVGI, CVRX, CVS, CYAD, DCP, DFIN, DGII, DHC, DLHC, DMTK, DNOW, DOC, DOX, DRTT, DVAX, DXC, EA, ECPG, EDIT, EDRY, EGHT, ELA, ELF, EMKR, EMR, ENBL, EOG, EOLS, EQH, EQX, ERJ, ERO, ETR, ETSY, EVH, EVOP, EVRI, EXC, EXPI, EYPT, FATE, FCPT, FDP, FENC, FLMN, FLOW, FLT, FLXN, FOX, FOXA, FPI, FRGI, FRT, FSLY, FTDR, FUN, FVE, GDDY, GEL, GEO, GGB, GHC, GLBZ, GM, GMED, GNK, GPRK, GRP.U, GRTS, GTHX, HARP, HBB, HCC, HDSN, HFC, HHC, HI, HMC, HNGR, HR, HRTX, HUBS, HWM, HYMC, HZNP, IAC, IAG, ICD, ICUI, IIPR, IMXI, INGN, INMB, INSG, IO, IONS, ISEE, ISSC, IVC, IVR, JACK, JLL, JRVR, KBAL, KE, KHC, KIN, KLIC, KRO, KRTX, KUKE, KW, KZR, LAND, LESL, LHCG, LILA, LILAK, LL, LMND, LMRK, LNC, LPG, LPI, LUMN, MAC, MASS, MAXR, MBI, MCK, MCS, MDU, MED, MELI, MET, MFC, MGLN, MGM, MGPI, MIDD, MLR, MLVF, MNKD, MNRL, MNTV, MOD, MPC, MPLX, MRO, MTG, MTOR, MVIS, MWA, NC, NEPH, NESR, NEX, NHTC, NI, NL, NMFC, NODK, NP, NSPR, NSTG, NTEC, NUS, NVRO, NWPX, NXST, NYT, OCDX, ODP, OESX, ONEM, OPRX, OR, ORA, ORCC, ORIC, OSPN, OTIC, OYST, PACE, PARR, PCSA, PDCE, PETQ, PFLT, PING, PIRS, PLMR, PLTK, PLUS, PLYA, PNNT, PROF, PSN, PSNL, PTVE, PW, QNST, QRVO, QTWO, RCII, RCKT, RCL, REGI, RGR, RKT, RMAX, RMNI, RNWK, ROKU, RPD, RPT, RTLR, RVI, RVLV, RYI, RYN, SAFT, SALM, SANA, SBGI, SBOW, SBRA, SCU, SD, SENEA, SENEB, SGRY, SGU, SITE, SITM, SJI, SLF, SLGL, SLNG, SMG, SMP, SMSI, SPNS, SPR, SRDX, SRI, SRPT, SSRM, SSSS, STAA, STN, SUM, SUP, SUPN, SWM, TELL, TGB, TGI, TLC, TNDM, TPC, TPVG, TRC, TREC, TRMB, TRNO, TS, TSE, TT, TTGT, TUP, TVTY, TWNK, TWO, TXG, TXMD, UBER, UE, UFCS, UFI, UGI, UHAL, UIHC, ULCC, UMH, UPLD, URG, URGN, USDP, USWS, UTHR, UVV, VCEL, VIRT, VMC, VRCA, VRDN, VTOL, VVV, VWTR, VZIO, WCN, WDC, WLFC, WLL, WTS, WU, WYNN, XNCR, XPL, YELL, ZYME\n\n - Ex-div:\n\n  AWI, CATC, CCK, DKL, FELE, IBTX, IDA, KBH, MATX, NEP, NWBI, OFED, OPBK, SIMO, STBA, TGP, VBTX, VLO, WSFS, WTFC\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 695K, previous: 692K)\n    - Crude Oil Imports (previous: -0.616M)\n    - Crude Oil Inventories (consensus: -3.102M, previous: -4.089M)\n    - Cushing Crude Oil Inventories (previous: -1.268M)\n    - Distillate Fuel Production (previous: -0.163M)\n    - EIA Refinery Crude Runs  (previous: -0.132M)\n    - EIA Weekly Distillates Stocks (consensus: -0.543M, previous: -3.088M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.6%, previous: -0.3%)\n    - FOMC Member Clarida Speaks\n    - Gasoline Inventories (consensus: -1.780M, previous: -2.253M)\n    - Gasoline Production (previous: 0.649M)\n    - Heating Oil Stockpiles (previous: 0.108M)\n    - ISM Non-Manufacturing Business Activity (consensus: 60.6, previous: 60.4)\n    - ISM Non-Manufacturing Employment (previous: 49.3)\n    - ISM Non-Manufacturing New Orders (previous: 62.1)\n    - ISM Non-Manufacturing PMI (consensus: 60.5, previous: 60.1)\n    - ISM Non-Manufacturing Prices (previous: 79.5)\n    - MBA 30-Year Mortgage Rate (previous: 3.01%)\n    - MBA Mortgage Applications (previous: 5.7%)\n    - MBA Purchase Index (previous: 251.7)\n    - Markit Composite PMI (consensus: 59.7, previous: 63.7)\n    - Mortgage Market Index (previous: 737.9)\n    - Mortgage Refinance Index (previous: 3,570.4)\n    - Services PMI (consensus: 59.8, previous: 64.6)\n\n## Upcoming events for Thursday, August  5th\n\n - Expected earnings:\n\n  AAOI, AAON, AAWW, ABMD, ABUS, ACET, ACHV, ACIW, ACMR, ACOR, ADMS, ADNT, ADXN, AE, AEE, AEL, AES, AEZS, AFCG, AG, AGM, AGO, AGS, AHCO, AIG, AIKI, AINV, AJX, AKBA, AL, ALBO, ALCO, ALDX, ALGS, ALRM, ALTR, AMBC, AMEH, AMH, AMN, AMRN, AMRS, AMYT, ANIK, APDN, APLE, APPN, APR, APTV, AQB, ARD, ARDX, ARNA, ARW, ARWR, ASRT, ASXC, ATAX, ATH, ATNX, ATRI, ATRS, ATSG, AUMN, AUPH, AUTL, AUTO, AVD, AVEO, AVLR, AVRO, AVXL, AXDX, AXNX, AXON, BAND, BANX, BBGI, BCE, BCH, BCRX, BDX, BECN, BEP, BERY, BFS, BGNE, BGS, BGSF, BHF, BIGC, BIP, BKCC, BKD, BKI, BL, BLCM, BLDP, BLDR, BLFS, BLL, BLRX, BPMP, BRBR, BRG, BRKS, BRT, BSGM, BTBT, BV, BWMX, BXRX, BYND, CABA, CAH, CAI, CALA, CAPR, CARG, CARS, CBIO, CCOI, CDAK, CDXS, CELH, CEMI, CERT, CFLT, CGNX, CHEK, CHH, CHRS, CHUY, CI, CIO, CKX, CLBS, CLDX, CLLS, CLNE, CLXT, CMRX, CNCE, CNDT, CNNE, CNP, CNQ, CNXN, COCP, COLD, COLL, COMM, CORE, CPLG, CQP, CRAI, CRBP, CRC, CSOD, CTIC, CTMX, CTOS, CTRE, CTT, CTVA, CVCO, CVET, CVNA, CWK, CYRX, CYTK, CZNC, DBRG, DBX, DDOG, DEN, DHX, DIN, DIOD, DLA, DLX, DMLP, DMRC, DNN, DOCN, DRH, DRNA, DUK, DWSN, DXPE, DXYN, DYN, EB, ECOM, ECOR, ED, EFC, EGLE, EIGR, ELOX, ELY, ELYS, ENDP, ENG, ENSV, ENTA, ENV, EPAM, EPC, EPIX, ERF, ERII, ESCA, ESTE, ETTX, EVC, EVOK, EVRG, EXEL, EXPE, EYEG, FAT, FCRD, FDUS, FEYE, FLDM, FLS, FND, FNKO, FOCS, FOLD, FOUR, FOXF, FPH, FROG, FSR, FTSI, FVRR, G, GBNH, GCP, GDEN, GDP, GDYN, GENC, GEOS, GERN, GH, GIL, GKOS, GLMD, GLPG, GLYC, GNE, GNL, GOGO, GOLF, GPL, GPOR, GPRO, GRPN, GSAT, GSBD, GSL, GTH, GTN, GTN.A, GTS, GTYH, HASI, HBI, HBIO, HCAT, HCI, HEAR, HII, HIMX, HL, HMHC, HNNA, HRTG, HTA, IBOC, IBP, ICAD, IDCC, IESC, IFF, IFRX, IGMS, IHC, IHRT, ILMN, IMH, IMKTA, ING, INOD, INS, INSM, IOVA, IRM, IRTC, IRWD, ISDR, ISIG, ITI, ITRI, ITRM, ITT, JCOM, JNCE, JYNT, K, KALA, KAMN, KDMN, KIDS, KPTI, KRP, KTB, KURA, KYMR, LAMR, LASR, LAUR, LAZY, LCTX, LCUT, LEE, LGF.A, LGF.B, LJPC, LNG, LNSR, LNT, LOCO, LOPE, LORL, LPCN, LQDT, LSPD, LTHM, LUMO, LXP, MAIN, MCHX, MDGL, MDRX, MDWD, MFA, MGEE, MGNI, MGTA, MGTX, MIRM, MITO, MKTY, MLAB, MMS, MNPR, MNST, MOSY, MP, MPLN, MRNA, MRNS, MRTX, MRUS, MSI, MTBC, MTEM, MTW, MTZ, MUR, MUX, MX, MXC, MYE, NATR, NBRV, NBY, NET, NEXT, NFE, NFG, NGVC, NH, NHC, NICE, NINE, NJR, NKTR, NNA, NNBR, NNI, NOG, NOMD, NRG, NS, NSIT, NTLA, NTRA, NTUS, NUZE, NVAX, NVMI, NVO, NWN, NWS, NWSA, NXTC, NYMT, OBSV, OCN, OCSL, OEC, OGE, OLED, OLP, OM, ONCT, ONTO, OPNT, OPRT, ORBC, ORTX, OTEX, OTRK, OUT, PAE, PALT, PASG, PBA, PBH, PBPB, PBYI, PCOR, PCSB, PCTY, PDEX, PECO, PEI, PENN, PFBI, PFIE, PFSI, PGNY, PH, PHAT, PHI, PHX, PK, PLM, PLUG, PMT, PNW, PODD, POST, PPL, PRA, PRAA, PRDO, PRI, PRMW, PRQR, PRTA, PRTS, PRTY, PRVB, PTGX, PTMN, PWFL, PWR, PZZA, QDEL, QTNT, QTRX, QUOT, RAMP, RBA, RC, RCUS, RDFN, RDUS, REFR, REG, REGN, REV, REZI, RGNX, RLJ, RMD, RMR, ROLL, RSLS, RUN, RVNC, SAND, SBBP, SBLK, SEAS, SELB, SEM, SFM, SGA, SGMO, SHAK, SHYF, SIF, SIGA, SKM, SLDB, SLRX, SMHI, SNEX, SPCE, SPH, SPKE, SPNT, SPRO, SPRT, SPXC, SR, SRE, SRG, SRLP, SRRA, SRTS, SSYS, STFC, STMP, STNG, STOR, STRO, STRT, STWD, SVC, SVM, SVRA, SWCH, SWIM, SWX, SYBX, SYN, SYNA, SYRS, TAL, TBIO, TCX, TDC, TDS, TDW, TECH, TEN, TG, TGH, TGP, THR, THS, TIPT, TK, TM, TMCI, TMDX, TMST, TMX, TNK, TPIC, TPL, TRGP, TRHC, TRI, TRIN, TRIP, TRUE, TRUP, TSP, TTOO, TTSH, TUEM, UEIC, UNIT, UONE, UONEK, USM, USPH, VCTR, VEL, VEON, VER, VG, VGR, VHI, VIAC, VIACA, VIR, VLDR, VMEO, VOR, VOYA, VRAY, VRNA, VRRM, VSAT, VST, VVI, VXRT, W, WCC, WD, WFCF, WLDN, WMS, WOW, WPRT, WRK, WSC, WSTG, WTRG, WTRH, WVE, WVFC, WWR, XEC, XENE, XERS, XLRN, XOMA, XRAY, XTNT, XXII, Y, YELP, YETI, YMAB, YMTX, YORW, Z, ZEUS, ZG, ZGNX, ZIXI, ZNGA, ZSAN, ZTS\n\n - Ex-div:\n\n  AFB, AMG, ARLP, BKEP, BSBR, CADE, CEQP, CFFN, CMCO, CMS, CVCY, ET, FCF, FE, FHI, FRAF, FRBA, GPP, HMLP, HSII, HWM, IBCP, INTC, LBC, LSBK, LW, MMLP, MMP, MPLX, NYCB, OMF, PCB, PCTI, PETS, PKOH, PNFP, PNM, PPBI, RELX, SIRI, SMBK, SUN, UL, WAFD, WFC, WHG\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.045%)\n    - 8-Week Bill Auction (previous: 0.045%)\n    - Challenger Job Cuts (previous: 20.476K)\n    - Continuing Jobless Claims (consensus: 3,260K, previous: 3,269K)\n    - Exports (previous: 204.99B)\n    - Fed Waller Speaks\n    - Imports (previous: 273.89B)\n    - Initial Jobless Claims (consensus: 384K, previous: 400K)\n    - Jobless Claims 4-Week Avg. (previous: 394.50K)\n    - Natural Gas Storage (previous: 36B)\n    - Trade Balance (consensus: -74.10B, previous: -71.20B)\n\n^^^^2021-08-04",
+        "created_utc": 1628071224,
+        "id": "h7ns60v",
+        "permalink": "/r/RobinHood/comments/oxpelo/daily_discussion_thread_august_4th_2021/h7ns60v/",
+        "score": 3,
+        "subreddit": "RobinHood",
+        "created": 1628100024.0
+    },
+    {
+        "author": "the_GuelahPapyrus",
+        "body": "TRMB\n\nTWTR\n\nGOOG\n\nHMC\n\nHOG\n\nANTM\n\n\n\nEdit:\n\nLol. HOOD",
+        "created_utc": 1629535375,
+        "id": "h9rovcq",
+        "permalink": "/r/wallstreetbets/comments/p8cqpr/weekend_discussion_thread_for_the_weekend_of/h9rovcq/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1629564175.0
+    },
+    {
+        "author": "Burlaka",
+        "body": "Trimble sounds like a gay hookup app, so puts.",
+        "created_utc": 1628034640,
+        "id": "h7m73vt",
+        "permalink": "/r/wallstreetbets/comments/oxbkl9/what_are_your_moves_tomorrow_august_04_2021/h7m73vt/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1628063440.0
+    },
+    {
+        "author": "Nuttymage",
+        "body": "Nintendo\nVTI\nTRIMBLE",
+        "created_utc": 1630070201,
+        "id": "hajwqcw",
+        "permalink": "/r/ValueInvesting/comments/pcn0o9/6_stocks_to_hold_them_forever/hajwqcw/",
+        "score": 2,
+        "subreddit": "ValueInvesting",
+        "created": 1630099001.0
+    },
+    {
+        "author": "MADE_WITH_REAL_LEMON",
+        "body": "cash out the TRMB call i bought yesterday",
+        "created_utc": 1628134467,
+        "id": "h7rhkcb",
+        "permalink": "/r/wallstreetbets/comments/oy0ywp/what_are_your_moves_tomorrow_august_05_2021/h7rhkcb/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1628163267.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Tuesday, the  3rd of August\n\n\n\n## Upcoming events for Tuesday, August  3rd\n\n - Expected earnings:\n\n  ACOR, ADCT, AENZ, AFG, AHH, AIZ, AKAM, ALNY, ALTO, AME, AMGN, ANDE, ANIX, APAM, APEN, APRN, APT, APTO, AQST, AQUA, ARC, ARNC, ARVN, ATEC, ATI, ATKR, ATOM, ATVI, AVID, AVNS, AY, AYX, BABA, BEN, BGFV, BHC, BHG, BKEP, BKH, BLD, BLKB, BNFT, BNL, BP, BRY, BXC, BYFC, CAR, CDEV, CDLX, CDXC, CECE, CEIX, CERS, CFBK, CGBD, CHCT, CHSCP, CIX, CLDT, CLSK, CLX, CMI, CNR, COHR, COP, COUR, CPE, CPSI, CPSS, CRD.A, CRD.B, CRIS, CRK, CRNC, CRSR, CRVL, CSLT, CTSO, CW, CWEN, CWEN.A, CWH, CZR, DCPH, DD, DEA, DEI, DENN, DISCA, DISCB, DISCK, DK, DKL, DNB, DS, DSKE, DSX, DVA, DVN, EC, EDU, ELVT, ENLC, EPZM, ESPR, ET, ETN, ETRN, EVTC, EXPD, EZPW, FCNCA, FI, FICO, FIS, FMC, FNF, FNHC, FOE, FRG, FSP, FSTR, GBL, GBT, GDOT, GECC, GHL, GIC, GLDD, GLRE, GLT, GLTO, GMRE, GNW, GRBK, GTE, H, HEES, HEP, HLF, HLI, HLNE, HPP, HSC, HSIC, HSKA, HST, HY, HZN, IAA, ICFI, ICHR, IDN, IDRA, IGT, INCY, INFN, INGR, INN, INSP, INVE, IOSP, IPGP, IT, ITIC, IX, J, JAX, JAZZ, JBGS, KAI, KAR, KFRC, KKR, KLDO, KNSA, KOPN, KTOS, KWR, LCII, LDI, LDOS, LEU, LGIH, LHX, LIND, LLY, LPG, LPSN, LPX, LRFC, LSCC, LSI, LUNG, LYFT, LYV, MANT, MAR, MCHP, MCRB, MCY, MDNA, MDXG, MEC, MGRC, MGY, MIC, MIME, MKL, MNOV, MNR, MNTX, MRCC, MRCY, MTCH, MTRN, MUFG, MYGN, NBIX, NCR, NCSM, NDLS, NE, NEWR, NKLA, NMIH, NNN, NPO, NPTN, NR, NRC, NSA, NVST, NVT, NVTA, OAS, OCFT, OCN, OI, OKE, OMI, OMP, ONCR, OPCH, OPTN, OSUR, OXY, PAA, PACB, PAGP, PAYC, PBI, PCRX, PEAK, PEG, PERI, PKOH, POWL, PRIM, PRO, PRU, PSA, PSB, PSX, PSXP, PTRS, PUMP, PVAC, QTS, QUAD, RCKY, RCM, RDN, RGA, RHP, RIBT, RIGL, RL, RM, RMRM, RNG, ROCK, RPAI, RRD, RVPH, RYAM, RYTM, SABR, SAGE, SATS, SEB, SEE, SHO, SKLZ, SKT, SKY, SKYT, SLRC, SND, SONY, SPT, SPWR, SQNS, SRC, SRNE, STAR, STIM, STLA, SUN, SUNS, TACT, TALO, TBPH, TCS, TDG, TISI, TNC, TRTX, TSLX, TSQ, TTEC, TX, UA, UAA, UBOH, UFPT, UNM, USAC, USCR, UTL, VAL, VECO, VERI, VNTR, VREX, VRSK, VVNT, WAT, WBT, WEC, WEYS, WHLR, WK, WLK, WLKP, WLTW, WMC, WMG, WRN, WSR, WTI, WTTR, XFOR, XHR, XP, XPER, XYL, ZBH, ZBRA\n\n - Ex-div:\n\n  ATR, BBD, BBDO, BCBP, EIG, ETRN, HFWA, MKTX, NTIC, SHEN\n\n - Economic events and announcements:\n\n    - 30-Year Bond Auction (previous: 2.000%)\n    - API Weekly Crude Oil Stock (previous: -4.728M)\n    - Durables Excluding Defense (previous: 1.0%)\n    - FOMC Member Bowman Speaks\n    - FOMC Member Clarida Speaks\n    - Factory Orders (consensus: 1.0%, previous: 1.7%)\n    - Factory orders ex transportation (previous: 0.7%)\n    - IBD/TIPP Economic Optimism (previous: 54.3)\n    - Redbook (previous: 16.0%)\n    - Total Vehicle Sales (previous: 15.40M)\n\n## Upcoming events for Wednesday, August  4th\n\n - Expected earnings:\n\n  AAU, ABC, ABIO, AC, ACA, ACAD, ACEL, ACIU, ACLS, ACR, ADMA, ADPT, ADT, ADTN, AEIS, AERI, AFIN, AGL, ALB, ALE, ALG, ALIM, ALKT, ALL, ALLO, ALNA, ALRN, ALTM, AMED, AMOT, AMPE, AMPY, AMSC, ANGI, ANSS, APA, APO, ARLO, ARTNA, ASMB, ASTE, ASYS, ATO, ATRA, ATRC, ATTO, AVA, AXGN, BBSI, BCLI, BCOR, BCSF, BCYC, BDC, BDSI, BE, BFAM, BGCP, BKNG, BKTI, BLPH, BLUE, BNGO, BOOT, BRSP, BTG, BVH, BWA, CAMT, CCMP, CCRN, CCU, CDAY, CDW, CENT, CENTA, CENX, CFMS, CHNG, CIA, CIB, CIGI, CIM, CKPT, CLH, CLVS, CLW, CMLS, CMP, CPA, CPK, CPS, CRL, CRTO, CSGS, CSII, CSTE, CSWI, CUTR, CVGI, CVRX, CVS, CYAD, DAR, DCP, DFIN, DGII, DHC, DLHC, DMTK, DNOW, DOC, DOX, DRTT, DVAX, DXC, EA, ECPG, EDIT, EDRY, EGHT, ELF, EMKR, EMR, ENBL, EOG, EOLS, EQH, EQX, ERJ, ERO, ETR, ETSY, EVH, EVOP, EVRI, EXC, EXPI, EYPT, FATE, FCPT, FDP, FENC, FLMN, FLOW, FLT, FLXN, FOX, FOXA, FPI, FRGI, FRT, FSLY, FTDR, FUN, FVE, GDDY, GEL, GEO, GGB, GHC, GLAD, GLBZ, GM, GMED, GNK, GPRK, GRP.U, GRTS, GTHX, HARP, HBB, HCC, HDSN, HFC, HHC, HI, HMC, HNGR, HR, HRTX, HUBS, HWM, HYMC, HZNP, IAC, IAG, ICD, ICUI, IIPR, IMXI, INGN, INMB, INSG, IO, IONS, ISEE, ISSC, IVC, IVR, JACK, JLL, JRVR, KBAL, KE, KHC, KIN, KLIC, KRO, KRTX, KUKE, KW, KZR, LAND, LESL, LHCG, LILA, LILAK, LL, LMND, LMRK, LNC, LPI, LUMN, MAC, MASS, MAXR, MBI, MCK, MCS, MDCA, MDU, MED, MET, MFC, MGLN, MGM, MGPI, MIDD, MLR, MLVF, MNKD, MNRL, MNTV, MOD, MPC, MPLX, MRO, MTG, MTOR, MVIS, MWA, NC, NEPH, NESR, NEWT, NEX, NHTC, NI, NL, NMFC, NMR, NODK, NP, NSPR, NSTG, NTEC, NUS, NVRO, NWPX, NXST, NYT, OCDX, ODP, OESX, ONEM, OPRX, OR, ORA, ORCC, ORIC, OSPN, OTIC, OYST, PACE, PARR, PCSA, PDCE, PETQ, PFLT, PING, PIRS, PLMR, PLTK, PLUS, PLYA, PNNT, PROF, PSN, PSNL, PTVE, PW, QNST, QRVO, QTWO, QUIK, RCII, RCKT, RCL, REGI, RESN, RGR, RKT, RMAX, RMNI, RNWK, ROKU, RPD, RPT, RTLR, RVI, RVLV, RYI, RYN, SAFT, SALM, SANA, SBGI, SBOW, SBRA, SCU, SD, SENEA, SENEB, SGRY, SITE, SITM, SJI, SLCT, SLF, SLGL, SLNG, SMFG, SMG, SMP, SMSI, SPNS, SPR, SRDX, SRI, SRPT, SSRM, SSSS, STAA, STKL, STN, SUM, SUP, SUPN, SWM, TELL, TGB, TGI, TLC, TNDM, TPC, TPVG, TRC, TREC, TRMB, TRNO, TS, TSE, TT, TTGT, TUP, TVTY, TWNK, TWO, TXG, TXMD, UBER, UE, UFCS, UFI, UGI, UHAL, UIHC, ULCC, UMH, UPLD, URG, URGN, USDP, USWS, UTHR, UVV, VCEL, VIRT, VMC, VRCA, VRDN, VTOL, VVV, VWTR, VZIO, WCN, WDC, WLFC, WLL, WTS, WU, WYNN, XNCR, XPL, YELL, ZYME\n\n - Ex-div:\n\n  AWI, CATC, CCK, DKL, FELE, IBTX, IDA, KBH, MATX, NEP, NWBI, OFED, OPBK, SIMO, STBA, TGP, VBTX, VLO, WSFS, WTFC\n\n - Economic events and announcements:\n\n    - 30-Year Bond Auction (previous: 2.000%)\n    - API Weekly Crude Oil Stock (previous: -4.728M)\n    - Durables Excluding Defense (previous: 1.0%)\n    - FOMC Member Bowman Speaks\n    - FOMC Member Clarida Speaks\n    - Factory Orders (consensus: 1.0%, previous: 1.7%)\n    - Factory orders ex transportation (previous: 0.7%)\n    - IBD/TIPP Economic Optimism (previous: 54.3)\n    - Redbook (previous: 16.0%)\n    - Total Vehicle Sales (previous: 15.40M)\n\n^^^^2021-08-03",
+        "created_utc": 1627984814,
+        "id": "h7jaqb2",
+        "permalink": "/r/RobinHood/comments/ox0911/daily_discussion_thread_august_3rd_2021/h7jaqb2/",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1628013614.0
+    },
+    {
+        "author": "Robot_of_Sherwood",
+        "body": "# Today is Monday, the  2nd of August\n\n\n\n## Upcoming events for Monday, August  2nd\n\n - Stock splits:\n\n    - GE @ **1:8**\n\n - Expected earnings:\n\n  ACHC, ADUS, AIV, ALX, AMRC, ANET, APPF, ARAV, ARCB, ARGO, ASLN, AWK, AWR, BCC, BRKR, BRX, BSBK, BSM, BVN, BWXT, CINR, CLAR, CLNN, CLR, CNA, COLM, CORR, CRNT, CSR, CSWC, CVI, CX, DAC, DBVT, DSPG, DZSI, EARN, EML, EMN, EVER, FANG, FNCB, FREY, FRPT, GAIA, GAIN, GOOD, GPN, GPP, GPRE, GSMG, HAYW, HLIT, HMN, HSBC, IMUX, IPI, ITUB, IVAC, JELD, KDNY, KMT, KNBE, KRG, L, LEG, LU, LUB, METC, MFIN, MG, MOS, NERV, NETI, NPK, NSP, NXPI, O, OGS, OHI, ON, OTTR, PBHC, PEBK, PLOW, PXD, RACE, RADA, RARE, REKR, REYN, RGCO, RIG, RMBL, RMBS, SANM, SBAC, SBT, SCM, SEDG, SFST, SGU, SIBN, SPG, SPNE, STRL, SYKE, TA, TCMD, TCPC, TGTX, TKR, TREX, TSEM, TTI, TTWO, UAN, UCTT, UIS, UNVR, USAU, UTI, VMD, VNO, VNOM, VRNS, VTVT, WILC, WMB, WMK, WWD, XTNT, ZI\n\n - Ex-div:\n\n  BANR, CAG, CAPL, CBAN, FAM, FCCO, FCT, FDEU, FEI, FIF, FIV, FMY, FPF, FPL, FSD, FTHY, IGD, ITUB, LMRK, SAFM, SHLX, SPH, SRCE, SRLP, WBS, WSR\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.050%)\n    - 6-Month Bill Auction (previous: 0.050%)\n    - Construction Spending (consensus: 0.4%, previous: -0.3%)\n    - ISM Manufacturing Employment (previous: 49.9)\n    - ISM Manufacturing New Orders Index (previous: 66.0)\n    - ISM Manufacturing PMI (consensus: 60.9, previous: 60.6)\n    - ISM Manufacturing Prices (previous: 92.1)\n    - Investing.com Gold Index (actual: 58.5%, previous: 58.2%)\n    - Investing.com S&amp;P 500 Index (actual: 47.3%, previous: 42.2%)\n    - Loan Officer Survey\n    - Manufacturing PMI (consensus: 63.1, previous: 62.1)\n    - Total Vehicle Sales (previous: 15.40M)\n\n## Upcoming events for Tuesday, August  3rd\n\n - Expected earnings:\n\n  ACOR, ADCT, AENZ, AFG, AHH, AIZ, AJX, AKAM, ALNY, ALTO, AME, AMGN, ANDE, ANIX, APAM, APEN, APRN, APT, APTO, AQST, AQUA, ARC, ARNC, ARVN, ATEC, ATI, ATKR, ATOM, ATVI, AVID, AVNS, AY, AYX, BABA, BEN, BGFV, BHC, BHG, BKEP, BKH, BLD, BLKB, BNFT, BNL, BP, BRY, BXC, BYFC, CAR, CDEV, CDLX, CDXC, CECE, CEIX, CERS, CFBK, CGBD, CHCT, CHSCP, CIX, CLDT, CLSK, CLX, CMI, CNR, COHR, COP, COUR, CPE, CPSI, CPSS, CRD.A, CRD.B, CRIS, CRK, CRNC, CRSR, CRVL, CSLT, CTSO, CW, CWEN, CWEN.A, CWH, CZR, DCPH, DD, DEA, DEI, DENN, DISCA, DISCB, DISCK, DK, DKL, DNB, DS, DSKE, DSX, DVA, DVN, E, EC, EDU, ELVT, ENIA, ENLC, EPZM, ESPR, ET, ETN, ETRN, EVC, EVTC, EXPD, EZPW, FCNCA, FI, FICO, FIS, FMC, FNF, FNHC, FOE, FRG, FSP, FSTR, GBL, GBT, GDOT, GHL, GIC, GLDD, GLRE, GLT, GLTO, GMRE, GNW, GRBK, GTE, H, HEES, HEP, HLF, HLI, HLNE, HPP, HSC, HSIC, HSKA, HST, HY, HZN, IAA, ICFI, ICHR, IDN, IDRA, IGT, INCY, INFN, INGR, INN, INSP, INVE, IOSP, IPGP, IT, ITIC, IX, J, JAX, JAZZ, JBGS, KAI, KAR, KFRC, KKR, KLDO, KNSA, KOPN, KTOS, KWR, LCII, LDI, LDOS, LEU, LGIH, LHX, LIND, LLY, LPG, LPSN, LPX, LRFC, LSCC, LSI, LUNG, LYFT, LYV, MANT, MAR, MCHP, MCRB, MCY, MDNA, MDXG, MEC, MGRC, MGY, MIC, MIME, MKL, MNOV, MNR, MNST, MNTX, MRCC, MRCY, MTCH, MTRN, MUFG, MYGN, NBIX, NCR, NCSM, NDLS, NE, NEWR, NKLA, NMIH, NNN, NPO, NPTN, NR, NRC, NSA, NVST, NVT, NVTA, OAS, OCFT, OCN, OI, OKE, OMI, OMP, ONCR, OPCH, OPTN, OSUR, OXY, PAA, PACB, PAGP, PAYC, PBI, PCRX, PEAK, PEG, PERI, PKOH, POWL, PRIM, PRO, PRU, PSA, PSB, PSX, PSXP, PTRS, PUMP, PVAC, QTS, QUAD, RCKY, RCM, RDN, RGA, RHP, RIBT, RIGL, RL, RM, RMRM, RNG, ROCK, RPAI, RRD, RVPH, RYAM, RYTM, SABR, SAGE, SEB, SEE, SHO, SKLZ, SKT, SKY, SKYT, SLRC, SND, SONY, SPT, SPWR, SQNS, SRC, SRNE, STAR, STIM, STLA, SUN, SUNS, SWI, TACT, TALO, TBPH, TCS, TDG, TISI, TNC, TRTX, TSLX, TSQ, TTEC, TX, UA, UAA, UBOH, UFPT, UNM, USAC, USCR, UTL, VAL, VECO, VERI, VNTR, VREX, VRSK, VVNT, WAT, WBT, WEC, WEYS, WHLR, WK, WLK, WLKP, WLTW, WMC, WMG, WRN, WSR, WTI, WTTR, WYNN, XFOR, XHR, XP, XPER, XYL, ZBH, ZBRA\n\n - Ex-div:\n\n  ATR, BBD, BBDO, BCBP, EIG, ETRN, HFWA, MKTX, NTIC, SHEN\n\n - Economic events and announcements:\n\n    - 30-Year Bond Auction (previous: 2.000%)\n    - API Weekly Crude Oil Stock (previous: -4.728M)\n    - Durables Excluding Defense (previous: 1.0%)\n    - FOMC Member Bowman Speaks\n    - Factory Orders (consensus: 1.0%, previous: 1.7%)\n    - Factory orders ex transportation (previous: 0.7%)\n    - IBD/TIPP Economic Optimism (previous: 54.3)\n    - Redbook (previous: 16.0%)\n\n## Upcoming events for Wednesday, August  4th\n\n - Expected earnings:\n\n  AAU, ABC, ABIO, AC, ACA, ACAD, ACEL, ACIU, ACLS, ACR, ADMA, ADPT, ADT, ADTN, AEIS, AERI, AFIN, AGL, ALB, ALE, ALG, ALIM, ALKT, ALL, ALLO, ALNA, ALRN, ALTM, AMED, AMOT, AMPE, AMPY, AMSC, ANGI, ANSS, ANVS, APA, APO, ARLO, ARNA, ARTNA, ASMB, ASTE, ASYS, ATO, ATRA, ATRC, ATTO, AVA, AXGN, BBSI, BCLI, BCOR, BCSF, BCYC, BDC, BDSI, BE, BFAM, BFIN, BGCP, BKNG, BKTI, BLPH, BLUE, BNGO, BOOT, BRSP, BTG, BWA, CAMT, CCMP, CCRN, CCU, CDAY, CDW, CENT, CENTA, CENX, CFMS, CHNG, CIA, CIB, CIGI, CIM, CKPT, CLH, CLLS, CLVS, CLW, CMLS, CMP, CPA, CPK, CPS, CRL, CRTO, CSGS, CSII, CSTE, CSWI, CUTR, CVGI, CVRX, CVS, CYAD, DAR, DCP, DFIN, DGII, DHC, DLHC, DMTK, DNOW, DOC, DOX, DRTT, DVAX, DXC, EA, ECPG, EDIT, EDRY, EGHT, ELF, EMKR, EMR, ENBL, EOG, EOLS, EQH, EQX, ERJ, ERO, ETR, ETSY, EVH, EVOP, EVRI, EXC, EXPI, EYPT, FATE, FCPT, FDP, FENC, FLMN, FLOW, FLT, FLXN, FOX, FOXA, FRGI, FRPH, FRT, FSLY, FTDR, FUN, FVE, GDDY, GEL, GGB, GHC, GLAD, GLBZ, GM, GMED, GNK, GPRK, GRP.U, GRTS, GTHX, HARP, HBB, HCC, HDSN, HFC, HHC, HI, HMC, HNGR, HR, HRTX, HUBS, HWM, HYMC, HZNP, IAC, IAG, ICD, ICUI, IIPR, IMXI, INGN, INMB, INSG, IO, IONS, ISEE, ISSC, IVC, IVR, JACK, JLL, JRVR, KBAL, KE, KHC, KIN, KLIC, KRO, KRTX, KUKE, KW, KZR, LAND, LESL, LEVL, LHCG, LILA, LILAK, LL, LMND, LMRK, LNC, LPI, LUMN, MAC, MASS, MAXR, MBI, MCK, MCS, MDCA, MDU, MED, MET, MFC, MGLN, MGM, MGPI, MIDD, MLR, MLVF, MNKD, MNRL, MNTV, MOD, MPC, MPLX, MRO, MTG, MTOR, MVIS, MWA, NC, NEPH, NESR, NEWT, NEX, NHTC, NI, NL, NMFC, NMR, NODK, NP, NSPR, NSTG, NTEC, NUS, NVRO, NWPX, NXST, NYT, OCDX, ODP, OESX, ONEM, OPRX, OR, ORA, ORCC, ORIC, OSPN, OTIC, OYST, PACE, PARR, PCSA, PDCE, PETQ, PFIE, PFLT, PING, PIRS, PLMR, PLTK, PLUS, PLYA, PNNT, PROF, PSN, PSNL, PTVE, PW, QNST, QRVO, QTWO, QUIK, RCII, RCKT, RCL, REGI, RESN, RGR, RKT, RMAX, RMNI, RNWK, ROKU, RPD, RPT, RTLR, RVI, RVLV, RYI, RYN, SAFT, SALM, SANA, SBGI, SBOW, SBRA, SCU, SD, SENEA, SENEB, SGMO, SGRY, SITE, SITM, SJI, SLCT, SLF, SLGL, SLNG, SMFG, SMG, SMP, SMSI, SPNS, SPR, SRDX, SRI, SRPT, SSRM, SSSS, STAA, STKL, STN, SUM, SUP, SUPN, SWM, TELL, TGB, TGI, TIPT, TLC, TNDM, TPC, TPVG, TRC, TREC, TRMB, TRNO, TS, TSE, TT, TTGT, TUP, TVTY, TWNK, TWO, TXG, TXMD, UBER, UE, UFCS, UFI, UGI, UHAL, UIHC, ULCC, UMH, UPLD, URG, URGN, USDP, USWS, UTHR, UVV, VCEL, VGR, VIRT, VMC, VRCA, VRDN, VTOL, VVV, VWTR, VZIO, WCN, WDC, WLFC, WLL, WTS, WU, XNCR, XPL, YELL, ZYME\n\n - Ex-div:\n\n  AWI, CATC, CCK, DKL, FELE, IBTX, IDA, KBH, MATX, NEP, NWBI, OFED, OPBK, SIMO, STBA, TGP, VBTX, VLO, WSFS, WTFC\n\n - Economic events and announcements:\n\n    - ADP Nonfarm Employment Change (consensus: 700K, previous: 692K)\n    - Crude Oil Imports (previous: -0.616M)\n    - Crude Oil Inventories (previous: -4.089M)\n    - Cushing Crude Oil Inventories (previous: -1.268M)\n    - Distillate Fuel Production (previous: -0.163M)\n    - EIA Refinery Crude Runs  (previous: -0.132M)\n    - EIA Weekly Distillates Stocks (consensus: -0.435M, previous: -3.088M)\n    - EIA Weekly Refinery Utilization Rates (consensus: 0.4%, previous: -0.3%)\n    - FOMC Member Clarida Speaks\n    - Gasoline Inventories (consensus: -0.916M, previous: -2.253M)\n    - Gasoline Production (previous: 0.649M)\n    - Heating Oil Stockpiles (previous: 0.108M)\n    - ISM Non-Manufacturing Business Activity (previous: 60.4)\n    - ISM Non-Manufacturing Employment (previous: 49.3)\n    - ISM Non-Manufacturing New Orders (previous: 62.1)\n    - ISM Non-Manufacturing PMI (consensus: 60.4, previous: 60.1)\n    - ISM Non-Manufacturing Prices (previous: 79.5)\n    - MBA 30-Year Mortgage Rate (previous: 3.01%)\n    - MBA Mortgage Applications (previous: 5.7%)\n    - MBA Purchase Index (previous: 251.7)\n    - Markit Composite PMI (previous: 59.7)\n    - Mortgage Market Index (previous: 737.9)\n    - Mortgage Market Index (previous: 737.9)\n    - Mortgage Refinance Index (previous: 3,570.4)\n    - Services PMI (previous: 59.8)\n\n^^^^2021-08-02",
+        "created_utc": 1627898416,
+        "id": "h7evcd0",
+        "permalink": "/r/RobinHood/comments/owbfcw/daily_discussion_thread_august_2nd_2021/h7evcd0/",
+        "score": 1,
+        "subreddit": "RobinHood",
+        "created": 1627927216.0
     }
 ]

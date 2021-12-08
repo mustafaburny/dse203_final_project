@@ -1,18 +1,80 @@
 [
     {
+        "author": "r80rambler",
+        "body": "IBM, some companies still making MIPS last time I checked, the Chinese manufacturer that's apparently making x86 in their domestic market, Atmel, lots of manufacturers using ARM IP including Apple and Nvidia.  In the past decade we saw at least one run off Spark in the K computer.  Xilinx and Alterra have FPGA + CPU offerings (arm IP on the copy side I believe).  Nvidia and AMD with GPGPUs (and at least Nvidia with Jetson, etc CPU cores).  Motorola. Whoever made the propellor, and PIC if they're still around in any quantity.  Six years ago you could reprogram ~$1 'wi fi adaptors' from China and run whatever you wanted on them within their capability, and there are untold numbers of folks that have general propose CPUs somewhere in the silicon inside their widgets.  Tesla has their own computers for self driving logic. Some of the cloud companies offer compute time on in house designed machine learning options. (all from memory, maybe some small errors somewhere).\n\nTons of folks make CPUs, accelerators, general propose logic, etc.  They're mostly just not relevant to the systems your random neighbor has ever heard of, or they're embedded and un-advertised.  AMD/Intel and ARM-based are the headliners and the ones you actually hear about.",
+        "created_utc": 1587698464,
+        "id": "foe8ybv",
+        "permalink": "/r/investing/comments/g6u4uk/intel_stock_falls_after_report_says_apple_plans/foe8ybv/",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1587727264.0
+    },
+    {
         "author": "freehouse_throwaway",
         "body": "Theta play on semi next week (AMD/NVDA) is prob best bet.. just make sure you sell OTM enough...\n\nGranted this is based on LRCX/INTC/XLNX but things sure look priced in as fuck.",
         "created_utc": 1587769442,
         "id": "fohoaqp",
+        "permalink": "/r/wallstreetbets/comments/g7fkq6/weekend_discussion_thread_for_the_weekend_of/fohoaqp/",
         "score": 4,
         "subreddit": "wallstreetbets",
         "created": 1587798242.0
+    },
+    {
+        "author": "infinitelimits00",
+        "body": "I have calls down 30%. We need XLNX and LRCX to be good tomorrow afternoon. The the big one is INTC on Thursday. The semis move a ton on the old boomer Intel.",
+        "created_utc": 1587531224,
+        "id": "fo5ou7v",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo5ou7v/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1587560024.0
+    },
+    {
+        "author": "notadrawlb",
+        "body": "XLNX gon priinnttt",
+        "created_utc": 1587587079,
+        "id": "fo7z74d",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo7z74d/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1587615879.0
+    },
+    {
+        "author": "dwdsquared2",
+        "body": "Congrats if you had XLNX puts.",
+        "created_utc": 1587590171,
+        "id": "fo85bzn",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo85bzn/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1587618971.0
+    },
+    {
+        "author": "ParticleEngine",
+        "body": "Not sure why everyone's talking about trees. But while we're on the subject, XLNX is my new favorite long term hold.",
+        "created_utc": 1587602571,
+        "id": "fo8rwhp",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo8rwhp/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1587631371.0
+    },
+    {
+        "author": "Michael---Scott",
+        "body": "Welcome to the bear market aka recession. No guidance for the entire year. You guys didn't see XLNX, LRCX and TXN reporting the other day?",
+        "created_utc": 1587674256,
+        "id": "focpqzv",
+        "permalink": "/r/wallstreetbets/comments/g6u3f2/wtf_is_up_with_intc/focpqzv/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1587703056.0
     },
     {
         "author": "zachmilly",
         "body": "Credit spreads all day baby. \nBUT if u wanna YOLO: \nAMZN, TSLA, CMG short term puts.\nUNH July $150 puts.\nYou could Get money on IV Run up with earnings too. \nDo credit &amp; debit spreads. \nDo strangles and straddles. \nBut you could do basic calls &amp; puts too. \nUpcoming earnings plays: \nApril 21st: \n-NFLX\n-SNAP\n-LMT (can help indicate what BA May do on 22nd)\n-PG\n-UAL(compare for other upcoming airline earnings)\n22nd:\n- XLNX\n-BA\n-TSLA I expect big pop then drop. \n23rd: \n-DPZ\n-LUV\n-DB\n-INTC\n24th:\n-AAL\n-AXP\n\nAnd others coming up just go to earningswhisper.com.",
         "created_utc": 1587155391,
         "id": "fnq0jjn",
+        "permalink": "/r/wallstreetbets/comments/g39jyi/because_of_you_autists_i_lost_10k_on_the_way_back/fnq0jjn/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1587184191.0
@@ -22,6 +84,7 @@
         "body": "i'm going to need INTC to fuck it up for semi tomorrow so i can get out of my XLNX May puts which are slowly being fucking crushed since i already closed the short leg of my debit spread...\n\nand so i can get in on some NVDA/AMD goodness for cheap before ER",
         "created_utc": 1587655180,
         "id": "fob1x7t",
+        "permalink": "/r/wallstreetbets/comments/g6k3gr/daily_discussion_thread_for_april_23_2020/fob1x7t/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1587683980.0
@@ -31,6 +94,7 @@
         "body": "XLNX beat earnings and is going down. I guess at least I won on LVS if this stays but really need XLNX to get up and also bring AMD up too since I have AMD calls. The calls were good today but need them to do even better for me to make money.",
         "created_utc": 1587587670,
         "id": "fo80dps",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo80dps/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1587616470.0
@@ -40,6 +104,7 @@
         "body": "https://www.reddit.com/r/wallstreetbets/comments/g3mskl/most_anticipated_earnings_releases_for_the/\n\nATT, Ericsson, STM, Xilinx, Intel/Altera, Mellanox, VZW.\nThese are all cloud and 5G component infrastructure suppliers. They should be doing OK this year right?",
         "created_utc": 1587500443,
         "id": "fo49djz",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo49djz/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1587529243.0
@@ -49,6 +114,7 @@
         "body": "&gt; Xilinx \n\nLiterally never heard of that company",
         "created_utc": 1587589534,
         "id": "fo842jc",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo842jc/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1587618334.0
@@ -58,15 +124,117 @@
         "body": "so far $SMH sector shruggin off $XLNX/$LRCX/$STX, this is gonna go great when $INTC reports today",
         "created_utc": 1587659030,
         "id": "fobeoty",
+        "permalink": "/r/wallstreetbets/comments/g6k3gr/daily_discussion_thread_for_april_23_2020/fobeoty/",
         "score": 2,
         "subreddit": "wallstreetbets",
         "created": 1587687830.0
+    },
+    {
+        "author": "CptTonyStark",
+        "body": "Fs in the chat for XLNX call holders",
+        "created_utc": 1587587233,
+        "id": "fo7zi9q",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo7zi9q/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1587616033.0
+    },
+    {
+        "author": "infinitelimits00",
+        "body": "On AMD? Yea it\u2019s just some algos trading XLNX and LRCX earnings. That\u2019s why NVDA down a little bit too. But tomorrow it can go up. However it woulda been better if the two names reported better earnings. \n\nI don\u2019t wanna have to rely on INTC tomorrow.",
+        "created_utc": 1587588085,
+        "id": "fo817du",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo817du/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1587616885.0
+    },
+    {
+        "author": "Puubuu",
+        "body": "Come on, XLNX earnings weren't so bad, were they?",
+        "created_utc": 1587590354,
+        "id": "fo85oow",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo85oow/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1587619154.0
+    },
+    {
+        "author": "rFFModsHaveTheBigGay",
+        "body": "XLNX issues bad guidance. Think we get a NVDA and AMD drop tomorrow?",
+        "created_utc": 1587590731,
+        "id": "fo86f2u",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo86f2u/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1587619531.0
+    },
+    {
+        "author": "Ph4ntom013",
+        "body": "XLNX calls are free money tomorrow when EPS drops AH",
+        "created_utc": 1587581033,
+        "id": "fo7mudu",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7mudu/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1587609833.0
+    },
+    {
+        "author": "Puubuu",
+        "body": "XLNX all over again",
+        "created_utc": 1587673264,
+        "id": "focmxwj",
+        "permalink": "/r/wallstreetbets/comments/g6tuin/what_are_your_moves_tomorrow_april_24_2020/focmxwj/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1587702064.0
+    },
+    {
+        "author": "someroastedbeef",
+        "body": "sympathy trade. all semis are down based on intel's earnings. \n\nswks, amat, lrcx, xlnx, qcom, nvda, mu, avgo etc",
+        "created_utc": 1587680071,
+        "id": "fod57u5",
+        "permalink": "/r/wallstreetbets/comments/g6vi1e/intc_discussion_thread/fod57u5/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1587708871.0
+    },
+    {
+        "author": "Puubuu",
+        "body": "What makes you bullish on them? XLNX didn't have too bad numbers yesterday, but it dropped like a rock AH. Makes me worry for INTC...",
+        "created_utc": 1587634092,
+        "id": "fo9xh1p",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo9xh1p/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1587662892.0
+    },
+    {
+        "author": "proprietism",
+        "body": "QQQ (Nasdaq Index)\n\nFDN (internet companies index. Top 5 holdings: Amazon, Google, Facebook, Netflix, Cisco)\n\nIGV (software index. Top 5 holdings: Microsoft, Oracle, Adobe, Salesforce, Intuit)\n\nARKQ (automation, robotics, AI, 3D printing. Top 5 holdings: Tesla, Proto Labs, Xilinx, Stratasys, Materialize)\n\nPEY (high dividend growth index. Outperformed SPY from 2008-2019 while paying like 5-6% dividend yield.)",
+        "created_utc": 1586061209,
+        "id": "fmgyd4s",
+        "permalink": "/r/stocks/comments/fv3pcg/pick_5_long_term_stocks/fmgyd4s/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1586090009.0
+    },
+    {
+        "author": "bfairrob",
+        "body": "Take a look at XLNX, they're like the top dawg of 5G but they've dropped since the start of the pandemic",
+        "created_utc": 1588130618,
+        "id": "fowzmg5",
+        "permalink": "/r/wallstreetbets/comments/g9ui2p/what_are_your_moves_tomorrow_april_29_2020/fowzmg5/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1588159418.0
     },
     {
         "author": "michael370662",
         "body": "5G related stonks, ERIC, Nok, Xlnx, TSM\nAI related stonks, NVDA, AMD, TSM\nGold, printer will introduce inflation, GLD\n\nEssential travel, UAL, AAL...(essential not cruise lines) \nHousing market related, NYMT, RDFN...",
         "created_utc": 1586485778,
         "id": "fmygqmt",
+        "permalink": "/r/wallstreetbets/comments/fy0ne9/what_are_your_moves_tomorrow_april_10_2020/fmygqmt/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1586514578.0
@@ -76,6 +244,7 @@
         "body": "Some implied moves for #earnings next week: \n\n$NFLX 12.5% \n\n$IBM 7.5% \n\n$CMG 10.1% \n\n$SNAP 16.6%\n\n$LVS 10.3% \n\n$LMT 4.8% \n\n$PM 6.9% \n\n$XLNX 10.3% \n\n$DFS 12.3%",
         "created_utc": 1587228548,
         "id": "fnstlig",
+        "permalink": "/r/wallstreetbets/comments/g39g3g/weekend_discussion_thread_for_the_weekend_of/fnstlig/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587257348.0
@@ -85,6 +254,7 @@
         "body": "I agree with you that trading US stocks on WS is a bad idea. If it\u2019s just a one time thing though and you\u2019re planning to hold, it\u2019s okay to eat the extra 1.5% fee one time. The semis sector ran hard after TSM earnings this past week. More earnings coming up this week with TXN, LRCX and XLNX. The Tec etf discussed above is barely affected by the semis sector.",
         "created_utc": 1587183433,
         "id": "fnrajfv",
+        "permalink": "/r/CanadianInvestor/comments/g3dklw/semiconductor_etf_of_the_tsx/fnrajfv/",
         "score": 1,
         "subreddit": "CanadianInvestor",
         "created": 1587212233.0
@@ -94,6 +264,7 @@
         "body": "XLNX and ALLY I'm looking at for some theta gang earnings plays. Thoughts?",
         "created_utc": 1587261972,
         "id": "fnuh548",
+        "permalink": "/r/wallstreetbets/comments/g39g3g/weekend_discussion_thread_for_the_weekend_of/fnuh548/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587290772.0
@@ -103,6 +274,7 @@
         "body": "XLNX",
         "created_utc": 1587530147,
         "id": "fo5nh63",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo5nh63/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587558947.0
@@ -112,6 +284,7 @@
         "body": "XLNX calls",
         "created_utc": 1587572387,
         "id": "fo752q6",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo752q6/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587601187.0
@@ -121,6 +294,7 @@
         "body": "LVS with earnings tomorrow.\n\nXLNX too, could move semis.",
         "created_utc": 1587509639,
         "id": "fo4r6sl",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo4r6sl/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587538439.0
@@ -130,6 +304,7 @@
         "body": "Did XLNX report?",
         "created_utc": 1587585885,
         "id": "fo7wsjn",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7wsjn/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587614685.0
@@ -139,6 +314,7 @@
         "body": "need XLNX and LRCX to both take a dump por favor",
         "created_utc": 1587585686,
         "id": "fo7we34",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7we34/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587614486.0
@@ -148,6 +324,7 @@
         "body": "XLNX cmon stay above 85 at least. I sold an 85 put.",
         "created_utc": 1587587495,
         "id": "fo8015v",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo8015v/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587616295.0
@@ -157,6 +334,7 @@
         "body": "Samsung signed a huge deal to use xilinx 5g tech. This was a huge loss for nokia. They really needed Samsung partnership.",
         "created_utc": 1587397438,
         "id": "fnznkjg",
+        "permalink": "/r/wallstreetbets/comments/g4q8u6/daily_discussion_thread_for_april_20_2020/fnznkjg/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587426238.0
@@ -166,6 +344,7 @@
         "body": "Xilinx",
         "created_utc": 1587946082,
         "id": "footfa4",
+        "permalink": "/r/stocks/comments/g8nb66/5g/footfa4/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1587974882.0
@@ -175,6 +354,7 @@
         "body": "Xilinx just signed a deal with Samsung on 5G chips. I don\u2019t know who\u2019s claiming 1000% gains",
         "created_utc": 1587945815,
         "id": "fooszgo",
+        "permalink": "/r/stocks/comments/g8nyya/5g/fooszgo/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1587974615.0
@@ -184,6 +364,7 @@
         "body": "AMD and Nvidia are making the hardware to 'accelerate AI'.   \nThey have huge exposure to the AI market, because anyone wanting to do AI will probably use hardware made by them (or other companies like Intel, Xilinx etc).\n\nTesla is domain-specific solutions. They will have good exposure to vehicular AI, but will have basically 0 exposure non ADAS related domains (i.e. basically the rest of the AI market).",
         "created_utc": 1587120948,
         "id": "fnod0qz",
+        "permalink": "/r/stocks/comments/g2tgnv/amd_is_killing_it/fnod0qz/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1587149748.0
@@ -193,6 +374,7 @@
         "body": "# Today is Monday, the 20th of April\n\n\n\n## Upcoming events for Monday, April 20th\n\n - Stock splits:\n\n    - KKOYY @ **4:1** (Payable date: 04/17/2020)\n\n - Expected earnings:\n\n  ACC, ADC, ALLY, BMRC, BMTC, BOH, BSGM, BXS, CBU, CCK, CCNE, CDNS, EFSC, EFX, ELS, FFBC, GSBC, HAL, IBM, INFY, KALU, LII, MTB, ONB, PIXY, PNFP, RBB, SFBS, STLD, TBK, TFC, TSC, USAU, WAFD, WTFC, ZION\n\n - Ex-div:\n\n  ARDC, CIVB, CMRE, FF, LEN, LEN.B, SVC\n\n - Economic events and announcements:\n\n    - 3-Month Bill Auction (previous: 0.280%)\n    - 6-Month Bill Auction (previous: 0.290%)\n    - Chicago Fed National Activity (previous: 0.16)\n    - Investing.com Gold Index (actual: 51.6%, previous: 51.9%)\n    - Investing.com S&amp;P 500 Index (actual: 16.9%, previous: 16.0%)\n\n## Upcoming events for Tuesday, April 21st\n\n - Stock splits:\n\n    - OILK @ **1:5**\n    - UCO @ **1:25**\n    - BOIL @ **1:10**\n    - DIG @ **1:10**\n    - TTT @ **1:4**\n    - SMDD @ **1:4**\n\n - Expected earnings:\n\n  BFIN, CB, CIT, CMA, CMG, CP, CSL, CTG, CTO, DOV, EDU, EMR, FHN, FITB, FULT, GPK, HCA, IBKR, KO, LMT, MAN, MANH, MBWM, NAVI, NBHC, NCBS, NFLX, NTRS, OCFT, OMC, PACW, PEBO, PLD, PM, POL, RLI, SAP, SCL, SFNC, SNA, SNAP, SYF, TECK, TER, TFII, TRST, TRV, TXN, UAL, UCBI, UEC, USNA, WBS, WRB\n\n - Ex-div:\n\n  AGX, BGH, CLX, DX, EC, GBX, LOW, LTC, MAC, QADA, QADB, WST\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.260%)\n    - API Weekly Crude Oil Stock (previous: 13.143M)\n    - Existing Home Sales (consensus: -9.0%, previous: 6.5%)\n    - Existing Home Sales (consensus: 5.30M, previous: 5.77M)\n    - Redbook (previous: -2.0%)\n    - Redbook (previous: -8.3%)\n\n## Upcoming events for Wednesday, April 22nd\n\n - Expected earnings:\n\n  AA, AKO.B, ALGT, AMP, AMTD, APH, ARI, ARR, ASGN, ASR, ATNI, AXS, AXTA, AXTI, AZPN, BCO, BDN, BHE, BIIB, BKR, BKU, BOKF, BWFG, CAJ, CARO, CASH, CBNK, CDE, CHDN, CKH, CLB, CLGX, CNS, CPF, CS, CSTR, CSX, CUBI, CVBF, DAL, DFS, DGX, E, ECHO, EGBN, EIG, ERIC, EVR, FBHS, FCFS, FLIR, FMBH, FMNB, FNF, FR, FTI, FWRD, GGG, HBNC, HLX, HTBI, IMUX, INBK, ISTR, KMB, KMI, KNX, LAD, LN, LOB, LRCX, LSTR, LVS, MC, MCB, MCRI, MMLP, MSA, NDAQ, NEE, NEP, NFBK, NTGR, NVS, NWE, OBNK, OIS, OMAB, ORLY, ORMP, ORRF, OSBC, PFBC, PHR, PLXS, PUB, PYPL, RCI, ROIC, RUSHA, SAM, SAVE, SCI, SEIC, SJW, SLAB, SLG, SLGN, SLM, SMMT, SNBR, SRE, STC, STM, STX, SUI, SXC, SYBT, T, TCBI, TDY, TILE, TMO, TROW, UFPI, UMPQ, USAP, UVSP, VAR, VMI, WPG, WRE, WWW, XLNX\n\n - Ex-div:\n\n  BGB, BGX, BSL, BWG, COKE, CVS, DFP, DMO, EFF, EFR, EFT, EHI, EMD, EOI, EOS, EOT, ETB, ETG, ETJ, ETO, ETV, ETW, ETX, ETY, EVG, EVT, EXD, EXG, FFC, FLC, FMN, GDO, GFY, HCAP, HFRO, HGLB, HIE, HIO, HIX, HYI, IGI, KMF, KYN, MMU, MTT, MXF, NHF, OCCI, PFD, RY, SBI, SUNS, TPZ, WEA, WIA, WIW\n\n - Economic events and announcements:\n\n    - Crude Oil Imports (previous: -0.797M)\n    - Crude Oil Inventories (consensus: 11.676M, previous: 19.248M)\n    - Cushing Crude Oil Inventories (previous: 5.724M)\n    - Distillate Fuel Production (previous: -0.055M)\n    - EIA Refinery Crude Runs  (previous: -0.969M)\n    - EIA Weekly Distillates Stocks (consensus: 1.437M, previous: 6.280M)\n    - EIA Weekly Refinery Utilization Rates (consensus: -2.0%, previous: -6.5%)\n    - Gasoline Inventories (consensus: 6.386M, previous: 4.914M)\n    - Gasoline Production (previous: 0.097M)\n    - Heating Oil Stockpiles (previous: 0.876M)\n    - House Price Index (previous: 0.3%)\n    - House Price Index (previous: 284.4)\n    - House Price Index (previous: 5.2%)\n    - MBA 30-Year Mortgage Rate (previous: 3.45%)\n    - MBA Mortgage Applications (previous: 7.3%)\n    - Mortgage Market Index (previous: 770.7)\n    - Seevol Cushing Storage Report (previous: 5.270M)\n\n## Upcoming events for Thursday, April 23rd\n\n - Stock splits:\n\n    - TMV @ **1:10**\n    - BRZU @ **1:35**\n    - DUST @ **1:25**\n    - NUGT @ **1:5**\n    - JDST @ **1:25**\n    - JNUG @ **1:10**\n    - DPST @ **1:10**\n    - RETL @ **1:10**\n    - UBOT @ **1:10**\n    - HIBL @ **1:10**\n    - TECS @ **1:10**\n    - ZMLP @ **1:8**\n\n - Expected earnings:\n\n  AAN, ABCB, ACBI, ADS, AEP, ALK, ALKS, ALLE, AMZN, APD, ARCH, ARD, ASB, ASPS, ATEN, AVT, BAX, BBD, BCS, BEAT, BGG, BJRI, BOOM, BPMX, BWB, BX, BYD, CARE, CBZ, CCO, CFB, CIR, CLBK, CLF, CLFD, CLUB, CNOB, COF, COLM, CRS, CSFL, CTS, CTXS, CVA, CVTI, CX, CYBE, DPZ, DRQ, EHTH, ENTG, EQT, ESQ, ESRT, ESSA, ETFC, EW, EWBC, FAF, FBIZ, FCX, FE, FET, FFNW, FFWM, FIX, FNB, FOR, FRBK, FRG, FRME, FSBW, FSV, GBCI, GCAP, GLOP, GNC, GPI, GTLS, GWW, HBAN, HBB, HEES, HSY, HTA, HTBK, HZO, IEX, IHRT, ILMN, INDB, INT, INTC, IRM, ITW, IVZ, LAZ, LLNW, LLY, LOGM, LTRX, LUV, LYTS, MCS, MHK, MLNX, MMM, MMSI, MNOV, MOFG, MPB, MSBI, MTRN, NGD, NMR, NOK, NURO, NVT, OCFC, ODFL, ODT, OMCL, ORI, OZK, PAG, PATK, PBCT, PCSB, PEB, PHM, POOL, POWI, PTEN, RS, SAFE, SASR, SBFG, SBNY, SGC, SHBI, SHOO, SIVB, SMMF, SPSC, SQNS, SSB, SSI, TAL, TBBK, TBNK, TCBK, TMUS, TOWN, TPH, TPL, TSCO, UBSI, UNP, USAK, VCRA, VET, VICR, VIST, VLRS, VLY, VRSN, VVI, WAB, WEC, WNS, WSO, WST, WTBA, WWE, XRX\n\n - Ex-div:\n\n  BUSE, GAIN, GLAD, GOOD, KALU, LAND, LEVI, LKFN, MANU, MVC, NCZ, NVT, OVBC, PBA, PG, PPT, SLP, SM, USA, WSM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.150%)\n    - 8-Week Bill Auction (previous: 0.150%)\n    - Continuing Jobless Claims (previous: 11,976K)\n    - Initial Jobless Claims (consensus: 4,000K, previous: 5,245K)\n    - Jobless Claims 4-Week Avg. (previous: 5,508.50K)\n    - KC Fed Composite Index (previous: -17)\n    - KC Fed Manufacturing Index (previous: -18)\n    - Manufacturing PMI (consensus: 37.0, previous: 48.5)\n    - Markit Composite PMI (previous: 40.9)\n    - Natural Gas Storage (consensus: 64B, previous: 73B)\n    - New Home Sales (consensus: -15.7%, previous: -4.4%)\n    - New Home Sales (consensus: 645K, previous: 765K)\n    - Services PMI (consensus: 30.0, previous: 39.8)\n\n^^^^2020-04-20",
         "created_utc": 1587376817,
         "id": "fnyv49w",
+        "permalink": "/r/RobinHood/comments/g4q20z/daily_discussion_thread_april_20th_2020/fnyv49w/",
         "score": 1,
         "subreddit": "RobinHood",
         "created": 1587405617.0
@@ -202,6 +384,7 @@
         "body": "Wow LRCX and XLNX with earnings tomorrow. \n\nHopefully they make my AMD calls print since they just lost 30% today in one day...",
         "created_utc": 1587525598,
         "id": "fo5h9bf",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo5h9bf/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587554398.0
@@ -211,6 +394,7 @@
         "body": "LVS LRCX XLNX.",
         "created_utc": 1587530336,
         "id": "fo5npur",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo5npur/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587559136.0
@@ -220,6 +404,7 @@
         "body": "# Today is Wednesday, the 22nd of April\n\n\n\n## Upcoming events for Wednesday, April 22nd\n\n - Stock splits:\n\n    - RWWDF @ **1:10**\n\n - Expected earnings:\n\n  AA, AKO.B, ALGT, AMP, AMTD, APH, ARR, ASGN, ASR, ATNI, AXTA, AXTI, BCO, BDN, BFC, BHE, BIIB, BKR, BOKF, BWFG, CAJ, CARO, CASH, CATC, CBNK, CDE, CHCO, CHDN, CHMG, CKH, CLB, CLGX, CNS, CPF, CS, CSX, CTBI, CUBI, CVBF, DAL, DFS, DGX, E, ECHO, EGBN, EIG, ERIC, EVR, FCCO, FCFS, FLIR, FMBH, FMNB, FNF, FR, FTI, GGG, GL, HLX, HNI, HTBI, IMUX, INBK, IPG, ISTR, KMB, KMI, KNX, LAD, LN, LOB, LRCX, LSTR, LVS, MC, MCRI, MMLP, MSA, MVIS, NBN, NDAQ, NEE, NEP, NFBK, NTGR, NVS, NWBI, NWE, OBNK, OIS, OMAB, ORLY, ORMP, ORRF, OSBC, PFBC, PHR, PLXS, PUB, PYPL, RCI, ROIC, RUSHA, SAM, SAVE, SCI, SJW, SLAB, SLG, SLGN, SLM, SMMT, SNBR, SRE, STC, STM, STX, SUI, SXC, SYBT, T, TCBI, TDY, TMO, TROW, UFPI, UMPQ, USAP, UVSP, VMI, WPG, WRE, WWW, XLNX\n\n - Ex-div:\n\n  BGB, BGX, BSL, BWG, COKE, CVS, DFP, DMO, EFF, EFR, EFT, EHI, EMD, EOI, EOS, EOT, ETB, ETG, ETJ, ETO, ETV, ETW, ETX, ETY, EVG, EVT, EXD, EXG, FFC, FLC, FMN, GDO, GFY, HCAP, HFRO, HGLB, HIE, HIO, HIX, HYI, IGI, KMF, KYN, MMU, MTT, MXF, NHF, OCCI, PFD, RY, SBI, SUNS, TPZ, WEA, WIA, WIW\n\n - Economic events and announcements:\n\n    - API Weekly Crude Oil Stock (previous: 13.143M)\n    - Crude Oil Imports (previous: -0.797M)\n    - Crude Oil Inventories (consensus: 15.150M, previous: 19.248M)\n    - Cushing Crude Oil Inventories (previous: 5.724M)\n    - Distillate Fuel Production (previous: -0.055M)\n    - EIA Refinery Crude Runs  (previous: -0.969M)\n    - EIA Weekly Distillates Stocks (consensus: 2.750M, previous: 6.280M)\n    - EIA Weekly Refinery Utilization Rates (consensus: -2.2%, previous: -6.5%)\n    - Gasoline Inventories (consensus: 3.578M, previous: 4.914M)\n    - Gasoline Production (previous: 0.097M)\n    - Heating Oil Stockpiles (previous: 0.876M)\n    - House Price Index (previous: 0.3%)\n    - House Price Index (previous: 284.4)\n    - House Price Index (previous: 5.2%)\n    - MBA 30-Year Mortgage Rate (previous: 3.45%)\n    - MBA Mortgage Applications (previous: 7.3%)\n    - Mortgage Market Index (previous: 770.7)\n    - Seevol Cushing Storage Report (previous: 5.270M)\n\n## Upcoming events for Thursday, April 23rd\n\n - Stock splits:\n\n    - TMV @ **1:10**\n    - BRZU @ **1:35**\n    - DUST @ **1:25**\n    - NUGT @ **1:5**\n    - JDST @ **1:25**\n    - JNUG @ **1:10**\n    - DPST @ **1:10**\n    - RETL @ **1:10**\n    - UBOT @ **1:10**\n    - HIBL @ **1:10**\n    - TECS @ **1:10**\n    - ZMLP @ **1:8**\n\n - Expected earnings:\n\n  AAN, ABCB, ACBI, ADS, AEP, ALK, ALKS, ALLE, AMNB, APD, ARCH, ARD, ASB, ASPS, BANF, BCBP, BCS, BEAT, BGG, BJRI, BOOM, BPMX, BPOP, BWB, BX, CARE, CBZ, CCO, CFB, CIR, CLBK, CLF, CLFD, CLUB, CNOB, COF, CROX, CRS, CSFL, CTS, CTXS, CVA, CVTI, CX, CYBE, DPZ, DRQ, EHTH, ENTG, EQT, ESQ, ESRT, ESSA, ETFC, EW, EWBC, FAF, FBIZ, FCX, FE, FET, FFIN, FFNW, FFWM, FIX, FNB, FOR, FRBK, FRG, FRME, FSBW, FSV, FVCB, GBCI, GCAP, GFED, GLOP, GNC, GPI, GTLS, GWW, HBAN, HBB, HEES, HONE, HRI, HSY, HTA, HTBK, HTLD, HZO, IEX, IHRT, INDB, INT, INTC, IRM, IVZ, LFC, LLNW, LLY, LOGM, LTRX, LUV, LYTS, MCS, MLNX, MMM, MMSI, MNOV, MOFG, MPB, MSBI, MTRN, NMR, NOK, NURO, OCFC, ODFL, ODT, OFG, OMCL, ORI, OZK, PAG, PBCT, PCSB, PEB, PHM, POOL, PTEN, RHI, RS, SAFE, SASR, SBFG, SBNY, SEIC, SHBI, SIVB, SKX, SMMF, SQNS, SRCE, SSB, SSI, TAL, TBNK, TCBK, TMUS, TOWN, TPH, TPL, TSCO, UBSI, UNP, USAK, VCRA, VET, VICR, VIST, VLRS, VLY, VRSN, VVI, WEC, WNS, WSO, WST, WTBA, WWE, XRX\n\n - Ex-div:\n\n  BUSE, GAIN, GLAD, GOOD, KALU, LAND, LEVI, LKFN, MANU, MVC, NCZ, NVT, OVBC, PBA, PG, PPT, SLP, SM, USA, WSM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.150%)\n    - 8-Week Bill Auction (previous: 0.150%)\n    - Continuing Jobless Claims (consensus: 16,476K, previous: 11,976K)\n    - Initial Jobless Claims (consensus: 4,150K, previous: 5,245K)\n    - Jobless Claims 4-Week Avg. (previous: 5,508.50K)\n    - KC Fed Composite Index (previous: -17)\n    - KC Fed Manufacturing Index (previous: -18)\n    - Manufacturing PMI (consensus: 37.0, previous: 48.5)\n    - Markit Composite PMI (previous: 40.9)\n    - Natural Gas Storage (consensus: 64B, previous: 73B)\n    - New Home Sales (consensus: -15.0%, previous: -4.4%)\n    - New Home Sales (consensus: 645K, previous: 765K)\n    - Services PMI (consensus: 32.5, previous: 39.8)\n\n## Upcoming events for Friday, April 24th\n\n - Expected earnings:\n\n  AAL, ALV, AMTB, AN, AXP, AZN, B, BLMN, BWEN, CIVB, CVEO, CZWI, DB, ESXB, FCCY, FHB, FMAO, GLPG, GNTX, GT, GVA, LEA, MCBS, MOG.A, OPBK, PAC, PCB, PGC, PIPR, POR, RBS, SAL, SBSI, SNE, SNV, SNY, SONA, STRT, TMP, TOT, TREE, TRTN, VNE, VTR, VZ, WBC, WRN\n\n - Ex-div:\n\n  ASML, BLX, BSAC, CE, CNOB, CZNC, DLY, ECC, EGIF, HFBL, OKE, RELX, RMR, SPFI, TSLF, UNB, UNM, USAC, VALU\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 74.2K)\n    - CFTC Copper speculative net positions (previous: -24.8K)\n    - CFTC Corn speculative net positions (previous: -38.9K)\n    - CFTC Crude Oil speculative net positions (previous: 435.1K)\n    - CFTC Gold speculative net positions (previous: 258.8K)\n    - CFTC Nasdaq 100 speculative net positions (previous: 21.4K)\n    - CFTC Natural Gas speculative net positions (previous: -98.4K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -28.8K)\n    - CFTC Silver speculative net positions (previous: 30.9K)\n    - CFTC Soybeans speculative net positions (previous: 89.4K)\n    - CFTC Wheat speculative net positions (previous: 44.9K)\n    - Core Durable Goods Orders (consensus: -5.8%, previous: -0.6%)\n    - Durable Goods Orders (consensus: -11.9%, previous: 1.2%)\n    - Durables Excluding Defense (previous: 0.1%)\n    - Goods Orders Non Defense Ex Air (consensus: -5.7%, previous: -0.9%)\n    - Michigan 5-Year Inflation Expectations (consensus: 2.50%, previous: 2.30%)\n    - Michigan Consumer Expectations (consensus: 70.0, previous: 79.7)\n    - Michigan Consumer Sentiment (consensus: 68.0, previous: 71.0)\n    - Michigan Current Conditions (consensus: 72.4, previous: 103.7)\n    - Michigan Inflation Expectations (consensus: 2.1%, previous: 2.2%)\n    - U.S. Baker Hughes Oil Rig Count (previous: 438)\n    - U.S. Baker Hughes Total Rig Count (previous: 529)\n\n^^^^2020-04-22",
         "created_utc": 1587549612,
         "id": "fo67nvy",
+        "permalink": "/r/RobinHood/comments/g5ye6p/daily_discussion_thread_april_22nd_2020/fo67nvy/",
         "score": 1,
         "subreddit": "RobinHood",
         "created": 1587578412.0
@@ -229,6 +414,7 @@
         "body": "Agreed. So $ADI? Xilinx?",
         "created_utc": 1587512620,
         "id": "fo4wk1q",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo4wk1q/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587541420.0
@@ -238,6 +424,7 @@
         "body": "Yeah meant AH on xlnx",
         "created_utc": 1587588245,
         "id": "fo81ink",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo81ink/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587617045.0
@@ -247,6 +434,7 @@
         "body": "Fuck me trying to buy XLNX 88.5c 5/29 for a whole day but didn't fill, and now the earning is shit?\n\n5G is bring up everyone, like Cadance, TI, ST.... How could you fuck this up Xilinx? Now I'm not sure about Intel/Altera tomorrow.",
         "created_utc": 1587588031,
         "id": "fo813g9",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo813g9/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587616831.0
@@ -256,6 +444,7 @@
         "body": "XLNX Mooning AH",
         "created_utc": 1587585799,
         "id": "fo7wmdh",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7wmdh/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587614599.0
@@ -265,6 +454,7 @@
         "body": "hopefully close [my bear](https://www.reddit.com/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7uczg/) semi play with some gains\n\nLRCX put spread for Fri and XLNX calendar put spread.\n\nso far so good.. maybe",
         "created_utc": 1587586541,
         "id": "fo7y4cu",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo7y4cu/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587615341.0
@@ -274,6 +464,7 @@
         "body": "lol XLNX raising dividend what's even the point u dumb fucks.",
         "created_utc": 1587586968,
         "id": "fo7yz29",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo7yz29/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587615768.0
@@ -283,6 +474,7 @@
         "body": "Xilinx going guh",
         "created_utc": 1587589494,
         "id": "fo83zni",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo83zni/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587618294.0
@@ -292,6 +484,7 @@
         "body": "I\u2019m telling you all. This is the last chance to buy XLNX before it goes to 140. It\u2019s becoming a solid 5G and AI player",
         "created_utc": 1587578482,
         "id": "fo7hmnw",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7hmnw/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587607282.0
@@ -301,6 +494,7 @@
         "body": "Semis are gonna have a great rest of the week. LRCX AND XLNX on deck AH.",
         "created_utc": 1587584914,
         "id": "fo7ut0q",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7ut0q/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587613714.0
@@ -310,6 +504,7 @@
         "body": "# Today is Tuesday, the 21st of April\n\n\n\n## Upcoming events for Tuesday, April 21st\n\n - Stock splits:\n\n    - OILK @ **1:5**\n    - UCO @ **1:25**\n    - BOIL @ **1:10**\n    - DIG @ **1:10**\n    - TTT @ **1:4**\n    - SMDD @ **1:4**\n\n - Expected earnings:\n\n  BFIN, CB, CIT, CMA, CMG, CP, CSL, CTG, CTO, DOV, EDU, EMR, FHN, FITB, FULT, GPK, HCA, IBKR, KO, LMT, MAN, MANH, MBWM, NAVI, NBHC, NCBS, NFLX, NTRS, OCFT, OMC, PACW, PEBO, PLD, PM, POL, RLI, SAP, SCL, SFNC, SNA, SNAP, SYF, TECK, TER, TFII, TRST, TRV, TXN, UAL, UCBI, UEC, USNA, WBS, WRB, WTFC\n\n - Ex-div:\n\n  AGX, BGH, CLX, DX, EC, GBX, LOW, LTC, MAC, QADA, QADB, WST\n\n - Economic events and announcements:\n\n    - 52-Week Bill Auction (previous: 0.260%)\n    - API Weekly Crude Oil Stock (previous: 13.143M)\n    - Existing Home Sales (consensus: -8.1%, previous: 6.5%)\n    - Existing Home Sales (consensus: 5.30M, previous: 5.77M)\n    - Redbook (previous: -2.0%)\n    - Redbook (previous: -8.3%)\n\n## Upcoming events for Wednesday, April 22nd\n\n - Expected earnings:\n\n  AA, AKO.B, ALGT, AMP, AMTD, APH, ARR, ASGN, ASR, ATNI, AXTA, AXTI, BCO, BDN, BFC, BHE, BIIB, BKR, BOKF, BWFG, CAJ, CARO, CASH, CATC, CBNK, CDE, CHCO, CHDN, CHMG, CKH, CLB, CLGX, CNS, CPF, CS, CSTR, CSX, CTBI, CUBI, CVBF, DAL, DFS, DGX, E, ECHO, EGBN, EIG, ERIC, EVR, FCCO, FCFS, FLIR, FMBH, FMNB, FNF, FR, FTI, GGG, GL, HBNC, HLX, HNI, HTBI, IMUX, INBK, ISTR, KMB, KMI, KNX, LAD, LN, LOB, LRCX, LSTR, LVS, MC, MCB, MCRI, MMLP, MSA, MVIS, NDAQ, NEE, NEP, NFBK, NTGR, NVS, NWBI, NWE, OBNK, OIS, OMAB, ORLY, ORMP, ORRF, OSBC, PFBC, PHR, PLXS, PUB, PYPL, RCI, ROIC, RUSHA, SAM, SAVE, SCI, SJW, SLAB, SLG, SLGN, SLM, SMMT, SNBR, SRE, STC, STM, STX, SUI, SXC, SYBT, T, TCBI, TDY, TILE, TMO, TROW, UFPI, UMPQ, USAP, UVSP, VAR, VMI, WPG, WRE, WWW, XLNX\n\n - Ex-div:\n\n  BGB, BGX, BSL, BWG, COKE, CVS, DFP, DMO, EFF, EFR, EFT, EHI, EMD, EOI, EOS, EOT, ETB, ETG, ETJ, ETO, ETV, ETW, ETX, ETY, EVG, EVT, EXD, EXG, FFC, FLC, FMN, GDO, GFY, HCAP, HFRO, HGLB, HIE, HIO, HIX, HYI, IGI, KMF, KYN, MMU, MTT, MXF, NHF, OCCI, PFD, RY, SBI, SUNS, TPZ, WEA, WIA, WIW\n\n - Economic events and announcements:\n\n    - Crude Oil Imports (previous: -0.797M)\n    - Crude Oil Inventories (consensus: 16.133M, previous: 19.248M)\n    - Cushing Crude Oil Inventories (previous: 5.724M)\n    - Distillate Fuel Production (previous: -0.055M)\n    - EIA Refinery Crude Runs  (previous: -0.969M)\n    - EIA Weekly Distillates Stocks (consensus: 2.867M, previous: 6.280M)\n    - EIA Weekly Refinery Utilization Rates (consensus: -2.5%, previous: -6.5%)\n    - Gasoline Inventories (consensus: 3.656M, previous: 4.914M)\n    - Gasoline Production (previous: 0.097M)\n    - Heating Oil Stockpiles (previous: 0.876M)\n    - House Price Index (previous: 0.3%)\n    - House Price Index (previous: 284.4)\n    - House Price Index (previous: 5.2%)\n    - MBA 30-Year Mortgage Rate (previous: 3.45%)\n    - MBA Mortgage Applications (previous: 7.3%)\n    - Mortgage Market Index (previous: 770.7)\n    - Seevol Cushing Storage Report (previous: 5.270M)\n\n## Upcoming events for Thursday, April 23rd\n\n - Stock splits:\n\n    - TMV @ **1:10**\n    - BRZU @ **1:35**\n    - DUST @ **1:25**\n    - NUGT @ **1:5**\n    - JDST @ **1:25**\n    - JNUG @ **1:10**\n    - DPST @ **1:10**\n    - RETL @ **1:10**\n    - UBOT @ **1:10**\n    - HIBL @ **1:10**\n    - TECS @ **1:10**\n    - ZMLP @ **1:8**\n\n - Expected earnings:\n\n  AAN, ABCB, ACBI, ADS, AEP, ALK, ALKS, ALLE, APD, ARCH, ARD, ASB, ASPS, BAX, BBD, BCS, BEAT, BGG, BJRI, BOOM, BPMX, BWB, BX, BYD, CARE, CBZ, CCO, CFB, CIR, CLBK, CLF, CLFD, CLUB, CNOB, COF, COLM, CRS, CSFL, CTS, CTXS, CVA, CVTI, CX, CYBE, DPZ, DRQ, EHTH, ENTG, EQT, ESQ, ESRT, ESSA, ETFC, EW, EWBC, FAF, FBIZ, FCX, FE, FET, FFNW, FFWM, FIX, FNB, FOR, FRBK, FRG, FRME, FSBW, FSV, GBCI, GCAP, GLOP, GNC, GPI, GTLS, GWW, HBAN, HBB, HEES, HRI, HSY, HTA, HTBK, HZO, IEX, IHRT, ILMN, INDB, INT, INTC, IRM, ITW, IVZ, LAZ, LLNW, LLY, LOGM, LTRX, LUV, LYTS, MCS, MHK, MLNX, MMM, MMSI, MNOV, MOFG, MPB, MSBI, MTRN, NMR, NOK, NURO, NVT, OCFC, ODFL, ODT, OMCL, ORI, OZK, PAG, PBCT, PCSB, PEB, PHM, POOL, POWI, PTEN, RHI, RS, SAFE, SASR, SBFG, SBNY, SEIC, SHBI, SIVB, SKX, SMMF, SQNS, SSB, SSI, TAL, TBNK, TCBK, TMUS, TOWN, TPH, TPL, TSCO, UBSI, UNP, USAK, VCRA, VET, VICR, VIST, VLRS, VLY, VRSN, VVI, WEC, WNS, WSO, WST, WTBA, WWE, XRX\n\n - Ex-div:\n\n  BUSE, GAIN, GLAD, GOOD, KALU, LAND, LEVI, LKFN, MANU, MVC, NCZ, NVT, OVBC, PBA, PG, PPT, SLP, SM, USA, WSM\n\n - Economic events and announcements:\n\n    - 4-Week Bill Auction (previous: 0.150%)\n    - 8-Week Bill Auction (previous: 0.150%)\n    - Continuing Jobless Claims (consensus: 16,476K, previous: 11,976K)\n    - Initial Jobless Claims (consensus: 4,150K, previous: 5,245K)\n    - Jobless Claims 4-Week Avg. (previous: 5,508.50K)\n    - KC Fed Composite Index (previous: -17)\n    - KC Fed Manufacturing Index (previous: -18)\n    - Manufacturing PMI (consensus: 37.0, previous: 48.5)\n    - Markit Composite PMI (previous: 40.9)\n    - Natural Gas Storage (consensus: 64B, previous: 73B)\n    - New Home Sales (consensus: -15.0%, previous: -4.4%)\n    - New Home Sales (consensus: 645K, previous: 765K)\n    - Services PMI (consensus: 32.5, previous: 39.8)\n\n## Upcoming events for Friday, April 24th\n\n - Expected earnings:\n\n  AAL, ALV, AMTB, AN, AXP, AZN, B, BLMN, BWEN, CIVB, CVEO, CZWI, DB, ESXB, FHB, FMAO, GLPG, GNTX, GT, GVA, IPG, KOF, LEA, MCBS, MOG.A, OPBK, PAC, PCB, PGC, PIPR, POR, RBS, SAL, SBSI, SNE, SNV, SNY, SONA, STRT, TMP, TOT, TREE, VNE, VTR, VZ, WBC, WRN\n\n - Ex-div:\n\n  ASML, BLX, CE, CNOB, DLY, ECC, HFBL, OKE, RELX, RMR, SPFI, UNB, UNM, USAC\n\n - Economic events and announcements:\n\n    - CFTC Aluminium speculative net positions (previous: 74.2K)\n    - CFTC Copper speculative net positions (previous: -24.8K)\n    - CFTC Corn speculative net positions (previous: -38.9K)\n    - CFTC Crude Oil speculative net positions (previous: 435.1K)\n    - CFTC Gold speculative net positions (previous: 258.8K)\n    - CFTC Nasdaq 100 speculative net positions (previous: 21.4K)\n    - CFTC Natural Gas speculative net positions (previous: -98.4K)\n    - CFTC S&amp;P 500 speculative net positions (previous: -28.8K)\n    - CFTC Silver speculative net positions (previous: 30.9K)\n    - CFTC Soybeans speculative net positions (previous: 89.4K)\n    - CFTC Wheat speculative net positions (previous: 44.9K)\n    - Core Durable Goods Orders (consensus: -5.8%, previous: -0.6%)\n    - Durable Goods Orders (consensus: -11.9%, previous: 1.2%)\n    - Durables Excluding Defense (previous: 0.1%)\n    - Goods Orders Non Defense Ex Air (consensus: -5.7%, previous: -0.9%)\n    - Michigan 5-Year Inflation Expectations (consensus: 2.50%, previous: 2.30%)\n    - Michigan Consumer Expectations (consensus: 70.0, previous: 79.7)\n    - Michigan Consumer Sentiment (consensus: 68.0, previous: 71.0)\n    - Michigan Current Conditions (consensus: 72.4, previous: 103.7)\n    - Michigan Inflation Expectations (consensus: 2.1%, previous: 2.2%)\n    - U.S. Baker Hughes Oil Rig Count (previous: 438)\n    - U.S. Baker Hughes Total Rig Count (previous: 529)\n\n^^^^2020-04-21",
         "created_utc": 1587463214,
         "id": "fo2i14z",
+        "permalink": "/r/RobinHood/comments/g5cgkb/daily_discussion_thread_april_21st_2020/fo2i14z/",
         "score": 1,
         "subreddit": "RobinHood",
         "created": 1587492014.0
@@ -319,6 +514,7 @@
         "body": "Just check the 5G sector after earnings, TI, STM and Ericsson. All seemed to be pretty good.\n\nMaybe there's a play for Xilinx and Mellanox, if not already priced in.",
         "created_utc": 1587571737,
         "id": "fo73rw8",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo73rw8/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587600537.0
@@ -328,6 +524,7 @@
         "body": "XLNX",
         "created_utc": 1586966654,
         "id": "fnhpmga",
+        "permalink": "/r/stocks/comments/g1sc5r/thoughts_on_semiconductors_which_company_is/fnhpmga/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1586995454.0
@@ -337,6 +534,7 @@
         "body": "XLNX",
         "created_utc": 1587951142,
         "id": "fop1pkf",
+        "permalink": "/r/stocks/comments/g8nyya/5g/fop1pkf/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1587979942.0
@@ -346,6 +544,7 @@
         "body": "Xilinx",
         "created_utc": 1587921991,
         "id": "fonlv97",
+        "permalink": "/r/wallstreetbets/comments/g8hb1l/what_are_some_good_5g_stocks_to_invest_in/fonlv97/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587950791.0
@@ -355,6 +554,7 @@
         "body": "$XLNX",
         "created_utc": 1588022204,
         "id": "fos1dpe",
+        "permalink": "/r/stocks/comments/g8z9du/aapl_suspends_2020_iphone_model_production/fos1dpe/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1588051004.0
@@ -364,6 +564,7 @@
         "body": "Anyone doing XLNX or LVS tomorrow?\n\nI have DAL in the morning.  It's a 25 dollar stock, so it's not as exciting.",
         "created_utc": 1587513233,
         "id": "fo4xmxv",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo4xmxv/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587542033.0
@@ -373,6 +574,7 @@
         "body": "I\u2019m gonna buy calls on XLNX since it has a cool name..and hopefully their 5G wasn\u2019t impacted too much by this virus.",
         "created_utc": 1587525797,
         "id": "fo5hjpf",
+        "permalink": "/r/wallstreetbets/comments/g5mlg8/what_are_your_moves_tomorrow_april_22_2020/fo5hjpf/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587554597.0
@@ -382,6 +584,7 @@
         "body": "Wtf XLNX quit trying to give me a heart attack and pick a color",
         "created_utc": 1587589950,
         "id": "fo84wd2",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo84wd2/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587618750.0
@@ -391,6 +594,7 @@
         "body": "XLNX After market moves..... holy fuck",
         "created_utc": 1587589950,
         "id": "fo84wdx",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo84wdx/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587618750.0
@@ -400,6 +604,7 @@
         "body": "That\u2019s what I was wondering. I think the bull case for AMD/NVDA is WFH and more vidya games. Plus increased computer usage in general.\n\nNot sure how much of a role XLNX plays in those fields",
         "created_utc": 1587592132,
         "id": "fo893nk",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo893nk/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587620932.0
@@ -409,6 +614,7 @@
         "body": "US Economic Data in EDT:\n\n9:30am - Seevol Cushing Oil Storage Report \\[2/3 Volatility\\]\n\n10:30am - Crude Oil Inventories \\[3/3 Volatility\\]\n\n10:30am - Cushing Crude Oil Inventories \\[2/3 Volatility\\]\n\n5:00pm - CAPI Weekly Crude Oil Stock \\[2/3 Volatility\\]\n\n&amp;#x200B;\n\nCanada:\n\n8:30am - Core CPI (MoM-Mar) \\[3/3 Volatility\\]\n\n8:30am - Core CPI (YoY-Mar) \\[2/3 Volatility\\]\n\n8:30am - New Housing Price Index MoM \\[2/3 Volatility\\]\n\n&amp;#x200B;\n\n* Earnings\n   * Before Open\n      * Delta\n      * AT&amp;T\n      * Biogen\n      * Ericsson\n      * Kimberly-Clark\n      * NEXTera Energy\n      * Nasdaq\n      * ST\n      * Quest Diagnostics\n      * ThermoFisher Scientific\n   * After Close\n      * Sands - Las Vegas Sands Corp.\n      * Lam Research\n      * Kinder Morgan\n      * Xilinx\n      * Discover Financial Services\n      * Alcoa\n      * CSX\n      * TD Ameritrade\n      * Samuel Adams\n      * O'Reilly Auto Parts",
         "created_utc": 1587557746,
         "id": "fo6fzz8",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo6fzz8/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587586546.0
@@ -418,6 +624,7 @@
         "body": "Thoughts on XLNX?",
         "created_utc": 1587580100,
         "id": "fo7kyca",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7kyca/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587608900.0
@@ -427,6 +634,7 @@
         "body": "For consumer PC and data center severs there are fewer companies. For embedded systems there are more, such as Xilinx ($XLNX)",
         "created_utc": 1587683525,
         "id": "fode25f",
+        "permalink": "/r/investing/comments/g6u4uk/intel_stock_falls_after_report_says_apple_plans/fode25f/",
         "score": 1,
         "subreddit": "investing",
         "created": 1587712325.0
@@ -436,6 +644,7 @@
         "body": "not sure why i'm bearish on semi but feel the market.\n\nLRCX 4/24 270p/245p debit put spread\n\nXLNX 5/15 85p 4/24 85p calendar put spread",
         "created_utc": 1587584697,
         "id": "fo7uczg",
+        "permalink": "/r/wallstreetbets/comments/g5yjae/daily_discussion_thread_for_april_22_2020/fo7uczg/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587613497.0
@@ -445,6 +654,7 @@
         "body": "Who is making XLNX earnings play?",
         "created_utc": 1587134667,
         "id": "fnow0p3",
+        "permalink": "/r/wallstreetbets/comments/g2z9p8/daily_discussion_thread_for_april_17_2020/fnow0p3/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587163467.0
@@ -454,2015 +664,19 @@
         "body": "INTC and XLNX bets anyone?",
         "created_utc": 1587146457,
         "id": "fnpj90n",
+        "permalink": "/r/wallstreetbets/comments/g2z9p8/daily_discussion_thread_for_april_17_2020/fnpj90n/",
         "score": 1,
         "subreddit": "wallstreetbets",
         "created": 1587175257.0
     },
     {
-        "author": "michael370662",
-        "body": "5G related stonks, ERIC, Nok, Xlnx, TSM\nAI related stonks, NVDA, AMD, TSM\nGold, printer will introduce inflation, GLD\n\nEssential travel, UAL, AAL...(essential not cruise lines) \nHousing market related, NYMT, RDFN...",
-        "created_utc": 1586485778,
-        "id": "fmygqmt",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1586514578.0
-    },
-    {
-        "author": "FCOS96",
-        "body": "AMD and Nvidia are making the hardware to 'accelerate AI'.   \nThey have huge exposure to the AI market, because anyone wanting to do AI will probably use hardware made by them (or other companies like Intel, Xilinx etc).\n\nTesla is domain-specific solutions. They will have good exposure to vehicular AI, but will have basically 0 exposure non ADAS related domains (i.e. basically the rest of the AI market).",
-        "created_utc": 1587120948,
-        "id": "fnod0qz",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1587149748.0
-    },
-    {
-        "author": "BSTUNO",
-        "body": "XLNX",
-        "created_utc": 1586966654,
-        "id": "fnhpmga",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1586995454.0
-    },
-    {
-        "author": "choose_a_use",
-        "body": "Who is making XLNX earnings play?",
-        "created_utc": 1587134667,
-        "id": "fnow0p3",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1587163467.0
-    },
-    {
-        "author": "fgh125312",
-        "body": "CSCO DD for all you zoomers thinking this old school tech giant is just a meme stock, too much to bear as a lurker\n\nFundamentals\n\n\u00b7 Diversified hardware/software company, provide switches/enterprise networking hardware, VPN, cyber security\n\n\u00b7 Aim has been to pivot away from hardware sales (56%) toward more of a software play including a large focus on cyber security\n\n\u00b7 Previous ER recorded a 4% decrease in Non-GAAP operating margins\n\n\u00b7 Circa USD 9 bln net cash position/rock solid balance sheet \u2013 big enough to provide USD 2.5 bln financing for large hardware purchases until 2021 to ensure companies can still upgrade despite uncertainty (from CEO)\n\n\u00b7 Owns Webex (recording 14 billion meeting minutes in March vs 6 in January)\n\n\u00b7 COVID-19 potential catalysts from an increase in work from home (VPN/Cloud), WebEx adoption and also possible upgrades of data centers/Cisco Meraki hardware. Also active in the tele-health sector\n\n\u00b7 Increase in web traffic (remember Netflix reducing video quality?) is another potential catalyst for their hardware segment as tech companies could be panic adding capacity\n\n\u00b7 CEO mentioned they had been working around the clock on video interview with CNBC, to ensure businesses stay functioning through COVID-19\n\n\u00b7 Recent conference call on their investor relations website outlining their remote work portfolio seems to have been slept on also price wise\n\nTechnical\n\n\u00b7 Stock traded in 50\u2019s, for much of 2019 then was slapped down by trade war headlines\n\n\u00b7 Dumped last 3 ER\u2019s , trade war related fears \u2013 expectations for upcoming ER are low\n\n\u00b7 Previous ER\u2019s have shown decent jumps (check 2018)\n\n\u00b7 Hasn\u2019t recovered like competing networking stocks (Juniper Networks, Arista networks)\n\n\u00b7 Option volatility has also remained quite low throughout March/April \u2013 options pretty much imply no movement\n\n\u00b7 Bottomed and bounced from the upper 30\u2019s to low 40\u2019s and has been stuck in a range since\n\n\u00b7 Stock has tried to break out several times in April, random dumps due to macro related factors (mid April \u2013 negative Oil fears, 29th - 1st May dump from tech sell-off/supposed trade deal collapsing tweet)\n\nPossible risk factors mostly come from big IT spending being potentially put on hold due to companies having cash flow issues/supply chain issues delaying hardware production (as stated by other networking hardware markers) \u2013 biggest catalysts for a potential dump post ER. Equally could surprise to upside given all the coronavirus related catalysts and low expectations\n\nDisclaimer: I own 50c LEAPs, building a position since March, great company fundamentals, survived multiple crises (tech bubble, 2008) and has the highest dividend yield in the NASDAQ \u2013 how this has been slept on since March/April I have no idea. As always, do your own DD",
-        "created_utc": 1588972151,
-        "id": "fpwy83w",
-        "score": 20,
-        "subreddit": "wallstreetbets",
-        "created": 1589000951.0
-    },
-    {
-        "author": "Itsme_eljefe",
-        "body": "Yassssss TSLA you sweet little juniper pea, rose from\nThe ashes like the Phoenix you are",
-        "created_utc": 1590687830,
-        "id": "fs407ei",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1590716630.0
-    },
-    {
-        "author": "NotEligibleForRehire",
-        "body": "Sorry I meant Juniper, Nokia, and Huawaei devices. Cisco just makes makes club bangers",
-        "created_utc": 1588969087,
-        "id": "fpwscmh",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1588997887.0
-    },
-    {
-        "author": "My-Cousin-Bobby",
-        "body": "*a forewarning I started typing, and went on a bit of a tangent, apologies*\n\nSo I only tested it briefly, but it had pretty good results. I ended up like going mad and just started adding a bunch of different features to the program (ie some balance sheet stripping, getting macro data from the fed, getting performance of various industries via ETFs, etc.). \n\nBut back to the question: it was a bit more of a trend analysis than a stock screener, I just didnt really know how to word it. So in theory, you could use any stock, and it would be able to detect up and down trends in momentum, before typical trend line analysis would (I'm not a huge fan of technical analysis, but admit there are some times where it can be helpful).\n\nSo when I back tested, I tried to use companies I have never traded (I only back tested 2015-2016 to try and get the most similar markets to today without me having too much forward looking bias, since didn't start paying attention to markets/trading until mid 2017). Further more, I was not exposed to price action even in the trading, as the charts I read were derived from a formula to calculate and chart momentum, so it was charts of the stocks relative momentum not stock price. After I completed the year of what dates were buys and what were sells, I went in and found the prices of those days (used closing price for both buying and selling prices).\n\nSo I used the SPX for broad market (even though, I clearly know that this has since gone higher), GDX (which, full disclosure I have briefly traded as a hedge before), and had a list of independent companies, but the only two I got through before going off on my tangent of coding were JNPR, and CERN.\n\nFor the SPX\nI was able to achieve a return of 15.73% through 6 trading \"trips\", while on the year it returned -0.73%.\n\nFor GDX\nI was able to achieve a whopping 121.52% over 6 trading \"trips\" compared to -20.10% year return\n\nFor JNPR\nI was able to achieve (another whopping) 115.32% over 8 trading trips, compared to 25.88% year return.\n\nFor CERN\nI was able to achieve a 76.34% return over 5 trading \"trips\", compared to a -27.16% return on the year.\n\nSo, things to take a way, it was pretty damn successful in the brief back tests I did. However, I noticed pretty quickly it benefits most from short term and intermediate swings in price, which the in the cases of GDX, JNPR, and CERN all were pretty volatile for that year, so the results I achieved from them, I'm expecting, are way above average. Actually the thing that sparked my tangent into other parts of the program was to try and weed out stocks that have high volatility, so i wouldnt have to go through them myself, issue is I didnt stop there. I'm pegging most results to be around that SPX result. Furthermore, this strictly tested against a yearly holding of those stocks, am planning to have someone go through with a regular trendline analysis or something with the same period to get a more accurate result as its performance against some basic analysis techniques.\n\nAs for the process I picked the companies, I used a random organizer to pick 25 S&amp;P companies (made sure they were included in the S&amp;P on the date my back test started) and ran with it. I threw in a few etfs (as shown GDX, but also have TLT, TLH, XLE, XLY, etc. Just havent gotten to them).\n\nEdit: Thanks for the interest in its progress!",
-        "created_utc": 1589320386,
-        "id": "fqf8a99",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1589349186.0
-    },
-    {
-        "author": "Givemeallyourtacos",
-        "body": "Why JNPR?",
-        "created_utc": 1588808678,
-        "id": "fppt7h6",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1588837478.0
-    },
-    {
-        "author": "phabphour20",
-        "body": "MSFT trades at 30x earnings.  CSCO trades at 17x.  JNPR most direct competitor trades at 24x.\n\nBuy CSCO before its too late.  Last chance.",
-        "created_utc": 1588967858,
-        "id": "fpwpzx2",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1588996658.0
-    },
-    {
-        "author": "SalesyMcSellerson",
-        "body": "VPN for secure communication to the private network. Identity access and authentication management + 2FA, workforce management, and endpoint detection and response for the remote endpoint. For the private network, network detection and response (likely through an mssp), and edge firewalls. Microsegmentation and microservices for the data center / servers, and... For the most part that's good.\n\nAnd as far as the push to edge computing is concerned, if we're still making terminals then it's probably marginal to just build the rest of the computer out and just do it how we have been. Then for any intensive applications use the compute resources on the private network like a render farm.\n\nAs far as who wins the VM play. VMware is expensive. 99% of IT departments don't have even half of what I just outlined above. And there's some really great alternatives that are better in many ways and much more affordable. Big switch networks(now Arista) for cloud fabrics / networking / public-hybrid cloud, Red Hat (now IBM) for open source virtualization, open stack, Fortinet for security, etc. etc \n\nI like VMware, but I just don't see them winning the cloud wars. In my opinion, it's going to be open source providers and enablers like Arista that will win, but even then there's a lot of traditional competitors that could run with it like Cisco, Nokia, Juniper, etc.\n\nBut they did have Velocloud which sold like gangbusters. Although, sdwan is going to move more towards the whitebox virtualized services route.",
-        "created_utc": 1589868363,
-        "id": "fr3wmkq",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589897163.0
-    },
-    {
-        "author": "TheFlyingBoat",
-        "body": "Sun and Intel were both hugely important in the history of technological development and progress. Oracle kinds sucks but they're am alright legal firm I guess. On a serious note, the names of the people and companies change, but what hasn't for the past 70 years is the center of the world's technological progress is the Bay Area. Shockley, Fairchild, and Xerox PARC dominated the 50s and 60s. You have hugely important R&amp;D work done by companies that used to be very forward moving that are now viewed as old giants like HP or whoever else. You have SRI demo the mouse. Then you start to have Apple start to pop up. You have VC firms like Sequoia or KPCB start. You have pretty much every networking company begin from Cisco to Juniper to whoever else. Hundreds of companies rise and fall every year in the Bay and history hasn't stopped running through it.",
-        "created_utc": 1589217607,
-        "id": "fqaeax8",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589246407.0
-    },
-    {
-        "author": "NotEligibleForRehire",
-        "body": "I'm burning all my juniper certs and going back to Cisco. \n\nFriendship with juniper over. Cisco is my new best friend",
-        "created_utc": 1589290374,
-        "id": "fqdigi8",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589319174.0
-    },
-    {
-        "author": "Viscus121",
-        "body": "Holding CLX at 195, in on W at 165 and JNPR at 21.60.\n\nMainly just trying to not think about me deciding to add to my W position yesterday before the bell versus pivoting into BYND, been burned by after hours reports too many times and chickened out.",
-        "created_utc": 1588775397,
-        "id": "fpnz2ay",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1588804197.0
-    },
-    {
-        "author": "Viscus121",
-        "body": "Rough day, but I'm taking AMZN (in at 2360), AAPL (in at 292), CLX (in at 194) and JNPR (in at 21.10) into the weekend and next week. Have stop losses set for them, but I fully intend to hold these for at least a semi-long amount of time. All of these should have a solid May, this week's blip notwithstanding.",
-        "created_utc": 1588361547,
-        "id": "fp6zxum",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1588390347.0
-    },
-    {
-        "author": "carlos5577",
-        "body": "vmware, juniper, maybe cisco, citrix. Until people stop buying tech I guess",
-        "created_utc": 1588932388,
-        "id": "fpv2dd3",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588961188.0
-    },
-    {
-        "author": "I_knowwhat_I_am",
-        "body": "&gt; Possible risk factors mostly come from big IT spending being potentially put on hold due to companies having cash flow issues/supply chain issues delaying hardware production (as stated by other networking hardware markers) \u2013 biggest catalysts for a potential dump post ER. Equally could surprise to upside given all the coronavirus related catalysts and low expectations\n\n2 sides of this coin. \n\n1 side--- CapExpeniture is one of the first things cut (well, after corp travel and free coffee, but before eliminating yearly salary increases/ bonuses, and layoffs), especially IT related CapEx, which is a non-revenue generating business unit / group. Companies that were in the shitter pre-Covid wont have the cash/liquidity to spend. \n\nOther Side-- As many companies realize they can still function pretty well without people in the office, many will move to reduce their physical footprint, consolidate offices to a more \"regional\" model where you only go to office for important / customer facing meetings, maybe a project kickoff. To sustain this sort of environment, infrastructure needs to be beefed up to handle increased bandwidth, security, utilization, etc. Companies will save money by spending a little to beef up infrastructure etc compared to their current real estate spend. However, these sort of major upgrades are not a flip the switch / overnight type of implementation, and take time to do right. So companies may take 3-6 months to ramp up capacity, and move to a more remote workforce end of year and into next fiscal year while they exit lease contracts.\n\nA note on WebEx, btw, it is a subscription based service, every user (or individual who can \"host\" a meeting) is a subscription. I do expect  they made beaucoup bucks on this in March).\n\nOverall, very bullish on this industry long term (WSB long term, 6-12 months lol). But it is very competitive and there are multiple players. Cisco has a large market share but Juniper, Huawei, Dell, etc all play in this space and are very aggressive price-wise. \n\nMy position is 6/19 47.5c, will see how much it ramps into earnings, may dump pre-announce if I hit my targeted gain (see the other DD noted, it notoriously dumps post earnings). Longer term, I may buy shares at a lower entry price point.",
-        "created_utc": 1588976853,
-        "id": "fpx6ypu",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589005653.0
-    },
-    {
-        "author": "WhittledSpork",
-        "body": "Cisco will be but not for cyber, for networking however I wouldn't expect it to move the needle short term. You should also look at palo alto and juniper networks.",
-        "created_utc": 1590039542,
-        "id": "frbdtpt",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1590068342.0
-    },
-    {
-        "author": "schplat",
-        "body": "This has been 100% my life.  MSFT, pre-COVID adjusted earnings smashed, down it goes.  Tankers smashing earnings, goes way down.  EA.  NFLX.  JNPR.  Then there's companies that miss earnings, revenue, they go up 8-10%\n\nI know I'm missing *something* when it comes to this stuff, I just don't know what it is.",
-        "created_utc": 1588773981,
-        "id": "fpnwh1q",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588802781.0
-    },
-    {
-        "author": "pkincy",
-        "body": "Didn't work out well for me.  I was heavily into QQQ or the stocks that made it up in 1999 and through 2002.  Many went Bk and I keep that old portfolio and its buy prices to simply remind myself how stupid one can be.   Many of the companies I bought if they are still in existence are not yet, 20 years later, near their 2000 stock values.   Take a look at a couple of good ones.  Cisco and Juniper Networks.  The backbone of the internet.  You won't find the bad ones because they no longer exist.",
-        "created_utc": 1589214633,
-        "id": "fqa8drg",
-        "score": 1,
-        "subreddit": "StockMarket",
-        "created": 1589243433.0
-    },
-    {
-        "author": "mycduck",
-        "body": "This stock has runs up then levels out a lot. Has tons of competition from other HW players Arista, Juniper, Broadcom. ZM is eating CSCO video conferencing lunch, and is run by ex-Webex exec. CSCO also famous for layoffs every other year and outsourcing. No positions, I'm not messing with overpriced tech during this bull run.",
-        "created_utc": 1588979515,
-        "id": "fpxbpd8",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589008315.0
-    },
-    {
-        "author": "paperboythegod",
-        "body": "If you are looking for something heavy in Okta that has cheap options for selling your calls when they go ITM.\n\nCheck out IHAK.\n\nAlso it\u2019s a good long term hold with holdings in Fortinet, Citrix and Juniper.\n\nI am gambling right now with options. When I\u2019m done I will be moving into adding shares monthly.\n\nPositions:\n\n4 - IHAK 30C 6/19\n\n20 - TRVN 2.5C 6/19\n\n5 - TRVN 2.5C 9/18\n\n1 - SPXS 12C 6/19 (just Incase so I can keep the gamble up if shit goes tits up)",
-        "created_utc": 1589667584,
-        "id": "fqv0rrm",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589696384.0
-    },
-    {
-        "author": "Functioncatvoid",
-        "body": "Already made the list: (this is my 10 year buy and hold 2020 economic depression list)\n\nT-Mobile, AT&amp;T, Verizon, Vodafone, China mobile, Taiwan Semiconductor, Juniper, EROS, Cloudflare, Century Link, Viacom, Telefonica, Noka, Ericsson, Kraft, Sony, Microsoft, Comm Systems, Orange, Sierra Wireless, Church &amp; Dwight, VEON, Sirius, Disney, Activision, Nintendo, Waste Management, Intel, Coca Cola, Cisco.",
-        "created_utc": 1589670393,
-        "id": "fqv5pka",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1589699193.0
-    },
-    {
-        "author": "xPURE_AcIDx",
-        "body": "Facebook makes money from ads. They make money from having users\n\nGoogle makes money from ads. They make money from having users. \n\nMicrosoft makes money from milking corporations for Windows Enterprise / Server / Cloud / Office 365. A strong user base familiar with Microsoft products are more willing to work with Microsoft once they advance into senior roles in their company. They almost feel like they're getting free stuff, in reality they're victoms of vendor lock in. \n\nZoom loses money from having users. They're effectively leaches untill they turn into paying customers. Most potential consumers already have alternatives they don't have to pay for or already have access to.",
-        "created_utc": 1589052523,
-        "id": "fq23kxa",
-        "score": 73,
-        "subreddit": "stocks",
-        "created": 1589081323.0
-    },
-    {
-        "author": "paradoxinvesting",
-        "body": "You idiots with your MSFT 200 calls have fucked the market once again",
-        "created_utc": 1589314480,
-        "id": "fqevxo0",
-        "score": 66,
-        "subreddit": "wallstreetbets",
-        "created": 1589343280.0
-    },
-    {
-        "author": "meetis",
-        "body": "he is trying hard not to mispronounce MicroVision with Microsoft",
-        "created_utc": 1588886357,
-        "id": "fpt7ru5",
-        "score": 58,
-        "subreddit": "pennystocks",
-        "created": 1588915157.0
-    },
-    {
-        "author": "Element_84",
-        "body": "It dipped because I finally bought MSFT stock",
-        "created_utc": 1589314896,
-        "id": "fqewtda",
-        "score": 58,
-        "subreddit": "stocks",
-        "created": 1589343696.0
-    },
-    {
-        "author": "TheGuyAboveMeSucks",
-        "body": "Never Forget. MSFT 200c 3/20. RIP",
-        "created_utc": 1589597568,
-        "id": "fqs3bo8",
-        "score": 47,
-        "subreddit": "wallstreetbets",
-        "created": 1589626368.0
-    },
-    {
-        "author": "gierschj6963",
-        "body": "They are busy merging with Microsoft",
-        "created_utc": 1588885467,
-        "id": "fpt60jp",
-        "score": 47,
-        "subreddit": "pennystocks",
-        "created": 1588914267.0
-    },
-    {
-        "author": "diboy2",
-        "body": "How the hell is msft doing all these deals? Omg. My shares!",
-        "created_utc": 1588725880,
-        "id": "fpm5c0q",
-        "score": 24,
-        "subreddit": "investing",
-        "created": 1588754680.0
-    },
-    {
-        "author": "Casandy420",
-        "body": "Maybe, but I think it might take longer than most people think. Tech firms sell to governments. Microsoft is one of the largest military contractors around the world. Pretty much every country's military runs windows.\n\nJust listened to the q3 earnings call. Cloud demand is up like crazy right now. So, money is being shifted away from local resources into cloud computing resources. So many of AWS and Azure customers are shifting money into these tech companies. Smaller firms like NetApp, Atlassian, or Slack are seeing sales raise with this new demand.\n\n&amp;#x200B;\n\nAlso, there are entirely new markets for tech that weren't viable pre covid. Consider the NFL, NBA....I can't remember the sport, but they now use MSTeams. Companies are seeing the cost benefits of remote work. Virtual Formula 1 is another example. Things are going to be interesting. To stay competitive, you will need to piviot into this new economic situation. Red Robin is an interesting case study. They cut costs like crazy and embraced off site orders. Or look at Trupanion's 10K. They cut costs and increased cash on hand to a point where they can operate for an entire year w/o income.\n\n&amp;#x200B;\n\nYou have to remember that there are millions of dollars worth of human intelligence driving the decisions behind each of these Tickers. Boards are made up of people with way way way way more industry knowledge than anyone on reddit. Yes, Tesla exists, and a tweet can swing billions of dollars around the moon, but for the most part, companies are ran by intelligent folks trying their best to make money. That's it. Even if the world is on fire, these people will find a way to sell you insurance on credit. The economy has existed since before the old testament. Exodus 30:11-16  is just ancient hebrew tax law. Even if it's not money, people will find something to trade to create value. The wheel keeps on turning.\n\nEDIT: Totally forgot, look at MSFT 10K. B2B OEM sales are the bread and butter. So you will need to see large retailers (including amazon) collapse before companies like intel and MSFT will feel the big hits.",
-        "created_utc": 1588877300,
-        "id": "fpsp9v5",
-        "score": 21,
-        "subreddit": "StockMarket",
-        "created": 1588906100.0
-    },
-    {
-        "author": "pugofwallstreet",
-        "body": "MSFT is a safe stock, but damn. All your eggs in one basket is DANGEROUS.",
-        "created_utc": 1589494747,
-        "id": "fqnh4bi",
-        "score": 20,
-        "subreddit": "stocks",
-        "created": 1589523547.0
-    },
-    {
-        "author": "acoupleoftravels",
-        "body": "Step 1: start a company \n\nStep 2: announce earnings: \"I don't have a business model but we found 27\u00a2 in our home office couch and that was better earnings than we expected; I can't give guidance because we don't sell or do anything but we can only move up from here.\" \n\nStep 3: wait for retailers to rally as they use Professor X powers to see 50 years into the future where the company is successful. \n\nStep 4: media attention from rally\n\nStep 5: JPM price target increase as they try to get into the action\n\nStep 6: buy puts and go full Elon \"price is too high imo\"\n\nStep 7: throw your millions into msft 200c because nothing makes sense anymore",
-        "created_utc": 1588885555,
-        "id": "fpt66he",
-        "score": 20,
-        "subreddit": "wallstreetbets",
-        "created": 1588914355.0
-    },
-    {
-        "author": "degen1010101",
-        "body": "Microsoft disagrees \ud83e\udd71\ud83e\udd21",
-        "created_utc": 1588715179,
-        "id": "fplm37a",
-        "score": 19,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588743979.0
-    },
-    {
-        "author": "bongrips4titties",
-        "body": "You are obviously clueless because nobody has said it\u2019s going to be the next Microsoft, sorry you got burnt or dumped or whatever happened to you. Cheer up",
-        "created_utc": 1588801653,
-        "id": "fppg4o0",
-        "score": 17,
-        "subreddit": "pennystocks",
-        "created": 1588830453.0
-    },
-    {
-        "author": "ShootTheJae",
-        "body": "Microsoft calls, got it.",
-        "created_utc": 1588629161,
-        "id": "fphwmg1",
-        "score": 16,
-        "subreddit": "wallstreetbets",
-        "created": 1588657961.0
-    },
-    {
-        "author": "Bigchungus1025",
-        "body": "Groupon and blue apron had business models that can be easily replicated. When the market ( Google and MSFT) figured out the demand for video conferencing, they jumped in. It\u2019s not a hard model to replicate which makes it trash.",
-        "created_utc": 1589052367,
-        "id": "fq22yto",
-        "score": 15,
-        "subreddit": "stocks",
-        "created": 1589081167.0
-    },
-    {
-        "author": "nckmiz",
-        "body": "The market was down 30% for a week or so. You think Berk can just deploy 60 billion the way you deploy 5k? He\u2019s not going to go buy more than a few billion in shares of Apple/MSFT, etc. with that money. He doesn\u2019t ever want to hold over 10% positions in publicly traded companies for disclosure reasons. His game at this size is waiting for attractive companies to be in need. What company that was attractive in late March was in desperate need of capital? How quickly do you think Berk can negotiate a full on takeover? \n\nHe\u2019s in a waiting game. This thing is far from over. He\u2019s not a hedge fund manager buying temporary market dips.",
-        "created_utc": 1588824758,
-        "id": "fpqk8nf",
-        "score": 14,
-        "subreddit": "investing",
-        "created": 1588853558.0
-    },
-    {
-        "author": "fufufang",
-        "body": "The output for the last 24 hours is like this: \n\n    Code    Frequency\n    MVIS    196\n    IZEA    107\n    KTOV    33\n    RTTR    29\n    MARK    22\n    DECN    12\n    GNUS    12\n    MSFT    12\n    INUV    11\n    UAVS    10\n    COVI    9\n    BBCP    9\n    VISL    9\n    NAK     8\n    RMBL    8\n    TTI     8\n    NAT     7\n    VAL     7\n    CNAT    7\n    RTW     6\n    EIS     5\n    FRSX    5\n    TLSS    5\n    MGM     4\n    DIS     4\n    NASD    4\n    WHAT    4\n    SHIP    4\n    GCGX    4\n    ACB     4\n    SCON    4\n    DYE     4\n    RTTF    3\n    TNP     3\n    FET     3\n    BIOC    3\n    STOC    3\n    AIKI    3\n    FLIR    3\n    MERG    3\n    EOD     3\n    ZOM     3\n    DISH    3\n    GHSI    3\n    OAS     3\n    BBRW    3\n    RAZF    3\n    HIL     3\n    AAPL    3\n    LADR    3",
-        "created_utc": 1588795807,
-        "id": "fpp4h9v",
-        "score": 14,
-        "subreddit": "pennystocks",
-        "created": 1588824607.0
-    },
-    {
-        "author": "capjl",
-        "body": "I'm holding til this thing evolves to the next MSFT",
-        "created_utc": 1588806242,
-        "id": "fppor8q",
-        "score": 14,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588835042.0
-    },
-    {
-        "author": "hifrequencies",
-        "body": "The dip today was sparked by an article that was later taken down because it was bs. There's still the patent evidence, rumors of the chip in the Xbox and the 20 or so former MVIS employees working at Microsoft. I'm holding 500. We should see a spike tomorrow, volume is still high and tomorrow was always going to be the biggest day.",
-        "created_utc": 1588816315,
-        "id": "fpq6sh5",
-        "score": 14,
-        "subreddit": "pennystocks",
-        "created": 1588845115.0
-    },
-    {
-        "author": "tomato_sandwich",
-        "body": "Merger...Miercger...Microsoft. ITS HAPPENING",
-        "created_utc": 1588885886,
-        "id": "fpt6u2m",
-        "score": 13,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588914686.0
-    },
-    {
-        "author": "LactobaSILLY",
-        "body": "This is from a site with an article next to it titled \u201c15 ways to tell if your girlfriend is cheating on you.\u201d \n\nI wouldn\u2019t take investment advice from People magazine either. And highly doubt \u201cTodaysFive\u201d investigation \u201cteam\u201d talked to any high level investors who heard directly from the MSFT CEO that \u201cLoL yeah were defs gonna buy dat.\u201d Which, also, would be insider trading.",
-        "created_utc": 1588965971,
-        "id": "fpwmb7d",
-        "score": 13,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588994771.0
-    },
-    {
-        "author": "wsbtitsup",
-        "body": "Why don\u2019t you at least buy June puts? This is poor risk mgmt. Take an upvote. Large cap tech will continue running up and likely bone you. I\u2019m biased due to my msft calls",
-        "created_utc": 1588969477,
-        "id": "fpwt3li",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1588998277.0
-    },
-    {
-        "author": "TrenAndOptions",
-        "body": "Wasn\u2019t the 2000 tech bubble fueled by shitty companies with no profitability? \n\nAmazon, Microsoft, google, Facebook, Apple are fucking cash generating big dick monsters. Not comparable at all",
-        "created_utc": 1589249350,
-        "id": "fqc3hph",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1589278150.0
-    },
-    {
-        "author": "iBaconized",
-        "body": "Everyone watching AH markets hasn\u2019t played earnings before.\n\nRemember when MSFT was up like $10 after hours and then opened $10 lower than close? How quickly we\u2019ve forgotten\n\nRetarded",
-        "created_utc": 1588797611,
-        "id": "fpp84ye",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1588826411.0
-    },
-    {
-        "author": "PappleD",
-        "body": "There\u2019s something rotten going on. Apple, Facebook, Netflix, Microsoft, amazon are all at or near ATHs. Meanwhile, Main Street and overall economy is suffering worst depression since the 30s. I hear the sound of pitchforks sharpening...",
-        "created_utc": 1588786566,
-        "id": "fpolmoh",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1588815366.0
-    },
-    {
-        "author": "hoopaholik91",
-        "body": "So bears are fucked on Monday aren't we? It just seems like too much bad news all at once.\n\n* Fed report that came out right after the bell\n* GOOG anti-trust suit is gonna scare AMZN/MSFT/FB too\n* JPow on 60 minutes is gonna say the same thing he said on Wednesday that spooked the market but to a bunch of retail investors that have been buying like crazy\n* China has 3 days to retaliate for the Huawei news, and Trump can always be more aggressive\n\nEverything is lining up perfectly for a drop which means obviously it's gonna reverse.",
-        "created_utc": 1589583404,
-        "id": "fqrfn10",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1589612204.0
-    },
-    {
-        "author": "__Snafu__",
-        "body": "you have a serious case of denial here. We all want to hit big, but this is obviously not the one.   \n\n\nThere is no microsoft deal. That woman was obviously told to say that and waited until she heard from higher up.  \n\n\nThat stock is only going to go down until it get's back to like .40 or so....   \n\n\nWe all wanted it to hit, but it's not going to.",
-        "created_utc": 1589325320,
-        "id": "fqfi5mq",
-        "score": 13,
-        "subreddit": "pennystocks",
-        "created": 1589354120.0
-    },
-    {
-        "author": "LeSpare1",
-        "body": "Bro, for real this time 6/19 msft 200c will print nicely this time.",
-        "created_utc": 1589513434,
-        "id": "fqoehpn",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1589542234.0
-    },
-    {
-        "author": "xPURE_AcIDx",
-        "body": "From my experience it seems like Teams is winning this battle. My company just switched from zoom to Teams. My Oil&amp;gas clients all use Teams. \n\nI have only witnessed mass use of zoom through free users, and universities. Universities which have access to both Microsoft and Google products. I'd imagine if this covid stuff pushes into fall these companies will get universities to use their products already bundled with suite of products. Instead of paying for an additional product. Considering that university virtual classes have suffered from trolls, using a product like hangouts that would require your university email will secure these chats. \n\nI hold no Microsoft/Google shares, and I have no stakes in zoom's success or failures. Just food for thought.",
-        "created_utc": 1589053167,
-        "id": "fq263jm",
-        "score": 13,
-        "subreddit": "stocks",
-        "created": 1589081967.0
-    },
-    {
-        "author": "StreetTripleRider",
-        "body": "shit why didn't none of you lazy asses ask any questions about Microsoft? I didn't cause I thought someone would have for sure.",
-        "created_utc": 1588887021,
-        "id": "fpt93nw",
-        "score": 13,
-        "subreddit": "pennystocks",
-        "created": 1588915821.0
-    },
-    {
-        "author": "ss_400401",
-        "body": "Just curious why you wanted to bet against MSFT?",
-        "created_utc": 1588802446,
-        "id": "fpphnfk",
-        "score": 13,
-        "subreddit": "wallstreetbets",
-        "created": 1588831246.0
-    },
-    {
-        "author": "thelukecameron",
-        "body": "Genuine question, what happens if they get bought out by MSFT?",
-        "created_utc": 1588626045,
-        "id": "fphqoue",
-        "score": 12,
-        "subreddit": "pennystocks",
-        "created": 1588654845.0
-    },
-    {
-        "author": "IWorkForScoopsAhoy",
-        "body": "It's a solid company. Well paid engineers and tangible products. Holograms, chips, and lidar. Many execs and engineers use MVIS as a stepping stone before being hired at microsoft. I don't like pennystocks often.",
-        "created_utc": 1588636756,
-        "id": "fpia74p",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1588665556.0
-    },
-    {
-        "author": "superphotonerd",
-        "body": "crabs in a bucket trying to escape - there was a bullshit article posted saying Microsoft are acquiring them..",
-        "created_utc": 1588973227,
-        "id": "fpx09jh",
-        "score": 12,
-        "subreddit": "pennystocks",
-        "created": 1589002027.0
-    },
-    {
-        "author": "TILilweeezy",
-        "body": "Microsoft",
-        "created_utc": 1588885860,
-        "id": "fpt6s5e",
-        "score": 12,
-        "subreddit": "pennystocks",
-        "created": 1588914660.0
-    },
-    {
-        "author": "OnlyTheLadder",
-        "body": "Their competitors have been complacent and Microsoft just keeps releasing quality business products that integrate well with each other.",
-        "created_utc": 1588732694,
-        "id": "fpmgpf1",
-        "score": 12,
-        "subreddit": "investing",
-        "created": 1588761494.0
-    },
-    {
-        "author": "DandierChip",
-        "body": "MSFT isn\u2019t playing you. You are being played by people pushing false rumors to try to pump the stock up so they can sell at a profit. Just look what happened yesterday. How many times will it take for us to learn. We had DECN, UAVS and now this. Pump and don\u2019t forget to dump",
-        "created_utc": 1588792910,
-        "id": "fpoymtb",
-        "score": 12,
-        "subreddit": "pennystocks",
-        "created": 1588821710.0
-    },
-    {
-        "author": "npate102",
-        "body": "Every time MSFT 200c comes back on the table, market shits panties. :(",
-        "created_utc": 1589423662,
-        "id": "fqkb3i7",
-        "score": 12,
-        "subreddit": "wallstreetbets",
-        "created": 1589452462.0
-    },
-    {
-        "author": "Philisophicalgoose33",
-        "body": "The new Xbox has the MVIS chip in it, and Microsoft is having a conference about their new Xbox on thirsday I believe at 11:00. AM. So it\u2019s very recent news that is coming out not just old news",
-        "created_utc": 1588612932,
-        "id": "fph0rdg",
-        "score": 12,
-        "subreddit": "pennystocks",
-        "created": 1588641732.0
-    },
-    {
-        "author": "Noexit007",
-        "body": "IF (and it is still a big IF), MSFT is buying MVIS, generally you either would get compensation in MSFT stock, or cash for your shares.  However, the price offered is generally at a premium. As such, often you will see shares skyrocket in price to very close to what is expected to be offered to shareholders.\n\nRegardless, its a VERY good thing for investors because usually they make out quite well in the deal.",
-        "created_utc": 1588710655,
-        "id": "fpldae1",
-        "score": 11,
-        "subreddit": "pennystocks",
-        "created": 1588739455.0
-    },
-    {
-        "author": "DeepBuddy5",
-        "body": "Do or die tomorrow. I have 500 shares left after selling Tues for a nice profit. I'm holding till the conference call. MVIS is a legit company.\nMicrosoft has an announcement tomorrow, maybe good news maybe not. \nEither way we'll see what finally happens. \nBest of luck to everyone tomorrow with all your stocks! Hope you all make some $$$",
-        "created_utc": 1588827353,
-        "id": "fpqnwhw",
-        "score": 11,
-        "subreddit": "pennystocks",
-        "created": 1588856153.0
-    },
-    {
-        "author": "slowand-old",
-        "body": "Raise your hand if you're still holding your MSFT calls",
-        "created_utc": 1588363885,
-        "id": "fp74h41",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1588392685.0
-    },
-    {
-        "author": "shutupstephenA",
-        "body": "Poor people pay mortgages and rent. Guess who buys consumer goods? Poor people. Pulled the 12-18 month estimate out of your ass. You literally have no idea what you\u2019re talking about. \u201cPoor people\u201d make up the incredible majority of the consuming public. No one will want to own Apple/Uber/Microsoft etc when people aren\u2019t buying their products because they don\u2019t even have enough money to pay for where they live. Wait until the negative interest rates hit, mortgage forbearance is over, stimulus money is spent, and small businesses shut down because their relief/ loan money didn\u2019t cut it. You talk as if the president has the final say on the strength of the stock market, which is so wildly near-sighted. This reasoning is fucking retarded. But whatever, as it proliferates, the potential for profit just increases, so keep it up.",
-        "created_utc": 1588976992,
-        "id": "fpx77lo",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1589005792.0
-    },
-    {
-        "author": "olosnecaj",
-        "body": "[Microsoft is buying...](https://pbs.twimg.com/media/EYAMNCKXkAQA2Oj?format=png&amp;name=small)",
-        "created_utc": 1589486954,
-        "id": "fqn17yg",
-        "score": 11,
-        "subreddit": "pennystocks",
-        "created": 1589515754.0
-    },
-    {
-        "author": "BrewTrue",
-        "body": "My brothers friends cousins uncle who knows a guy at Amazon that\u2019s brothers mothers grandma used to work for Microsoft and she said that this is true!",
-        "created_utc": 1588611943,
-        "id": "fpgyu2z",
-        "score": 11,
-        "subreddit": "pennystocks",
-        "created": 1588640743.0
-    },
-    {
-        "author": "bodiddlysquat26",
-        "body": "Well boys, been fun, but I think I'm just going to sit on MSFT, BRK.B, and RTX until I'm ready to buy my house. No more speculation. Made some gains. Will still read the reddit for lols, but that's enough for me.",
-        "created_utc": 1588366907,
-        "id": "fp7ac03",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1588395707.0
-    },
-    {
-        "author": "timeismoney247",
-        "body": "Now, if only Bill could tweet that MSFT is undervalued",
-        "created_utc": 1588352517,
-        "id": "fp6hogx",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1588381317.0
-    },
-    {
-        "author": "s2upid",
-        "body": "We talk about this patent in detail here: https://www.reddit.com/r/MVIS/comments/9naz95/microsoft_scannerilluminated_lcos_projector_for/\n\nBasically it allows MSFT to utilize MVIS tech to create the most epic pair of augmented reality glasses you could think of. A prototype can be seen in the following video from Microsoft Research:\n\nhttps://youtu.be/lN4tFV16mU8?t=143",
-        "created_utc": 1588712689,
-        "id": "fplhabd",
-        "score": 11,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588741489.0
-    },
-    {
-        "author": "xxxchabrahxxx",
-        "body": "Breaking news small drone company Ag Eagle swoops in and undercuts Microsoft in potential buyout worth 17 quadrillion yen!",
-        "created_utc": 1589311723,
-        "id": "fqeq305",
-        "score": 11,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1589340523.0
-    },
-    {
-        "author": "RoopLoops",
-        "body": "i dont go deep OTM. with all this volatility, ive been buying MSFT and AAPL calls 2 - 3 weeks out, and 1 or 2 strike prices OTM, with only a 2K portfolio, I made 1K today.",
-        "created_utc": 1589233261,
-        "id": "fqba4zp",
-        "score": 11,
-        "subreddit": "options",
-        "created": 1589262061.0
-    },
-    {
-        "author": "bobfrink",
-        "body": "Wow these are some of the worst strike prices I\u2019ve seen. what made you pick $95 for Microsoft?",
-        "created_utc": 1589567911,
-        "id": "fqqm3pk",
-        "score": 11,
-        "subreddit": "wallstreetbets",
-        "created": 1589596711.0
-    },
-    {
-        "author": "LactobaSILLY",
-        "body": "MSFT thrives on online interaction. Do you go to the Microsoft store at your local mall? Their teams and azure is killing it despite the market downturn. More computers sold to work from home people/companies = more money and more WFH = more teams. Not to mention gaming sector increase.",
-        "created_utc": 1588826415,
-        "id": "fpqmm2k",
-        "score": 11,
-        "subreddit": "stocks",
-        "created": 1588855215.0
-    },
-    {
-        "author": "Romano718",
-        "body": "I hope for all the weak handed fucks, by the grace of moon gods they DO merge with MSFT on Thursday",
-        "created_utc": 1588703207,
-        "id": "fpkyftq",
-        "score": 10,
-        "subreddit": "pennystocks",
-        "created": 1588732007.0
-    },
-    {
-        "author": "LordTeddard",
-        "body": "u know ur at the end of the tunnel when people start mentioning $MSFT 200c",
-        "created_utc": 1589325372,
-        "id": "fqfi99j",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1589354172.0
-    },
-    {
-        "author": "lnsufficientgravitas",
-        "body": "The top isn't in yet as we don't have any MSFT 200C memes on the front page yet",
-        "created_utc": 1588972821,
-        "id": "fpwzhwm",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1589001621.0
-    },
-    {
-        "author": "Memetron9000",
-        "body": "u/robinhoodstaff, do it or we go all in MSFT 400c 3/8 with maxed out margin",
-        "created_utc": 1588808058,
-        "id": "fpps30v",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1588836858.0
-    },
-    {
-        "author": "BennyFlocka",
-        "body": "What\u2019s FAGMAN going to do this week (FB, AMZN, GOOG, MSFT, AAPL, NFLX)?",
-        "created_utc": 1588542402,
-        "id": "fpe8dq8",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1588571202.0
-    },
-    {
-        "author": "qwertyaas",
-        "body": "GUYS, THAT WAS A CLOSE ONE. BUT WE THINK WE ARE OUT OF THE DANGER ZONE. \n\nMSFT REALLY BOTTOMED OUT AT $190 AND DONT GET US STARTED AT NVDA FALLING TO $325. BUT WE THINK WE HIT THE BOTTOM AND IT'S NOW A GOOD TIME TO BUY. TRUST US, WE KNOW WHAT WERE TALKIKG ABOUT. \n\nPLEASE STAY ONLINE, OUR EDITORS ARE CURRENTLY EDITING MY NEXT ARTICLE STATING WE ARE AT THE TOP, AND MY SEQUAL, TRADING SIDEWAYS UNTIL 2040.",
-        "created_utc": 1589224194,
-        "id": "fqaruen",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1589252994.0
-    },
-    {
-        "author": "Funkierail",
-        "body": "bill gates stepped down from microsoft, so probably not.",
-        "created_utc": 1588696520,
-        "id": "fpkkx77",
-        "score": 10,
-        "subreddit": "pennystocks",
-        "created": 1588725320.0
-    },
-    {
-        "author": "livestrong2109",
-        "body": "Too bad they're making massive cuts to their R&amp;D on self driving. Truth is they where way behind and are just hoping to buy the technology.\n\nUber is in such trouble longterm. It's the same line of thought as IBM when the licensed dos and then for some reason collaborated with Microsoft on OS/2.\n\nIts one of those companies that very likely won't be around in ten years.",
-        "created_utc": 1589425464,
-        "id": "fqke98t",
-        "score": 10,
-        "subreddit": "investing",
-        "created": 1589454264.0
-    },
-    {
-        "author": "love2fuckbearasshoe",
-        "body": "MSFT$ u fucken monster man thank  you \n\nMe and u gates we gonna save the world baby",
-        "created_utc": 1588623062,
-        "id": "fphkvc4",
-        "score": 10,
-        "subreddit": "wallstreetbets",
-        "created": 1588651862.0
-    },
-    {
-        "author": "pugofwallstreet",
-        "body": "MSFT IS a safe stock, but that is still all your eggs in one basket. Because nothing is completely safe.\n\nNow, you need to stop taking advice from your pastor. He is recommending you hold things which DECAY by design as, in JNUG.\n\nLook at the chart for VTI.\n\nYou need to learn more about investing my friend. Not from your pastor. Also, the markets are highly volatile right now, and another crash is quite probably coming.",
-        "created_utc": 1589495631,
-        "id": "fqniulq",
-        "score": 10,
-        "subreddit": "stocks",
-        "created": 1589524431.0
-    },
-    {
-        "author": "jmm-22",
-        "body": "Get out while you can.  All of these hype trains derail after these calls.  There\u2019s no evidence they\u2019re working with Microsoft.  Prior art in patents don\u2019t mean anything.",
-        "created_utc": 1588880906,
-        "id": "fpswq1m",
-        "score": 10,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588909706.0
-    },
-    {
-        "author": "Csalsa85",
-        "body": "My friends dad who works at Goldman Sachs said Tesla is partnering with Microsoft to partner with MVIS and amazon",
-        "created_utc": 1588605732,
-        "id": "fpgmt6h",
-        "score": 9,
-        "subreddit": "pennystocks",
-        "created": 1588634532.0
-    },
-    {
-        "author": "love2fuckbearasshoe",
-        "body": "MADE A GOOGLE EMAIL \n\nAND WHEN I HAD TO MAKE UP A PASSWORD I PUT \n\n\u201c MSFT$\u201c \n\nGOOGLE TOLD SORRY \n\nTHAT PASSWORD IS \u201c TOO STRONG \u201c !!!\n\n\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4ax1,000,0000%\n\n\nhttps://youtu.be/063Pzii3bqk",
-        "created_utc": 1588609250,
-        "id": "fpgtjoq",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1588638050.0
-    },
-    {
-        "author": "nafinmasjid",
-        "body": "You would think earnings would be easy until you remember how MSFT and AMZN AND SPY cucked us",
-        "created_utc": 1588624304,
-        "id": "fphnba5",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1588653104.0
-    },
-    {
-        "author": "isaac11117",
-        "body": "I was playing Xbox with Rory gates and he was playing this song. MVIS to the moon. Microsoft merger is official",
-        "created_utc": 1588967699,
-        "id": "fpwpotk",
-        "score": 9,
-        "subreddit": "pennystocks",
-        "created": 1588996499.0
-    },
-    {
-        "author": "s2upid",
-        "body": "&gt;Around 1pm on Friday Microsoft (MSFT), Today\u2019s Five investigative team was given word that CEO Satya Nadella reportedly informed close investors that the acquisition of MicroVision (MVIS) would \u201cundoubtedly be followed through with\u201d. An official announcement is expected on Tuesday.",
-        "created_utc": 1588963253,
-        "id": "fpwgxm1",
-        "score": 9,
-        "subreddit": "pennystocks",
-        "created": 1588992053.0
-    },
-    {
-        "author": "nodirection12",
-        "body": "lol you got caught holding the bag on this pump and dump and now trying to get redditors to bail you out. msft isnt buying this junk.",
-        "created_utc": 1589255432,
-        "id": "fqcdace",
-        "score": 9,
-        "subreddit": "StockMarket",
-        "created": 1589284232.0
-    },
-    {
-        "author": "hallwaysoffat",
-        "body": "I actually sold my MSFT and SPY calls for gains today. That\u2019s one for the history books.",
-        "created_utc": 1588725397,
-        "id": "fpm4ijc",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1588754197.0
-    },
-    {
-        "author": "Dreadpiratemarc",
-        "body": "How many of the original DJIA are still in business?  I think it's maybe just GE and ATT.  All the rest, industry giants in their day, have dissolved.  Businesses like everything else have a life cycle.  \n\nHow many of the tech darlings popular with amature investors do you think will still be a good investment in 30 years?  Microsoft and Apple might or might not.  But Facebook?  Netflix?  Definitely not.  Amazon will probably be around but it will be more like Walmart is today, struggling to find growth in a saturated market and facing disruptors of its own.",
-        "created_utc": 1589330000,
-        "id": "fqfqzz6",
-        "score": 9,
-        "subreddit": "StockMarket",
-        "created": 1589358800.0
-    },
-    {
-        "author": "ScallyWag-Idiot",
-        "body": "\"@realbillgates: MSFT stock way too fucking low cucks. Ima buy every available share on the market\"",
-        "created_utc": 1589405929,
-        "id": "fqj727q",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1589434729.0
-    },
-    {
-        "author": "philmacrack123",
-        "body": "ATH, it was the day of the top. A sign from the heavens to short, god came to us that day and gave us the easiest play of all time, and we all bought MSFT 200c",
-        "created_utc": 1589100920,
-        "id": "fq5d7yd",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1589129720.0
-    },
-    {
-        "author": "christhemix",
-        "body": "to me this is proof MSFT is NOT buying MVIS.\n\ntheres a long list of former MVIS employees working for MSFT now\n\nMSFT just buys their patents and makes the shit themselves, why would they spend millions more acquiring the whole company?\n\nanyone else see it this way?",
-        "created_utc": 1588711385,
-        "id": "fplepy0",
-        "score": 9,
-        "subreddit": "pennystocks",
-        "created": 1588740185.0
-    },
-    {
-        "author": "sutich",
-        "body": "Copyright Windows Report 2020\n#Not associated with Microsoft\n\nLiterally right there on the page",
-        "created_utc": 1589298683,
-        "id": "fqdyae7",
-        "score": 9,
-        "subreddit": "pennystocks",
-        "created": 1589327483.0
-    },
-    {
-        "author": "SwimmingJunky",
-        "body": "I threw in 12k this morning, almost my entire portfolio.  Not because I actually believe there is going to be a Microsoft buyout, but that OTHER people think so.  I'm already up like 10k.  I'm not worried about small dips here and there because I know that, at least until Thursday, this stock will continue to rise driven purely by human psychology - other people believing the hype.  People are inherently greedy.  I could care less one way or the other if the news is true.\n\nSome people may call what I did risky - throwing my entire portfolio in - but considering the entirety of the circumstances, I'd consider it an extremely calculated risk with hardly any downside and enormous upside.",
-        "created_utc": 1588639552,
-        "id": "fpif06k",
-        "score": 9,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588668352.0
-    },
-    {
-        "author": "alffawolf33",
-        "body": "I can\u2019t read Microsoft calculator. WTF is this gay shit?",
-        "created_utc": 1589420393,
-        "id": "fqk58ba",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1589449193.0
-    },
-    {
-        "author": "performx92",
-        "body": "Never forget Donald Trump\u2019s **REAL** last CORONAVIRUS TASK FORCE presser. Injection of sunlight and household cleaners. I feels like it was MSFT 200c days ago.",
-        "created_utc": 1588644578,
-        "id": "fping3v",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1588673378.0
-    },
-    {
-        "author": "jawni",
-        "body": "Tyson -&gt; Vanguard -&gt; Microsoft -&gt; Bill Gates \n\nThey all relate to each other in highly variable degrees. It's not really worth elaborating because however you want to connect the dots will likely make more sense than whatever conspiracy theory is actually being presented because it's literal insanity.",
-        "created_utc": 1588359498,
-        "id": "fp6vwd7",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1588388298.0
-    },
-    {
-        "author": "Slow_is_Fast",
-        "body": "Actually from what I understand they sold the tech to Microsoft. This reduces their overhead. They gain a royalty for each unit Microsoft makes which is reportedly equivalent to what they would earn if they did it themselves.",
-        "created_utc": 1588719504,
-        "id": "fplu40x",
-        "score": 9,
-        "subreddit": "pennystocks",
-        "created": 1588748304.0
-    },
-    {
-        "author": "Singleguywithacat",
-        "body": "This earning season's reminds me of my first few parties in college.  I was super-excited, had all of the right clothes to wear, and was definitely looking forward to flossing the new-and-improved me.  The first party was definitely cool, as I felt my way around, filled with nervousness and anticipation.  I laughed off the fact I didn't actually go home with a woman that first night, or even get a number, or even talk to a woman, but I had a nice buzz and was prepared for my next shot.   It was kind of like my bet on Dominoes this earning's season, in hindsight it didn't work out, but I had done the research and looked forward to the next round.\n\nThe next few parties in college, I began to resent how easy it seemed to be for everybody else to have a good time, and get apparently what I was looking for.  I was beginning to get less and less optimistic, and that initial sense of euphoria and confidence was slowly turning into self-loathing and the feeling of petulance of not belonging there.  As I bet AMZN and MSFT this earnings season, the same feeling became me.  Why didn't I just click on FB instead, why did I blow $1600 on an expiring weekend SPY Put.  None of it makes sense, to anybody.  \n\nEventually at the end of my freshman year, I realized that parties weren't for me, and maybe I'm just a weirdo.  Maybe earnings aren't for me either, but I could just be broke.  In either event, I have no business being there or here.",
-        "created_utc": 1588800524,
-        "id": "fppdxs5",
-        "score": 9,
-        "subreddit": "wallstreetbets",
-        "created": 1588829324.0
-    },
-    {
-        "author": "soAsian",
-        "body": "that didn't stop company like IBM, Microsoft, Google, hell even Apple from dumping money into India for R&amp;D, product development, call centers, iphone assembly...etc.",
-        "created_utc": 1588626990,
-        "id": "fphshj3",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1588655790.0
-    },
-    {
-        "author": "Thethotslayer007",
-        "body": "Yes totally. It's a high tech stark enterprise type company as in it has huge potential and could definitely eclipse 2 or 3 bucks. Uav was a shady company. Good for pump and dump methods but this one has alot of employees and is near Microsoft in washington state. Their designs and R and D are really brilliant from what one guy said. Like you want future tech they have it.",
-        "created_utc": 1588621036,
-        "id": "fphgtw0",
-        "score": 8,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588649836.0
-    },
-    {
-        "author": "MaRrDuKzAyA",
-        "body": "The fact that MVIS actually has worked with microsoft in the past and half amazing products that are game-changers makes this very different than UAVS. i\u2019m feelin good about this one",
-        "created_utc": 1588637903,
-        "id": "fpic6co",
-        "score": 8,
-        "subreddit": "pennystocks",
-        "created": 1588666703.0
-    },
-    {
-        "author": "BlueKnightJoe",
-        "body": "https://www.cnbc.com/2020/05/08/op-ed-markets-rising-as-economic-numbers-plunge-is-historically-a-setup-for-disappointment.html\n\nEven the bears on CNBC advise you to avoid SPY puts and instead buy and hold shares of Pepsi, JNJ and MSFT. What the fuck kind of bear are you if being a bear just means playing slightly more defensive when longing stocks. Shit son grow a pair and load up on puts.",
-        "created_utc": 1588954808,
-        "id": "fpvzvlp",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1588983608.0
-    },
-    {
-        "author": "docarwell",
-        "body": "Ive referred 5 people and got a microsoft stock for one of them",
-        "created_utc": 1588964117,
-        "id": "fpwin7b",
-        "score": 8,
-        "subreddit": "RobinHoodPennyStocks",
-        "created": 1588992917.0
-    },
-    {
-        "author": "atolius",
-        "body": "120K to MSFT calls. I believe you in Nutella",
-        "created_utc": 1589241004,
-        "id": "fqboqqp",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1589269804.0
-    },
-    {
-        "author": "SwanArmy",
-        "body": "I'm gonna drastically simplify this for you, keep in mind that this isn't the actual definition of IV by any means.\n\nEssentially, Implied Volatility is an options term for how much the underlying stock will move in a given time frame. Since TSLA has much wider swings in stock price than say...AAPL or MSFT, TSLA has higher IV. This higher IV correlates to lower movement in options prices for large moves. For example, a 5% move in TSLA will result in 50-60% gains in TSLA at-the-money options, but a 5% move in MSFT will translate to 150-200% gains in MSFT at-the-money options.\n\nTSLA is expected to move let's say....5 percent per day. It's NOT expected to move 5% in an hour. That's what i meant in that in general, TSLA's stock price was moving a lot more than expected (on high volume) during that timeframe.",
-        "created_utc": 1588378477,
-        "id": "fp7wh8m",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1588407277.0
-    },
-    {
-        "author": "olsont1",
-        "body": "Not even that. It\u2019s just that 10% of that specific fund is invested in Microsoft. \nVanguard doesn\u2019t own close to 10% of Microsoft as a whole.",
-        "created_utc": 1588350277,
-        "id": "fp6d3xo",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1588379077.0
-    },
-    {
-        "author": "DandierChip",
-        "body": "I had a bid ready for a couple thousand shares just in case Microsoft was announced. Definitely not 50k tho \ud83d\ude02",
-        "created_utc": 1588887759,
-        "id": "fptajwz",
-        "score": 8,
-        "subreddit": "pennystocks",
-        "created": 1588916559.0
-    },
-    {
-        "author": "christhemix",
-        "body": "SHAREholders would receive their SHARE of whatever microsoft is paying. so if its $5 million... divide that by the millions of shares, and u end up with probably a penny for each one",
-        "created_utc": 1588981190,
-        "id": "fpxemdn",
-        "score": 8,
-        "subreddit": "pennystocks",
-        "created": 1589009990.0
-    },
-    {
-        "author": "UniqueUsernamedotcom",
-        "body": "I just put Microsoft in and it worked so I don't think it really matters",
-        "created_utc": 1588878205,
-        "id": "fpsr512",
-        "score": 8,
-        "subreddit": "pennystocks",
-        "created": 1588907005.0
-    },
-    {
-        "author": "ale632007",
-        "body": " Here is the patent [https://patents.google.com/patent/US20180292654A1/en?q=Scanner-illuminated+LCOS](https://patents.google.com/patent/US20180292654A1/en?q=Scanner-illuminated+LCOS) owned by Microsoft and it is citing [https://patents.google.com/patent/US8837050B2/en?q=Scanner-illuminated+LCOS](https://patents.google.com/patent/US8837050B2/en?q=Scanner-illuminated+LCOS) which belongs to MVIS. \n\nSeems that Joshua M. Hudman (inventor of US8837050B2) went from MVIS to Microsoft around the time this patent was filled, 2011, but now he is at Valve (relevant? meh) The patent that got approved today, was filled on 2017 by MS and that is the only link I found, didn\u2019t care to dig in more, so make of it what you will. To me it means nothing that a patent was approved, always takes a while for them to get approved AFAIK.",
-        "created_utc": 1588711722,
-        "id": "fplfdvn",
-        "score": 8,
-        "subreddit": "pennystocks",
-        "created": 1588740522.0
-    },
-    {
-        "author": "wigannotathletic",
-        "body": "What's the deal with FAANG anyway? What's the point of a big tech acronym if it doesn't include MSFT",
-        "created_utc": 1589346127,
-        "id": "fqgh4dq",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1589374927.0
-    },
-    {
-        "author": "JohnLouis24",
-        "body": "So not putting words in your mouth: Amazon, Google, and Microsoft are entering a bidding war for MVIS. I\u2019ll update y\u2019all with my lambo customizations.",
-        "created_utc": 1588649128,
-        "id": "fpiuocj",
-        "score": 8,
-        "subreddit": "pennystocks",
-        "created": 1588677928.0
-    },
-    {
-        "author": "DARPA1191969v1",
-        "body": "I can give the perspective from a tech/software dev.\n\nIn my opinion, these are sort of different players. In fact, I would say that NVDA and AMD are far more analogous to each other than even AMD -&gt; AAPL, and certainly to MSFT. The  way that I see it, NVDA/AMD are fundamentally companies that are concerned with producing a *physical good* \\- literal chipsets and dies. AAPL seems to waver on the hardware side of things (they have been known to go proprietary in that arena, but have also loaned out work to INTC on more than one occasion). I most certainly see MSFT as a true software/PaaS/SaaS company - suffice to say that they are producing very little in the way of physical goods.\n\nI think the *soft/hardware* direction is important to mention, because that fundamentally plays into the way that these companies deal in the market. Developing hardware is a mind-bendingly expensive process (relatively speaking). It takes years of R&amp;D and cash on hand to fund something that is truly great. An example of this would be the move AMD made to Zen (which is based on the concept of 'chiplets'; highly-scalable many-core designs that are fundamentally different from their monolithic predecessors).\n\nIn terms of growth, I would have to say that I see two viable options here: *NVDA and MSFT*. MSFT is pretty easy to explain; they create a product that fundamentally has lower upstart costs (software development's most expensive attribute is the cost of human labor) and lower maintenance costs (I would think). There is some movement towards a more data-center driven profit scheme (which would require boots on ground hardware en masse), and Azure is certainly an AWS competitor, but I think we've yet to see them really go full throttle on that (I think it could be big if they did).\n\nNVDA is a leader from a technological perspective. GPU compute-cores are very specialized devices that are good at doing only a few things, but very, *very well.* NVDA has been hammering away at this technology for years - they know the game, and they know where the money is. Autonomous cars, drones...the computer viz recogition software for postal, for literally anything, runs on a platform that is fundamentally a GPU (very high level view here). Machine learning applications in this field at the data-center level (think machine learning on AWS) are absolutely dominated by NVDA; In fact I would go as far as to say there aren't really a lot of competitors out there that are bringing to the table what NVDA does (Honestly AMD has severely gimped even their consumer dies at this point).\n\n&amp;#x200B;\n\nI can elaborate more, but I'd go with MSFT and NVDA on this one.",
-        "created_utc": 1588630100,
-        "id": "fphydh4",
-        "score": 8,
-        "subreddit": "investing",
-        "created": 1588658900.0
-    },
-    {
-        "author": "Howard_510",
-        "body": "Wtf this is literally a replay of last Nov-Feb. We\u2019ve had Tesla $1000c, MSFT $200c, AMD $60c and now SPCE $35c and BYND $120c all over again.\n\nAre we stuck in a simulation?",
-        "created_utc": 1588721027,
-        "id": "fplwvsn",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1588749827.0
-    },
-    {
-        "author": "ByeHiSellLow",
-        "body": "Someone in wsb accidentally sold MSFT shares on his robinhood and bought them back right away",
-        "created_utc": 1589250307,
-        "id": "fqc53vn",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1589279107.0
-    },
-    {
-        "author": "isaac11117",
-        "body": "Yeah the only reason zoom isn\u2019t dead yet is because google and Microsoft are just getting started with it. Once they release a superior product at lower cost most of the businesses will switch from zoom. Zoom might still survive in the medium term(1-5 years) but it\u2019ll definitely be losing market share every year.",
-        "created_utc": 1589053311,
-        "id": "fq26nvj",
-        "score": 8,
-        "subreddit": "stocks",
-        "created": 1589082111.0
-    },
-    {
-        "author": "keyokenx1017",
-        "body": "So are we fomoing back into MVIS now? Microsoft is actually buying them out",
-        "created_utc": 1588971497,
-        "id": "fpwwz8a",
-        "score": 8,
-        "subreddit": "wallstreetbets",
-        "created": 1589000297.0
-    },
-    {
-        "author": "isaac11117",
-        "body": "I put my name as Rory Gates and company as Microsoft",
-        "created_utc": 1588885869,
-        "id": "fpt6svc",
-        "score": 8,
-        "subreddit": "pennystocks",
-        "created": 1588914669.0
-    },
-    {
-        "author": "JustLookingAroundFor",
-        "body": "$BECKYS will definitely resurrect airlines pretty quickly as soon as MSM gives them the okay.\n\nThey\u2019ll be snapping IG pics with terra-cotta rooftops in the background faster than you can say oracle of Omaha",
-        "created_utc": 1588975266,
-        "id": "fpx42ib",
-        "score": 15,
-        "subreddit": "wallstreetbets",
-        "created": 1589004066.0
-    },
-    {
-        "author": "waaaghbosss",
-        "body": "Or we are cherry picking an example where his gamble luckily was correct, and ignoring when he was very wrong.  \n\n\n\n\"No way this is worth anywhere close to $25 billion or even $10 billion\"\nHes talking about snapchat, which is currently at 26 billion.  \nhttps://old.reddit.com/r/stocks/comments/6afd1w/snaplol/\n\nHes an annoying shit poster, not some magic stock picking Oracle\n\n\nHere is a fun one where is he pushing people to run from AMD,  when it was under $10.  It's currently at $53.\nhttps://old.reddit.com/r/stocks/comments/68mbsv/last_chance_to_get_out_of_amd/",
-        "created_utc": 1589142087,
-        "id": "fq75lf1",
-        "score": 8,
-        "subreddit": "stocks",
-        "created": 1589170887.0
-    },
-    {
-        "author": "burn3",
-        "body": "put a coin face up on one side of the room and a coin face down on the other side. Heads means bullish tails mean bearish. Spin around in your computer chair and rub one out while getting dizzy af. Which ever coin has the most cum on it is the oracle and you treat it like gospel. you sacrificed your unborn children for it.",
-        "created_utc": 1588719280,
-        "id": "fpltp9n",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1588748080.0
-    },
-    {
-        "author": "warrior5715",
-        "body": "You\u2019re the oracle woooo",
-        "created_utc": 1588536304,
-        "id": "fpdxo4u",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1588565104.0
-    },
-    {
-        "author": "FlaccidDictator",
-        "body": "Say no to ORCL!",
-        "created_utc": 1589150124,
-        "id": "fq7qg3n",
-        "score": 6,
-        "subreddit": "stocks",
-        "created": 1589178924.0
-    },
-    {
-        "author": "d10srespect",
-        "body": "Buffett may be the Oracle, but Powell is Thanos with 6 infinity stones.",
-        "created_utc": 1588621139,
-        "id": "fphh1gf",
-        "score": 6,
-        "subreddit": "wallstreetbets",
-        "created": 1588649939.0
-    },
-    {
-        "author": "Dyunder",
-        "body": "buys at $50 sells at $1 the oracle has spoken",
-        "created_utc": 1588790918,
-        "id": "fpoukrn",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1588819718.0
-    },
-    {
-        "author": "wegwerf874",
-        "body": "Non-serious answer: Warren. Because, while Peter followed a murderous lifestyle, visiting 200+ companies a year together with his entourage (look at his hair!), Warren was chilling in his office in Omaha, searching in his calendar for his 'haircut day'. Ultimately, Lynch retired very early while the Oracle is still around enjoying his job.",
-        "created_utc": 1588717362,
-        "id": "fplq651",
-        "score": 5,
-        "subreddit": "investing",
-        "created": 1588746162.0
-    },
-    {
-        "author": "bank_of_dank",
-        "body": "Free one for the newbs, warren the omaha oracle just rebalanced into SPCE SNAP TSLA TLRY calls 5/8",
-        "created_utc": 1588647100,
-        "id": "fpirisu",
-        "score": 5,
-        "subreddit": "wallstreetbets",
-        "created": 1588675900.0
-    },
-    {
-        "author": "fgh125312",
-        "body": "this is a solid tech giant with the likes of amazon, oracle, google etc... just fallen out of favor in recent years and somehow ended up being described as a meme stock on wsb which i think is hilarious",
-        "created_utc": 1588973593,
-        "id": "fpx0y9d",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1589002393.0
-    },
-    {
-        "author": "Nu2Denim",
-        "body": "That would be be amazon, Microsoft, oracle, dell, google",
-        "created_utc": 1588616196,
-        "id": "fph78j5",
-        "score": 4,
-        "subreddit": "wallstreetbets",
-        "created": 1588644996.0
-    },
-    {
-        "author": "kilukila2707",
-        "body": "ORCL has 0.9% short interest but is hard to borrow on schwab. Could anyone explain?",
-        "created_utc": 1588538034,
-        "id": "fpe0pco",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1588566834.0
-    },
-    {
-        "author": "JustLookingAroundFor",
-        "body": "The oracle of Omaha is drastically underestimating $BECKY and her primal thirst for shopping, traveling, brunch, IG flexing and male attention.\n\nSPY 316c 6/30\n\nFight me",
-        "created_utc": 1588976077,
-        "id": "fpx5k8l",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1589004877.0
-    },
-    {
-        "author": "narwhaltrader",
-        "body": "I work in this industry and confirm this comment. I wouldn't go into Oracle or IBM. AWS, Azure and the burgeoning Google Cloud are pretty much it.",
-        "created_utc": 1588889867,
-        "id": "fptenuv",
-        "score": 3,
-        "subreddit": "investing",
-        "created": 1588918667.0
-    },
-    {
-        "author": "fogscaper",
-        "body": "I'm sorry to hear my friend but maybe use you frequency factor to calculate tendency too...\n\n24h from now, what will have change in the frequency and which stocks frequency have drop/rise% more. Then find a stock when it start gaining traction instead of when it is at it's peak.\n\nOr there is the boring option of finding solid companies to invest in the long term like top food distributors and waste management services for a okay profit and dividends...\n\nBut as a member of the 'not rich not poor but waaayyyy more poor than rich' I am always up for a good get rich quick strategy that will probably blow up in my face 2 days after making me think that I'm an oracle!",
-        "created_utc": 1588804988,
-        "id": "fppmf87",
-        "score": 3,
-        "subreddit": "pennystocks",
-        "created": 1588833788.0
-    },
-    {
-        "author": "CapitalC5",
-        "body": "CBRE's PE is 10.25 vs 9.55 industry average. PEG is 1.51 vs 0.60 average. \n\nAAPL's PE is 23.70 vs 17.80 industry average. PEG is 2.30 vs 1.62 average. \n\nORCL's PE is 16.35 vs 22.49 industry average. PEG is 4.46 vs 1.69 average.\n\nHD's PE is 22.03 vs 14.46 industry average. PEG is 1.79 vs 1.64 average.\n\nRHI and DAL are decent, but I wouldn't suggest the companies above are low PE. It doesn't stop by checking if a company is below 20PE. Check industry average as well and PEG gives you a better view on the future PE ratio. For example, while ORCL has a decent PE ratio, its yearly growth is not fast enough to keep up and be a good investment long term.",
-        "created_utc": 1588782965,
-        "id": "fpoe4t7",
-        "score": 3,
-        "subreddit": "stocks",
-        "created": 1588811765.0
-    },
-    {
-        "author": "satxfunguy",
-        "body": "$DFEN  **BULLISH** \n\n\\- all of the major holdings are near oversold territory. $BA, $LMT, $RTX, $GA \n\n\\- Today's dip was in part to the Oracle being bearish on aerospace / the airlines over the weekend.  \n\n\\- Aerospace and defense have a rock-solid floor due to Trump's affinity for a strong military\n\n\\- The government has proven they can print money, and the world must literally be over before USA stops paying BA, LMT, RTX and others to make weapons",
-        "created_utc": 1588627264,
-        "id": "fpht0h9",
-        "score": 3,
-        "subreddit": "wallstreetbets",
-        "created": 1588656064.0
-    },
-    {
-        "author": "pieredforlife",
-        "body": "For sure nobody knows when\u2019s the bottom. Not even oracle of omaha.\nI\u2019ve 10k to invest too. Since feb I will being deploying whenever there\u2019s a dip. I plan to deploy all my funds by June regardless of dip since it\u2019s a month away.\nNonetheless I\u2019ve average down my holdings quite significantly",
-        "created_utc": 1588350067,
-        "id": "fp6coo9",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1588378867.0
-    },
-    {
-        "author": "worldnews_is_shit",
-        "body": "This is a bad idea, anyways.\n\nI would invest equally in each stock, but drop IBM and Oracle.",
-        "created_utc": 1588878029,
-        "id": "fpsqs6l",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1588906829.0
-    },
-    {
-        "author": "RollCall829",
-        "body": "MSFT, AMZN, ORCL. I personally like to have a broader coverage of cloud computing in general though, so I invest in the SKYY ETF.\n\nEdit: Before coronavirus hit I also had gotten into VMW and VEEV (more healthcare oriented). Since then I have only rebought into MSFT, AMZN and SKYY.",
-        "created_utc": 1589147265,
-        "id": "fq7jn2j",
-        "score": 2,
-        "subreddit": "stocks",
-        "created": 1589176065.0
-    },
-    {
-        "author": "belgianfriedchicken",
-        "body": "The Oracle not only buys shares, he's taking control of *most* of the companies he owns (partially or fully) - he's referring to \"his CEO's\" in every of his annual letters, because he owns them. BRK is a holding, not an investment fund.\n\nCan you replicate that ?",
-        "created_utc": 1588791217,
-        "id": "fpov73w",
-        "score": 2,
-        "subreddit": "investing",
-        "created": 1588820017.0
-    },
-    {
-        "author": "Ankel88",
-        "body": "**Tomorrow the Oracle will speak and I'm broke. I will put my last bucks in whatever he will says and that is for may.**",
-        "created_utc": 1588365096,
-        "id": "fp76suv",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1588393896.0
-    },
-    {
-        "author": "meg3124",
-        "body": "anyone line ORCL? I just bought some. I'm pretty much all about tech going forward. Anyone have an bearish argument against Oracle?",
-        "created_utc": 1588954264,
-        "id": "fpvyt99",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1588983064.0
-    },
-    {
-        "author": "d10srespect",
-        "body": "Are airlines gonna have one green day this week. Jeez the Oracle really killed that sector.",
-        "created_utc": 1588793645,
-        "id": "fpp04xn",
-        "score": 2,
-        "subreddit": "wallstreetbets",
-        "created": 1588822445.0
-    },
-    {
-        "author": "option-whisperer",
-        "body": "Thank you Mr. Oracle. I now know what to do which is I don't have a clue...",
-        "created_utc": 1588458819,
-        "id": "fpaz9x7",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588487619.0
-    },
-    {
-        "author": "mkz419",
-        "body": "Berkshire stock has~3x in the past decade. He\u2019s still the Oracle.",
-        "created_utc": 1588486034,
-        "id": "fpc32rz",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588514834.0
-    },
-    {
-        "author": "connoriroc",
-        "body": "We will hear the Oracle speak tomorrow. Will he crash the market with a bearish sentiment?",
-        "created_utc": 1588362110,
-        "id": "fp711v8",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588390910.0
-    },
-    {
-        "author": "joshuaac2",
-        "body": "Ok wise orAcle, what\u2019s Monday look like",
-        "created_utc": 1588354286,
-        "id": "fp6lael",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588383086.0
-    },
-    {
-        "author": "qmj74",
-        "body": "Boeing?  Oracle just sent out a DMCA request and threatened to sue.",
-        "created_utc": 1588494319,
-        "id": "fpcbi0b",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588523119.0
-    },
-    {
-        "author": "ElasticUrethra",
-        "body": "Who knows, but the oracle selling means he knew they could lose all airline equity on potential BK, otherwise he\u2019d just ride it out since his favorite time period to hold is forever. That\u2019s my uninformed opinion though, I\u2019m generally retarded.",
-        "created_utc": 1588499318,
-        "id": "fpcg4cs",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588528118.0
-    },
-    {
-        "author": "FullTard2000",
-        "body": "Nah man, The Oracle is officially a bear. Added 6B to his 128B stash of cash and lost 50B. Next week and especially Monday is probably going to be pretty red",
-        "created_utc": 1588460840,
-        "id": "fpb2od2",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588489640.0
-    },
-    {
-        "author": "Based_Azrael",
-        "body": "You're right it did perform better when you pull out the graph till 1990, but how long will that last? Times change, companies rise and fall. Look at the recent yoy growth of BRK vs SPY. Technology is the new paradigm and while airlines and oil are relics in the near future. Why go for a business trip/meeting when they can just use Zoom or Facebook? Not making the shift is foolish, even a blind man can see better than this oracle. What's more BRK is backed by Buffet, if he croaks, so does the stock, he is the face of the stock, regardless of whether he acknowledges it or not. What's more, he doesn't bother about learning technology because he doesn't need to anymore, in 10 to 20 years he wouldn't even participate in the stock market anymore. But the landscape would be vastly different from before, already we see tech giants ruling the market now, I wonder what will happen in the future?",
-        "created_utc": 1588461640,
-        "id": "fpb40hq",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588490440.0
-    },
-    {
-        "author": "501c_Trader",
-        "body": "\"Nothing can stop America!\" says the Oracle of Omaha. Versus Elon, tweeting nonsense. Even Buffett, at 89, an age when old men seem to dgaf the most about what they say, has more sense than that kook.",
-        "created_utc": 1588453323,
-        "id": "fpaq19r",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588482123.0
-    },
-    {
-        "author": "option-whisperer",
-        "body": "I am so bear'ed up on IWM,SPY,QQQ. I can only hope the Oracle from Omaha is right.",
-        "created_utc": 1588467357,
-        "id": "fpbd8s5",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588496157.0
-    },
-    {
-        "author": "Dildobagginz6969",
-        "body": "Don't bet against the Oracle of Omaha",
-        "created_utc": 1588469139,
-        "id": "fpbg04q",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588497939.0
-    },
-    {
-        "author": "DeceptiveToast",
-        "body": "The oracle recommends War. \n\nLMT Calls Yolo",
-        "created_utc": 1588455211,
-        "id": "fpat7n9",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588484011.0
-    },
-    {
-        "author": "AsspiringAutist",
-        "body": "Boomer also invested during the golden age of the American empire. Give any of us 70 years and tendies and we could probably all be the \u201coracle\u201d",
-        "created_utc": 1588589433,
-        "id": "fpfzmp5",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588618233.0
-    },
-    {
-        "author": "ArcherAuAndromedus",
-        "body": "The oracle announced on his weekend call that he exited airlines.",
-        "created_utc": 1588594196,
-        "id": "fpg4qlj",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588622996.0
-    },
-    {
-        "author": "FullTard2000",
-        "body": "insulting The Oracle is blasphemous, puts on you",
-        "created_utc": 1588595086,
-        "id": "fpg5u3h",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588623886.0
-    },
-    {
-        "author": "H_E_Pennnypacker",
-        "body": "Oracle of Omaha vs Poops his pants",
-        "created_utc": 1588594910,
-        "id": "fpg5m2h",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588623710.0
-    },
-    {
-        "author": "Bot-01A",
-        "body": "It's a demo account on the IG index platform. You can add as much paper money as you like to the demo. He hedged spx and is now an oracle because he deleted his calls and has only profitable puts. And in about 5 minutes he's going to reply about how he doesn't have to prove anything and we will see who is right by the price of the Dow in a few months.",
-        "created_utc": 1588605512,
-        "id": "fpgmeen",
-        "score": 1,
-        "subreddit": "options",
-        "created": 1588634312.0
-    },
-    {
-        "author": "HourPackage",
-        "body": "The new oracle",
-        "created_utc": 1588621630,
-        "id": "fphi0m1",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588650430.0
-    },
-    {
-        "author": "programmingguy",
-        "body": "Buffet doesn't seem to be the Oracle he used to be.  He got greedy when others were greedy and fearful when others were fearful. He was pretty late to buy airlines and depending on exactly when he got out, pretty late to get out too. As a long term retail investor in LUV, DAL and ALK with buys from 2012 and 2014, it was obvious to me to even me to get out by the end of February &amp; first week of March.",
-        "created_utc": 1588565597,
-        "id": "fpfa8rz",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1588594397.0
-    },
-    {
-        "author": "the_stormcrow",
-        "body": "Behold, the oracle!",
-        "created_utc": 1588551337,
-        "id": "fpeo43k",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588580137.0
-    },
-    {
-        "author": "goofytigre",
-        "body": "The new Oracle of u/pinkrosesummer has to start somewhere...",
-        "created_utc": 1588576544,
-        "id": "fpfn5qr",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1588605344.0
-    },
-    {
-        "author": "PunPryde",
-        "body": "Just use AWS and not shitty Oracle cloud and you'll have much better security. Zoom is stupid.",
-        "created_utc": 1588923516,
-        "id": "fputus1",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1588952316.0
-    },
-    {
-        "author": "Dies2much",
-        "body": "I have to disagree with some of your points.  There are a lot of big companies that are in really big trouble because of this economic stop.  I do not understand why it is not showing up in the stock market more (yes I do know about the stimulus effects, and people fleeing bonds for stocks).  Boeing, Tyson Foods, GE, IBM, Oracle, all the commodities companies are going to be seeing double digit percentage decreases in their sales and revenues.  I feel like Boeing has to go bankrupt, and so many of their suppliers will too.\n\nThe market for many products, e.g. commercial real estate, airplanes, oil drilling equipment, has literally disappeared, and the stock market has not priced that in yet.\n\nThe Fed has propped up an enormous bubble with their actions, but the economy doesn't reflect what they have created.  \n\nAt some point the central banks will have to let SOME investors get wiped out, and that is going to be a very unhappy day on the stock markets.\n\nFord and GM are in staggeringly bad financial shape, nobody is saying anything about it.  Every major airline is going to be going through a bankruptcy cycle, Disney is likely to lose 75% of their revenue for the year.  How the hell can the indexes be at these levels?",
-        "created_utc": 1588948946,
-        "id": "fpvonrj",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1588977746.0
-    },
-    {
-        "author": "arcticfunky",
-        "body": "Lol yea it is,,, i came to this thread to see the sentiment the day before it crashed.. Pretty wild\n\nHow're you feeling about the current state of things mr. Oracle? Bull or bear",
-        "created_utc": 1588978275,
-        "id": "fpx9ibq",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589007075.0
-    },
-    {
-        "author": "pointy-veggies",
-        "body": "Up 180% on these bad boys so far. Just picked up 2 so not that interesting but good call so far!\n\nMy thesis is on oracle cloud and them getting ZM as a customer. Cloud stocks pumping right now plus some zoom hysteria? In the bag.",
-        "created_utc": 1588978319,
-        "id": "fpx9l20",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589007119.0
-    },
-    {
-        "author": "DrMoneyMcFinance",
-        "body": "I guarantee most of this sub knew about JD. you\u2019re not some oracle.",
-        "created_utc": 1589137722,
-        "id": "fq6tpge",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589166522.0
-    },
-    {
-        "author": "fletchdeezle",
-        "body": "It\u2019s great for small business but for scale shopify cannot complete with salesforce sap adobe or oracle.",
-        "created_utc": 1589149698,
-        "id": "fq7pp8t",
-        "score": 1,
-        "subreddit": "CanadianInvestor",
-        "created": 1589178498.0
-    },
-    {
-        "author": "eplinx",
-        "body": "any opinions on oracle (ORCL)????? Seems like its at resistance at $53. earnings next june 15 thinking of buying 6/19 or 6/26 calls. recently contracted by zoom to increase cloud infastructure",
-        "created_utc": 1589053332,
-        "id": "fq26qtf",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589082132.0
-    },
-    {
-        "author": "MarmotsGoneWild",
-        "body": "Updated my comment, and this guy inspired me a long time ago. This is all a gamble, if you don't understand who you're buying into, and markets they serve, you might as well have a parakeet pick your portfolio from the newspaper in it's cage.\n\nhttps://www.marketwatch.com/story/murderer-turned-stock-picker-is-oracle-of-san-quentin-2014-07-10\n\nDon't buy anyone's hype about anything. Everyone wants to make a fast buck, unless you understand the situations, and players you're investing in it's at best shot in the dark.",
-        "created_utc": 1588798608,
-        "id": "fppa60g",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588827408.0
-    },
-    {
-        "author": "argentman",
-        "body": "The Oracle knows this market has been pumped hard and alot more uncertainty ahead.  Sticking to his fundamentals of buying great companies at undervalued prices.",
-        "created_utc": 1588450904,
-        "id": "fpalypr",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1588479704.0
-    },
-    {
-        "author": "J_Powell_Ate_My_Ass",
-        "body": "With the amount you guys exaggerate the Oracle is probably doing cartwheels on stage,\n\n\"he gonna die tho old lol\"",
-        "created_utc": 1588453278,
-        "id": "fpapyg0",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588482078.0
-    },
-    {
-        "author": "waverlyandsixth",
-        "body": "Can the Oracle please let us know what he thinks about SHAK FDs? Strike and expiry please.",
-        "created_utc": 1588457307,
-        "id": "fpawqpy",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588486107.0
-    },
-    {
-        "author": "option-whisperer",
-        "body": "I bet records are being broke on the tune-ins to this oracle of Omaha show",
-        "created_utc": 1588454675,
-        "id": "fpasb6m",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588483475.0
-    },
-    {
-        "author": "love2fuckbearasshoe",
-        "body": "WHO IS READY TO SEE SPY$ go PLUS ULTRA MONDAY \n\n\nhttps://youtu.be/wlE7KOUXYQY\n\n\nTHE Oracle of Omaha has spoken.",
-        "created_utc": 1588456815,
-        "id": "fpavwvt",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588485615.0
-    },
-    {
-        "author": "BooBrew32",
-        "body": "Airline industry damned by the Oracle of Omaha. Wish I had airline puts.",
-        "created_utc": 1588458692,
-        "id": "fpaz27y",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588487492.0
-    },
-    {
-        "author": "Theprofitgrinder",
-        "body": "Becky as him about what changed since end of Feb.  He's bearish as fuk right now.  Make him talk.\n\n\"The Oracle of Omaha actually sees a positive in the ongoing market sell-off, telling CNBC that Berkshire Hathaway would \u201ccertainly be more inclined\u201d to buy stocks at the lower prices caused by the coronavirus.\"\n\nhttps://www.forbes.com/sites/sergeiklebnikov/2020/02/24/heres-what-warren-buffett-says-about-the-coronavirus-and-his-outlook-on-stocks/#5a5e58b7182c",
-        "created_utc": 1588461602,
-        "id": "fpb3y75",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588490402.0
-    },
-    {
-        "author": "FullTard2000",
-        "body": "The Oracle is officially a bear. Added 6B to his 128B stash of cash and lost 50B. Next week is probably going to be pretty red",
-        "created_utc": 1588460222,
-        "id": "fpb1ncz",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588489022.0
-    },
-    {
-        "author": "FullTard2000",
-        "body": "Considering he's an Oracle, Im betting he grows wings and flies off into the sunset on his 100th birthday",
-        "created_utc": 1588468987,
-        "id": "fpbfrt5",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588497787.0
-    },
-    {
-        "author": "SignalEngine",
-        "body": "He had almost nothing in 1954. He's called the Oracle because he's had some of the highest annualized returns of any investor in history for an absurd amount of time. Your gains would be 2,700,000% investing in Berkshire in 1965 instead of 19,000% with SPY. \n\nBerkshire performing only reasonably compared to the market now is largely due to having hundreds of millions of assets to manage. So why buy Berkshire instead of an index?  It has only 1 real tech exposure, Apple, so if you think tech is a bubble it's an incredibly safe investment relative to the market at large, which is being dragged upwards by tech.\n\nThat said, I don't invest in BRK personally. I just think you'd be dumb to downplay his incredible success for such a long period just because market fundamentals are incredibly hard to exercise on tech. \n\nThe only way to invest that much capital in that sector is to blow your load everywhere like Masayoshi Son, become the richest man in the world, then lose the largest amount of money in history when the bubble inevitably pops.",
-        "created_utc": 1588473716,
-        "id": "fpbmw5a",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588502516.0
-    },
-    {
-        "author": "negovany",
-        "body": "As a true Oracle he's saying shit that can be interpreted either way afterwards.",
-        "created_utc": 1588473276,
-        "id": "fpbm8j3",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588502076.0
-    },
-    {
-        "author": "BamboozledTortoise",
-        "body": "Ah yes, Warren Buffet of all people doesn\u2019t understand bonds.\n\nYou\u2019re the real oracle of Omaha and you\u2019ll always beat the market when nobody else can",
-        "created_utc": 1588485171,
-        "id": "fpc23z5",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1588513971.0
-    },
-    {
-        "author": "fukbullsandbears",
-        "body": "Took you 8 whole days?\nDamn, Oracle of BK",
-        "created_utc": 1588475966,
-        "id": "fpbq62l",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588504766.0
-    },
-    {
-        "author": "APHAbaghodler",
-        "body": "I love the passive doubt in CNBC's article summarizing Buffet's address, \"so called\" Oracle of Omaha.. when people use the words \"so called\" that means they don't really think they are the person they are so called..",
-        "created_utc": 1588466841,
-        "id": "fpbcfb0",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588495641.0
-    },
-    {
-        "author": "FullTard2000",
-        "body": "get the fuck outta here Chad. Insulting the Oracle is blasphemous, puts on you",
-        "created_utc": 1588466108,
-        "id": "fpbb9ei",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588494908.0
-    },
-    {
-        "author": "mlabtrading",
-        "body": "The oracle says we are good. Puts it is....",
-        "created_utc": 1588454020,
-        "id": "fpar7na",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588482820.0
-    },
-    {
-        "author": "121518nine",
-        "body": "Yes, oracle.",
-        "created_utc": 1588317010,
-        "id": "fp55jaq",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588345810.0
-    },
-    {
-        "author": "SwagState",
-        "body": "AAPL   MSFT   FB   INTC   IBM   ORCL   RTX   BA   HON   MMM   GM   CAT   JPM   BAC   C   MA   V   DFS   ODFL   UPS   UNP   DAL   LUV   EXPE   DIS   MCD   SBUX   YUM   DG   CVS   WMT   SPG   HD   NUE   IP   DOW   CVX   XOM   KO   KHC   PG   VFC   NKE   UNH   PFE   JNJ   CMCSA   TMUS   VZ   CSCO\n\n\n50 stocks. 50 years.",
-        "created_utc": 1588340247,
-        "id": "fp5ukxk",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1588369047.0
-    },
-    {
-        "author": "abv101",
-        "body": "The oracle has spoken",
-        "created_utc": 1588349863,
-        "id": "fp6c9se",
-        "score": 1,
-        "subreddit": "pennystocks",
-        "created": 1588378663.0
-    },
-    {
-        "author": "giannipunawny",
-        "body": "Oracle Airlines\n\n\"We see where you're going before you do\"",
-        "created_utc": 1588561412,
-        "id": "fpf48xu",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588590212.0
-    },
-    {
-        "author": "GleBaeCaughtMeSlipin",
-        "body": "ok bubba. You made a few grand on options that you started trading a year and a half ago and are now the oracle of retardville...\n\nThanks for the schooling...",
-        "created_utc": 1588588586,
-        "id": "fpfyt22",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588617386.0
-    },
-    {
-        "author": "AveenoFresh",
-        "body": "HUGE buy on ORCL calls just now..",
-        "created_utc": 1588606764,
-        "id": "fpgor0q",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588635564.0
-    },
-    {
-        "author": "StonkGoUp",
-        "body": "The WSB oracle we need",
-        "created_utc": 1588559143,
-        "id": "fpf0s5m",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588587943.0
-    },
-    {
-        "author": "JAn_OSC",
-        "body": "I mean, it ain\u2019t hard to say exactly what markets are going to do. Hell, it\u2019s so easy we don\u2019t even see shitty oracle posts of total retardation from retarded people. Shit will be pumping for 2 more weeks or so because people are greedy AF then will come the dire reality of state re-shutdown, re-surge of infections, etc etc. Then we\u2019re going to 0 not because Covid but because Donald Cunt and the trade wars.",
-        "created_utc": 1588937270,
-        "id": "fpv791f",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588966070.0
-    },
-    {
-        "author": "zjuhcqye",
-        "body": "Apple, Google, Facebook, Amazon, Microsoft, Cisco, Oracle, Bristol Myers would be my picks. Massive companies sitting on mountains of cash.",
-        "created_utc": 1588863409,
-        "id": "fprwkcl",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1588892209.0
-    },
-    {
-        "author": "elija_snow",
-        "body": "No one use Cisco &amp; Oracle except Boomer",
-        "created_utc": 1588950029,
-        "id": "fpvqms3",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588978829.0
-    },
-    {
-        "author": "Krusher4Lyfe",
-        "body": "ORCL IV also crazy low",
-        "created_utc": 1588977316,
-        "id": "fpx7sf8",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1589006116.0
-    },
-    {
-        "author": "WSBVoteBot",
-        "body": "**A Submission was Spammed by Vote**\n___\n**Title:** Just a wild guess from the Oracle\n\n**URL:** https://redd.it/ge9dwv\n___\n[Click Here to Vote to Approve](https://www.reddit.com/message/compose/?to=WSBVoteBot&amp;subject=restore&amp;message=ge9dwv) if this isn't really a post that violates guidelines. The volunteer moderators involved will be punished so don't do this lightly. \n\nUsers who Voted:\nSupreamSammy\nrobogarbage\nthedogwithavlog\nquackquack105\nDenaliRaven",
-        "created_utc": 1588726908,
-        "id": "fpm73w0",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588755708.0
-    },
-    {
-        "author": "Kie_Quintessential",
-        "body": "Disagree. How is their system flawed when they were profitable prior to Corona? They are making moves with improving services with Oracle. FB attempt to take Marketshare will fail like it did with workplaces vs slack. Corporate preferred slack over fb and corporate was using zm before corona came to town.",
-        "created_utc": 1588780428,
-        "id": "fpo8xyy",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1588809228.0
-    },
-    {
-        "author": "worldsbestuser",
-        "body": "oh look. an oracle",
-        "created_utc": 1588529472,
-        "id": "fpdlq30",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588558272.0
-    },
-    {
-        "author": "onfallen",
-        "body": "Buffet is not known as the Oracle for no reason. When he speaks, you better listen.",
-        "created_utc": 1588512806,
-        "id": "fpcu7nm",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1588541606.0
-    },
-    {
-        "author": "AsspiringAutist",
-        "body": "Only thing not priced in is people who listen to the \u201coracle\u201d of Omaha. But boomer retail investors shouldn\u2019t move shit *that* much lmao",
-        "created_utc": 1588530817,
-        "id": "fpdo2zg",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588559617.0
-    },
-    {
-        "author": "tdotz123",
-        "body": "I've been the Oracle of Tesla since last thursday",
-        "created_utc": 1588666096,
-        "id": "fpjf0qg",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588694896.0
-    },
-    {
-        "author": "HOLYREGIME",
-        "body": "I\u2019ve made $128 today, a new record. When do I sell almighty oracle? \n\n5/8c $64.",
-        "created_utc": 1588706170,
-        "id": "fpl4esd",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588734970.0
-    },
-    {
-        "author": "nikolatosic",
-        "body": "Google is search based on text and hoping websites adjust to that using SEO soft influence. Their banners are more and more lowering quality of search and overall search use is dropping due to apps and closed websites. They are big but a niche. Their model works for specific products only.\n\nFacebook is a developing world family and friendship automation. A lot of room to grow in places like Bangladesh. But technology which delivers value to customers is actually simple and they can easily be replaced. They are based on soft value not tech. \n\nAmazon us big in USA. It is a big country which used mail order catalogs way before internet. You can not have a store everywhere in America. Rest of the world isn't like that. They have been adding value to their offering because they want to offer the most for least like all retail but eventually someone will take this over. Just that their competitor can not be in USA or Europe. Europe is too small.\n\nData means nothing to customers. Customers want value for money. Data maybe can help speed up selection within millions of products but this doesn't really work as good as they promise. Ads and e-commerce recommendations are very much off once shoppers are not super easy predictable. Data and AI are a hype.\n\nMicrosoft also is a business software company with some diversification. In business it succeeds just like SAP and Oracle etc. It enters and it is hard to get it out. Not many players there as well as CIOs don't take much risk. But it's success is not because of them but simply because of digitalisation and globalisation. Microsoft itself hasn't created any relevant competitive value. They are just a big political entity in the right time and place. If something changes for them it will also change for SAP Oracle IBM etc. But they appear to be different because of hardware and games (more consumer) and Bill Gates always spent a lot on his PR.",
-        "created_utc": 1588573690,
-        "id": "fpfk38b",
-        "score": 1,
-        "subreddit": "investing",
-        "created": 1588602490.0
-    },
-    {
-        "author": "theecommunist",
-        "body": "How dare you besmirch the Oracle of Omaha",
-        "created_utc": 1588580646,
-        "id": "fpfrad1",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588609446.0
-    },
-    {
-        "author": "DarthDogood",
-        "body": "The oracle is tellin us to day trade forex!",
-        "created_utc": 1588518146,
-        "id": "fpd20uo",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588546946.0
-    },
-    {
-        "author": "HITWind",
-        "body": "&gt;That's why Buffett is hoarding cash.\n\nAlso, another thing. Why the fuck would you \"hoard\" something that's being handed out like candy? That's like those tards that bought up all the TP at walmart and then were caught trying to return it in two weeks because nobody was buying. Yea sure some people didn't have enough in the bathroom (savings) and maybe ran low until they implemented purchase limits (unemployment being raised by $600 a WEEK), but fucking again, what TP factories blew up? people aren't shitting more except traders figuratively, so you wait for the next shipment or two that was coming anyway and now you got your TP. Like seriously? They just dumped like 2-3 Tah-rilllllion dollars and most of it to companies to pay people, and to go directly to the one's no longer at companies. So most people have the cash they would normally expect because most people don't make shit. You know how much of that was to pay Buffett what he normally expects? Anybody over 100,000 didn't get what they usually make and if anything they probably sold part of their holdings in the crash. Instead, you have people wondering whether they should get their cash from unemployment or from their employer, worried that they'll get hired back too soon and lose some of it. Yes, hoard cash when the government is pumping out trillions and sell when the market is at a 40% discount. Oracle. Genius.",
-        "created_utc": 1588540193,
-        "id": "fpe4j13",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588568993.0
-    },
-    {
-        "author": "Saiwung",
-        "body": "Nope. Original post. They should call you an oracle, too.",
-        "created_utc": 1588540278,
-        "id": "fpe4oi1",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588569078.0
-    },
-    {
-        "author": "NAh94",
-        "body": "People (ReeeEEEEEtail) are still bullish because they think Oracle will buy it. But Oracle knows it\u2019s a shit deal unless it drops significantly, so there will continue to be speculation until Oracle says \u201cfuck it\u201d and then probably remain flat to piss everyone off.",
-        "created_utc": 1588615870,
-        "id": "fph6lbz",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588644670.0
-    },
-    {
-        "author": "theMetatron",
-        "body": " \n\nHOW DARE YOU.\n\nThat  is the Oracle of Omaha you are speaking about and you will show him all  the respect he deserves. He was manipulating the stock market and  screwing over companies into giving him deals on equity long before  Shkreli was screwing high school seniors as a freshmen in college let  alone you were a twinkle in your papas ball-sack.\n\nThe  man is going to stand there with his pile of money and wait for those  other irresponsible companies to come crawling looking for a loan. When  him and Charlie are done, pulling away still throbbing manhood from any  and all orifice they could find in say Boeing and anyone else foolish  enough to cook the books and not have any cash on hand, he is going to  own the sky as well as all the hotels.\n\nHe will have Hilton gargle his balls as an afterthought.",
-        "created_utc": 1588605430,
-        "id": "fpgm8vm",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588634230.0
-    },
-    {
-        "author": "m77w",
-        "body": "Don't buy this oracle shit. he made a lot of money, big deal he's an outlier got lucky",
-        "created_utc": 1588619715,
-        "id": "fphe88r",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588648515.0
-    },
-    {
-        "author": "khb121",
-        "body": "People need the Oracle",
-        "created_utc": 1588636898,
-        "id": "fpiafy5",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588665698.0
-    },
-    {
-        "author": "TheSquirrel_",
-        "body": "Everything is overvalued atm. That\u2019s what Oracle Elon is showing us too.",
-        "created_utc": 1588507577,
-        "id": "fpco25g",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588536377.0
-    },
-    {
-        "author": "HTleo",
-        "body": "I NAILED IT. Time and the \u201coracle\u201d have spoke.",
-        "created_utc": 1588525804,
-        "id": "fpdf740",
-        "score": 1,
-        "subreddit": "stocks",
-        "created": 1588554604.0
-    },
-    {
-        "author": "mad_edge",
-        "body": "That's interesting, it allows for some bluff then. And that's Berkshire, not his private investments. I've always seen big stocks players as sort of influencers. As in, there's little incentive for Mr Oracle to give the best advice publicly for free at this point. There's a lot incentive to influence the markets and it's possible with that nickname.",
-        "created_utc": 1588538744,
-        "id": "fpe1y6v",
-        "score": 1,
-        "subreddit": "StockMarket",
-        "created": 1588567544.0
-    },
-    {
-        "author": "Nettletooth",
-        "body": "He sold out, so what.\n\nBuffet has made plenty of mistakes in recent times.\n\nKHC, we see how that is going? Might be choked out by debt eventually here. \nIBM, didn't ever do shit.\nOXY, so how is that going? Now it is stuffed full of debt, a zombie in danger of bankruptcy. \n\nHow did buying DAL on the dip work out? \n\nI have nothing bad to say about him as a person, but as an investor he is losing his touch somewhat. \n\nThis is not to say I am bullish on airlines, but... I think Buffet is lost in this investing environment. This crisis has confused and bewildered many great investors, and some have adapted a lot better than others.\n\nPlenty of funds are picking thier spots in the last month and raking in some great profits, but Buffet is there, stuck in the headlights.  He is not an oracle, merely a ordinary, reasonably good investor that don't hold a candle to Citadel, Renaissance, Two Sigma, Bridgewater, and many other funds.",
-        "created_utc": 1588570673,
-        "id": "fpfgna4",
-        "score": 1,
-        "subreddit": "wallstreetbets",
-        "created": 1588599473.0
+        "author": "Fujit0ra",
+        "body": "Will XLNX bring out semis tomorrow or is everyone waiting for Intel to moon the market.",
+        "created_utc": 1587591575,
+        "id": "fo881bh",
+        "permalink": "/r/wallstreetbets/comments/g68cco/what_are_your_moves_tomorrow_april_23_2020/fo881bh/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1587620375.0
     }
 ]

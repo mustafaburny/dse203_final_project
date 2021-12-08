@@ -1,29 +1,162 @@
 [
     {
+        "author": "captainhaddock",
+        "body": "I suggest Cadence Design Systems (CDNS) and Synopsys (SNPS), the companies whose software is used to design the processors. These two companies basically own the industry from what I understand.\n\nhttps://riscv.org/member/cadence/\n\nhttps://riscv.org/member/synopsys/",
+        "created_utc": 1632625588,
+        "id": "heauo28",
+        "permalink": "/r/investing/comments/pvjtld/investment_in_risc_v_processor_ecosystem/heauo28/",
+        "score": 31,
+        "subreddit": "investing",
+        "created": 1632654388.0
+    },
+    {
         "author": "AZ_Crush",
         "body": "Synopsys and Cadence",
         "created_utc": 1631249877,
         "id": "hc9yixr",
+        "permalink": "/r/StockMarket/comments/pldsgf/semiconductorchip_industry_where_do_you_see_the/hc9yixr/",
         "score": 10,
         "subreddit": "StockMarket",
         "created": 1631278677.0
+    },
+    {
+        "author": "rajatgup",
+        "body": "Cadence and Synopsys",
+        "created_utc": 1631765976,
+        "id": "hd1hmki",
+        "permalink": "/r/investing/comments/pp0jnw/what_are_some_of_your_favorite_duopolies/hd1hmki/",
+        "score": 10,
+        "subreddit": "investing",
+        "created": 1631794776.0
+    },
+    {
+        "author": "PCB4lyfe",
+        "body": "I'm an EE and SOXX is my biggest holding. I also have individual shares of ASML, AMAT, and LRCX. I think we may see a dip due to the shortage, an analog device rep told me the market could be flooded due to 3rd parties buying up chips(they've had problems with bots buying up all their stock because they limit how much each company can buy right now.) But I'm just gonna keep buying the dip and in 5 years I think I'll be very happy. \n\nAlso look into eda companies like keysight, cadence, and synopsys.",
+        "created_utc": 1631624642,
+        "id": "hctcqz0",
+        "permalink": "/r/stocks/comments/pnz6yj/are_semiconductors_etfs_worth_in_2021_and/hctcqz0/",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1631653442.0
+    },
+    {
+        "author": "PCB4lyfe",
+        "body": "SOXX is my biggest holding. I also have shares of ASKL, AMAT, LRCX. \n\nDont forget about EDA companies like SNPS and CDNS, people also need to design the PCBs!",
+        "created_utc": 1632329788,
+        "id": "hdv4xku",
+        "permalink": "/r/stocks/comments/pt959x/which_semiconductor_stock_would_you_recommend/hdv4xku/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1632358588.0
     },
     {
         "author": "Onlymediumsteak",
         "body": "The possibility certainly exists and will never be zero until we reach the point. However, we also keep on increasing our resources and capabilities, just take a look at the [system Cerebras](https://www.zdnet.com/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/) announced which will ship in Q4 this year, AI models have shown to heavily correlate to the number of parameters so a 100 fold increase in this short of time frame and with a low hardware cost, is nothing to sneeze at. AI will also greatly improve chips in the future, [Synopsys](https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/) just startet implementing and rolling out their features.",
         "created_utc": 1630702433,
         "id": "hbhqi0m",
+        "permalink": "/r/stocks/comments/phas8v/do_you_think_the_last_250_years_of_economic/hbhqi0m/",
         "score": 4,
         "subreddit": "stocks",
         "created": 1630731233.0
+    },
+    {
+        "author": "nateccs",
+        "body": "I'd love to own some SNPS but its so freaking damn expensive.",
+        "created_utc": 1630706338,
+        "id": "hbhyypd",
+        "permalink": "/r/wallstreetbets/comments/ph7zba/looking_for_chip_shortage_buys_here_are_the/hbhyypd/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1630735138.0
     },
     {
         "author": "bearcat2202",
         "body": "$SNPS because it\u2019s an earnings growth machine and they buy back so much of their stock. \n\nPlus if has a moat in the industry. Returns have been phenomenal.",
         "created_utc": 1631194998,
         "id": "hc6i5tw",
+        "permalink": "/r/stocks/comments/pkvonq/what_is_your_biggest_holding_for_the_long_term/hc6i5tw/",
         "score": 1,
         "subreddit": "stocks",
         "created": 1631223798.0
+    },
+    {
+        "author": "KetamineOverlord710",
+        "body": "SNPS im up 42% with a correction could be nice buying ops",
+        "created_utc": 1631519853,
+        "id": "hco122d",
+        "permalink": "/r/stocks/comments/pmqf6z/which_semiconductors_company_has_best_long_term/hco122d/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1631548653.0
+    },
+    {
+        "author": "AZ_Crush",
+        "body": "Synopsys and Cadence",
+        "created_utc": 1631249877,
+        "id": "hc9yixr",
+        "permalink": "/r/StockMarket/comments/pldsgf/semiconductorchip_industry_where_do_you_see_the/hc9yixr/",
+        "score": 10,
+        "subreddit": "StockMarket",
+        "created": 1631278677.0
+    },
+    {
+        "author": "rajatgup",
+        "body": "Cadence and Synopsys",
+        "created_utc": 1631765976,
+        "id": "hd1hmki",
+        "permalink": "/r/investing/comments/pp0jnw/what_are_some_of_your_favorite_duopolies/hd1hmki/",
+        "score": 10,
+        "subreddit": "investing",
+        "created": 1631794776.0
+    },
+    {
+        "author": "PCB4lyfe",
+        "body": "I'm an EE and SOXX is my biggest holding. I also have individual shares of ASML, AMAT, and LRCX. I think we may see a dip due to the shortage, an analog device rep told me the market could be flooded due to 3rd parties buying up chips(they've had problems with bots buying up all their stock because they limit how much each company can buy right now.) But I'm just gonna keep buying the dip and in 5 years I think I'll be very happy. \n\nAlso look into eda companies like keysight, cadence, and synopsys.",
+        "created_utc": 1631624642,
+        "id": "hctcqz0",
+        "permalink": "/r/stocks/comments/pnz6yj/are_semiconductors_etfs_worth_in_2021_and/hctcqz0/",
+        "score": 9,
+        "subreddit": "stocks",
+        "created": 1631653442.0
+    },
+    {
+        "author": "Onlymediumsteak",
+        "body": "The possibility certainly exists and will never be zero until we reach the point. However, we also keep on increasing our resources and capabilities, just take a look at the [system Cerebras](https://www.zdnet.com/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/) announced which will ship in Q4 this year, AI models have shown to heavily correlate to the number of parameters so a 100 fold increase in this short of time frame and with a low hardware cost, is nothing to sneeze at. AI will also greatly improve chips in the future, [Synopsys](https://venturebeat.com/2021/08/23/synopsys-ceo-ai-designed-chips-will-generate-1000x-performance-in-10-years/) just startet implementing and rolling out their features.",
+        "created_utc": 1630702433,
+        "id": "hbhqi0m",
+        "permalink": "/r/stocks/comments/phas8v/do_you_think_the_last_250_years_of_economic/hbhqi0m/",
+        "score": 4,
+        "subreddit": "stocks",
+        "created": 1630731233.0
+    },
+    {
+        "author": "nateccs",
+        "body": "I'd love to own some SNPS but its so freaking damn expensive.",
+        "created_utc": 1630706338,
+        "id": "hbhyypd",
+        "permalink": "/r/wallstreetbets/comments/ph7zba/looking_for_chip_shortage_buys_here_are_the/hbhyypd/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1630735138.0
+    },
+    {
+        "author": "bearcat2202",
+        "body": "$SNPS because it\u2019s an earnings growth machine and they buy back so much of their stock. \n\nPlus if has a moat in the industry. Returns have been phenomenal.",
+        "created_utc": 1631194998,
+        "id": "hc6i5tw",
+        "permalink": "/r/stocks/comments/pkvonq/what_is_your_biggest_holding_for_the_long_term/hc6i5tw/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1631223798.0
+    },
+    {
+        "author": "KetamineOverlord710",
+        "body": "SNPS im up 42% with a correction could be nice buying ops",
+        "created_utc": 1631519853,
+        "id": "hco122d",
+        "permalink": "/r/stocks/comments/pmqf6z/which_semiconductors_company_has_best_long_term/hco122d/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1631548653.0
     }
 ]
