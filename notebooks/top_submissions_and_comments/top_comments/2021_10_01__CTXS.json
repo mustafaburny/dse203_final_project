@@ -1,0 +1,662 @@
+[
+    {
+        "author": "ModernBuddha1",
+        "body": "BB Gateway next gen VPN will take out Z-Scaler and Citrix and any other old VPN Provider. The Gateway is crazy fast, 3x faster than regular VPN that are bulky because they require hardware and licensing. The gateway is cloud based(not a hardware) so can be scaled up to millions of users in seconds unlike regular VPN!! It's also Ai enabled.\n\nThe Blackberry Persona will get rid of OKTA. OKTA is currently leading but they don't have the ai powered solution for Identity Access Mgmt. The persona is ai powered and part of Identity Access Mgmt.\n\nCrowdstrike and Carbon Black and SentenialOne cant stand against Blackberry Cylance(UES). The UES is preventative and acts before payload executes in milliseconds. Over next few months as enterprise and gov realize the power of Prevention, BB will be the leader. Plus all iot like cars, drones, traffic lights, busses, trains, etc require cybersecurity and BB Cylance light weight agent is the only compatible cybersecurity since majority of the iot device run BB QNX. You can't run any of the competition on QNX!!! this is kinda monopoly lol but BB has a reason. lol.\n\nBB has a huge moat and growth coming through in coming years that hasn't been priced. These analyst are trying to manipulate the stock either for personal gains or competition. But game is over for them!!",
+        "created_utc": 1635016528,
+        "id": "hhrtehr",
+        "permalink": "/r/wallstreetbets/comments/qe9l67/blackberry_comparison_analysis_part_i/hhrtehr/",
+        "score": 31,
+        "subreddit": "wallstreetbets",
+        "created": 1635045328.0
+    },
+    {
+        "author": "Rang_Dipkin",
+        "body": "In the ER after I tried to catch Citrix CTXS knife",
+        "created_utc": 1634046975,
+        "id": "hgcru7n",
+        "permalink": "/r/wallstreetbets/comments/q6iqma/daily_discussion_thread_for_october_12_2021/hgcru7n/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634075775.0
+    },
+    {
+        "author": "WisconsinGardener",
+        "body": "Keeping an eye on Citrix - $CTXS - looks oversold.",
+        "created_utc": 1634071321,
+        "id": "hgeelw7",
+        "permalink": "/r/wallstreetbets/comments/q6udb8/what_are_your_moves_tomorrow_october_13_2021/hgeelw7/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634100121.0
+    },
+    {
+        "author": "PoontoniusJigabrewha",
+        "body": "By Wednesday $SDC should be in better shape, Diamond Hands and Volume are Keys to the Squeeze! $SDC Let's GO!\ud83d\udc69\u200d\ud83d\ude80\ud83d\udc68\u200d\ud83d\ude80\ud83d\ude80\ud83d\udcb0",
+        "created_utc": 1633977692,
+        "id": "hg9d4jt",
+        "permalink": "/r/wallstreetbets/comments/q61hyw/another_10k_onto_sdc_patiently_waiting_for/hg9d4jt/",
+        "score": 36,
+        "subreddit": "wallstreetbets",
+        "created": 1634006492.0
+    },
+    {
+        "author": "bigtexas91",
+        "body": "It\u2019s 4:02pm. Bears wipe the sweat from their brow with a dirty sock, violently toss empty Fresca cans from their tray table as they lift off their couch and head up the stairs of their step-dad\u2019s basement, heading towards the side door they grab the keys to their mom\u2019s \u201898 Chrysler Town and Country, hoping to blow off some steam from yet another cancelled recession with a gas station roller grill hotdog and a trip to the local gay bar.",
+        "created_utc": 1633119099,
+        "id": "hf0k7uh",
+        "permalink": "/r/wallstreetbets/comments/pzfvft/weekend_discussion_thread_for_the_weekend_of/hf0k7uh/",
+        "score": 32,
+        "subreddit": "wallstreetbets",
+        "created": 1633147899.0
+    },
+    {
+        "author": "CPTDICKBONG",
+        "body": "Ridiculous take, frankly. That's like saying 'the Roman empire will never give up the keys to being a superpower to the barbarians'. There won't be a choice. By the time it's evident it has happened, it will be too late.",
+        "created_utc": 1633709930,
+        "id": "hfvbo4j",
+        "permalink": "/r/investing/comments/q3o1f6/why_investors_should_not_be_worried_about_the/hfvbo4j/",
+        "score": 18,
+        "subreddit": "investing",
+        "created": 1633738730.0
+    },
+    {
+        "author": "PM_ME_VOCALOID_SONGS",
+        "body": "Always add two security keys, so you have one as a backup. (If a site only allows one key, _they are doing it wrong._)",
+        "created_utc": 1633128099,
+        "id": "hf137n1",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf137n1/",
+        "score": 15,
+        "subreddit": "investing",
+        "created": 1633156899.0
+    },
+    {
+        "author": "Dryja123",
+        "body": "Keep your coin off of exchanges. Not your keys, not your crypto.",
+        "created_utc": 1633120269,
+        "id": "hf0mrgd",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf0mrgd/",
+        "score": 14,
+        "subreddit": "investing",
+        "created": 1633149069.0
+    },
+    {
+        "author": "fz-09",
+        "body": "Quick question - I have been authenticating to Vanguard with SMS 2FA. This post prompted me to go in and switch my second factor to use my Yubikey. However, when I log in there's a thing at the bottom that's like:\n&gt; I don't have my security key? Log on using security codes\n\nwhich sends me an SMS OTP to authenticate. \n\nWhat the fuck is the point of using a hardware key if an attacker can bypass it and use SMS OTP anyway just by clicking a link at the bottom of the login page?\n\nI tried to go to the settings and disable SMS OTP and it says: \n&gt; You use a security key to log on to vanguard.com. If you want to remove the security code option, you must first delete your registered keys.\n\nI get that they want to make sure you don't get locked out of your account or whatever but that doesn't seem like it adds any additional security whatsoever on top of traditional SMS OTP 2FA.",
+        "created_utc": 1633123025,
+        "id": "hf0spbg",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf0spbg/",
+        "score": 14,
+        "subreddit": "investing",
+        "created": 1633151825.0
+    },
+    {
+        "author": "cristiano-potato",
+        "body": "This is why crypto will face issue with mass adoption in first world countries. When shit is centralized, like at some brokerage, or a bank, and someone breaks into your account, you can sometimes get your assets back by proving your identity. Like, someone ITT mentioned a friend who got 60k stolen out of a bank account and they got it back. \n\nWith crypto, the keys to control your assets are *your* responsibility and there is no central authority who can go get your assets back for you if they\u2019re stolen. This is a pro in some sense, as you fully control your assets, but a con when you have things stolen from you. They\u2019re just gone.\n\nI\u2019m not convinced most people will want that reward / responsibility tradeoff. They want to be able to go to their bank and say \u201chere\u2019s my ID, someone stole my money\u201d",
+        "created_utc": 1633129159,
+        "id": "hf15fho",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf15fho/",
+        "score": 11,
+        "subreddit": "investing",
+        "created": 1633157959.0
+    },
+    {
+        "author": "Ban_Evasion_Alt_Acct",
+        "body": "It's tough cause the type of person who can't secure their own keys is usually also the type of person who would fall for phishing attacks.",
+        "created_utc": 1633123180,
+        "id": "hf0t11t",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf0t11t/",
+        "score": 10,
+        "subreddit": "investing",
+        "created": 1633151980.0
+    },
+    {
+        "author": "Dmillehee",
+        "body": "Why\u2019d you leave the keys upon the table ?",
+        "created_utc": 1633221640,
+        "id": "hf5zhbz",
+        "permalink": "/r/wallstreetbets/comments/pzfvft/weekend_discussion_thread_for_the_weekend_of/hf5zhbz/",
+        "score": 8,
+        "subreddit": "wallstreetbets",
+        "created": 1633250440.0
+    },
+    {
+        "author": "cristiano-potato",
+        "body": "That\u2019s.. now how cryptocurrencies work though. If someone has the address of another wallet they want to send money to and the keys to the hacked wallet that\u2019s it, game over. There\u2019s no way to prevent the transfer. At least in current implementations. I don\u2019t see how a \u201ccall and talk to them\u201d could be configured in the context of a pubic ledger blockchain either. \n\nIt\u2019s kind of *by design* that the keys to the wallet give you all the power you need and NOBODY can stop you from doing what you want with the money. No central authority can go \u201cno let\u2019s call them before we approve this transfer\u201d",
+        "created_utc": 1633141166,
+        "id": "hf1tj20",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf1tj20/",
+        "score": 8,
+        "subreddit": "investing",
+        "created": 1633169966.0
+    },
+    {
+        "author": "wwamd",
+        "body": "Where are my car keys \u2026",
+        "created_utc": 1633488421,
+        "id": "hfk5bc3",
+        "permalink": "/r/StockMarket/comments/q27j13/would_anyone_like_to_take_a_wild_guess_as_to_what/hfk5bc3/",
+        "score": 7,
+        "subreddit": "StockMarket",
+        "created": 1633517221.0
+    },
+    {
+        "author": "zuckerberghandjob",
+        "body": "And you know, no one *ever* accidentally commits secret api keys and then fails to properly purge them from the commit history",
+        "created_utc": 1633544713,
+        "id": "hfmtq44",
+        "permalink": "/r/stocks/comments/q2hh1p/the_entirety_of_twitch_has_reportedly_been_leaked/hfmtq44/",
+        "score": 7,
+        "subreddit": "stocks",
+        "created": 1633573513.0
+    },
+    {
+        "author": "aintthateazy",
+        "body": "Hi Choco, sorry I should've been clearer. I'm the creator and sole developer of the add-on! This is how I use it to conduct fundamental analysis :)\n\nGoogle app script uses stringent Oauth permissions, it is impossible for me to develop any add-on for Google Sheets without the Oauth service automatically adding those permissions. I can assure you I do not have access to all your spreadsheets, nor your personal info except the public facing email and name you have associated with your account.\n\n3rd party content is due to it connecting to a market data API to pull in the real-time and historical data.\n\nGoogle even anonymises users with a random temporary keys so I can't even simply identify specific users.\n\nIn comparison to regular services/app's Google add-ons is pretty watertight on what I can actually do.\n\nApologies if the permissions seemed scary, I'm not sure how to dial them back. Only use what you're comfortable with and feel free to chat to me more about it either here or via message :)",
+        "created_utc": 1633562550,
+        "id": "hfnyaoh",
+        "permalink": "/r/ValueInvesting/comments/q2ueul/my_growth_analysis_google_sheets_dashboard/hfnyaoh/",
+        "score": 7,
+        "subreddit": "ValueInvesting",
+        "created": 1633591350.0
+    },
+    {
+        "author": "mcraze123",
+        "body": "Generally you want to keep whatever you\u2019re hodling in cold storage or in a wallet application instead of an exchange. \u201cNot your keys then it\u2019s not your crypto.\u201d You will need to put it on an exchange if you want to trade or buy/sell it. Side note, people shouldn\u2019t use sms for 2fa anyway, especially with financial things.",
+        "created_utc": 1633131797,
+        "id": "hf1audq",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf1audq/",
+        "score": 6,
+        "subreddit": "investing",
+        "created": 1633160597.0
+    },
+    {
+        "author": "Buggy3D",
+        "body": "as far as I now, Binance requires you to enter an SMS, Google Authenticator, and email 2 FA for every single withdrawal... on top of that, they have a whitelist option set up to prevent some party gaining access to your API keys (if you generated any) and avoid transfers to unauthorized addresses.",
+        "created_utc": 1633122616,
+        "id": "hf0ruio",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf0ruio/",
+        "score": 5,
+        "subreddit": "investing",
+        "created": 1633151416.0
+    },
+    {
+        "author": "MRobi83",
+        "body": "It depends on your definition of \"better\".\n\nIf it's in regards to taxes, holding the ETF is certainly better. You can hold it in your TFSA for tax sheltered gains.\n\nIf it's in regards to safety, you're better off holding BTC directly in a hard wallet off the exchange. The saying of \"not your keys not your coins\" is very real in crypto. Look at QuadrigaCX as an example of what can happen when you don't hold your own keys. Hundreds of millions of dollars disappear essentially overnight. It also has the benefit of trading 24/7 vs just during market hours, so in theory if there's a massive crash on a Sunday and you want out quickly you can. \n\nPersonally, I split it and hold both. The appeal of tax free gains is strong enough to at least partially outweigh the risk of not holding the keys. \n\nIf you want to see how closely it tracks BTC in pricing check out bitbo.io",
+        "created_utc": 1633875463,
+        "id": "hg3tgd1",
+        "permalink": "/r/CanadianInvestor/comments/q51sh2/btc_etf_vs_btc/hg3tgd1/",
+        "score": 5,
+        "subreddit": "CanadianInvestor",
+        "created": 1633904263.0
+    },
+    {
+        "author": "Fuckrightoffbro",
+        "body": "Not your keys not your ~~crypto?~~",
+        "created_utc": 1633073074,
+        "id": "hey7rtg",
+        "permalink": "/r/wallstreetbets/comments/pywv15/_/hey7rtg/",
+        "score": 5,
+        "subreddit": "wallstreetbets",
+        "created": 1633101874.0
+    },
+    {
+        "author": "woodenmetalman",
+        "body": "\u201cOUR MISSION IS LOFTY, BADASS BUT BEAUTIFULLY SIMPLE: GET MILLIONS TO RETHINK THEIR FOOD CHOICES WHILE HELPING THEM DO THE WORLD A WORLD OF GOOD. BY OFFERING PLANT\u2011BASED FOOD OPTIONS SO DELICIOUS AND NUTRITIOUS, WE\u2019RE HELPING THIS KIND OF DIET BECOME THE NORM.\u201d\n\nI feel as if somebody like me got the keys to a shiny new company \ud83d\ude02\ud83e\udd19\ud83e\udd20\ud83d\udc40\ud83e\udd74",
+        "created_utc": 1633968080,
+        "id": "hg8pwaf",
+        "permalink": "/r/pennystocks/comments/q5wksz/veryvgfc_starts_trading_wednesday_on_nasdaq_vgfc/hg8pwaf/",
+        "score": 5,
+        "subreddit": "pennystocks",
+        "created": 1633996880.0
+    },
+    {
+        "author": "LoveurOther15",
+        "body": "SPY better open red or im driving my car to the dealer putting the keys on the roof and running",
+        "created_utc": 1633663381,
+        "id": "hft9upq",
+        "permalink": "/r/wallstreetbets/comments/q3hajl/what_are_your_moves_tomorrow_october_08_2021/hft9upq/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1633692181.0
+    },
+    {
+        "author": "jakemoffsky",
+        "body": "3.8 it seems, looks like some users have syncing issues and haven't given it the permissions it needs. I moved over when my priv died last month. Haven't had an issue but it sux that i have ads now obviously. Would have bought a new priv like phone if that was actually an option. Now in 2021 I have to get used to looking at on screen keys while typing... Sigh.",
+        "created_utc": 1633650162,
+        "id": "hfsj21d",
+        "permalink": "/r/wallstreetbets/comments/q3e06p/blackberry_coming_back_for_the_corporate_warrior/hfsj21d/",
+        "score": 4,
+        "subreddit": "wallstreetbets",
+        "created": 1633678962.0
+    },
+    {
+        "author": "PlsDontNuke",
+        "body": "If they're b cups I can work with this, the part about the keys sounds kinky",
+        "created_utc": 1633734739,
+        "id": "hfwyakc",
+        "permalink": "/r/wallstreetbets/comments/q45jst/weekend_discussion_thread_for_the_weekend_of/hfwyakc/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1633763539.0
+    },
+    {
+        "author": "GHOST_OF_PEPE_SILVIA",
+        "body": "Took the keys to her fucking car",
+        "created_utc": 1633145193,
+        "id": "hf21019",
+        "permalink": "/r/wallstreetbets/comments/pzfvft/weekend_discussion_thread_for_the_weekend_of/hf21019/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1633173993.0
+    },
+    {
+        "author": "Otto_Von_Shekelberg",
+        "body": "I was saying that right away. Insider probably mad because of something so they gave the keys away and hoped someone would do something. \n\nAlso nicely timed with the congress waste of time so something political by a political group.",
+        "created_utc": 1633383537,
+        "id": "hfemixh",
+        "permalink": "/r/wallstreetbets/comments/q1doxb/what_are_your_moves_tomorrow_october_05_2021/hfemixh/",
+        "score": 3,
+        "subreddit": "wallstreetbets",
+        "created": 1633412337.0
+    },
+    {
+        "author": "AbstractLogic",
+        "body": "The Chinese government only allowed a small fledgling of capitalism into their system in order to steal Americans technology and advantages on the world stage. \n\nNow that China is the dominant economy and holds the keys to tech, ie production and minerals, they no longer need to abide by capitalism\u2019s rules.\n\nThe question is, why would they continue to allow capitalism in theirp country",
+        "created_utc": 1633274879,
+        "id": "hf8h5bw",
+        "permalink": "/r/stocks/comments/q0gkvr/i_wonder_is_baba_going_to_be_one_of_the_best_dip/hf8h5bw/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1633303679.0
+    },
+    {
+        "author": "Green_Lantern_4vr",
+        "body": "Use an actual trading program and use hot keys. Get a terminal (Bloomberg).",
+        "created_utc": 1633394259,
+        "id": "hff96p6",
+        "permalink": "/r/wallstreetbets/comments/q1doxb/what_are_your_moves_tomorrow_october_05_2021/hff96p6/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633423059.0
+    },
+    {
+        "author": "Guilty-Ham",
+        "body": "In the early 80's, I sat across from my insurer/broker the first time and he explained with paper prospectus and scribble how I could win on the long and lose on the short.  So I piled the oldman stock, known as blue chip back then.\n\nYou say 92-02, since 02 things have change drastically.  Reddit is almost the forecast, LOL.  A push of a few keys and presto, all the info on the screen.  Every move is dynamic, ticker is dynamic, and the software programs hedge use react faster than the blink of an eye to your buy or sell.\n\nSince GME, they have surely modified and improved the software to prevent such a fall.  Wouldn't you do the same?",
+        "created_utc": 1633446837,
+        "id": "hfhk34m",
+        "permalink": "/r/wallstreetbets/comments/q1w8pi/serious_question_regarding_hedge_funds_and/hfhk34m/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633475637.0
+    },
+    {
+        "author": "DeFi_ance",
+        "body": "I agree, nothing is perfect, can't eliminate every attack vector, but removing as many vectors as possible is something I'm interested in.\n\nI would have to retrieve my physical key, but I have a backup at home and then a few in other places. The keys are also cheaper than backup phones, and I don't have to check on them, keep them updated, power up every few months and charge them, etc. It simplified things for me from a backup management standpoint, and the marginal improvements in the security model, even if I was probably fine, make me *feel* better about it. Which isn't nothing.\n\nI would feel ok handing a copy of my security key to anyone and saying good luck. I wouldn't be pissed if I lose one in an Uber and try to track the driver down. I can't have that same attitude about a phone, primarily because they're fucking expensive.\n\nAlso wasn't a huge fan of Lingua's prior noise stuff, but that new album is crazy haunting.",
+        "created_utc": 1633138101,
+        "id": "hf1nkt3",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf1nkt3/",
+        "score": 2,
+        "subreddit": "investing",
+        "created": 1633166901.0
+    },
+    {
+        "author": "kiliankoe",
+        "body": "Purge them or not, but you should always invalidate any secrets you accidentally committed. I'm pretty sure GitHub actually does this for you with any GitHub API keys you might accidentally push. And I think AWS monitors GitHub push events for this as well. But that's only public GitHub, one should *always* also do that themselves.",
+        "created_utc": 1633554903,
+        "id": "hfnhtxg",
+        "permalink": "/r/stocks/comments/q2hh1p/the_entirety_of_twitch_has_reportedly_been_leaked/hfnhtxg/",
+        "score": 2,
+        "subreddit": "stocks",
+        "created": 1633583703.0
+    },
+    {
+        "author": "VisualMod",
+        "body": "&gt;TWITCH SAYS OUT OF AN ABUNDANCE OF CAUTION, HAVE RESET ALL STREAM KEYS\n$AMZN\n\n^\\*Walter ^Bloomberg ^[@DeItaone](http://twitter.com/DeItaone) ^at ^2021-10-07 ^04:47:11 ^EDT-0400",
+        "created_utc": 1633596440,
+        "id": "hfphg54",
+        "permalink": "/r/wallstreetbets/comments/q2s87a/what_are_your_moves_tomorrow_october_07_2021/hfphg54/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633625240.0
+    },
+    {
+        "author": "EvaUnit343",
+        "body": "Just my keys and some cups, why?",
+        "created_utc": 1633734699,
+        "id": "hfwy7h8",
+        "permalink": "/r/wallstreetbets/comments/q45jst/weekend_discussion_thread_for_the_weekend_of/hfwy7h8/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633763499.0
+    },
+    {
+        "author": "KaitenRS",
+        "body": "Zim, zim, zimma\n\nWho got the keys to the beamah",
+        "created_utc": 1633762508,
+        "id": "hfyd96x",
+        "permalink": "/r/wallstreetbets/comments/q45jst/weekend_discussion_thread_for_the_weekend_of/hfyd96x/",
+        "score": 2,
+        "subreddit": "wallstreetbets",
+        "created": 1633791308.0
+    },
+    {
+        "author": "DeFi_ance",
+        "body": "I recently switched over to Yubikey after using Authy for years, and I friggin' love it. It's far more secure and it's even quicker than pulling up an OTP code for sites that support the FIDO protocol directly, such as Coinbase and Gemini. For sites that don't support FIDO and still use OTP (what Authy/Google Auth is), Yubikey can do those too with a Yubico Authenicator app which requires your key to generate the codes.\n\nYubico's site has excellent setup guides and FAQs to get things going. The only downside is the expense, as you want to buy multiple keys to have a backup incase you lose your primary. But, if you've got a decent chunk of money to protect, spending a hundred bucks for a couple Yubikeys is well worth the vastly improved security.\n\nTradFi is so behind crypto on security models, it's insane. For Fidelity, TDA, and my three banks, they *all* only have SMS 2FA as an option, not even OTP. And for my trading platform, ThinkOrSwim, it doesn't have any 2FA at all to login and make trades. Drives me nuts.",
+        "created_utc": 1633128863,
+        "id": "hf14tiv",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf14tiv/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633157663.0
+    },
+    {
+        "author": "jlbryant88",
+        "body": "Why isn\u2019t the number one comment on this thread \u201cnot your keys, not your crypto\u201d",
+        "created_utc": 1633144612,
+        "id": "hf1zz8h",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf1zz8h/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633173412.0
+    },
+    {
+        "author": "[deleted]",
+        "body": "They leave the keys inside",
+        "created_utc": 1633122427,
+        "id": "hf0rg2v",
+        "permalink": "/r/wallstreetbets/comments/pzfvft/weekend_discussion_thread_for_the_weekend_of/hf0rg2v/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1633151227.0
+    },
+    {
+        "author": "DoctorWalnut",
+        "body": "I am having your Pluralsight experience with Coursera- Regardless the bottom line is, we'll need to keep our eyes out for the course website that has high user retention on account of an outright edge. The winner will create a moat through offering the highest quality content to returning users at consistent prices that create shareholder value. Masterclass features Alicia Keys, Neil DeGrasse Tyson, Samuel L. Jackson, Gordon Ramsey, and Natalie Portman as instructors on the platform. How's that for a table flip?",
+        "created_utc": 1633452631,
+        "id": "hfhy94v",
+        "permalink": "/r/investing/comments/q1xhkk/udemy_files_registration_statement_for_proposed/hfhy94v/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633481431.0
+    },
+    {
+        "author": "cristiano-potato",
+        "body": "Ah, you\u2019re saying that CoinBase should keep your keys hidden until they call you on the phone and verify your identity before you can remove funds. \n\nThere would be a lot of resistance to that since a lot of the crypto community already feels like CoinBase crypto isn\u2019t \u201ctheirs\u201d. If you literally can\u2019t use it without a phone call, it definitely defeats a lot of the purpose.",
+        "created_utc": 1633187048,
+        "id": "hf3sd7k",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf3sd7k/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633215848.0
+    },
+    {
+        "author": "Bulletsnbeans",
+        "body": "Keys",
+        "created_utc": 1633130882,
+        "id": "hf18yt5",
+        "permalink": "/r/wallstreetbets/comments/pzfvft/weekend_discussion_thread_for_the_weekend_of/hf18yt5/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1633159682.0
+    },
+    {
+        "author": "wthisgoingonanymore",
+        "body": "Play all 3 sides! Up down and time!! Can't lose!! Recipe for success I have!!! The keys \ud83d\udd11 \ud83d\udc4c \ud83d\ude0d",
+        "created_utc": 1633087778,
+        "id": "heyoqtg",
+        "permalink": "/r/wallstreetbets/comments/pz4ta4/daily_discussion_thread_for_october_01_2021/heyoqtg/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1633116578.0
+    },
+    {
+        "author": "WelcomeLeading1297",
+        "body": "I use a decentralized wallet. No person, institution, or government can supervise and control your funds. It is completely safe and anonymous to control my wallet with mnemonic words and private keys.",
+        "created_utc": 1633413278,
+        "id": "hfg6ugo",
+        "permalink": "/r/StockMarket/comments/py4ebb/im_15_years_old_teach_me_your_ways/hfg6ugo/",
+        "score": 1,
+        "subreddit": "StockMarket",
+        "created": 1633442078.0
+    },
+    {
+        "author": "FlyingDutchman997",
+        "body": "Wealth Simple: Trade anytime, no keys, no tax shelter.",
+        "created_utc": 1633880457,
+        "id": "hg44cef",
+        "permalink": "/r/CanadianInvestor/comments/q51sh2/btc_etf_vs_btc/hg44cef/",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1633909257.0
+    },
+    {
+        "author": "detourwest",
+        "body": "HLMN. It has a lot of long-term potential. It grows about 30% each year. They just went public. But check it out it has 100% buy rating. They are a hardware vendor for hardware stores like Lowe's,  home Depot, tractor supply, McCoy's, Bomgaars, Big R, True Value, ACE, and most Mom and Pop small town hardware stores. They provide fasteners, gloves, keys, weld steel and all sorts of picture hanging hardware. If it's metal they basically have it. Their key machines are in pretty much every store and you most certainly seen one. The keycrafter and MinuteKey. Leave and have engraving machines and Petco and other pet stores. They're almost like an upcoming Stanley. They're basically pushing out National Hardware and Hyko.\nHardware companies are probably cheaper to buy in the colder seasons.",
+        "created_utc": 1633865970,
+        "id": "hg3d3cx",
+        "permalink": "/r/stocks/comments/q4qgh0/what_stocks_are_you_watching_thats_still_not_well/hg3d3cx/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1633894770.0
+    },
+    {
+        "author": "redtexture",
+        "body": "But they typically do not have your keys, nor your address.",
+        "created_utc": 1634065799,
+        "id": "hge10qf",
+        "permalink": "/r/options/comments/q38v4b/i_was_robbed/hge10qf/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1634094599.0
+    },
+    {
+        "author": "crazyabe111",
+        "body": "Poor guy, lost his keys and had to break into his own home.",
+        "created_utc": 1634002089,
+        "id": "hgatqbo",
+        "permalink": "/r/wallstreetbets/comments/q5t7ff/good_morning_fellow_bulls_wake_up/hgatqbo/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634030889.0
+    },
+    {
+        "author": "egoldbarzzz",
+        "body": "Don\u2019t forget Jack Ma literally disappeared for 2 weeks. Don\u2019t put anything past the CCP, and don\u2019t trust crooks with the keys to the castle (metaphorically speaking). \n\nFuck China.",
+        "created_utc": 1633274902,
+        "id": "hf8h76p",
+        "permalink": "/r/stocks/comments/q0gkvr/i_wonder_is_baba_going_to_be_one_of_the_best_dip/hf8h76p/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1633303702.0
+    },
+    {
+        "author": "eazolan",
+        "body": "&gt;The \u201caccount\u201d can\u2019t prevent a transfer OUT if someone has the keys and address.\n\nOk, and did the hackers have the keys and addresses? No.",
+        "created_utc": 1633186028,
+        "id": "hf3q6ey",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf3q6ey/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633214828.0
+    },
+    {
+        "author": "logouteventually",
+        "body": "Not OP but I bought in because the settlement is all but guaranteed at this point, and once it hits you're looking at a small company that is going to grow several hundred times in value. It is hard to even imagine a scenario where they don't become astronomically more valuable. They basically own the keys to the big tech companies. \n\nAnd, unlike the meme stocks, this is not a short squeeze or a play. The actual value of the company is set to massively increase, just by officially granting them ownership of things that we already know they own.\n\nThis is not financial advice. The biggest thing holding it back pre-settlement is that it is not listed on the popular stock app, only through real brokers.",
+        "created_utc": 1633820464,
+        "id": "hg1d3iu",
+        "permalink": "/r/stocks/comments/q4qgh0/what_stocks_are_you_watching_thats_still_not_well/hg1d3iu/",
+        "score": 1,
+        "subreddit": "stocks",
+        "created": 1633849264.0
+    },
+    {
+        "author": "RUatrollorRUserious",
+        "body": "I keep hoping for the day some hedge fund manager's heart grows three times bigger on the day he sees my OOTM call buy and takes mercy on me and goes all in.  It could happen.  \n\n\nAnd on that day, someone hands me their keys to their Lamborghini.",
+        "created_utc": 1633941895,
+        "id": "hg7hzvz",
+        "permalink": "/r/wallstreetbets/comments/q5fi8a/what_are_your_moves_tomorrow_october_11_2021/hg7hzvz/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1633970695.0
+    },
+    {
+        "author": "MRobi83",
+        "body": "Wealthsimple is probably the worst spot you can buy crypto. Not only is their spread massive (around 2%) so it's one of the most expensive places to buy it, you don't hold the keys to the coins and you can't transfer it off of their platform onto a wallet where you do hold the keys. So on top of the high price to buy/sell compared to everywhere else, you're also significantly increasing your risk factor. Friends don't let friends buy crypto on wealthsimple.",
+        "created_utc": 1633894650,
+        "id": "hg522yq",
+        "permalink": "/r/CanadianInvestor/comments/q51sh2/btc_etf_vs_btc/hg522yq/",
+        "score": 1,
+        "subreddit": "CanadianInvestor",
+        "created": 1633923450.0
+    },
+    {
+        "author": "ninjaj",
+        "body": "By momentum I mean the fast 30s-5min time frame trades based increased volume/momentum.  Basically the real key is filling and existing very quickly.  I haven\u2019t used interactive brokers much, but a platform like DAS integrates hot keys for faster orders.",
+        "created_utc": 1633490568,
+        "id": "hfk9iaw",
+        "permalink": "/r/options/comments/q1z08u/ultimate_guide_to_selling_options_profitably_part/hfk9iaw/",
+        "score": 1,
+        "subreddit": "options",
+        "created": 1633519368.0
+    },
+    {
+        "author": "DeFi_ance",
+        "body": "Nope, just have a lot to protect and was someone who hesitated on making the switch for years. There are other security keys out there, I just am not familiar with them",
+        "created_utc": 1633132739,
+        "id": "hf1cr1g",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf1cr1g/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633161539.0
+    },
+    {
+        "author": "DeFi_ance",
+        "body": "Well, in my case I was using Authy, right? I am also heavily involved in crypto, where there is no FDIC, no fraud prevention departments, no auto-blocking of transactions for suspected fraud, no 2-5 day processing time for me to call customer service to get my money back before it moves, etc etc. So, for me, \"being my own bank\" is a real thing, with real money, so 2FA is critical.\n\nAlright, so here's what I was doing with Authy. Authy can be used in place of Google Auth, and I was using it because it is tied to your phone number and provides the ability to do encrypted backups on Twilio's servers. I was always paranoid about what happens if I lose my phone, and I need quick access to my accounts, so that's why I used the backup option in Authy. So I had my main phone, and two backup phones that I always updated Authy in tandem with the primary phone. This way, I had quick access backups should I lose my phone. But there's another threat with Authy, since it's tied to my phone number, theoretically there's a risk of SIM swap attacks where someone steals my phone number and accesses my Authy backups through the phone number. They'd have to know the backup password, of course, but I just didn't like that theortically it's possible.\n\nFrom what I've already described, I felt pretty fucking safe. I have great password practices, so I didn't think it was very likely at all for my Authy to be compromised. And that's why I was lazy and never made the switch for years. But... technically... it *could* be remotely compromised. It's non-zero, no matter how small a chance, it's non-zero. And as someone deep in crypto where there is no protection other than my own OPSEC, that bothered me.\n\nWith the security key, there's no way to remotely get at it. None. You need the actual key, in hand. The natural question is, what if someone wrench attacks me and steals the key physically, which is a real possibility. The key also has a password on it, so they'd need to take my key, and know the PIN to unlock the key to use it. This could happen to me with my phone and Authy's PIN as well, so what's the difference? At this point we're at a very similar state of the Authy risk with the critical difference that *remote* attacks are impossible. After using it, after producing mulitple backup keys and storing them in various places (a safe, a bank box, a trusted relative, etc), I now have complete confidence in my security. That super small non-zero chance of a remote compromise is gone, and I like that it's gone. I feel way better no matter how small the chance was.\n\nEven if I'm drunk and fall for a phishing attack, say by hitting a link to coinbasi.com instead of coinbase and entering my OTP code, and then getting my account emptied by the phisher (which is the story posted to a crypto sub that prompted me to make the swithc) -- even if I derped and fucked up that bad, I'm still safe. No phisher can get my 2FA remotely, no matter how dumb I am, no matter if I got phished.\n\nIt's a small difference, but, for me, with a heavy crypto involvement, it's a big increase in peace of mind. It might not be for everyone, but I operate in an industry with no safeguards except my own diligence. And the key helps remove some of the remaining risk. It's that simple. It's an improvement, and I'll gladly take it.",
+        "created_utc": 1633135017,
+        "id": "hf1hd8l",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf1hd8l/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633163817.0
+    },
+    {
+        "author": "eazolan",
+        "body": "&gt;Ah, you\u2019re saying that CoinBase should keep your keys hidden until they call you on the phone and verify your identity before you can remove funds. \n\nAgain, you need to read the article.\n\n&gt;There would be a lot of resistance to that since a lot of the crypto community already feels like CoinBase crypto isn\u2019t \u201ctheirs\u201d. If you literally can\u2019t use it without a phone call, it definitely defeats a lot of the purpose.\n\nThe hackers used a weakness in the security of the site, to switch over the SMS authorization to a new phone number.\n\nAnd because there's no human checks on that, it went through.",
+        "created_utc": 1633196337,
+        "id": "hf4dvi2",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf4dvi2/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633225137.0
+    },
+    {
+        "author": "BabblingBaboBertl",
+        "body": "Not your keys, not your coin \ud83e\udd37",
+        "created_utc": 1633127337,
+        "id": "hf11llx",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf11llx/",
+        "score": 1,
+        "subreddit": "investing",
+        "created": 1633156137.0
+    },
+    {
+        "author": "Gamboleer",
+        "body": "*We are Polestar. Lower your windows and surrender your keys. We will add your aesthetical and technological distinctiveness to our own.*",
+        "created_utc": 1633334470,
+        "id": "hfbth4o",
+        "permalink": "/r/SPACs/comments/q0l50e/polestars_headquarter_in_gothenburg_sweden/hfbth4o/",
+        "score": 1,
+        "subreddit": "SPACs",
+        "created": 1633363270.0
+    },
+    {
+        "author": "Atr250",
+        "body": "BABE THE PORTFOLIOS UP 3% GRAB THE KEYS WERE GETTING WENDYS \ud83d\ude08",
+        "created_utc": 1633990142,
+        "id": "hga4zmm",
+        "permalink": "/r/wallstreetbets/comments/q5t7ff/good_morning_fellow_bulls_wake_up/hga4zmm/",
+        "score": 1,
+        "subreddit": "wallstreetbets",
+        "created": 1634018942.0
+    },
+    {
+        "author": "Slipperfox",
+        "body": "Not your keys not your coins",
+        "created_utc": 1633123708,
+        "id": "hf0u50i",
+        "permalink": "/r/investing/comments/pzf8tt/coinbase_hacked_funds_from_least_6000_customers/hf0u50i/",
+        "score": 0,
+        "subreddit": "investing",
+        "created": 1633152508.0
+    },
+    {
+        "author": "Paradoltec",
+        "body": "&gt; The rest of the world won't let them\n\nYes just keep forsaking your own countries funding and taxpayers to keep propping up China because you're too stupid to stop sending all your jobs there. This is how you cuck your nation into being subserviently slaves to China, and give them the keys to intentionally fuck their own economy to bankrupt your country as a weapon.",
+        "created_utc": 1633467822,
+        "id": "hfiyhb9",
+        "permalink": "/r/wallstreetbets/comments/q1uya0/chinese_luxury_developer_fantasia_fails_to_repay/hfiyhb9/",
+        "score": 0,
+        "subreddit": "wallstreetbets",
+        "created": 1633496622.0
+    },
+    {
+        "author": "themusicguy2000",
+        "body": "Also, \"not your keys, not your coins\".  You don't actually own any crypto if you have it on WS, you're basically paying WS to buy it, and they promise that they'll pay you back if you sell it.  If you use a proper crypto exchange like Kraken or NDAX you can move your crypto to another wallet (which is a no-brainer if you plan on holding a Proof of Stake currency like Cardano or Ethereum for a while)",
+        "created_utc": 1633619422,
+        "id": "hfqj5g0",
+        "permalink": "/r/CanadianInvestor/comments/q2r0ba/why_wealthsimple_went_from_preaching_lowfee/hfqj5g0/",
+        "score": 0,
+        "subreddit": "CanadianInvestor",
+        "created": 1633648222.0
+    },
+    {
+        "author": "HinduHamma",
+        "body": "Gradual declines lead to an eventual bad day. There\u2019s no way USA is turning over the keys to being a super power. Not without a fight\u2026",
+        "created_utc": 1633703337,
+        "id": "hfuw4xs",
+        "permalink": "/r/investing/comments/q3o1f6/why_investors_should_not_be_worried_about_the/hfuw4xs/",
+        "score": 0,
+        "subreddit": "investing",
+        "created": 1633732137.0
+    },
+    {
+        "author": "Self-Imposed-Tension",
+        "body": "I would consider moving.  I usually leave the keys for my car in the cup holder in my car.  I do this instead of leaving in the ignitions because I have hear insurance doesn\u2019t pay if the keys are in the ignition and it gets stolen.  The appearance of my car is generally theft deterrent enough by itself",
+        "created_utc": 1633621182,
+        "id": "hfqnc5o",
+        "permalink": "/r/options/comments/q38v4b/i_was_robbed/hfqnc5o/",
+        "score": -1,
+        "subreddit": "options",
+        "created": 1633649982.0
+    },
+    {
+        "author": "not_creative1",
+        "body": "No, letting mediocre no name failed doctor who became a city council medical consultant shutdown a billion dollar tech company that employs some of the brightest minds on the face of the planet for no reason.\n\nThe CDC guideline at the time allowed Tesla to restart their production line, NIH allowed it, California state medical advisor allowed it. Some no name failed wannabe doctor, who now works as a medical advisor for the locality making 100k was like \"nope, shut this factory down, they are all wrong\".\n\nThis is when you realize California has given the keys to major decisions to failed monkeys who could not make it anywhere in life and are now sitting in their government jobs with no life, trying to shut down people who are changing the world.",
+        "created_utc": 1633674957,
+        "id": "hftr6c6",
+        "permalink": "/r/wallstreetbets/comments/q3kgka/tesla_moves_headquarters_from_california_to_texas/hftr6c6/",
+        "score": -7,
+        "subreddit": "wallstreetbets",
+        "created": 1633703757.0
+    },
+    {
+        "author": "stevenjlancaster",
+        "body": "who use keys anymore?  push start, keypads, fingerprint or retinal scanners....its time to come on into the present.",
+        "created_utc": 1633746066,
+        "id": "hfxlg3f",
+        "permalink": "/r/stocks/comments/q4ae00/why_is_visa_such_a_more_beloved_stock_over/hfxlg3f/",
+        "score": -9,
+        "subreddit": "stocks",
+        "created": 1633774866.0
+    },
+    {
+        "author": "Jeremiah_Vicious",
+        "body": "I wish there was a company that allowed you to go into the store and pay to do hurtful things to the employees. For example, for 299.99 I can throw a handful of keys at at an employees face from 6 feet away. As long as the employees consent to working there and get paid well I don\u2019t see anything wrong with it.",
+        "created_utc": 1633271435,
+        "id": "hf89l72",
+        "permalink": "/r/wallstreetbets/comments/pzfvft/weekend_discussion_thread_for_the_weekend_of/hf89l72/",
+        "score": -20,
+        "subreddit": "wallstreetbets",
+        "created": 1633300235.0
+    }
+]
