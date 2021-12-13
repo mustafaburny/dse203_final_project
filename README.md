@@ -18,3 +18,11 @@ First, unzip dataset `data/archive.zip`. Then run the notebooks in this order:
 Slide Deck
 ----------
 See the file `DSE 203 - Final Project - Presentation.pdf`
+
+Graph Database dump
+------------------- 
+
+Please find it at following link:
+https://drive.google.com/file/d/1v3rHDV_ZahbaINAmKVMQpVCfQBotRj0Y/view?usp=sharing
+
+
